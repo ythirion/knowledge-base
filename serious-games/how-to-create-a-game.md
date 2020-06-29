@@ -4,14 +4,14 @@
 “_You can discover more about a person in an hour of play than in a year of conversation._” - Plato
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28139%29.png)
 
 ### 1\) Define the purpose
 
 * What are our learning objectives ? 
 * What do we want to demonstrate ?
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 ### 2\) For who ?
 
@@ -27,13 +27,13 @@ Create an environment
 * When
 * Who \(characters \)
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 ### 4\) Choose or create a game play
 
 Choose a game play \(reuse the concepts of a given game\) or create one.
 
-![](../.gitbook/assets/image%20%28127%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 #### Examples of [game mechanics](https://gusandco.net/2011/11/11/les-mecaniques-de-jeux/) :
 
@@ -52,7 +52,7 @@ Use an iterative approach to build the game :
 * Test it
 * Reflect & adapt
 
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 
 

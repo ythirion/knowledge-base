@@ -4,7 +4,7 @@
 
 The LEGO® SERIOUS PLAY® methodology is an innovative process designed to enhance innovation and business performance. Based on research which shows that this kind of hands-on, **minds-on learning produces a deeper, more meaningful understanding of the world and its possibilities**, the LEGO® SERIOUS PLAY® methodology deepens the reflection process and supports an effective dialogue – for everyone in the organization.
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
 ### When to use it ?
 
@@ -26,19 +26,19 @@ The LEGO® SERIOUS PLAY® methodology is an innovative process designed to enhan
 
 The facilitator asks one question \(clear + opened\).
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
 #### Metaphor - Build a model
 
 Participants build their own model in response to the question that has been asked.
 
-![](../../.gitbook/assets/image%20%28129%29.png)
+![](../../.gitbook/assets/image%20%28130%29.png)
 
 #### Sharing – story telling
 
 Participants share their model’s meaning and story.
 
-![](../../.gitbook/assets/image%20%28137%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 
 #### Questions / reflections
 
@@ -46,7 +46,7 @@ Each participant asks questions about the model.
 
 ### Ice Breaker : Build a duck
 
-![](../../.gitbook/assets/image%20%28124%29.png)
+![](../../.gitbook/assets/image%20%28125%29.png)
 
 * Ask the participants to build a duck with 7 bricks.
 * Each participant explains how it is a duck ?

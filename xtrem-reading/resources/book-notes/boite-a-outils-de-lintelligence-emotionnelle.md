@@ -10,7 +10,7 @@ Chaque outil est traité de façon visuelle sur **2 ou 4 pages** avec illustrati
    
 **Des études de cas, quiz et auto-évaluations viennent compléter et approfondir certains outils**.
 
-![](../../../.gitbook/assets/image%20%28126%29.png)
+![](../../../.gitbook/assets/image%20%28127%29.png)
 
 ## Notes
 
@@ -50,5 +50,5 @@ Chaque outil est traité de façon visuelle sur **2 ou 4 pages** avec illustrati
 
 ## Mind map
 
-![](../../../.gitbook/assets/image%20%28132%29.png)
+![](../../../.gitbook/assets/image%20%28134%29.png)
 
