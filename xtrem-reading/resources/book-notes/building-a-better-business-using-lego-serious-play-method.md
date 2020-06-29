@@ -19,7 +19,7 @@ The belief that everyone intends to "do good" and has the potential to do it is 
 
 The LEGO SERIOUS PLAY method is employed by start–ups and multinational corporations alike to maximize synergy among teams and throughout organizations. For leaders looking to boost effectiveness and see better results, Building a Better Business Using the LEGO® SERIOUS PLAY® Method is a comprehensive introduction to this creative management technique.
 
-![](../../../.gitbook/assets/image%20%28131%29.png)
+![](../../../.gitbook/assets/image%20%28135%29.png)
 
 ## Notes
 
