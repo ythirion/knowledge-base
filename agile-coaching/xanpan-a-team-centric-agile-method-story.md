@@ -205,7 +205,7 @@ _"Xanpan is the kind of stuff that should emerge from every agile teams when not
 
 {% embed url="https://speakerdeck.com/thirion/xanpan-une-methode-agile-hybride-centree-sur-lequipe" %}
 
-* Here is the video of my taml about Xanpan @AgileEnLigne : 
+* Here is the video of my talk about Xanpan @AgileEnLigne : 
 
 {% embed url="https://youtu.be/nUkanfJjL-o" %}
 
