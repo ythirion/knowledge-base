@@ -4,14 +4,14 @@
 “_You can discover more about a person in an hour of play than in a year of conversation._” - Plato
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 ### 1\) Define the purpose
 
 * What are our learning objectives ? 
 * What do we want to demonstrate ?
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28137%29.png)
 
 ### 2\) For who ?
 
@@ -27,7 +27,7 @@ Create an environment
 * When
 * Who \(characters \)
 
-![](../.gitbook/assets/image%20%28143%29.png)
+![](../.gitbook/assets/image%20%28145%29.png)
 
 ### 4\) Choose or create a game play
 

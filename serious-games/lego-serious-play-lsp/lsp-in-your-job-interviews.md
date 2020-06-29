@@ -30,7 +30,7 @@ When you use it in interview it is no longer a "conducted" interview. You speak 
   * The mood of the team? 
   * The communication/interactions in the team ?
 
-![](../../.gitbook/assets/image%20%28142%29.png)
+![](../../.gitbook/assets/image%20%28143%29.png)
 
 ### Motivation
 
@@ -46,7 +46,7 @@ When you use it in interview it is no longer a "conducted" interview. You speak 
 * What is easy in your role? 
 * What is difficult in your role?
 
-![](../../.gitbook/assets/image%20%28141%29.png)
+![](../../.gitbook/assets/image%20%28142%29.png)
 
 ### You in your role
 
@@ -61,7 +61,7 @@ Imagine you have been in a great agile company for a learning expedition. You ha
 
 * _**What are your best souvenirs of your expedition ?**_
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../../.gitbook/assets/image%20%28146%29.png)
 
 ### Behavior
 
