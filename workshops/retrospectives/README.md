@@ -22,7 +22,7 @@
 * Wishful thinking actions
   * Concrete actions, [SMART](https://en.wikipedia.org/wiki/SMART_criteria) actions
 * Managers want to attend
-  * It is not good =&gt; safe place \(silence law with managers\)
+  * It is not good : safe place \(silence law with managers\)
 * One man show
   * Everyone has the right/duty to speak
   * Scrum Master has to make this happen
