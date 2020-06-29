@@ -23,6 +23,13 @@
   * Seam model
   * Video : [https://www.youtube.com/watch?v=\_NnElPO5BU0](https://www.youtube.com/watch?v=_NnElPO5BU0)
 
+### Patterns
+
+* Strangler fig : [https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern](https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern)
+* Branch by abstraction :
+  * [https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern](https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern)
+  * Billing refactoring kata : [https://github.com/bastiendavid/billing-refactoring-kata](https://github.com/bastiendavid/billing-refactoring-kata)
+
 ### Golden Master
 
 * Ugly trivia : [https://kata-log.rocks/ugly-trivia-kata](https://kata-log.rocks/ugly-trivia-kata)
