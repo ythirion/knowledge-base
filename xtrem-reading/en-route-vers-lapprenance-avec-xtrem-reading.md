@@ -149,3 +149,7 @@ Si vous voulez découvrir d’autres belles histoires je vous invite à découvr
 
 ![](https://miro.medium.com/max/202/0*EkM8H_JpeX8pkjnS)
 
+* Retrouvez les slides utilisées pour présenter / animer des Xtrem Reading dans plusieurs conférences ici :
+
+{% embed url="https://speakerdeck.com/thirion/xtrem-reading-lisez-2-livres-en-1-heure-et-cultiver-votre-intelligence-collective" %}
+

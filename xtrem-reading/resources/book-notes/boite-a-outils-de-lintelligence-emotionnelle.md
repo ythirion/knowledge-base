@@ -10,7 +10,7 @@ Chaque outil est traité de façon visuelle sur **2 ou 4 pages** avec illustrati
    
 **Des études de cas, quiz et auto-évaluations viennent compléter et approfondir certains outils**.
 
-![](../../../.gitbook/assets/image%20%28120%29.png)
+![](../../../.gitbook/assets/image%20%28124%29.png)
 
 ## Notes
 
@@ -47,4 +47,8 @@ Chaque outil est traité de façon visuelle sur **2 ou 4 pages** avec illustrati
   * Visualisation
     * Se centrer sur soi-même
     * Position confortable
+
+## Mind map
+
+![](../../../.gitbook/assets/image%20%28129%29.png)
 

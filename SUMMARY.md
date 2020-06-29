@@ -17,6 +17,9 @@
   * [Learn to lead and help your team\(s\) to be successful](leadership/learn-to-lead-and-help-your-team-s-to-be-successful.md)
   * [Towards a learning organization and beyond](leadership/towards-a-learning-organization-and-beyond.md)
 * [Serious games](serious-games/README.md)
+  * [How to create a game](serious-games/how-to-create-a-game.md)
+  * [Lego Serious Play \(LSP\)](serious-games/lego-serious-play-lsp/README.md)
+    * [LSP in your job interviews](serious-games/lego-serious-play-lsp/lsp-in-your-job-interviews.md)
   * [How to debrief a game ?](serious-games/how-to-debrief-a-game.md)
 * [Xtrem Reading](xtrem-reading/README.md)
   * [En route vers l’apprenance avec Xtrem Reading](xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading.md)
@@ -25,6 +28,7 @@
       * [Agile People: A Radical Approach for HR & Managers](xtrem-reading/resources/book-notes/agile-people-a-radical-approach-for-hr-and-managers.md)
       * [Agile testing : A Practical Guide for Testers and Agile Teams](xtrem-reading/resources/book-notes/agile-testing-a-practical-guide-for-testers-and-agile-teams.md)
       * [Boite à outils de l'intelligence émotionnelle](xtrem-reading/resources/book-notes/boite-a-outils-de-lintelligence-emotionnelle.md)
+      * [Building a better business using Lego Serious Play method](xtrem-reading/resources/book-notes/building-a-better-business-using-lego-serious-play-method.md)
 * [Workshops](workshops/README.md)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](workshops/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
 
