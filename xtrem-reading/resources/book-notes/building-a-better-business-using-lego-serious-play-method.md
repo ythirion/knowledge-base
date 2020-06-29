@@ -81,5 +81,7 @@ Each participant MUST start with a set of Bricks
 
 ## Mind map
 
+![](../../../.gitbook/assets/image%20%28145%29.png)
+
 
 
