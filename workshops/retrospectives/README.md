@@ -2,11 +2,11 @@
 
 ## **5 steps**
 
-* Set the stage : Regardless of what we discover, we understand that everyone did the best job he or she could
-* Gather data : What went well and what did not.
-* Generate insights : Teams typically identify why things happened and what should be done more, done less and tried out.
-* Decide what to do : Deciding on specific, meaningful, agreed and realistic actions that will be done in the next Sprint
-* Close the retrospective : R.O.T.I
+* **Set the stage** : Regardless of what we discover, we understand that everyone did the best job he or she could
+* **Gather data** : What went well and what did not.
+* **Generate insights** : Teams typically identify why things happened and what should be done more, done less and tried out.
+* **Decide what to do** : Deciding on specific, meaningful, agreed and realistic actions that will be done in the next Sprint
+* **Close the retrospective** : R.O.T.I
 
 ## Anti patterns
 
