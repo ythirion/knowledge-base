@@ -152,6 +152,8 @@ Now, our goal is to create a system that can be delivered to Stranger Eons Ltd.
 
 _**Mikado Goal**_: new deliverable for Stranger Eons Ltd
 
+P6
+
 ![](../../../.gitbook/assets/image%20%28153%29.png)
 
 
