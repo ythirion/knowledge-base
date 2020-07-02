@@ -56,11 +56,13 @@
 
 * Enchanting : [https://katalyst.codurance.com/enchanting](https://katalyst.codurance.com/enchanting)
 
-### Mikado
+### Mikado method
 
 * [https://github.com/mikadomethod/kata-java](https://github.com/mikadomethod/kata-java)
 * [https://github.com/murex/mikado-testbuilders-kata](https://github.com/murex/mikado-testbuilders-kata)
 * [https://livebook.manning.com/book/the-mikado-method/chapter-1/69](https://livebook.manning.com/book/the-mikado-method/chapter-1/69)
+
+{% page-ref page="mikado-method/" %}
 
 ### Discover new libs
 
