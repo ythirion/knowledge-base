@@ -133,6 +133,8 @@ Applying the leaf refactoring and pruning them from the tree, new leaf changes a
 
 These leaf changes should now have become easy atomic refactoring themselves. If we continue this process, we eventually end up back at our root change. The root change is the reason we set this whole process in motion, but it is now itself an easy change, and we are done.
 
+![](../../../.gitbook/assets/image%20%28156%29.png)
+
 ### Advantages
 
 * Incremental process
