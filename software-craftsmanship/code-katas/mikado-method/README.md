@@ -46,7 +46,7 @@ We do a little up-front planning to try to define the goal and a general approac
 
 Maybe we create a new class which has the kind of API we wished for. 
 
-Then we try to move code from various places in our codebase to implement the new class and we change old code to use the new class. Everything doesn’t work on the first try of course. 
+Then we try to move code from various places in our codebase to implement the new class and we change old code to use the new class. _**Everything doesn’t work on the first try of course.**_ 
 
 With Big Bang Refactoring, it is expected that it is going to take a few iterations to get everything working again. Maybe functionality is missing from the new class that we didn’t initially realize needed to be there, so we add that. Maybe the new class needs to have access to certain data that we didn’t expect, so we provide ways to pass that data around. And of course, we made some mistakes along the way and we’ve introduced bugs, so we have to fix those, but eventually we chase down all the little problems and fix them and everything is working again. At least we hope.
 
