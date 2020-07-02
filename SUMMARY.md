@@ -7,6 +7,8 @@
     * [Improve your test quality with Mutation testing](software-craftsmanship/testing/mutation-testing.md)
     * [Improve your software quality with Property-Based Testing](software-craftsmanship/testing/improve-your-software-quality-with-property-based-testing.md)
   * [Code katas](software-craftsmanship/code-katas/README.md)
+    * [Mikado method](software-craftsmanship/code-katas/mikado-method/README.md)
+      * [Mikado kata](software-craftsmanship/code-katas/mikado-method/mikado-kata.md)
     * [Theatrical players refactoring Kata](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/README.md)
       * [Let's refactor \(OOP style\)](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/lets-refactor-oop-style.md)
       * [Let's refactor \(FP style\)](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/lets-refactor-fp-style.md)
