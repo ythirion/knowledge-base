@@ -148,15 +148,46 @@ We start from a clean state.
 
 ### Define our goal
 
-Now, our goal is to create a system that can be delivered to Stranger Eons Ltd. 
+Now, our goal is to create a system that can be delivered to Stranger Eons Ltd.
 
-_**Mikado Goal**_: new deliverable for Stranger Eons Ltd
-
-P6
+{% hint style="success" %}
+_**Mikado Goal**_ : new deliverable for Stranger Eons Ltd
+{% endhint %}
 
 ![](../../../.gitbook/assets/image%20%28153%29.png)
 
+###  Find out what we need to do
 
+We analyze the situation to find out what we need to do.
+
+{% hint style="info" %}
+We **seek things to try**, where actual consequences of our changes tell us what steps we need to take next. Hence, we strive to make changes that will give us that feedback, as soon as possible.
+{% endhint %}
+
+In the Java world, "New deliverables" means we will probably have a separate project source root from which we then create a JAR-file for Stranger Eons Ltd.
+
+{% hint style="success" %}
+_**Step**_ : "Create Stranger Eons project" as a prerequisite to our business goal, the root of the Mikado Graph.
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28158%29.png)
+
+In the naïve spirit, we just create the new project to see what happens. So far so good.
+
+We check in to the main development branch if everything works as it should and the changes make sense : no sense here.
+
+### What next? 
+
+Once again, we want to seek things to try.
+
+* Driving development using Acceptance Tests is something we want to do
+* Tests often give us real feedback about the next step
+
+We choose to create a test for Stranger Eons Ltd in the new project, a test which will look much like the one we have already for Gargantua Inc.
+
+{% hint style="success" %}
+_**Step**_ : Add a tests case for Stranger Eons
+{% endhint %}
 
 ## To go further
 
