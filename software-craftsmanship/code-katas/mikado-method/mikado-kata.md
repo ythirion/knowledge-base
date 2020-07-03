@@ -154,7 +154,7 @@ Now, our goal is to create a system that can be delivered to Stranger Eons Ltd.
 _**Mikado Goal**_ : new deliverable for Stranger Eons Ltd
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28159%29.png)
+![](../../../.gitbook/assets/image%20%28162%29.png)
 
 ###  Find out what we need to do
 
@@ -170,7 +170,7 @@ In the Java world, "New deliverables" means we will probably have a separate pro
 _**Step**_ : "Create Stranger Eons project" as a prerequisite to our business goal, the root of the Mikado Graph.
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28161%29.png)
+![](../../../.gitbook/assets/image%20%28157%29.png)
 
 In the naïve spirit, we just create the new project to see what happens. So far so good.
 
@@ -229,7 +229,7 @@ We choose to create a test for Stranger Eons Ltd in the new project, a test whic
 _**Step**_ : Add a tests case for Stranger Eons
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28167%29.png)
+![](../../../.gitbook/assets/image%20%28175%29.png)
 
 ```java
 package mastercrupt.strangereons;
@@ -248,14 +248,16 @@ public class AcceptanceTest {
 
 Can not compile : the UI class is in the mastercrupt project and we must avoid a dependency to that project, since it still contains code that can’t be shared
 
-![](../../../.gitbook/assets/image%20%28170%29.png)
+![](../../../.gitbook/assets/image%20%28181%29.png)
 
-![](../../../.gitbook/assets/image%20%28158%29.png)
+![](../../../.gitbook/assets/image%20%28161%29.png)
 
   
 To resolve the compilation problems, one option is to duplicate the entire project. We won’t do that because we think duplication is bad, as described in detail in Don’t Repeat Yourself - DRY.
 
 So, _**we need to change the chain of dependencies in order to allow us to add the test case to the project without any compilation errors**_.
+
+![](../../../.gitbook/assets/image%20%28180%29.png)
 
 ### Extract common dependencies
 
@@ -263,7 +265,7 @@ So, _**we need to change the chain of dependencies in order to allow us to add t
 * UI has some common logic which we want to use in both projects
 * Choose to create a new project for the UI code and this project will be used as a common dependency : `mastercrupt.shared` for example
 
-![](../../../.gitbook/assets/image%20%28173%29.png)
+![](../../../.gitbook/assets/image%20%28185%29.png)
 
 * We can't compile because of the circular dependency
 
@@ -279,20 +281,19 @@ The `strangereons` project has compilation problems and we don’t want to do an
 
 We update our Mikado graph
 
-![](../../../.gitbook/assets/image%20%28157%29.png)
+![](../../../.gitbook/assets/image%20%28177%29.png)
 
-![](../../../.gitbook/assets/image%20%28169%29.png)
+![](../../../.gitbook/assets/image%20%28179%29.png)
 
 {% hint style="success" %}
 _**Decision**_ : Break dependency between UI and Application.
 {% endhint %}
 
-  
+### Break circular dependency
+
 We often add decisions, like breaking dependencies, to the Mikado Graph even before we know exactly how to resolve them. Such items serve as a decision node, and they help us defer commitment until the last responsible moment.
 
-![](../../../.gitbook/assets/image%20%28165%29.png)
-
-### Break circular dependency
+![](../../../.gitbook/assets/image%20%28166%29.png)
 
 #### Dependency Inversion Principle
 
@@ -304,7 +305,7 @@ We choose to introduce an interface for the `Application` class, the `Applicatio
 _**Step**_ : Extract ApplicationInterface, including method leet\(...\)
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28163%29.png)
+![](../../../.gitbook/assets/image%20%28159%29.png)
 
 ```java
 public interface ApplicationInterface {
@@ -316,7 +317,7 @@ public interface ApplicationInterface {
 _**Step**_ : Inject ApplicationInterface instance into the UI constructor
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28174%29.png)
+![](../../../.gitbook/assets/image%20%28183%29.png)
 
 {% tabs %}
 {% tab title="ApplicationInterface.java" %}
@@ -367,13 +368,13 @@ public class AcceptanceTest {
 
 By doing this we have solved the circular dependency problem
 
-![](../../../.gitbook/assets/image%20%28166%29.png)
+![](../../../.gitbook/assets/image%20%28171%29.png)
 
 {% hint style="success" %}
 _**Commit**_ : Broke circular dependency between UI and Application
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28168%29.png)
+![](../../../.gitbook/assets/image%20%28173%29.png)
 
 We can now tick the 3 leafs : \(here in green on the graph\)
 
@@ -390,17 +391,60 @@ We perfectly now what are our next steps : go through our graph to our goal
 * Move UI code to UI project
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28172%29.png)
+![](../../../.gitbook/assets/image%20%28184%29.png)
 
 {% hint style="success" %}
 _**Commit :**_ UI-code in separate project
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28164%29.png)
+![](../../../.gitbook/assets/image%20%28160%29.png)
 
-We can now focus on creating the Stranger Eons project
+### Create the Stranger Eons project
 
+{% tabs %}
+{% tab title="AcceptanceTest.java" %}
+```java
+@Test
+public void testLeeting()throws Exception {
+​	UI ui = new UI(new StrangerEonsApplication()) ;
+​	assertEquals("Leeted : 5ecret ", ui.leetMessage("Secret"));
+}
+```
+{% endtab %}
 
+{% tab title="" %}
+```java
+public class StrangerEonsApplication implements ApplicationInterface {
+    @Override
+    public void leet( String string, UI ui) {
+    }
+}
+```
+{% endtab %}
+{% endtabs %}
+
+![](../../../.gitbook/assets/image%20%28174%29.png)
+
+![](../../../.gitbook/assets/image%20%28172%29.png)
+
+We have reached our goal and can stop here.
+
+### Conclusion
+
+We’ve managed to morph the code from one state that didn’t allow us to do what we wanted, to one that actually does what we want. 
+
+We did this by using the Mikado Method to 
+
+* Write down the goals
+* Seek things to try
+* Back out broken code
+* Fix the leaves first
+
+### What do you think about this method ?
+
+* How can it be useful ?
+* Use it on your next refactoring
+  * What is your feedback ?
 
 ## To go further
 
