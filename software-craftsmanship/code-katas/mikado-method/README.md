@@ -159,11 +159,23 @@ These leaf changes should now have become easy atomic refactoring themselves. If
 
 ## To go further
 
+### Resources
+
 * [Mikado Refactoring with C++ Feature Macros](https://www.fluentcpp.com/2020/01/24/mikado-refactoring-with-c-feature-macros/)
 * [Mikado method website](http://mikadomethod.info/)
 * [Mikado method book](https://www.manning.com/books/the-mikado-method)
 * [Kata in java](https://github.com/mikadomethod/kata-java)
 * [Make Testing Legacy Code Viral: Mikado Method and Test Data Builders](https://philippe.bourgau.net/make-testing-legacy-code-viral-mikado-method-and-test-data-builders/)
+
+### Tools \(mind mapping\)
+
+* [Coggle](https://coggle.it/)
+* [Xmind](https://www.xmind.net/)
+* [Mindmup](https://www.mindmup.com/)
+
+
+
+
 
 
 
