@@ -154,7 +154,7 @@ Now, our goal is to create a system that can be delivered to Stranger Eons Ltd.
 _**Mikado Goal**_ : new deliverable for Stranger Eons Ltd
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28153%29.png)
+![](../../../.gitbook/assets/image%20%28158%29.png)
 
 ###  Find out what we need to do
 
@@ -170,11 +170,51 @@ In the Java world, "New deliverables" means we will probably have a separate pro
 _**Step**_ : "Create Stranger Eons project" as a prerequisite to our business goal, the root of the Mikado Graph.
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28158%29.png)
+![](../../../.gitbook/assets/image%20%28159%29.png)
 
 In the naïve spirit, we just create the new project to see what happens. So far so good.
 
 We check in to the main development branch if everything works as it should and the changes make sense : no sense here.
+
+{% code title="pom.xml" %}
+```markup
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>mastercrupt.stranger.eons</groupId>
+    <artifactId>stranger.eons</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+</project>
+```
+{% endcode %}
 
 ### What next? 
 
@@ -188,6 +228,34 @@ We choose to create a test for Stranger Eons Ltd in the new project, a test whic
 {% hint style="success" %}
 _**Step**_ : Add a tests case for Stranger Eons
 {% endhint %}
+
+![](../../../.gitbook/assets/image%20%28161%29.png)
+
+```java
+package mastercrupt.stranger.eons;
+
+import mastercrupt.UI;
+import org.junit.Test;
+
+public class AcceptanceTest {
+    @Test
+    public void testLeeting() throws Exception {
+        UI ui = new UI();
+        assertEquals(" Leeted : 5ecret ", ui.leetMessage(" Secret "));
+    }
+}
+```
+
+Can not compile : the UI class is in the mastercrupt project and we must avoid a dependency to that project, since it still contains code that can’t be shared
+
+![](../../../.gitbook/assets/image%20%28162%29.png)
+
+![](../../../.gitbook/assets/image%20%28157%29.png)
+
+  
+To resolve the compilation problems, one option is to duplicate the entire project. We won’t do that because we think duplication is bad, as described in detail in Don’t Repeat Yourself - DRY.
+
+So, we need to change the chain of dependencies in order to allow us to add the test case to the project without any compilation errors.
 
 ## To go further
 
