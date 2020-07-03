@@ -154,7 +154,7 @@ Now, our goal is to create a system that can be delivered to Stranger Eons Ltd.
 _**Mikado Goal**_ : new deliverable for Stranger Eons Ltd
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28158%29.png)
+![](../../../.gitbook/assets/image%20%28159%29.png)
 
 ###  Find out what we need to do
 
@@ -170,7 +170,7 @@ In the Java world, "New deliverables" means we will probably have a separate pro
 _**Step**_ : "Create Stranger Eons project" as a prerequisite to our business goal, the root of the Mikado Graph.
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28159%29.png)
+![](../../../.gitbook/assets/image%20%28161%29.png)
 
 In the naïve spirit, we just create the new project to see what happens. So far so good.
 
@@ -184,8 +184,8 @@ We check in to the main development branch if everything works as it should and 
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>mastercrupt.stranger.eons</groupId>
-    <artifactId>stranger.eons</artifactId>
+    <groupId>mastercrupt.strangereons</groupId>
+    <artifactId>strangereons</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -229,10 +229,10 @@ We choose to create a test for Stranger Eons Ltd in the new project, a test whic
 _**Step**_ : Add a tests case for Stranger Eons
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28161%29.png)
+![](../../../.gitbook/assets/image%20%28167%29.png)
 
 ```java
-package mastercrupt.stranger.eons;
+package mastercrupt.strangereons;
 
 import mastercrupt.UI;
 import org.junit.Test;
@@ -241,21 +241,166 @@ public class AcceptanceTest {
     @Test
     public void testLeeting() throws Exception {
         UI ui = new UI();
-        assertEquals(" Leeted : 5ecret ", ui.leetMessage(" Secret "));
+        assertEquals("Leeted:5ecret ", ui.leetMessage("Secret"));
     }
 }
 ```
 
 Can not compile : the UI class is in the mastercrupt project and we must avoid a dependency to that project, since it still contains code that can’t be shared
 
-![](../../../.gitbook/assets/image%20%28162%29.png)
+![](../../../.gitbook/assets/image%20%28170%29.png)
 
-![](../../../.gitbook/assets/image%20%28157%29.png)
+![](../../../.gitbook/assets/image%20%28158%29.png)
 
   
 To resolve the compilation problems, one option is to duplicate the entire project. We won’t do that because we think duplication is bad, as described in detail in Don’t Repeat Yourself - DRY.
 
-So, we need to change the chain of dependencies in order to allow us to add the test case to the project without any compilation errors.
+So, _**we need to change the chain of dependencies in order to allow us to add the test case to the project without any compilation errors**_.
+
+### Extract common dependencies
+
+* What to do about the dependency problems ?
+* UI has some common logic which we want to use in both projects
+* Choose to create a new project for the UI code and this project will be used as a common dependency : `mastercrupt.shared` for example
+
+![](../../../.gitbook/assets/image%20%28173%29.png)
+
+* We can't compile because of the circular dependency
+
+#### Rollback time
+
+Now it’s time for a non-intuitive step, but an important part of the method: Back out broken code.
+
+{% hint style="warning" %}
+_**Step**_ **:** Roll back to the tag "Before new client".
+{% endhint %}
+
+The `strangereons` project has compilation problems and we don’t want to do anything there, nor any place else. So, we roll back to the very beginning.
+
+We update our Mikado graph
+
+![](../../../.gitbook/assets/image%20%28157%29.png)
+
+![](../../../.gitbook/assets/image%20%28169%29.png)
+
+{% hint style="success" %}
+_**Decision**_ : Break dependency between UI and Application.
+{% endhint %}
+
+  
+We often add decisions, like breaking dependencies, to the Mikado Graph even before we know exactly how to resolve them. Such items serve as a decision node, and they help us defer commitment until the last responsible moment.
+
+![](../../../.gitbook/assets/image%20%28165%29.png)
+
+### Break circular dependency
+
+#### Dependency Inversion Principle
+
+A common way to break circular dependencies is to introduce an interface for one of the classes involved in order to change the direction of the dependency. 
+
+We choose to introduce an interface for the `Application` class, the `ApplicationInterface`.
+
+{% hint style="success" %}
+_**Step**_ : Extract ApplicationInterface, including method leet\(...\)
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28163%29.png)
+
+```java
+public interface ApplicationInterface {
+    void leet(String string, UI ui);
+}
+```
+
+{% hint style="success" %}
+_**Step**_ : Inject ApplicationInterface instance into the UI constructor
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28174%29.png)
+
+{% tabs %}
+{% tab title="ApplicationInterface.java" %}
+```java
+package mastercrupt;
+
+public interface ApplicationInterface {
+    void leet(String string, UI ui);
+}
+```
+{% endtab %}
+
+{% tab title="Application.java" %}
+```java
+package mastercrupt;
+
+public class Application implements ApplicationInterface {
+    @Override
+    public void leet(String string, UI ui) {
+        ui.setLeeted(Leeter.leet(string));
+    }
+
+    public static void main(String[] args) {
+        UI ui = new UI(new Application());
+        System.out.println(ui.leetMessage(args[0]));
+    }
+}
+```
+{% endtab %}
+
+{% tab title="AcceptanceTest.java" %}
+```java
+package mastercrupt;
+
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+public class AcceptanceTest {
+    @Test
+    public void testLeeting() throws Exception {
+        UI ui = new UI(new Application());
+        assertEquals("Leeted: S3cr3t", ui.leetMessage("Secret"));
+    }
+}
+```
+{% endtab %}
+{% endtabs %}
+
+By doing this we have solved the circular dependency problem
+
+![](../../../.gitbook/assets/image%20%28166%29.png)
+
+{% hint style="success" %}
+_**Commit**_ : Broke circular dependency between UI and Application
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28168%29.png)
+
+We can now tick the 3 leafs : \(here in green on the graph\)
+
+* Extract Application interface
+* Inject instance of ApplicationInterface
+* Break circular dependency
+
+### Move the code to new project
+
+{% hint style="success" %}
+We perfectly now what are our next steps : go through our graph to our goal
+
+* Create UI project
+* Move UI code to UI project
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28172%29.png)
+
+{% hint style="success" %}
+_**Commit :**_ UI-code in separate project
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28164%29.png)
+
+We can now focus on creating the Stranger Eons project
+
+
 
 ## To go further
 
