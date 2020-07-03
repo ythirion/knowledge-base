@@ -412,7 +412,7 @@ public void testLeeting()throws Exception {
 ```
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="StrangerEonsApplication.java" %}
 ```java
 public class StrangerEonsApplication implements ApplicationInterface {
     @Override
