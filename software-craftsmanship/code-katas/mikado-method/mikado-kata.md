@@ -4,11 +4,49 @@ description: Hands on Mikado method to refactoring
 
 # Mikado kata
 
+## Facilitation notes
+
 This kata is an abstract of the one available here in [java](https://github.com/mikadomethod/kata-java) and [C\#](https://github.com/mikadomethod/kata-dotnet).
 
 ### Before we start
 
 Clone the java code from [here](https://github.com/ythirion/kata-java.git)
+
+### Connection
+
+* What was your last refactoring ?
+* How was it ?
+* What was your goal / plan ?
+
+### Concepts : Mikado method explained
+
+{% page-ref page="./" %}
+
+### Concrete practice
+
+* Open existing code
+* Draw class diagram
+  * What does the code smell ?
+  * Does it break any SOLID principle ?
+
+#### Baby steps
+
+* Together :
+  * Create the project
+  * Create the test
+* Then ask question :
+  * What is the next step ?
+  * Do it : extract common dependencies
+    * Naive way : just take the UI
+  * Roll back
+  * Update the graph
+
+### **Conclusion**
+
+* What do you think about this method ?
+* How can it be useful ?
+* Use it on your next refactoring
+  * What is your feedback ?
 
 ## Context
 
