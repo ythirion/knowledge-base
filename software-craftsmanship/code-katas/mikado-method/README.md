@@ -154,6 +154,8 @@ These leaf changes should now have become easy atomic refactoring themselves. If
   * Define your plan based on real life
 * Visualization
   * Easy cooperation
+* Documentation
+  * Document decisions
 
 ## To go further
 
