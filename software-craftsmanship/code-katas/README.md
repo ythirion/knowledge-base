@@ -30,10 +30,6 @@
   * [https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern](https://engineering.shopify.com/blogs/engineering/refactoring-legacy-code-strangler-fig-pattern)
   * Billing refactoring kata : [https://github.com/bastiendavid/billing-refactoring-kata](https://github.com/bastiendavid/billing-refactoring-kata)
 
-### Golden Master
-
-* Ugly trivia : [https://kata-log.rocks/ugly-trivia-kata](https://kata-log.rocks/ugly-trivia-kata)
-
 ## Testing
 
 ### TDD
@@ -48,14 +44,15 @@
 * Bank kata : [https://katalyst.codurance.com/bank](https://katalyst.codurance.com/bank)
 * Hotel : [https://katalyst.codurance.com/corporate-hotel-booking](https://katalyst.codurance.com/corporate-hotel-booking)
 
-### Property Based Testing
-
-* Property-Based Testing kata : [https://github.com/ythirion/pbt-kata](https://github.com/ythirion/pbt-kata)
-
-### Approval Testing
+### Approval Testing \(Golden Master\)
 
 * Lift-kata : [http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/](http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/)
 * EnvironmentControllerKata : [http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/](http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/)
+* Ugly trivia : [https://kata-log.rocks/ugly-trivia-kata](https://kata-log.rocks/ugly-trivia-kata)
+
+### Property Based Testing
+
+* Property-Based Testing kata : [https://github.com/ythirion/pbt-kata](https://github.com/ythirion/pbt-kata)
 
 {% page-ref page="../testing/improve-your-software-quality-with-property-based-testing.md" %}
 
