@@ -1,6 +1,6 @@
 # Code katas
 
-### Ressources
+## Ressources
 
 * [https://codingdojo.org/KataCatalogue/](https://codingdojo.org/KataCatalogue/)
 * [https://katalyst.codurance.com/](https://katalyst.codurance.com/)
@@ -8,7 +8,7 @@
 * [https://kata-log.rocks/](https://kata-log.rocks/)
 * Technical agile coaching materials : [https://emilybache.github.io/](https://emilybache.github.io/)
 
-### Refactoring
+## Refactoring
 
 * Gilded rose : [https://github.com/emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 * Theatrical players Kata : [https://github.com/ythirion/Theatrical-Players-Refactoring-Kata](https://github.com/ythirion/Theatrical-Players-Refactoring-Kata)
@@ -34,23 +34,28 @@
 
 * Ugly trivia : [https://kata-log.rocks/ugly-trivia-kata](https://kata-log.rocks/ugly-trivia-kata)
 
-### Testing
+## Testing
 
-#### TDD
+### TDD
 
 * Fizz Buzz : [https://katalyst.codurance.com/fizzbuzz](https://katalyst.codurance.com/fizzbuzz)
 * Leap Year : [https://katalyst.codurance.com/leap-year](https://katalyst.codurance.com/leap-year)
 * Roman Numerals : [https://katalyst.codurance.com/roman-numerals](https://katalyst.codurance.com/roman-numerals)
   * It's not a mathematical problem
 
-#### Outside-in TDD \(London approcah / mockist\)
+### Outside-in TDD \(London approcah / mockist\)
 
 * Bank kata : [https://katalyst.codurance.com/bank](https://katalyst.codurance.com/bank)
 * Hotel : [https://katalyst.codurance.com/corporate-hotel-booking](https://katalyst.codurance.com/corporate-hotel-booking)
 
-#### Property Based Testing
+### Property Based Testing
 
 * Property-Based Testing kata : [https://github.com/ythirion/pbt-kata](https://github.com/ythirion/pbt-kata)
+
+### Approval Testing
+
+* Lift-kata : [http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/](http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/)
+* EnvironmentControllerKata : [http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/](http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/)
 
 {% page-ref page="../testing/improve-your-software-quality-with-property-based-testing.md" %}
 
