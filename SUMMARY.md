@@ -20,6 +20,7 @@
 * [Agile coaching](agile-coaching/README.md)
   * [Retrospectives](agile-coaching/retrospectives/README.md)
     * [Mission Impossible](agile-coaching/retrospectives/mission-impossible.md)
+    * [Movie themes](agile-coaching/retrospectives/movie-themes.md)
     * [Rétro dont vous êtes le héros](agile-coaching/retrospectives/retro-dont-vous-etes-le-heros.md)
     * [Sad/Mad/Glad](agile-coaching/retrospectives/sad-mad-glad.md)
     * [Speed boat](agile-coaching/retrospectives/speed-boat.md)
