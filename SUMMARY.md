@@ -16,6 +16,7 @@
       * [Let's refactor \(OOP style\)](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/lets-refactor-oop-style.md)
       * [Let's refactor \(FP style\)](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/lets-refactor-fp-style.md)
 * [Software Architecture](software-architecture/README.md)
+  * [Aligning Product & Software Design](software-architecture/aligning-product-and-software-design.md)
   * [DDD re-distilled](software-architecture/ddd-re-distilled.md)
 * [Agile coaching](agile-coaching/README.md)
   * [Retrospectives](agile-coaching/retrospectives/README.md)
