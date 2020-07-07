@@ -35,6 +35,8 @@
 
 * [https://retromat.org/](https://retromat.org/)
 * [https://coach-agile.com/](https://coach-agile.com/)
+  * Agile Burger Quiz : [https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/](https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/)
+  * Agile Code Smells : [https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/](https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/)
 * Great videos about agile anti-patterns here :
 
 {% embed url="https://www.youtube.com/watch?v=HsB0UZR7XvE&list=PLaD4FvsFdarQytrGAmCo2qW\_rAWcfBKeV&index=2&t=0s" %}
