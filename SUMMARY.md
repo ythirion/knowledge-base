@@ -46,6 +46,7 @@
       * [Agile testing : A Practical Guide for Testers and Agile Teams](xtrem-reading/resources/book-notes/agile-testing-a-practical-guide-for-testers-and-agile-teams.md)
       * [Boite à outils de l'intelligence émotionnelle](xtrem-reading/resources/book-notes/boite-a-outils-de-lintelligence-emotionnelle.md)
       * [Building a better business using Lego Serious Play method](xtrem-reading/resources/book-notes/building-a-better-business-using-lego-serious-play-method.md)
+      * [Building evolutionary architectures](xtrem-reading/resources/book-notes/building-evolutionary-architectures.md)
 * [Workshops](workshops/README.md)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](workshops/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
 
