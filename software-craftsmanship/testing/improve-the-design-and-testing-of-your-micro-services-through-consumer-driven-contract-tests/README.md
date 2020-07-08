@@ -7,8 +7,6 @@ description: >-
 
 # Improve the design and testing of your micro-services through Consumer-Driven Contract Tests
 
-![](../../../.gitbook/assets/image%20%28203%29.png)
-
 ## Why should you read this article ?
 
 If you develop or maintain micro-services you already asked yourself those questions :
