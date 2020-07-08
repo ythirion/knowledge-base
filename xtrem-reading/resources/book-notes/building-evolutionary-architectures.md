@@ -14,7 +14,7 @@ Over the past few years, incremental developments in core engineering practices 
 
 This practical guide ties those parts together with a new way to think about architecture and time.
 
-![](../../../.gitbook/assets/image%20%28234%29.png)
+![](../../../.gitbook/assets/image%20%28235%29.png)
 
 ## Notes
 
@@ -52,5 +52,5 @@ This practical guide ties those parts together with a new way to think about arc
 
 ## Mind map
 
-![](../../../.gitbook/assets/image%20%28233%29.png)
+![](../../../.gitbook/assets/image%20%28234%29.png)
 

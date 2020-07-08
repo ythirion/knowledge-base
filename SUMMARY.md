@@ -48,5 +48,6 @@
       * [Building a better business using Lego Serious Play method](xtrem-reading/resources/book-notes/building-a-better-business-using-lego-serious-play-method.md)
       * [Building evolutionary architectures](xtrem-reading/resources/book-notes/building-evolutionary-architectures.md)
 * [Workshops](workshops/README.md)
+  * [Clean Architecture](workshops/clean-architecture.md)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](workshops/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
 
