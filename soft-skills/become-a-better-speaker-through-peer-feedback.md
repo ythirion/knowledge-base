@@ -64,5 +64,9 @@ The prerequisite to use this tool is to already have a safe and learning environ
 
 ## Resources
 
-Download the brown bag Jedi’s resources [here](http://bit.ly/2SBX2Th) 
+* Download the brown bag Jedi’s resources [here](http://bit.ly/2SBX2Th)
+
+{% embed url="https://speakerdeck.com/thirion/how-could-we-be-better-speakers" %}
+
+
 
