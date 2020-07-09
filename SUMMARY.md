@@ -40,6 +40,8 @@
   * [How to debrief a game ?](serious-games/how-to-debrief-a-game.md)
   * [Lego Serious Play \(LSP\)](serious-games/lego-serious-play-lsp/README.md)
     * [LSP in your job interviews](serious-games/lego-serious-play-lsp/lsp-in-your-job-interviews.md)
+* [Soft skills](soft-skills/README.md)
+  * [Become a better speaker through peer feedback](soft-skills/become-a-better-speaker-through-peer-feedback.md)
 * [Xtrem Reading](xtrem-reading/README.md)
   * [En route vers l’apprenance avec Xtrem Reading](xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading.md)
   * [Resources](xtrem-reading/resources/README.md)
