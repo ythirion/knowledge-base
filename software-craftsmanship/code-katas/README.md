@@ -73,3 +73,9 @@
 * Java to the future : [https://github.com/ythirion/java4toTheFuture](https://github.com/ythirion/java4toTheFuture)
 * Pact : [https://github.com/ythirion/cdc-kata](https://github.com/ythirion/cdc-kata)
 
+### Architecture
+
+{% page-ref page="clean-architecture.md" %}
+
+
+

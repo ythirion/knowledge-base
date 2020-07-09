@@ -10,6 +10,7 @@
     * [Improve your test quality with Mutation testing](software-craftsmanship/testing/mutation-testing.md)
     * [Improve your software quality with Property-Based Testing](software-craftsmanship/testing/improve-your-software-quality-with-property-based-testing.md)
   * [Code katas](software-craftsmanship/code-katas/README.md)
+    * [Clean Architecture](software-craftsmanship/code-katas/clean-architecture.md)
     * [Mikado method](software-craftsmanship/code-katas/mikado-method/README.md)
       * [Mikado kata](software-craftsmanship/code-katas/mikado-method/mikado-kata.md)
     * [Theatrical players refactoring Kata](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/README.md)
@@ -48,6 +49,5 @@
       * [Building a better business using Lego Serious Play method](xtrem-reading/resources/book-notes/building-a-better-business-using-lego-serious-play-method.md)
       * [Building evolutionary architectures](xtrem-reading/resources/book-notes/building-evolutionary-architectures.md)
 * [Workshops](workshops/README.md)
-  * [Clean Architecture](workshops/clean-architecture.md)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](workshops/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
 
