@@ -27,7 +27,7 @@ Nous avons tous, ou presque, dû passer des entretiens d’embauche dans notre v
 
 En général voilà comment les candidats réagissent à ce genre de questions :
 
-![](../.gitbook/assets/image%20%28260%29.png)
+![](../.gitbook/assets/image%20%28261%29.png)
 
 Et voici ce que cela provoque comme raisonnement chez le candidat :
 
@@ -64,7 +64,7 @@ Les questions techniques dans le monde du développement ressemblent souvent à 
 * H.T.T.P ?
 * …
 
-![](../.gitbook/assets/image%20%28249%29.png)
+![](../.gitbook/assets/image%20%28250%29.png)
 
 ## La gamification au secours des entretiens d’embauche <a id="4c2d"></a>
 
@@ -97,7 +97,11 @@ En nous inspirant des escape games à base de cartes nous avons créé le jeu �
 
 Le candidat dispose d’une heure pour résoudre les différentes énigmes qui lui sont posées à travers des cartes.
 
+![Exemple de cartes](../.gitbook/assets/image%20%28249%29.png)
+
 Les différentes énigmes ont été conçues afin de mettre en avant l’**appétence** à **l’agilité** et aux bonnes pratiques de développement \(**Software craftsmanship**\). Les **soft skills** des candidats ainsi que leur rapport au ludique sont également testés.
+
+![Craftsminator flow](../.gitbook/assets/image%20%28268%29.png)
 
 Au milieu de l’aventure, les candidats sont amenés à “corriger” un bug et donc faire du **live coding**, ce qui nous permet de comprendre comment ils appréhendent une nouvelle base de code.
 
@@ -118,11 +122,31 @@ Après 1 an d’utilisation, voici ce que nous avons appris :
 
 En revanche, pour certains “c’est frustrant de ne pas finir”
 
-![](../.gitbook/assets/image%20%28262%29.png)
+![](../.gitbook/assets/image%20%28267%29.png)
 
+### Notre feedback en tant que recruteurs <a id="6a10"></a>
 
+On a eu de bien meilleures interactions avec nos candidats :
 
+* De vrais discussions d’égal à égal
+* Le candidat nous perçoit comme un maître du jeu
 
+> C’est vraiment plus facile de dé-stresser le candidat via le jeu et c’est donc plus facile pour nous de créer un lien avec lui. Le jeu facilite la création d’un cadre de confiance mais cela requiert de la bienveillance et nécessite l’introduction du droit à l’erreur.
 
+En revanche ce genre d’entretien n’est pas fait pour tout le monde \(certains sont insensibles au jeu par exemple\) c’est pourquoi il est primordial en entretien de demander l’autorisation avant de lancer ce genre d’atelier.
 
+Si le candidat n’est pas partant pour ce genre d’approches, il est important d’avoir une boite à outils bien remplie afin d’être capable de rebondir.
+
+## Resources
+
+Si vous voulez **tester Craftsminator**, vous pouvez télécharger :
+
+* Les **cartes ici** : [http://bit.ly/2DvInEx](http://bit.ly/2DvInEx)
+* Le **guide de facilitation**
+
+{% embed url="https://speakerdeck.com/thirion/craftsminator-liberez-vos-entretiens-dembauche-1fbb2345-9b27-4235-947f-d5e6a82b89bf" %}
+
+\*\*\*\*
+
+\*\*\*\*
 
