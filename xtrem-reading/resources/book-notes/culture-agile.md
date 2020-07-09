@@ -24,7 +24,7 @@ Un ouvrage pragmatique et un guide de transformation de l’entreprise. Des exem
 
 Des outils de coaching agile, contextualisés et opérationnels.
 
-![](../../../.gitbook/assets/image%20%28267%29.png)
+![](../../../.gitbook/assets/image%20%28271%29.png)
 
 ## Notes
 
@@ -47,14 +47,14 @@ Des outils de coaching agile, contextualisés et opérationnels.
 
 * [Arbre du sens](http://www.qualitystreet.fr/2018/11/06/larbre-du-sens/)
 
-![](../../../.gitbook/assets/image%20%28269%29.png)
+![](../../../.gitbook/assets/image%20%28273%29.png)
 
 * [Roue de l'agilité managériale](http://www.qualitystreet.fr/2018/02/28/agilite-manageriale-coaching-de-managers/) : "Solution focus"
   * S'interroger sur sa posture de manager agile
   * Identifier / décrire ce qu'on veut
   * S'appuyer sur ses ressources pour avancer et progresser
 
-![](../../../.gitbook/assets/image%20%28254%29.png)
+![](../../../.gitbook/assets/image%20%28256%29.png)
 
 ### Agilité pour toute l'entreprise
 
@@ -80,7 +80,7 @@ Des outils de coaching agile, contextualisés et opérationnels.
   * Rassurer 
   * Donner du sens
 
-![](../../../.gitbook/assets/image%20%28245%29.png)
+![](../../../.gitbook/assets/image%20%28246%29.png)
 
 * [C.A.V.E.C.T.O.I ](http://www.qualitystreet.fr/2017/11/09/transformation-agile/)
   * **C**rédible 

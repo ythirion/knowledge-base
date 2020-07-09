@@ -14,7 +14,7 @@ Usually, in a brown bag there is only 1 role : the **speaker**. We wanted to hav
 
 ## Jedi’s brown bag - Gamify your internal events <a id="2dba"></a>
 
-![](../.gitbook/assets/image%20%28271%29.png)
+![](../.gitbook/assets/image%20%28275%29.png)
 
 
 
@@ -42,13 +42,13 @@ On each card you can find :
 * The list of tasks to do during the brown bag
 * The purpose of the role for the person that will play this role
 
+![](../.gitbook/assets/image%20%28252%29.png)
+
 ![](../.gitbook/assets/image%20%28250%29.png)
 
-![](../.gitbook/assets/image%20%28248%29.png)
+![](../.gitbook/assets/image%20%28267%29.png)
 
-![](../.gitbook/assets/image%20%28263%29.png)
-
-![](../.gitbook/assets/image%20%28273%29.png)
+![](../.gitbook/assets/image%20%28277%29.png)
 
 ![](../.gitbook/assets/image%20%28238%29.png)
 
