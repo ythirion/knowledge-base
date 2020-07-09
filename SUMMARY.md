@@ -30,6 +30,7 @@
     * [Star wars theme](agile-coaching/retrospectives/star-wars-theme.md)
     * [Story cubes](agile-coaching/retrospectives/story-cubes.md)
   * [Xanpan - a team centric agile method story](agile-coaching/xanpan-a-team-centric-agile-method-story.md)
+  * [XTREM WATCH — Découvrez la puissance de la veille collective](agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
 * [Leadership](leadership/README.md)
   * [Learn leadership from the Navy SEALs](leadership/learn-leadership-from-the-navy-seals.md)
   * [Learn to lead and help your team\(s\) to be successful](leadership/learn-to-lead-and-help-your-team-s-to-be-successful.md)
@@ -48,6 +49,4 @@
       * [Boite à outils de l'intelligence émotionnelle](xtrem-reading/resources/book-notes/boite-a-outils-de-lintelligence-emotionnelle.md)
       * [Building a better business using Lego Serious Play method](xtrem-reading/resources/book-notes/building-a-better-business-using-lego-serious-play-method.md)
       * [Building evolutionary architectures](xtrem-reading/resources/book-notes/building-evolutionary-architectures.md)
-* [Workshops](workshops/README.md)
-  * [XTREM WATCH — Découvrez la puissance de la veille collective](workshops/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
 
