@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Software craftsmanship](software-craftsmanship/README.md)
+  * [The Software Craftsman](software-craftsmanship/the-software-craftsman.md)
   * [Technical debt workshop](software-craftsmanship/technical-debt-workshop.md)
   * [Testing](software-craftsmanship/testing/README.md)
     * [Improve the design and testing of your micro-services through Consumer-Driven Contract Tests](software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests/README.md)
