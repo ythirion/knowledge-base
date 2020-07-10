@@ -6,7 +6,7 @@ description: Abstract of the book "The Software Craftsman" from Sandro Mancuso
 
 I really loved this [great book](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501) from [Sandro Mancuso](https://twitter.com/sandromancuso). 
 
-![](../.gitbook/assets/image%20%28282%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
 
 ## Infography
 
@@ -295,5 +295,30 @@ _"I_'_**m the smartest man in Athens because I know that I know nothing"** - Soc
 Peter's principle : "_**Only incompetent people are scared to lose their job**_"
 {% endhint %}
 
+### Technical Practices
 
+* `For building the right thing` :
+  * Feedback loops 
+  * Visualizing WIP 
+  * Backlogs 
+  * Stand ups 
+  * User Stories 
+  * Acceptance criteria 
+  * Definitions : Ready / Done
+* `For building the thing right ?`
+
+![](../.gitbook/assets/image%20%28282%29.png)
+
+* How do I sell tech practices ? 
+  * Focus on the benefits 
+  * Better understanding of requirements 
+  * Knowledge sharing 
+  * Reduction of bugs 
+  * Quick & automated releases
+* Be pragmatic 
+  * Always a better way 
+  * Decide your practices 
+    * To answer a need 
+    * Not because someone says to 
+  * Compare values between practices
 
