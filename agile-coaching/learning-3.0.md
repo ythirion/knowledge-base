@@ -6,7 +6,7 @@ description: SHARING is the new TEACHING
 
 The principles on this page come from the book [Learning 3.0 : How creative workers learn](https://www.amazon.fr/How-Creative-Workers-Learn-creativity-ebook/dp/B013K8K1CU) from Alexandre Magno.
 
-![](../.gitbook/assets/image%20%28290%29.png)
+![](../.gitbook/assets/image%20%28294%29.png)
 
 ## 2 types of learning
 
@@ -15,7 +15,7 @@ The principles on this page come from the book [Learning 3.0 : How creative work
 * Based on knowledge and skills that are pre-determined for the learners.
 * Learners = empty containers into which the expert must deposit knowledge.
 
-![](../.gitbook/assets/image%20%28293%29.png)
+![](../.gitbook/assets/image%20%28299%29.png)
 
 ### Emergent
 
@@ -24,11 +24,11 @@ The principles on this page come from the book [Learning 3.0 : How creative work
   * The process
   * The learning destinations
 
-![](../.gitbook/assets/image%20%28288%29.png)
+![](../.gitbook/assets/image%20%28292%29.png)
 
 ## 3 versions of learning
 
-![](../.gitbook/assets/image%20%28285%29.png)
+![](../.gitbook/assets/image%20%28286%29.png)
 
 ## Learning 3.0
 
@@ -39,7 +39,7 @@ The principles on this page come from the book [Learning 3.0 : How creative work
 * Challenging good and best practices is encouraged from the _**intentional confrontation of multiple perspectives**_
 * _**Viewing the learning is more important than measuring it**_
 
-![](../.gitbook/assets/image%20%28292%29.png)
+![](../.gitbook/assets/image%20%28296%29.png)
 
 ### The Creative Worker
 
@@ -54,17 +54,17 @@ _The greater the love for what you do, the greater your curiosity and your will 
 
 ### The flow
 
-![](../.gitbook/assets/image%20%28294%29.png)
+![](../.gitbook/assets/image%20%28301%29.png)
 
 ### How to ?
 
 You can use the "Learning Canvas" :
 
-![](../.gitbook/assets/image%20%28287%29.png)
+![](../.gitbook/assets/image%20%28290%29.png)
 
 ## Infography
 
-![Source : https://medium.com/changingdojo/learning30-as-enabler-for-product-innovation-a84c1eda2a5f](../.gitbook/assets/image%20%28291%29.png)
+![Source : https://medium.com/changingdojo/learning30-as-enabler-for-product-innovation-a84c1eda2a5f](../.gitbook/assets/image%20%28295%29.png)
 
 ## Resources
 
