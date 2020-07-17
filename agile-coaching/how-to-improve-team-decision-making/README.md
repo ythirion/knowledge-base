@@ -56,7 +56,7 @@ Regarding decision making formulate a _FeedForward_ to yourself : _**For your ne
 
 ## Conclusion
 
-A simple ROTI.
+A simple ROTI :
 
 ![](../../.gitbook/assets/image%20%28323%29.png)
 
