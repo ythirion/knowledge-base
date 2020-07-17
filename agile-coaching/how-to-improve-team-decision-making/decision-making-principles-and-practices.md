@@ -4,7 +4,7 @@
 
 The better resource I use on this topic is the book [_**27 Decision making principles and practices**_](https://leanpub.com/decision-making-principles) _****_from [Jimmy Janlen](https://twitter.com/jimmyjanlen) 
 
-![](../../.gitbook/assets/image%20%28315%29.png)
+![](../../.gitbook/assets/image%20%28317%29.png)
 
 I strongly invite you to buy the book on leanpub. In this post I will just give some pieces of it.
 
@@ -60,7 +60,7 @@ Once the presentation is done :
 * Ideas for improving the proposal are discussed
 * Concerns are raised, and if possible used to further **improve the proposal**
 
-![](../../.gitbook/assets/image%20%28307%29.png)
+![](../../.gitbook/assets/image%20%28308%29.png)
 
 ### Survey with fist of five 
 
@@ -154,7 +154,7 @@ Dot‐voting is an effective voting and sorting technique to order suggestions b
 * Each person can distribute the points as he/she want \(3 dots on the same topic or 1 dot on 3 different post-its\)
 * Once voting is done, rearrange the Post‐its according to the results
 
-![](../../.gitbook/assets/image%20%28317%29.png)
+![](../../.gitbook/assets/image%20%28320%29.png)
 
 ## What to do when you are stuck ?
 
@@ -170,7 +170,7 @@ One approach to make progress when stuck in a discussion around a proposal, ****
 
 One approach to make faster progress can be to delegate to a smaller group \(can be nominated or volunteers\). That group hashes out the details of a proposal, AND are given mandate and trust to make the actual decision.
 
-![](../../.gitbook/assets/image%20%28304%29.png)
+![](../../.gitbook/assets/image%20%28305%29.png)
 
 ### Clarify Statu Quo
 
@@ -207,7 +207,7 @@ Ask everyone to briefly share :
 
 Start with individual thinking, then share with the whole team.
 
-![](../../.gitbook/assets/image%20%28311%29.png)
+![](../../.gitbook/assets/image%20%28312%29.png)
 
 ### Collaborative proposals \(1-2-4-All\)
 
@@ -215,7 +215,7 @@ It is a workshop format designed to quickly generate a collaborative and inclusi
 
 It is a liberating structure documented [**here**](http://www.liberatingstructures.com/1-1-2-4-all/).
 
-![](../../.gitbook/assets/image%20%28319%29.png)
+![](../../.gitbook/assets/image%20%28322%29.png)
 
 * Everyone individually drafts a proposal in silence - **3'**
 * In pair, share and explain their draft to each other - **2'**
@@ -253,13 +253,13 @@ Maximize the probability of the agreements becoming reality by strengthening eac
 
 For each and every ToDo, make sure there is a name associated with it.
 
-![](../../.gitbook/assets/image%20%28310%29.png)
+![](../../.gitbook/assets/image%20%28311%29.png)
 
 ### DIBB rationale narrative
 
 A framework to test if you can tell a comprehensive story on why you decided on what you did.
 
-![DIBB is created by Spotify and is part of &#x201C;Spotify Rhythm&#x201D;](../../.gitbook/assets/image%20%28320%29.png)
+![DIBB is created by Spotify and is part of &#x201C;Spotify Rhythm&#x201D;](../../.gitbook/assets/image%20%28324%29.png)
 
 * What DATA did you look at? 
   * What were your sources? 
@@ -277,13 +277,13 @@ In Software Architecture it's a document that captures an important architectura
 
 You can use a template and structure your decisions log with this format :
 
-![](../../.gitbook/assets/image%20%28312%29.png)
+![](../../.gitbook/assets/image%20%28314%29.png)
 
 ## Clarify team decision scope with Delegation Poker
 
-![](../../.gitbook/assets/image%20%28308%29.png)
+![](../../.gitbook/assets/image%20%28309%29.png)
 
-![](../../.gitbook/assets/image%20%28305%29.png)
+![](../../.gitbook/assets/image%20%28306%29.png)
 
 ## Reading notes
 

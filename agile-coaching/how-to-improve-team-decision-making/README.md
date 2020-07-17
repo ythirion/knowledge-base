@@ -44,9 +44,21 @@ Ask to the volunteer :
 
 ## Concrete Practice
 
+### Feedforward 
 
+The "feedforward" consists to formulate requests or propose future-oriented options or solutions, as opposed to the feedback technique, which looks back on a past situation.
+
+_**Example**_ : _**For your next**_ report, I suggest that you divide the summary of your activities by date or by function \(budget, planning, operations management, ...\). _**So that**_ it will be easier to read it, to find the information I need and to refer to it later.
+
+![](../../.gitbook/assets/image%20%28313%29.png)
+
+Regarding decision making formulate a _FeedForward_ to yourself : _**For your next ... I invite you to .... so that...**_
 
 ## Conclusion
+
+A simple ROTI.
+
+![](../../.gitbook/assets/image%20%28323%29.png)
 
 
 

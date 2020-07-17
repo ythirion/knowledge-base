@@ -15,7 +15,7 @@ The principles on this page come from the book [Learning 3.0 : How creative work
 * Based on knowledge and skills that are pre-determined for the learners.
 * Learners = empty containers into which the expert must deposit knowledge.
 
-![](../.gitbook/assets/image%20%28314%29.png)
+![](../.gitbook/assets/image%20%28316%29.png)
 
 ### Emergent
 
@@ -39,7 +39,7 @@ The principles on this page come from the book [Learning 3.0 : How creative work
 * Challenging good and best practices is encouraged from the _**intentional confrontation of multiple perspectives**_
 * _**Viewing the learning is more important than measuring it**_
 
-![](../.gitbook/assets/image%20%28306%29.png)
+![](../.gitbook/assets/image%20%28307%29.png)
 
 ### The Creative Worker
 
@@ -54,7 +54,7 @@ _The greater the love for what you do, the greater your curiosity and your will 
 
 ### The flow
 
-![](../.gitbook/assets/image%20%28316%29.png)
+![](../.gitbook/assets/image%20%28318%29.png)
 
 ### How to ?
 
@@ -64,7 +64,7 @@ You can use the "Learning Canvas" :
 
 ## Infography
 
-![Source : https://medium.com/changingdojo/learning30-as-enabler-for-product-innovation-a84c1eda2a5f](../.gitbook/assets/image%20%28303%29.png)
+![Source : https://medium.com/changingdojo/learning30-as-enabler-for-product-innovation-a84c1eda2a5f](../.gitbook/assets/image%20%28304%29.png)
 
 ## Resources
 
