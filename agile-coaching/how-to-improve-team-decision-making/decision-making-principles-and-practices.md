@@ -4,7 +4,7 @@
 
 The better resource I use on this topic is the book [_**27 Decision making principles and practices**_](https://leanpub.com/decision-making-principles) _****_from [Jimmy Janlen](https://twitter.com/jimmyjanlen) 
 
-![](../../.gitbook/assets/image%20%28300%29.png)
+![](../../.gitbook/assets/image%20%28315%29.png)
 
 I strongly invite you to buy the book on leanpub. In this post I will just give some pieces of it.
 
@@ -60,13 +60,13 @@ Once the presentation is done :
 * Ideas for improving the proposal are discussed
 * Concerns are raised, and if possible used to further **improve the proposal**
 
-![](../../.gitbook/assets/image%20%28297%29.png)
+![](../../.gitbook/assets/image%20%28307%29.png)
 
 ### Survey with fist of five 
 
 Participants express their current opinion about the direction of the discussion and the emerging proposal by voting with their fingers.
 
-![](../../.gitbook/assets/image%20%28287%29.png)
+![](../../.gitbook/assets/image%20%28288%29.png)
 
 On a scale from 1 to 5, "_**How much closer do you think we are to an acceptable proposal ?**_" :
 
@@ -87,31 +87,203 @@ Design a proposal as an experiment invites you to identify concerns that should 
 * How would we be able to gauge or measure whether or not we need to revisit the decision and make adjustments, or try something else? 
 * Can we set a date for an evaluation or retrospective?
 
-![](../../.gitbook/assets/image%20%28298%29.png)
+![](../../.gitbook/assets/image%20%28287%29.png)
 
 I like to use this simple template when I formulate an experiment :
 
-![](../../.gitbook/assets/image%20%28291%29.png)
+![](../../.gitbook/assets/image%20%28295%29.png)
 
 It forces us to formulate our experiment and structure them.
 
 ##  How to decide ?
 
-Techniques to decide with consent
+Techniques to decide with consent.
+
+### Definitions
+
+* _**Consent decision making**_ – the proposal is decided in the absent of qualified objection.
+* _**Consensus**_ - everyone must agree with the proposal.
+* _**Good enough proposal**_ - means the proposal is clear enough for you. You trust that the
+
+  team is capable of dealing with challenges and problems as they surface in a responsible manner.
+
+* _**Safe enough**_ - refers to the danger of failing. Is it safe enough to try, and then inspect and adapt?
+
+### Consent voting
+
+It’s way faster than consensus more inclusive and collaborative in nature than a democratic majority vote.
+
+![](../../.gitbook/assets/image%20%28298%29.png)
+
+* **No thumbs down** : a decision has been made and that the proposal has been
+
+  accepted.
+
+  * Thumbs sideways or closed fists
+    * Ask those members to share why they voted like this
+    *  Clarify that the decision has been made
+    * But it's always valuable to have their points of view
+      * It's not the time to reopen a debate
+
+* **Thumbs down :** The proposal didn’t go through.
+  * Ask the people to share their perspective on 
+    * Why this would be a bad thing ?
+    * What harm it might cause ? 
+  * They could find a way to reformulate the proposal so that everyone is happy with the content.
+
+### Declare intent and ask for objections
+
+Sometimes you can declare decision mandate yourself. **For decisions that don’t impact the whole team, don’t be afraid to simply state you intentions**. 
+
+![](../../.gitbook/assets/image%20%28291%29.png)
+
+* Clearly share what you intend do, and why. 
+* Ask if anyone objects.
+* If no one objects, thank the team for their trust.
+
+{% hint style="success" %}
+_Working with objection is even more relevant in this Covid period. Asking for objection only and set a deadline will increase your team decision pace._
+{% endhint %}
+
+### Dot voting
+
+Dot‐voting is an effective voting and sorting technique to order suggestions by popularity.
+
+* Agree on how many dot‐votes each person gets
+  * If unsure, go for three dots each as a default
+* Each person can distribute the points as he/she want \(3 dots on the same topic or 1 dot on 3 different post-its\)
+* Once voting is done, rearrange the Post‐its according to the results
+
+![](../../.gitbook/assets/image%20%28317%29.png)
 
 ## What to do when you are stuck ?
 
 How to help the team have good, valuable and constructive discussions, that involve and _**engage everyone.**_
 
+### **Make decisions smaller**
+
+One approach to make progress when stuck in a discussion around a proposal, ****or when you as team fail to agree on a way forward, is to r_**educe the size of the proposal or slice up the decisions to be made**_.
+
+![](../../.gitbook/assets/image%20%28297%29.png)
+
+### Delegate decision mandate
+
+One approach to make faster progress can be to delegate to a smaller group \(can be nominated or volunteers\). That group hashes out the details of a proposal, AND are given mandate and trust to make the actual decision.
+
+![](../../.gitbook/assets/image%20%28304%29.png)
+
+### Clarify Statu Quo
+
+_**Dont' take a decision just because you have to. Sometimes Status quo is a perfectly valid outcome.**_
+
+![](../../.gitbook/assets/image%20%28293%29.png)
+
+If the proposal is not agreed upon :
+
+* Clarify what will remain the same
+* What will still be unclear
+* Which risks will remain unmitigated
+* ...
+
+### When critical accountable decides
+
+If the team fails to agree upon a decision, being stuck in discussions or having every proposal blocked, the default principle can be to _**delegate the decision to a single person, the accountable**_. It's the last resort solution.
+
+To do so, accountability must be crystal clear \(see Delegation Poker\).
+
 ## **How to stimulate** _****_**t**eam wisdom ?
+
+Make everyone heard
+
+When a heated discussion has been going on for a while and only a few members vocally engage, call a timeout and do a round. 
+
+Ask everyone to briefly share :
+
+* What they think
+* How they feel the dialog is going
+* What opinion they have
+
+### Individual thinking then share
+
+Start with individual thinking, then share with the whole team.
+
+![](../../.gitbook/assets/image%20%28311%29.png)
+
+### Collaborative proposals \(1-2-4-All\)
+
+It is a workshop format designed to quickly generate a collaborative and inclusive proposal. 
+
+It is a liberating structure documented [**here**](http://www.liberatingstructures.com/1-1-2-4-all/).
+
+![](../../.gitbook/assets/image%20%28319%29.png)
+
+* Everyone individually drafts a proposal in silence - **3'**
+* In pair, share and explain their draft to each other - **2'**
+  * Provide feedback on what they like and don’t like
+* The pair puts away their drafts and creates a joint proposal, building on both their drafts as inspiration - **3'**
+* Each pair presents their proposal to another pair - **2'**
+* The two pairs joins up as a group of four, designing a joint proposal. - **4'**
+* Each group presents their proposal to the whole team.
+* Vote on most popular proposal.
 
 ## How to structure discussions ?
 
 How to help the team have good, valuable and constructive discussions, that involve and engage everyone.
 
+### Parking lot
+
+To maintain focus / avoid the frustration of leaving important concerns unresolved :
+
+* capture the unanswered question on a Post‐it 
+* Put it up on the parking‐lot area on a board
+
+![](../../.gitbook/assets/image%20%28301%29.png)
+
+It acknowledges that the question is important, which can help people bring their focus back to the original discussion.
+
+### Timebox
+
+Set a strict constraint on the time we allow ourselves to invest in a topic or in a discussion.
+
 ## How to strengthen commitment ?
 
 Maximize the probability of the agreements becoming reality by strengthening each individual’s commitment to the decisions.
+
+### Summarize actions and owners
+
+For each and every ToDo, make sure there is a name associated with it.
+
+![](../../.gitbook/assets/image%20%28310%29.png)
+
+### DIBB rationale narrative
+
+A framework to test if you can tell a comprehensive story on why you decided on what you did.
+
+![DIBB is created by Spotify and is part of &#x201C;Spotify Rhythm&#x201D;](../../.gitbook/assets/image%20%28320%29.png)
+
+* What DATA did you look at? 
+  * What were your sources? 
+  * Was it quantitative or qualitative? 
+* Which INSIGHTS and conclusions did you draw from the data? 
+* What are your BELIEFS now? 
+  * Which hypotheses have you formulated? 
+* Does this reasoning connect to the action you BET will reach the desired outcome?
+
+It helps to have a structured dialog in which you invite people to challenge the data, insights and beliefs, providing other perspectives and alternatives, as opposed to have a purely opinion driven dialog.
+
+### Architecture Decision Record
+
+In Software Architecture it's a document that captures an important architectural decision made along with its context and consequences.
+
+You can use a template and structure your decisions log with this format :
+
+![](../../.gitbook/assets/image%20%28312%29.png)
+
+## Clarify team decision scope with Delegation Poker
+
+![](../../.gitbook/assets/image%20%28308%29.png)
+
+![](../../.gitbook/assets/image%20%28305%29.png)
 
 ## Reading notes
 

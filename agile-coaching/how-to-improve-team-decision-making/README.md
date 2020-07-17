@@ -12,7 +12,7 @@ description: >-
 
 * [Dixit cards](https://www.libellud.com/dixit-2/)
 
-![](../../.gitbook/assets/image%20%28289%29.png)
+![](../../.gitbook/assets/image%20%28292%29.png)
 
 ### Dixit problem solving
 
@@ -42,9 +42,11 @@ Ask to the volunteer :
 
 {% page-ref page="decision-making-principles-and-practices.md" %}
 
+## Concrete Practice
 
 
 
+## Conclusion
 
-## 
+
 
