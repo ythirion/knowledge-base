@@ -21,6 +21,7 @@
   * [Aligning Product & Software Design](software-architecture/aligning-product-and-software-design.md)
   * [DDD re-distilled](software-architecture/ddd-re-distilled.md)
 * [Agile coaching](agile-coaching/README.md)
+  * [Learning 3.0](agile-coaching/learning-3.0.md)
   * [Tools for better thinking](agile-coaching/tools-for-better-thinking.md)
   * [Retrospectives](agile-coaching/retrospectives/README.md)
     * [Mission Impossible](agile-coaching/retrospectives/mission-impossible.md)
