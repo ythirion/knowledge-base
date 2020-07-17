@@ -52,7 +52,8 @@ _**Example**_ : _**For your next**_ report, I suggest that you divide the summar
 
 ![](../../.gitbook/assets/image%20%28313%29.png)
 
-Regarding decision making formulate a _FeedForward_ to yourself : _**For your next ... I invite you to .... so that...**_
+* Regarding decision making formulate a _FeedForward_ to yourself : _**For your next ... I invite you to .... so that...**_
+* If you are OK, share it with the rest of the attendees
 
 ## Conclusion
 
