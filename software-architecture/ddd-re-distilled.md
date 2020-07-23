@@ -426,5 +426,5 @@ Here are great books on DDD :
 
 ![](../.gitbook/assets/image%20%2898%29.png)
 
-
+* [Legacy Architecture Modernisation With Strategic Domain-Driven Design](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f)
 
