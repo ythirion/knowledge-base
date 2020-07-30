@@ -47,7 +47,7 @@
 ### Approval Testing \(Golden Master\)
 
 * Lift-kata : [http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/](http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/)
-* EnvironmentControllerKata : [http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/](http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/)
+* EnvironmentControllerKata : [https://github.com/emilybache/EnvironmentalControllerKata](https://github.com/emilybache/EnvironmentalControllerKata)
 * Ugly trivia : [https://kata-log.rocks/ugly-trivia-kata](https://kata-log.rocks/ugly-trivia-kata)
 
 ### Property Based Testing
