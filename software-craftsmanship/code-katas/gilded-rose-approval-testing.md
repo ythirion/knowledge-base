@@ -72,7 +72,7 @@ The most common one is [ApprovalTests](https://approvaltests.com/) available on 
 ## Concrete Practice
 
 * Read the specifications in the [Readme](https://github.com/ythirion/GildedRose-kata)
-* Take a look at the [code](https://github.com/ythirion/GildedRose-kata/blob/master/Java/src/main/java/com/gildedrose/GildedRose.java)
+* Look at the [code](https://github.com/ythirion/GildedRose-kata/blob/master/Java/src/main/java/com/gildedrose/GildedRose.java)
 * Individually :
   * What do you think about this code ?
   * If you have to add a new type of items what would be your strategy ?
@@ -257,11 +257,7 @@ Note that the received version has changed now because when you use CombinationA
 
 By discovering them with the Code Coverage tool :
 
-1. Go on a red or orange line
-2. Add an input in the _**CombinationApprovals**_
-3. Run the test with coverage \(check that you improved the coverage\)
-4. Improve the result \(with your terminal\)
-5. Go back to 1 until you have 100% coverage and are very confident 
+![](../../.gitbook/assets/image%20%28340%29.png)
 
 At the end you should have a code coverage of 100% with a test looking like this :
 
@@ -388,12 +384,14 @@ Pitest shows us where mutants survive and guide us to improve our test quality :
 
 ![](../../.gitbook/assets/image%20%28328%29.png)
 
-Based on it add new inputs in our test until it's green :
+![](../../.gitbook/assets/image%20%28339%29.png)
+
+Based on the report we can add new inputs in our test until it's green :
 
 * _**sellIn**_ between 6 & 11
 * _**sellIn**_ lower than 6 and greater than 0
 
-We are now ready to start implementing the new functionality.
+> _**We are now ready to start implementing the new functionality.**_
 
 ## Conclusion
 
@@ -409,4 +407,6 @@ Individually note down what has happened today in these categories:
 * [Part 1/3 - Introducing the Gilded Rose kata and writing test cases using Approval Tests, Emily Bache](https://www.youtube.com/watch?v=zyM2Ep28ED8)
 * [https://emilybache.github.io/workshops/approvals/](https://emilybache.github.io/workshops/approvals/)
 * [https://approvaltests.com/](https://approvaltests.com/)
+
+{% embed url="https://speakerdeck.com/thirion/approval-testing-kata-gilded-rose" caption="Facilitator guide" %}
 
