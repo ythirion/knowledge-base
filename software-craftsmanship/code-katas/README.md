@@ -50,8 +50,6 @@
 * EnvironmentControllerKata : [https://github.com/emilybache/EnvironmentalControllerKata](https://github.com/emilybache/EnvironmentalControllerKata)
 * Ugly trivia : [https://kata-log.rocks/ugly-trivia-kata](https://kata-log.rocks/ugly-trivia-kata)
 
-{% page-ref page="gilded-rose-approval-testing.md" %}
-
 ### Property Based Testing
 
 * Property-Based Testing kata : [https://github.com/ythirion/pbt-kata](https://github.com/ythirion/pbt-kata)

@@ -35,7 +35,7 @@ Once the test provides output that is _**different to the approved output the te
 1. If the change in the output was unintended then fix the bug that’s causing the change in the output.
 2. “Approve” the new output as the baseline for future tests.
 
-I’ve been very vague here about “output” intentionally because that output can be anything you want really, as long as it can be compared to another copy in a consistent manner.
+Output can be anything you want, as long as it can be compared to another copy in a consistent manner.
 
 ### The difference with Assert-based tests
 
