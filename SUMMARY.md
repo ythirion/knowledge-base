@@ -4,6 +4,7 @@
 * [Software craftsmanship](software-craftsmanship/README.md)
   * [The Software Craftsman](software-craftsmanship/the-software-craftsman.md)
   * [Technical debt workshop](software-craftsmanship/technical-debt-workshop.md)
+  * [Domain Modeling Made Functional](software-craftsmanship/domain-modeling-made-functional.md)
   * [Testing](software-craftsmanship/testing/README.md)
     * [Improve the design and testing of your micro-services through CDC Tests](software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests/README.md)
       * [CDC testing made simple with Pact](software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests/cdc-testing-made-simple-with-pact.md)
