@@ -5,7 +5,7 @@ description: >-
   because they’re not speaking the same language.
 ---
 
-# Improve the design and testing of your micro-services through Consumer-Driven Contract Tests
+# Improve the design and testing of your micro-services through CDC Tests
 
 ## Why should you read this article ?
 
