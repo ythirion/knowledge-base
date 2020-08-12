@@ -6,15 +6,15 @@ description: Great book and workshop followed with Scott Wlaschin
 
 ## Workshop notes
 
+![](../.gitbook/assets/image%20%28347%29.png)
+
 ![](../.gitbook/assets/image%20%28346%29.png)
 
-![](../.gitbook/assets/image%20%28345%29.png)
+![](../.gitbook/assets/image%20%28350%29.png)
 
 ![](../.gitbook/assets/image%20%28349%29.png)
 
-![](../.gitbook/assets/image%20%28348%29.png)
-
-![](../.gitbook/assets/image%20%28344%29.png)
+![](../.gitbook/assets/image%20%28345%29.png)
 
 ## Source code
 
@@ -74,7 +74,7 @@ Links for if you want to keep going after the workshop :
 3. For monads and more, see slides: F-FP\_toolkit.pdf code: _**DmmfWorkshop/src/F-ImplementingWorkflows/01-Exercises.txt**_
 4. For capability-based design see: [https://fsharpforfunandprofit.com/cap/](https://fsharpforfunandprofit.com/cap/) [https://www.youtube.com/watch?v=fi1FsDW1QeY](https://www.youtube.com/watch?v=fi1FsDW1QeY)
 
-![](../.gitbook/assets/image%20%28347%29.png)
+![](../.gitbook/assets/image%20%28348%29.png)
 
 {% hint style="info" %}
 Read his great book on the topic : [Domain Modeling Made Functional](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)

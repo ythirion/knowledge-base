@@ -61,4 +61,5 @@
       * [Building a better business using Lego Serious Play method](xtrem-reading/resources/book-notes/building-a-better-business-using-lego-serious-play-method.md)
       * [Building evolutionary architectures](xtrem-reading/resources/book-notes/building-evolutionary-architectures.md)
       * [Culture Agile](xtrem-reading/resources/book-notes/culture-agile.md)
+      * [Domain-Driven Design: The First 15 Years](xtrem-reading/resources/book-notes/domain-driven-design-the-first-15-years.md)
 
