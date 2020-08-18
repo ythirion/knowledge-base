@@ -382,7 +382,7 @@ Let's use pitest to discover if we can improve our tests :
 
 Pitest shows us where mutants survive and guide us to improve our test quality :
 
-![](../../.gitbook/assets/image%20%28328%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
 ![](../../.gitbook/assets/image%20%28339%29.png)
 
@@ -401,6 +401,8 @@ Individually note down what has happened today in these categories:
 * Learned
 * Lacked
 * Longed for
+
+![](../../.gitbook/assets/image%20%28354%29.png)
 
 ## Resources
 
