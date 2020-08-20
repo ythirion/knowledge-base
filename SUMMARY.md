@@ -5,6 +5,7 @@
   * [The Software Craftsman](software-craftsmanship/the-software-craftsman.md)
   * [Technical debt workshop](software-craftsmanship/technical-debt-workshop.md)
   * [Functional Programming made easy in C\# with Language-ext](software-craftsmanship/functional-programming-made-easy-in-c-with-language-ext.md)
+  * [F\# for OO programmers](software-craftsmanship/f-for-oo-programmers.md)
   * [Domain Modeling Made Functional](software-craftsmanship/domain-modeling-made-functional.md)
   * [Testing](software-craftsmanship/testing/README.md)
     * [Improve the design and testing of your micro-services through CDC Tests](software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests/README.md)
