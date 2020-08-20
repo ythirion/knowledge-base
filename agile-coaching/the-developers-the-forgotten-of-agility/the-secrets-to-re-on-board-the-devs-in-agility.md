@@ -16,7 +16,7 @@ The whole idea was to reduce the gap between the agile and technical world by em
 
 The same year he has initiated the Software craftsmanship movement with a new manifesto: [**the manifesto for software craftsmanship**](http://manifesto.softwarecraftsmanship.org/) .
 
-![](../../.gitbook/assets/image%20%28365%29.png)
+![](../../.gitbook/assets/image%20%28366%29.png)
 
 ### Well-crafted software <a id="8276"></a>
 
@@ -53,7 +53,7 @@ Teams need to implement software development practices to support iterative and 
 
 To do so, there is a lot of answers in XP like :
 
-![](../../.gitbook/assets/image%20%28368%29.png)
+![](../../.gitbook/assets/image%20%28370%29.png)
 
 * [**Test Driven Development**](https://en.wikipedia.org/wiki/Test-driven_development): an extreme approach to software development that ensures every line of code is tested because before writing any line of production code you **must** start with a test.
 * [**Pair programming**](https://en.wikipedia.org/wiki/Pair_programming): 2 developers on the same computer to write code collaboratively \(improve quality, knowledge sharing and reinforce the collective ownership feeling\).
@@ -89,7 +89,7 @@ To create this culture, companies need to invest in a really simple but powerful
 As agile enthusiasts we need to help people to give feedback to each other’s.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28385%29.png)
+![](../../.gitbook/assets/image%20%28387%29.png)
 
 When you think about the skills required to be a developer at the moment \(front-end, back-end, security concerns, architecture, operability, …\) you easily understand how much they are keen to learn new stuff every days. Not that much jobs are like this.
 
@@ -117,7 +117,7 @@ As agile enthusiasts we need to help HR to change and really promote this cultur
 
 ## Avoid agile dictators <a id="7587"></a>
 
-![](../../.gitbook/assets/image%20%28384%29.png)
+![](../../.gitbook/assets/image%20%28386%29.png)
 
 Often agile has a bad image in developers mind because they have only met **agile dictators/evangelists that crucially lacked pragmatism**. Those kind of people have negative impact on team’s health \(self organizers\).
 
