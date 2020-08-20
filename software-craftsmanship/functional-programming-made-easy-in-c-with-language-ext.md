@@ -30,7 +30,7 @@ In my world organizations are not yet ready to invest in pure FP languages like 
 
 To go further on this topic I invite you to watch this video on _**Functional Core, Imperative Shell**_ : [https://discventionstech.wordpress.com/2017/06/30/functional-core-and-imperative-shell/](https://discventionstech.wordpress.com/2017/06/30/functional-core-and-imperative-shell/)
 
-![](../.gitbook/assets/image%20%28358%29.png)
+![](../.gitbook/assets/image%20%28361%29.png)
 
 It’s a pattern that could be really useful to every developers on earth I think.
 
@@ -96,7 +96,7 @@ His desire here is to make programming in C\# much more reliable and to make the
 
 It’s basically “**one lib to rule them all**” : [https://github.com/louthy/language-ext](https://github.com/louthy/language-ext)
 
-![](../.gitbook/assets/image%20%28361%29.png)
+![](../.gitbook/assets/image%20%28371%29.png)
 
 ### Language-ext vs LinQ <a id="7536"></a>
 
@@ -161,7 +161,7 @@ public void record_types()
 
 Yes in C\# we have out parameters on TryParse for example now it’s finished :
 
-![](../.gitbook/assets/image%20%28357%29.png)
+![](../.gitbook/assets/image%20%28359%29.png)
 
 ### Option <a id="6be8"></a>
 
@@ -225,11 +225,11 @@ Monads apply a function that **returns a wrapped value to a wrapped value**. Mon
 
 Suppose **half** is a function that only **works on even numbers.**
 
-![](../.gitbook/assets/image%20%28360%29.png)
+![](../.gitbook/assets/image%20%28368%29.png)
 
 What if we feed it a wrapped value? This is where **bind** comes in!
 
-![](../.gitbook/assets/image%20%28363%29.png)
+![](../.gitbook/assets/image%20%28378%29.png)
 
 ```csharp
 static Option<double> Half(double x)
@@ -353,7 +353,7 @@ public void either_example()
 * **Fold** takes an explicit initial value for the accumulator. The accumulator and result type can differ as the accumulator is provided separately.
 * **Reduce** uses the first element of the input list as the initial accumulator value \(just like the Aggregate function\). The accumulator and therefore result type must match the list element type.
 
-![](../.gitbook/assets/image%20%28359%29.png)
+![](../.gitbook/assets/image%20%28367%29.png)
 
 ```csharp
 [Fact]
