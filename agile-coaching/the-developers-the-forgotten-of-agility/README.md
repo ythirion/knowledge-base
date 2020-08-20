@@ -6,7 +6,7 @@ Little by little, **Agility has been diverted and no longer belongs to developer
 
 ## The genesis — the agile manifesto <a id="1a5d"></a>
 
-![](../../.gitbook/assets/image%20%28358%29.png)
+![](../../.gitbook/assets/image%20%28360%29.png)
 
 In 2001, 17 brilliant developers tried to find an answer to this interrogation: the way we deliver software is not efficient at all. How could we do it differently, so they asked themselves a lot of questions:
 
@@ -21,7 +21,7 @@ That came out from their discussions is what we know as the [agile manifesto ](h
 
 Nowadays when you talk about agile, people will make a shortcut and will talk to you about scrum that’s because Scrum is the most used agile framework in companies.
 
-![](../../.gitbook/assets/image%20%28366%29.png)
+![](../../.gitbook/assets/image%20%28371%29.png)
 
 In 2018, it represented almost **70% of the agile methodologies** used in agile companies \(number from the [state of agile](https://www.stateofagile.com/) \).
 
@@ -37,7 +37,7 @@ The anti-patterns described below are the ones we have observed in our coaching 
 
 ### The Scrum Master <a id="9a46"></a>
 
-![](../../.gitbook/assets/image%20%28379%29.png)
+![](../../.gitbook/assets/image%20%28387%29.png)
 
 #### Anti-patterns
 
@@ -52,7 +52,7 @@ The scrum master role is the most misunderstood role. It requires a lot of soft 
 
 ### The Product Owner <a id="5cb5"></a>
 
-![](../../.gitbook/assets/image%20%28370%29.png)
+![](../../.gitbook/assets/image%20%28375%29.png)
 
 #### Anti-patterns
 
@@ -65,7 +65,7 @@ By not holding a vision it creates a loss of meaning and motivation for the Dev 
 
 ### The Spring planning <a id="eab6"></a>
 
-![](../../.gitbook/assets/image%20%28360%29.png)
+![](../../.gitbook/assets/image%20%28362%29.png)
 
 #### Anti-patterns
 
@@ -73,7 +73,7 @@ By not holding a vision it creates a loss of meaning and motivation for the Dev 
 
 ### The Daily scrum <a id="0ce5"></a>
 
-![](../../.gitbook/assets/image%20%28357%29.png)
+![](../../.gitbook/assets/image%20%28358%29.png)
 
 #### Anti-patterns
 
@@ -87,7 +87,7 @@ This moment is often lived as a micro-management moment because in most organiza
 
 ### The Sprint review <a id="e00d"></a>
 
-![](../../.gitbook/assets/image%20%28375%29.png)
+![](../../.gitbook/assets/image%20%28381%29.png)
 
 #### Anti-patterns
 
@@ -99,7 +99,7 @@ When you work during an entire sprint on a product increment you are proud of an
 
 ### The Sprint retrospective <a id="9935"></a>
 
-![](../../.gitbook/assets/image%20%28372%29.png)
+![](../../.gitbook/assets/image%20%28377%29.png)
 
 #### Anti-patterns
 
@@ -111,7 +111,7 @@ Often in Dev teams they have impediments related to the technical side \(environ
 
 ### Self-organization <a id="37e6"></a>
 
-![](../../.gitbook/assets/image%20%28365%29.png)
+![](../../.gitbook/assets/image%20%28370%29.png)
 
 #### Anti-patterns
 
@@ -124,7 +124,7 @@ Often self-organization is a sweet dream. A lot of organizations are not ready t
 
 ### Cross-functional teams
 
-![](../../.gitbook/assets/image%20%28363%29.png)
+![](../../.gitbook/assets/image%20%28367%29.png)
 
 #### Anti-patterns
 
@@ -133,7 +133,7 @@ Often self-organization is a sweet dream. A lot of organizations are not ready t
 
 ## Lost in agile <a id="cb5b"></a>
 
-![](../../.gitbook/assets/image%20%28369%29.png)
+![](../../.gitbook/assets/image%20%28374%29.png)
 
 {% hint style="danger" %}
 Developers do not find themselves in this version of agility. They feel that is no longer in their hands. **It’s not the idea’s fault, it’s the implementation.**
