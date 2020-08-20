@@ -1,8 +1,6 @@
 # The developers — the forgotten of agility
 
-##  <a id="9ed9"></a>
-
-## Why you should read this article <a id="9ed9"></a>
+## Why you should read this article
 
 Little by little, **Agility has been diverted and no longer belongs to developers.** In this article you will understand how much the developers have become forgotten from agility.
 
