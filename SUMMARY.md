@@ -29,6 +29,7 @@
   * [The developers — the forgotten of agility](agile-coaching/the-developers-the-forgotten-of-agility/README.md)
     * [The secrets to re-on-board the devs in agility](agile-coaching/the-developers-the-forgotten-of-agility/the-secrets-to-re-on-board-the-devs-in-agility.md)
   * [Coaching toolbox](agile-coaching/coaching-toolbox/README.md)
+    * [Echelle](agile-coaching/coaching-toolbox/echelle.md)
     * [Learning expedition](agile-coaching/coaching-toolbox/learning-expedition.md)
   * [How to improve Team Decision making ?](agile-coaching/how-to-improve-team-decision-making/README.md)
     * [Decision Making Principles and Practices](agile-coaching/how-to-improve-team-decision-making/decision-making-principles-and-practices.md)
