@@ -36,7 +36,7 @@
 
 * Craftsminator is an escape game based on cards that you can use in your dev recruitment process.
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="craftsminator.md" %}
 
 ![](../.gitbook/assets/image%20%28362%29.png)
 

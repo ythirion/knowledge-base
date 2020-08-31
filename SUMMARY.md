@@ -50,7 +50,7 @@
   * [Towards a learning organization and beyond](leadership/towards-a-learning-organization-and-beyond.md)
 * [Serious games](serious-games/README.md)
   * [My serious games](serious-games/my-serious-games.md)
-  * [Libérez vos entretiens d’embauche avec la gamification](serious-games/untitled.md)
+  * [Libérez vos entretiens d’embauche avec la gamification](serious-games/craftsminator.md)
   * [How to create a game](serious-games/how-to-create-a-game.md)
   * [How to debrief a game ?](serious-games/how-to-debrief-a-game.md)
   * [Lego Serious Play \(LSP\)](serious-games/lego-serious-play-lsp/README.md)
