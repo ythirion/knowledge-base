@@ -208,6 +208,10 @@ You can check in the branch **final-solution** to see one possible implementatio
 | _**Flexibility**_ – from an inner-layer perspective, you can swap out anything in any of the outer layers and things should work just fine | _**Potentially heavy**_ |
 | _**Testability**_ – since your application core does not depend on anything else, it can be easily and quickly tested in isolation |  |
 
+## Support
+
+{% embed url="https://speakerdeck.com/thirion/clean-architecture-hands-on" %}
+
 ## Resources
 
 * Hexagonal Architecture : [https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
