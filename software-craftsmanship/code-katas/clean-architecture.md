@@ -210,7 +210,7 @@ You can check in the branch **final-solution** to see one possible implementatio
 
 ## Support
 
-{% embed url="https://speakerdeck.com/thirion/clean-architecture-hands-on" %}
+{% embed url="https://speakerdeck.com/thirion/clean-architecture-hands-on?slide=1" %}
 
 ## Resources
 
