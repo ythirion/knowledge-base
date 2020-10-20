@@ -23,6 +23,7 @@
     * [Functional Programming made easy in Java & C\#](software-craftsmanship/code-katas/functional-programming-made-easy-in-java-and-c.md)
     * [Clean Architecture](software-craftsmanship/code-katas/clean-architecture.md)
 * [Software Architecture](software-architecture/README.md)
+  * [Fundamentals of Software Architecture](software-architecture/fundamentals-of-software-architecture.md)
   * [Aligning Product & Software Design](software-architecture/aligning-product-and-software-design.md)
   * [DDD re-distilled](software-architecture/ddd-re-distilled.md)
 * [Agile coaching](agile-coaching/README.md)
