@@ -39,9 +39,7 @@ This book examines:
 
 ![](../.gitbook/assets/image%20%28394%29.png)
 
-### **2. What is the difference between an architecture decision and a design principle?**
-
-A design principle differs from an architecture decision in that a design principle is a guideline rather than a hard-and-fast rule**.**
+### **2. What is the difference between an architecture decision and a design principle?**A design principle differs from an architecture decision in that a design principle is a guideline rather than a hard-and-fast rule**.**
 
 If a particular architecture decision cannot be implemented in one part of the system due to some condition or other constraint, that decision \(or rule\) can be broken through something called a variance. Most organizations have variance models that are used by an architecture review board \(ARB\) or chief architect. 
 
@@ -58,8 +56,9 @@ If a particular architecture decision cannot be implemented in one part of the s
 * _**Diverse exposure and experience**_ : have exposure to multiple and diverse technologies, frameworks, platforms, and environments
 * _**Have business domain knowledge**_ : have a certain level of business domain expertise
 * _**Possess interpersonal skills**_ : possess exceptional interpersonal skills, including teamwork, facilitation, and leadership
-  * “no matter what they tell you, it’s always a people problem.” - Gerald Weinberg
 * _**Understand and navigate politics**_ : understand the political climate of the enterprise and be able to navigate the politics.
+
+> “no matter what they tell you, it’s always a people problem.” - Gerald Weinberg
 
 ### **4. What is the First Law of Software Architecture?**
 
@@ -91,13 +90,42 @@ To make architecture work, both the physical and virtual barriers that exist bet
 
 ### **2. List the three levels of knowledge in the knowledge triangle and provide an example of each.**
 
-**3. Why is it more important for an architect to focus on technical breadth rather than technical depth?**
+\*\*\*\*
 
-**4. What are some of the ways of maintaining your technical depth and remaining hands-on as an architect?”**
+![](../.gitbook/assets/image%20%28402%29.png)
 
-### Chapter 3: Modularity
+* _Stuff you know :_ includes the technologies, frameworks, languages, and tools a technologist uses on a daily basis to perform their job, such as knowing Java as a Java programmer
+  * _**Example**_ : DDD, C\#, .NET, Java, Agile
+* _Stuff you know you don’t know_ : includes those things a technologist knows a little about or has heard of but has little or no expertise in
+  * _**Example**_ : Machine learning
+* _Stuff you don’t know you don’t know_  : includes the entire host of technologies, tools, frameworks, and languages that would be the perfect solution to a problem a technologist is trying to solve, but the technologist doesn’t even know those things exist
+  * _**Example**_ : Don't know ;-\)
 
-**1. What is meant by the term connascence?**
+### **3. Why is it more important for an architect to focus on technical breadth rather than technical depth?**
+
+Developers will focus on Technical Depth and Architect on Technical Breadth
+
+{% hint style="success" %}
+Because architects must make decisions that match capabilities to technical constraints, a broad understanding of a wide variety of solutions is valuable. 
+
+Thus, for an architect, the wise course of action is to sacrifice some hard-won expertise and use that time to broaden their portfolio.
+{% endhint %}
+
+![](../.gitbook/assets/image%20%28403%29.png)
+
+### **4. What are some of the ways of maintaining your technical depth and remaining hands-on as an architect?**
+
+> “We firmly believe that every architect should code and be able to maintain a certain level of technical depth”
+
+* Do frequent proof-of-concepts \(POCs\)
+  * Helps validate an architecture decision by taking implementation details into account
+* Tackle some of the technical debt stories
+* Working on bug fixes
+* Leveraging automation by creating simple tools to help the dev teams
+
+## **Chapter 3: Modularity**
+
+### **1. What is meant by the term connascence?**
 
 **2. What is the difference between static and dynamic connascence?**
 
