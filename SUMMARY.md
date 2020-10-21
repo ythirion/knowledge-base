@@ -14,6 +14,7 @@
     * [Improve your test quality with Mutation testing](software-craftsmanship/testing/mutation-testing.md)
     * [Improve your software quality with Property-Based Testing](software-craftsmanship/testing/improve-your-software-quality-with-property-based-testing.md)
   * [Code katas](software-craftsmanship/code-katas/README.md)
+    * [Clean Code](software-craftsmanship/code-katas/clean-code.md)
     * [Gilded Rose \(Approval Testing\)](software-craftsmanship/code-katas/gilded-rose-approval-testing.md)
     * [Mikado method](software-craftsmanship/code-katas/mikado-method/README.md)
       * [Mikado kata](software-craftsmanship/code-katas/mikado-method/mikado-kata.md)
