@@ -125,33 +125,98 @@ Thus, for an architect, the wise course of action is to sacrifice some hard-won 
 
 ## **Chapter 3: Modularity**
 
+* _Afferent coupling_ : measures the number of incoming connections to a code artifact \(component, class, function, and so on\).
+* _Efferent coupling_ : measures the outgoing connections to other code artifacts
+
 ### **1. What is meant by the term connascence?**
 
-**2. What is the difference between static and dynamic connascence?**
+> “Two components are connascent if a change in one would require the other to be modified in order to maintain the overall correctness of the system." - _**Meilir Page-Jones**_
 
-**3. What does connascence of type mean? Is it static or dynamic connascence?**
+### **2. What is the difference between static and dynamic connascence?**
 
-**4. What is the strongest form of connascence?**
+* Static connascence refers to source-code-level coupling 
+* Dynamic connascence : execution-time coupling
 
-**5. What is the weakest form of connascence?**
+### **3. What does connascence of type mean? Is it static or dynamic connascence?**
 
-**6. Which is preferred within a code base—static or dynamic connascence?**
+It means that multiple components must agree on the type of an entity. ****Common facility in many statically typed languages to limit variables and Parameters to specific types.
+
+### **4. What is the strongest form of connascence?**
+
+Connascence of Identity
+
+![](../.gitbook/assets/image%20%28404%29.png)
+
+### **5. What is the weakest form of connascence?**
+
+Connascence of name
+
+### **6. Which is preferred within a code base—static or dynamic connascence?**
+
+Static because much most easier to understand / investigate with our tools
 
 ### Chapter 4: Architecture Characteristics Defined
 
-**1. What three criteria must an attribute meet to be considered an architecture characteristic?**
+{% hint style="success" %}
+_Favor the term Architecture Characteristics instead of NFR_
+{% endhint %}
 
-**2. What is the difference between an implicit characteristic and an explicit one? Provide an example of each.**
+### **1. What three criteria must an attribute meet to be considered an architecture characteristic?**
 
-**3. Provide an example of an operational characteristic.**
+An architecture characteristic meets three criteria: 
 
-**4. Provide an example of a structural characteristic.**
+* **Specifies a nondomain design consideration :**
+  * Requirements specify what the application should do
+  * Architecture characteristics specify operational and design criteria for success
+    * Concerning **how** to implement the requirements and why certain choices were made
+  * Ex : Level of performance for the application
+* **Influences some structural aspect of the design** : 
+  * Does this architecture characteristic require special structural consideration to succeed
+  * Ex : Security aspects
+* **Is critical or important to application success** :
+  * Applications could support a huge number of architecture characteristics…but shouldn’t
 
-**5. Provide an example of a cross-cutting characteristic.**
+### **2. What is the difference between an implicit characteristic and an explicit one? Provide an example of each.**
 
-**6. Which architecture characteristic is more important to strive for—availability or performance?**
+\*\*\*\*
 
-### Chapter 5: Identifying Architecture Characteristics
+![](../.gitbook/assets/image%20%28405%29.png)
+
+* Implicit ones rarely appear in requirements, yet they’re necessary for project success. 
+  * Examples : Availability, reliability, and security
+  * Architects must use their knowledge of the problem domain to uncover these architecture characteristics during the analysis phase
+* Explicit architecture characteristics appear in requirements documents
+
+### **3. Provide an example of an operational characteristic.**
+
+* _**Availability**_ : How long the system will need to be available \(if 24/7, steps need to be in place to allow the system to be up and running quickly in case of any failure\). 
+* _**Performance**_ : Includes stress testing, peak analysis, analysis of the frequency of functions used, capacity required, and response times. 
+* ...
+
+### **4. Provide an example of a structural characteristic.**
+
+* _**Configurability**_ : Ability for the end users to easily change aspects of the software’s configuration \(through usable interfaces\). 
+* _**Extensibility**_ : How important it is to plug new pieces of functionality in.
+* ...
+
+### **5. Provide an example of a cross-cutting characteristic.**
+
+* _**Accessibility**_ : Access to all your users, including those with disabilities like colorblindness or hearing loss. 
+* _**Authentication**_ : Security requirements to ensure users are who they say they are.
+* _**Authorization**_ : Security requirements to ensure users can access only certain functions within the application
+* ...
+
+ISO capabilities published [here](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
+
+### **6. Which architecture characteristic is more important to strive for—availability or performance?**
+
+It depends...
+
+{% hint style="success" %}
+“Never shoot for the best architecture, but rather the least worst architecture.”
+{% endhint %}
+
+> ### Chapter 5: Identifying Architecture Characteristics
 
 **1. Give a reason why it is a good practice to limit the number of characteristics \(“-ilities”\) an architecture should support.**
 
