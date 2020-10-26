@@ -264,37 +264,37 @@ So, in addition to performance, the architect must also equally place a focus on
 
 ## Chapter 6: Measuring and Governing Architecture Characteristics
 
-**1. Why is cyclomatic complexity such an important metric to analyze for architecture?**
+### **1. Why is cyclomatic complexity such an important metric to analyze for architecture?**
 
-**2. What is an architecture fitness function? How can they be used to analyze an architecture?**
+### **2. What is an architecture fitness function? How can they be used to analyze an architecture?**
 
-**3. Provide an example of an architecture fitness function to measure the scalability of an architecture.**
+### **3. Provide an example of an architecture fitness function to measure the scalability of an architecture.**
 
-**4. What is the most important criteria for an architecture characteristic to allow architects and developers to create fitness functions?**
+### **4. What is the most important criteria for an architecture characteristic to allow architects and developers to create fitness functions?**
 
-### Chapter 7: Scope of Architecture Characteristics
+## Chapter 7: Scope of Architecture Characteristics
 
-**1. What is an architectural quantum, and why is it important to architecture?**
+### **1. What is an architectural quantum, and why is it important to architecture?**
 
-**2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this sys“tem have a single quantum or four quanta? Why?**
+### **2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this sys“tem have a single quantum or four quanta? Why?**
 
-**3. Assume a system with an administration portion managing static reference data \(such as the product catalog, and warehouse information\) and a customer-facing portion managing the placement of orders. How many quanta should this system be and why? If you envision multiple quanta, could the admin quantum and customer-facing quantum share a database? If so, in which quantum would the database need to reside?**
+### **3. Assume a system with an administration portion managing static reference data \(such as the product catalog, and warehouse information\) and a customer-facing portion managing the placement of orders. How many quanta should this system be and why? If you envision multiple quanta, could the admin quantum and customer-facing quantum share a database? If so, in which quantum would the database need to reside?**
 
-### Chapter 8: Component-Based Thinking
+## Chapter 8: Component-Based Thinking
 
-**1. We define the term component as a building block of an application—something the application does. A component usually consist of a group of classes or source files. How are components typically manifested within an application or service?**
+### **1. We define the term component as a building block of an application—something the application does. A component usually consist of a group of classes or source files. How are components typically manifested within an application or service?**
 
-**2. What is the difference between technical partitioning and domain partitioning? Provide an example of each.**
+### **2. What is the difference between technical partitioning and domain partitioning? Provide an example of each.**
 
-**3. What is the advantage of domain partitioning?**
+### **3. What is the advantage of domain partitioning?**
 
-**4. Under what circumstances would technical partitioning be a better choice over domain partitioning?**
+### **4. Under what circumstances would technical partitioning be a better choice over domain partitioning?**
 
-**5. What is the entity trap? Why is it not a good approach for component identification?**
+### **5. What is the entity trap? Why is it not a good approach for component identification?**
 
-**6. When might you choose the workflow approach over the Actor/Actions approach when identifying core components?**
+### **6. When might you choose the workflow approach over the Actor/Actions approach when identifying core components?**
 
-### Chapter 9: Architecture Styles
+## Chapter 9: Architecture Styles
 
 **1. List the eight fallacies of distributed computing.**
 
@@ -304,7 +304,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **4. What are some ways of addressing stamp coupling?**
 
-### Chapter 10: Layered Architecture Style
+## Chapter 10: Layered Architecture Style
 
 **1. What is the difference between an open layer and a closed layer?**
 
@@ -318,7 +318,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **6. Why isn’t agility well supported in the layered architecture style?**
 
-### Chapter 11: Pipeline Architecture
+## Chapter 11: Pipeline Architecture
 
 **1. Can pipes be bidirectional in a pipeline architecture?**
 
@@ -332,7 +332,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **6. Provide two examples of the pipeline architecture style.**
 
-### Chapter 12: Microkernel Architecture
+## Chapter 12: Microkernel Architecture
 
 **1. What is another name for the microkernel architecture style?**
 
@@ -350,7 +350,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **8. What is domain/architecture isomorphism?**
 
-### Chapter 13: Service-Based Architecture
+## Chapter 13: Service-Based Architecture
 
 **1. How many services are there in a typical service-based architecture?**
 
@@ -368,7 +368,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **8. How can you increase the number of architecture quanta in a service-based architecture?**
 
-### Chapter 14: Event-Driven Architecture Style
+## Chapter 14: Event-Driven Architecture Style
 
 **1. What are the primary differences between the broker and mediator topologies?**
 
@@ -390,7 +390,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **10. What are some of the architecture characteristics that are not well supported in event-driven architecture?**
 
-### Chapter 15: Space-Based Architecture
+## Chapter 15: Space-Based Architecture
 
 **1. Where does space-based architecture get its name from?**
 
@@ -412,7 +412,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **10. Why does testability rate so low for space-based architecture?**
 
-### Chapter 16: Orchestration-Driven Service-Oriented Architecture
+## Chapter 16: Orchestration-Driven Service-Oriented Architecture
 
 **1. What was the main driving force behind service-oriented architecture?**
 
@@ -424,7 +424,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **5. How is domain reuse addressed in SOA? How is operational reuse addressed?**
 
-### Chapter 17: Microservices Architecture
+## Chapter 17: Microservices Architecture
 
 **1. Why is the bounded context concept so critical for microservices architecture?**
 
@@ -446,7 +446,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **10. How was domain reuse addressed in microservices? How was operational reuse addressed?**
 
-### Chapter 18: Choosing the Appropriate Architecture Style
+## Chapter 18: Choosing the Appropriate Architecture Style
 
 **1. In what way does the data architecture \(structure of the logical and physical data models\) influence the choice of architecture style?**
 
@@ -456,7 +456,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **4. What factor leads an architect toward a distributed architecture?**
 
-### Chapter 19: Architecture Decisions
+## Chapter 19: Architecture Decisions
 
 **1. What is the covering your assets anti-pattern?**
 
@@ -472,7 +472,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **7. What are three basic criteria in which you would mark the status of an ADR as Proposed?**
 
-### Chapter 20: Analyzing Architecture Risk
+## Chapter 20: Analyzing Architecture Risk
 
 **1. What are the two dimensions of the risk assessment matrix?**
 
@@ -486,7 +486,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **6. What risk rating \(1-9\) would you assign to unproven or unknown technologies?**
 
-### Chapter 21: Diagramming and Presenting Architecture
+## Chapter 21: Diagramming and Presenting Architecture
 
 **1. What is irrational artifact attachment, and why is it significant with respect to documenting and diagramming architecture?**
 
@@ -498,7 +498,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **5. What are the two primary information channels a presenter has when giving a presentation?**
 
-### Chapter 22: Making Teams Effective
+## Chapter 22: Making Teams Effective
 
 **1. What are three types of architecture personalities? What type of boundary does each personality create?**
 
@@ -508,7 +508,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **4. List three basic checklists that would be good for a development team.**
 
-### Chapter 23: Negotiation and Leadership Skills
+## Chapter 23: Negotiation and Leadership Skills
 
 **1. Why is negotiation so important as an architect?**
 
@@ -526,7 +526,7 @@ So, in addition to performance, the architect must also equally place a focus on
 
 **8. What are some techniques for managing and reducing the number of meetings you are invited to?**
 
-### Chapter 24: Developing a Career Path
+## Chapter 24: Developing a Career Path
 
 **1. What is the 20-minute rule, and when is it best to apply it?**
 
