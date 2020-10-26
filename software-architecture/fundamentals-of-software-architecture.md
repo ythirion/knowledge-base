@@ -155,7 +155,7 @@ Connascence of name
 
 Static because much most easier to understand / investigate with our tools
 
-### Chapter 4: Architecture Characteristics Defined
+## Chapter 4: Architecture Characteristics Defined
 
 {% hint style="success" %}
 _Favor the term Architecture Characteristics instead of NFR_
@@ -216,19 +216,46 @@ It depends...
 “Never shoot for the best architecture, but rather the least worst architecture.”
 {% endhint %}
 
-> ### Chapter 5: Identifying Architecture Characteristics
+## Chapter 5: Identifying Architecture Characteristics
 
-**1. Give a reason why it is a good practice to limit the number of characteristics \(“-ilities”\) an architecture should support.**
+### **1. Give a reason why it is a good practice to limit the number of characteristics \(“-ilities”\) an architecture should support.**
 
-**2. True or false: most architecture characteristics come from business requirements and user stories.**
+A common anti-pattern in architecture entails trying to design a generic architecture, one that supports all the architecture characteristics.
 
-**3. If a business stakeholder states that time-to-market \(i.e., getting new features and bug fixes pushed out to users as fastas possible\) is the most important business concern, which architecture characteristics would the architecture need to support?**
+### **2. True or false: most architecture characteristics come from business requirements and user stories.**
 
-**4. What is the difference between scalability and elasticity?**
+**True :** Understanding the key domain goals and domain situation allows an architect to translate those domain concerns to “-ilities”
+
+![](../.gitbook/assets/image%20%28406%29.png)
+
+### **3. If a business stakeholder states that time-to-market \(i.e., getting new features and bug fixes pushed out to users as fast as possible\) is the most important business concern, which architecture characteristics would the architecture need to support?**
+
+* Agility does not equal Time To Market
+* It is : Agility + Testability + Deployability
+
+### **4. What is the difference between scalability and elasticity?**
 
 **5. You find out that your company is about to undergo several major acquisitions to significantly increase its customer base. Which architectural characteristics should you be worried about?**
 
-### Chapter 6: Measuring and Governing Architecture Characteristics
+### **Exercise**
+
+A domain stakeholder might say something like :
+
+> “Due to regulatory requirements, it is absolutely imperative that we complete end-of-day fund pricing on time.”
+
+#### On what Architecture Characteristics should we focus ?
+
+* _Ineffective architect_ : just focus on performance because that seems to be the primary focus of that domain concern
+* Why it's not ?
+  * It doesn’t matter how fast the system is if it isn’t available when needed
+  * As the domain grows and more funds are created, the system must be able to also scale to finish end-of-day processing in time
+  * The system must not only be available, but must also be reliable so that it doesn’t crash as end-of-day fund prices are being calculated
+  * _**What happens if**_ the end-of-day fund pricing is about 85% complete and the system crashes?  It must be able to recover and restart where the pricing left off. 
+  * The system may be fast, but are the fund prices being calculated correctly? 
+
+So, in addition to performance, the architect must also equally place a focus on availability, scalability, reliability, recoverability, and auditability.
+
+## Chapter 6: Measuring and Governing Architecture Characteristics
 
 **1. Why is cyclomatic complexity such an important metric to analyze for architecture?**
 
@@ -500,7 +527,19 @@ It depends...
 
 **3. Describe the difference between depth and breadth of knowledge as it applies to software architects. Which should architects aspire to maximize?**
 
-\*\*\*\*
+## **Architecture katas**
+
+Small teams work for 45 minutes on a design :
+
+* Then show results to the other groups
+* The other groups vote on who came up with the best architecture
+
+Each kata has predefined sections: 
+
+* _**Description**_ :  The overall domain problem the system is trying to solve 
+* _**Users**_ : The expected number and/or types of users of the system
+* _**Requirements Domain/domain-level requirements**_ : as an architect might expect from domain users/domain experts
+* _**Additional context**_ : Many of the considerations an architect must make aren’t explicitly expressed in requirements but rather by implicit knowledge of the problem domain
 
 ## **Resources**
 
