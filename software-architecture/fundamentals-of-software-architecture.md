@@ -235,7 +235,14 @@ A common anti-pattern in architecture entails trying to design a generic archite
 
 ### **4. What is the difference between scalability and elasticity?**
 
-**5. You find out that your company is about to undergo several major acquisitions to significantly increase its customer base. Which architectural characteristics should you be worried about?**
+* _**Scalability**_ : the ability to handle a large number of concurrent users without serious performance degradation
+* _**Elasticity**_—the ability to handle bursts of requests
+
+Questions to ask if you need elasticity : Is its traffic consistent throughout the day ? or does it endure bursts of traffic during mealtimes ?
+
+### **5. You find out that your company is about to undergo several major acquisitions to significantly increase its customer base. Which architectural characteristics should you be worried about?**
+
+Availability of our systems and scalability at least.
 
 ### **Exercise**
 
@@ -540,6 +547,8 @@ Each kata has predefined sections:
 * _**Users**_ : The expected number and/or types of users of the system
 * _**Requirements Domain/domain-level requirements**_ : as an architect might expect from domain users/domain experts
 * _**Additional context**_ : Many of the considerations an architect must make aren’t explicitly expressed in requirements but rather by implicit knowledge of the problem domain
+
+[Kata list](http://fundamentalsofsoftwarearchitecture.com/katas/list.html)
 
 ## **Resources**
 
