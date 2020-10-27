@@ -12,7 +12,7 @@ When I was fully in Dev Teams it is a practice we used to define the implementat
 
 Once a team member wants to open a new Product Backlog Item, User Story or feature implementation, we do an instant meeting in front of a whiteboard and a computer.
 
-![](../../.gitbook/assets/image%20%28414%29.png)
+![](../../.gitbook/assets/image%20%28415%29.png)
 
 * We start by agreeing on its definition
 * Be sure we are all aligned on what needs to be done
@@ -52,5 +52,5 @@ The whole team or part of it can now work on the implementation by knowing exact
 
 ### Infography
 
-![](../../.gitbook/assets/image%20%28412%29.png)
+![](../../.gitbook/assets/image%20%28413%29.png)
 
