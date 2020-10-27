@@ -37,7 +37,7 @@ We use the whiteboard to align ourselves on the different flows to implement
 
 The whole team or part of it can now work on the implementation by knowing exactly what to do.
 
-### Advantages
+### Pros
 
 * Instant alignment feedback on what needs to be done
 * Increased knowledge sharing
