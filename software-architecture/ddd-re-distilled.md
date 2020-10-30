@@ -428,3 +428,5 @@ Here are great books on DDD :
 
 * [Legacy Architecture Modernisation With Strategic Domain-Driven Design](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f)
 
+{% embed url="https://speakerdeck.com/thirion/ddd-re-distilled" %}
+
