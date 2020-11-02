@@ -165,7 +165,7 @@ _Favor the term Architecture Characteristics instead of NFR_
 
 An architecture characteristic meets three criteria: 
 
-* **Specifies a nondomain design consideration :**
+* **Specifies a non domain design consideration :**
   * Requirements specify what the application should do
   * Architecture characteristics specify operational and design criteria for success
     * Concerning **how** to implement the requirements and why certain choices were made
@@ -265,6 +265,12 @@ So, in addition to performance, the architect must also equally place a focus on
 ## Chapter 6: Measuring and Governing Architecture Characteristics
 
 ### **1. Why is cyclomatic complexity such an important metric to analyze for architecture?**
+
+It is a code-level metric designed to provide an object measure for the complexity of code, at the function/method, class, or application level.
+
+It is computed by applying graph theory to code, specifically decision points, which cause different execution paths. 
+
+For example, if a function has no decision statements \(such as if statements\), then CC = 1. If the function had a single conditional, then CC = 2 because two possible execution paths exist.
 
 ### **2. What is an architecture fitness function? How can they be used to analyze an architecture?**
 
