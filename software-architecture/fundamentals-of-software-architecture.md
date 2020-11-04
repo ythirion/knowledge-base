@@ -266,17 +266,45 @@ So, in addition to performance, the architect must also equally place a focus on
 
 ### **1. Why is cyclomatic complexity such an important metric to analyze for architecture?**
 
-It is a code-level metric designed to provide an object measure for the complexity of code, at the function/method, class, or application level.
+It is a code-level metric designed to provide an object measure for the complexity of code, at the function/method, class, or application level. It is computed by applying graph theory to code, specifically decision points, which cause different execution paths.
 
-It is computed by applying graph theory to code, specifically decision points, which cause different execution paths. 
+```c
+public void decision(int c1, int c2) {
+    if (c1 < 100)
+        return 0;
+    else if (c1 + C2 > 500)
+       return 1;
+    else
+      return -1;
+}
+```
 
-For example, if a function has no decision statements \(such as if statements\), then CC = 1. If the function had a single conditional, then CC = 2 because two possible execution paths exist.
+`CC = E - N + 2`where :
+
+* E represents edges : possible decisions
+* N represents nodes : lines of code
+
+![](../.gitbook/assets/image%20%28417%29.png)
+
+{% hint style="danger" %}
+It is universally agreed that overly complex code represents a code smell it harms virtually every one of the desirable characteristics of code bases: modularity, testability, deployability, and so on
+{% endhint %}
 
 ### **2. What is an architecture fitness function? How can they be used to analyze an architecture?**
 
+Any mechanism that provides an objective integrity assessment of some architecture characteristic or combination of architecture characteristics.
+
+![](../.gitbook/assets/image%20%28418%29.png)
+
 ### **3. Provide an example of an architecture fitness function to measure the scalability of an architecture.**
 
+Load / Performance tests for example.
+
 ### **4. What is the most important criteria for an architecture characteristic to allow architects and developers to create fitness functions?**
+
+{% hint style="success" %}
+Architects must ensure that developers understand the purpose of the fitness function before imposing it on them.
+{% endhint %}
 
 ## Chapter 7: Scope of Architecture Characteristics
 
