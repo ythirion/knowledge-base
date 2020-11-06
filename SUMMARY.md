@@ -32,6 +32,7 @@
   * [Aligning Product & Software Design](software-architecture/aligning-product-and-software-design.md)
   * [DDD re-distilled](software-architecture/ddd-re-distilled.md)
 * [Agile coaching](agile-coaching/README.md)
+  * [How to run a Community of Practices \(COP\)](agile-coaching/how-to-run-a-community-of-practices-cop.md)
   * [The developers — the forgotten of agility](agile-coaching/the-developers-the-forgotten-of-agility/README.md)
     * [The secrets to re-on-board the devs in agility](agile-coaching/the-developers-the-forgotten-of-agility/the-secrets-to-re-on-board-the-devs-in-agility.md)
   * [Coaching toolbox](agile-coaching/coaching-toolbox/README.md)
