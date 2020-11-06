@@ -160,6 +160,8 @@ From my experience here are some key success criteria for your COPs :
   * Gather resources
   * Not a nice to have activity for people
   * Need to be convinced that it's a way to evolve as an organization
+* _**Use different event\(s\) format\(s\)**_
+  * Vary the pleasures
 * _**Autonomy**_
   * Autonomy means clear responsibility as well
   * Have a clear boundary on what can be done within the COP / clear vision
