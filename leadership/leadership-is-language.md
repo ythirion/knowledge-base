@@ -8,9 +8,13 @@ In Leadership is Language, Former US navy captain David Marquet expands on his b
 
 Marquet outlines a set of principles and tools that help leaders inspire their people to take responsibility and address challenges without waiting to be told what to do, highlighting how small changes in language can lead to dramatic changes in a team's success and happiness.
 
-![](../.gitbook/assets/image%20%28437%29.png)
+![](../.gitbook/assets/image%20%28438%29.png)
 
 _**Source**_ : [https://www.goodreads.com/book/show/42774083-leadership-is-language](https://www.goodreads.com/book/show/42774083-leadership-is-language)
+
+## Infographic
+
+![](../.gitbook/assets/image%20%28432%29.png)
 
 ## Notes
 
@@ -84,7 +88,7 @@ We are all both Redworkers and Blueworkers
 
 #### Differences between Redwork & Bluework
 
-![](../.gitbook/assets/image%20%28438%29.png)
+![](../.gitbook/assets/image%20%28439%29.png)
 
 {% hint style="success" %}
 The problem is that the language we use is only about doing, not thinking
