@@ -140,7 +140,7 @@ Let the doers be the deciders **-&gt;** move from coercion to collaboration
 #### **1\) Vote first, Then discuss**
 
 *  Conduct anonymous blind electronic polling
-* Ask probalistic questions instead of binary ones
+* Ask probabilistic questions instead of binary ones
 * _**Use probability cards**_
   * "How strongly do you believe we should launch on time?"
     * 1 : totally disagree
