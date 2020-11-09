@@ -1,3 +1,7 @@
+---
+description: The Hidden Power of What You Say and What You Don't
+---
+
 # Leadership is language
 
 ## Pitch
