@@ -55,6 +55,7 @@
   * [Learn leadership from the Navy SEALs](leadership/learn-leadership-from-the-navy-seals.md)
   * [Learn to lead and help your team\(s\) to be successful](leadership/learn-to-lead-and-help-your-team-s-to-be-successful.md)
   * [Towards a learning organization and beyond](leadership/towards-a-learning-organization-and-beyond.md)
+  * [Leadership is language](leadership/leadership-is-language.md)
 * [Serious games](serious-games/README.md)
   * [My serious games](serious-games/my-serious-games.md)
   * [Libérez vos entretiens d’embauche avec la gamification](serious-games/craftsminator.md)
