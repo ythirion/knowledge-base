@@ -20,6 +20,8 @@ _**Source**_ : [https://www.goodreads.com/book/show/42774083-leadership-is-langu
 
 ![Home-made infographic of the book](../.gitbook/assets/image%20%28443%29.png)
 
+{% file src="../.gitbook/assets/leadership-is-language.pdf" %}
+
 ## Notes
 
 ### Santa Fé
