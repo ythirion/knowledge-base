@@ -18,7 +18,7 @@ _**Source**_ : [https://www.goodreads.com/book/show/42774083-leadership-is-langu
 
 ## Infographic
 
-![](../.gitbook/assets/image%20%28432%29.png)
+![Home-made infographic of the book](../.gitbook/assets/image%20%28443%29.png)
 
 ## Notes
 
