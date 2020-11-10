@@ -358,7 +358,7 @@ Improve pits the "get better" self against the "be good"
   * Unlock more discretionary effort
 
 {% hint style="success" %}
-Never underestimate the power of fear to distort common sense in environments with a string culture of control and compliance
+Never underestimate the power of fear to distort common sense in environments with a strong culture of control and compliance
 {% endhint %}
 
 ## "Cheat sheet"
