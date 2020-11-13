@@ -106,6 +106,14 @@ If at this moment you lead 1 or multiple teams I propose you to :
 
 I hope you enjoyed this article, if yes I strongly advice you to read the book ;-\)
 
+## Infographic
+
+![Home-made infographic of the book](../.gitbook/assets/image%20%28444%29.png)
+
+{% file src="../.gitbook/assets/leadership-strategy.pdf" caption="High resolution infographic pdf" %}
+
+## Support
+
 Here is a slide decks based on this article :
 
 {% embed url="https://speakerdeck.com/thirion/learn-leadership-from-the-navy-seals" %}
