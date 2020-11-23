@@ -69,12 +69,12 @@
   * [En route vers l’apprenance avec Xtrem Reading](xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading.md)
   * [Resources](xtrem-reading/resources/README.md)
     * [Book notes](xtrem-reading/resources/book-notes/README.md)
-      * [Culture is everything](xtrem-reading/resources/book-notes/culture-is-everything.md)
       * [Agile People: A Radical Approach for HR & Managers](xtrem-reading/resources/book-notes/agile-people-a-radical-approach-for-hr-and-managers.md)
       * [Agile testing : A Practical Guide for Testers and Agile Teams](xtrem-reading/resources/book-notes/agile-testing-a-practical-guide-for-testers-and-agile-teams.md)
       * [Boite à outils de l'intelligence émotionnelle](xtrem-reading/resources/book-notes/boite-a-outils-de-lintelligence-emotionnelle.md)
       * [Building a better business using Lego Serious Play method](xtrem-reading/resources/book-notes/building-a-better-business-using-lego-serious-play-method.md)
       * [Building evolutionary architectures](xtrem-reading/resources/book-notes/building-evolutionary-architectures.md)
       * [Culture Agile](xtrem-reading/resources/book-notes/culture-agile.md)
+      * [Culture is everything](xtrem-reading/resources/book-notes/culture-is-everything.md)
       * [Domain-Driven Design: The First 15 Years](xtrem-reading/resources/book-notes/domain-driven-design-the-first-15-years.md)
 
