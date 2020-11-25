@@ -18,6 +18,12 @@ The Physio Co story and Culture Is Everything system explained in this book will
 
 ![](../../../.gitbook/assets/image%20%28446%29.png)
 
+## Infographic
+
+![Home made infographic](../../../.gitbook/assets/culture-is-everything%20%282%29.webp)
+
+{% file src="../../../.gitbook/assets/culture-is-everything.pdf" caption="High resolution infographic" %}
+
 ## Notes
 
 ### His 5 beliefs of Meaningful Work 
