@@ -310,9 +310,21 @@ Architects must ensure that developers understand the purpose of the fitness fun
 
 ### **1. What is an architectural quantum, and why is it important to architecture?**
 
-### **2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this sys“tem have a single quantum or four quanta? Why?**
+> “An independently deployable artifact with high functional cohesion and synchronous connascence”
 
-### **3. Assume a system with an administration portion managing static reference data \(such as the product catalog, and warehouse information\) and a customer-facing portion managing the placement of orders. How many quanta should this system be and why? If you envision multiple quanta, could the admin quantum and customer-facing quantum share a database? If so, in which quantum would the database need to reside?**
+* _Independently deployable_ **:** includes all the necessary components to function independently from other parts of the architecture.
+  * “For example, if an application uses a database, it is part of the quantum because the system won’t function without it
+* _High functional cohesion :_ how well the contained code is unified in purpose.
+  * Implies that an architecture quantum does something purposeful
+* _Synchronous connascence_ : implies synchronous calls within an application context or between distributed services that form this architecture quantum
+
+_**Closed to the Bounded Context concept from Eric Evans**_
+
+**2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this system have a single quantum or four quanta? Why?**
+
+4 quantas because each services include their owns DB : ****Each independently deployable artifact
+
+_**Interesting Kata : Going, Going, Gone**_
 
 ## Chapter 8: Component-Based Thinking
 
