@@ -20,9 +20,9 @@ The Physio Co story and Culture Is Everything system explained in this book will
 
 ## Infographic
 
-![Home made infographic](../../../.gitbook/assets/culture-is-everything%20%282%29.webp)
+![](../../../.gitbook/assets/culture-is-everything.jpg)
 
-{% file src="../../../.gitbook/assets/culture-is-everything.pdf" caption="High resolution infographic" %}
+{% file src="../../../.gitbook/assets/culture-is-everything \(1\).pdf" caption="High resolution infographic" %}
 
 ## Notes
 
