@@ -38,6 +38,8 @@ Pour ces raisons j'ai alors décidé de me lancer dans l'aventure Freelance en m
 
 La fin / début d'année est toujours un bon moment pour faire un bilan : célébrer les accomplissements et identifier des axes d'amélioration. Juste avant de me lancer dans l'aventure j'avais formalisé mes objectifs de l'année en utilisant la méthode [OKR](https://everlaab.com/methode-okr/).
 
+Je commence par me les remémorer et associer les réussites / faire un status par objectif.
+
 ![OKR 2020 : Yoan Thirion](../.gitbook/assets/image%20%28462%29.png)
 
 ### Objectif 1 : Avoir un taux d'occupation supérieur à 90%
@@ -194,11 +196,14 @@ Je me suis engagé à organiser l'édition 2021 sur Luxembourg d'ailleurs.
 
 ### Objectifs atteints ?
 
-Je suis satisfait de ces 10 premiers mois d'existence même si tout n'a pas été rose j'ai pu réalisé complètement ou partiellement de nombreux objectifs. 
+Le plus difficile pour moi en 2020 a été de ne plus réellement travailler en équipe pour un objectif plus grand nous regroupant et ainsi :
 
-Malgré la triste période que nous traversons mon avenir professionnel apparaît positif.
+* Ne plus pouvoir compter sur des fonctions de support m'aidant au quotidien 
+* Avoir la possibilité d'avoir du feedback instantané sur mes idées / réalisations
 
-C'est dans ce genre de période qu'on se doit de faire le plus preuve d'altruisme et de partage c'est pourquoi mes objectifs 2021 seront forcément encore plus tournés vers les autres.
+Malgré ce manque je suis très satisfait de ces 10 premiers mois d'existence. Même si tout n'a pas été rose j'ai pu réalisé complètement ou partiellement de nombreux objectifs que je me suis moi-même fixé. A l'heure actuelle je ne troquerais cette liberté pour rien au monde.
+
+Malgré la triste période que nous traversons mon avenir professionnel apparaît prometteur. De nombreuses personnes ne se trouvent pas dans cette situation, c'est pourquoi je vais faire preuve de plus d'altruisme et de partage en 2021. Je serai forcément encore plus tournés vers les autres.
 
 ## Les axes d'amélioration pour 2021
 
