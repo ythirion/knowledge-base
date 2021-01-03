@@ -180,7 +180,7 @@ Avec l'avénement du Remote j'ai pu participer à des dizaines d'événements en
 
 Voici mes notes et Screen-shots de ces quelques événements :
 
-
+{% embed url="https://speakerdeck.com/thirion/event-sharing-2020" %}
 
 ### Objectif 5 : Pouvoir dédier du temps à des actions à but non lucratif
 
