@@ -38,6 +38,8 @@ Pour ces raisons j'ai alors décidé de me lancer dans l'aventure Freelance en m
 
 Je les avais formalisé en utilisant la méthode [OKR](https://everlaab.com/methode-okr/).
 
+![OKR 2020 : Yoan Thirion](../.gitbook/assets/image%20%28462%29.png)
+
 ### Objectif 1 : Avoir un taux d'occupation supérieur à 90%
 
 C'est la difficulté numéro 1 lorsqu'on se lance en indépendant : garantir un taux d'occupation minimal nous permettant de subvenir à nos besoins. 
