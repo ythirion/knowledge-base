@@ -36,7 +36,7 @@ Pour ces raisons j'ai alors décidé de me lancer dans l'aventure Freelance en m
 
 ## Mes objectifs pour 2020
 
-Je les avais formalisé en utilisant la méthode [OKR](https://everlaab.com/methode-okr/).
+La fin / début d'année est toujours un bon moment pour faire un bilan : célébrer les accomplissements et identifier des axes d'amélioration. Juste avant de me lancer dans l'aventure j'avais formalisé mes objectifs de l'année en utilisant la méthode [OKR](https://everlaab.com/methode-okr/).
 
 ![OKR 2020 : Yoan Thirion](../.gitbook/assets/image%20%28462%29.png)
 
