@@ -101,7 +101,7 @@ Cet objectif a été atteint mais malheureusement elles ont été majoritairemen
 
 ### **Objectif 3** : être reconnu comme un acteur du marché Luxembourgeois et au-delà
 
-#### **Résultats clés : Créer des supports marketing**
+#### **Résultat clé : Créer des supports marketing**
 
 * [x] Créer mon [site web perso](https://yoan-thirion.com/) et y formaliser [mon offre de service](https://www.yoan-thirion.com/files/what-i-do.pdf)
 * [x] Créer ****un [CV](https://www.yoan-thirion.com/files/yoan-thirion-detailed.pdf) permettant de démontrer rapidement mon vécu et mon savoir-faire
@@ -109,15 +109,15 @@ Cet objectif a été atteint mais malheureusement elles ont été majoritairemen
 
 ![](../.gitbook/assets/image%20%28458%29.png)
 
-#### **Résultats clés : Identifier des clients cibles**
+#### **Résultat clé : Identifier des clients cibles**
 
 * [x] Utiliser Linkedin et en référencer au moins 10
 * [x] Récupérer des contacts dans au moins 80% d'entre elles
 * [x] Utiliser un outil de CRM permettant de faire mon suivi Avant-vente / Vente
 
-#### **Résultats clés : Lancer une offre de service me permettant de rencontrer à minima 3 prospects**
+#### **Résultat clé : Lancer une offre de service me permettant de rencontrer à minima 3 prospects**
 
-* [x] Structure une [offre gratuite](https://www.yoan-thirion.com/files/brown-bag-offer.pdf) de Brown Bags Lunch
+* [x] Structurer une [offre gratuite](https://www.yoan-thirion.com/files/brown-bag-offer.pdf) de Brown Bags Lunch
 * [x] Proposer à minima 10 sujets différents
   * **13** sujets techniques : Domain Driven Design re-distilled, F\# pour les développeurs objets, Refactoring facile avec la méthode Mikado, ...
   * **10** sujets liés à l'agilité, au leadership et coaching : Drive et la motivation intrinsèque, Initiation au Management 3.0, ...
@@ -128,7 +128,7 @@ Cet objectif a été atteint mais malheureusement elles ont été majoritairemen
 
 ![](../.gitbook/assets/image%20%28455%29.png)
 
-#### **Résultats clés : être en capacité de travailler / opérer 100% en remote**
+#### **Résultat clé : être en capacité de travailler / opérer 100% en remote**
 
 Cette pandémie a été l'occasion pour nous tous de redéfinir notre façon de collaborer et de travailler. Ainsi comme nombre d'entre vous je me suis adapté au 100% remote avec l'utilisation de nouvelle pratiques et outils permettant de collaborer et interagir à distance.
 
@@ -136,7 +136,7 @@ Pas question pour moi de faire moins d'atelier c'est pourquoi j'utilise des outi
 
 ![Exemple de board Miro](../.gitbook/assets/image%20%28452%29.png)
 
-#### **Résultats clés : Publier au moins 1 post / semaine sur mon** [**profil Linkedin**](https://www.linkedin.com/in/yoanthirion/)\*\*\*\*
+#### **Résultat clé : Publier au moins 1 post / semaine sur mon** [**profil Linkedin**](https://www.linkedin.com/in/yoanthirion/)\*\*\*\*
 
 _44 posts en 10 mois en 2020_
 
@@ -144,18 +144,18 @@ _44 posts en 10 mois en 2020_
 
 En tant qu'indépendant dans le milieu du service ce que l'on vend c'est une somme de savoir-faire, expérience et connaissance. Il est alors primordial de se former en continu.
 
-#### **Résultats clés : Lire à minima 8 livres sortie dans l'année**
+#### **Résultat clé : Lire à minima 8 livres sortie dans l'année**
 
 ![](../.gitbook/assets/image%20%28451%29.png)
 
-#### **Résultats clés : Participer à au moins à 2 formations / conférences**
+#### **Résultat clé : Participer à au moins à 2 formations / conférences**
 
 * [x] Participer à la formation de 2 jours de Scott Wlaschin : Domain Modeling Made Functional
 * [x] Participer au Forward Summit organisé par Management 3.0
 * [x] Participer à AgileEnLigne, FrugAgile France, Agile Tour Toulouse
 * [x] Participer à la conf Virtual DDD
 
-#### **Résultats clés : Améliorer mes compétences en Programmation fonctionnelle**
+#### **Résultat clé : Améliorer mes compétences en Programmation fonctionnelle**
 
 * [x] Participer à une formation avec Scott Wlaschin sur F\# et DDD
 * [x] Apprendre 1 nouveau langage fonctionnel : Kotlin
@@ -164,7 +164,7 @@ En tant qu'indépendant dans le milieu du service ce que l'on vend c'est une som
 
 ![](../.gitbook/assets/image%20%28460%29.png)
 
-#### **Résultats clés : Participer à au moins 10 événements en ligne**
+#### **Résultat clé : Participer à au moins 10 événements en ligne**
 
 Avec l'avénement du Remote j'ai pu participer à des dizaines d'événements en ligne parlant de sujets divers et variés. Voici mes tops de l'année :
 
@@ -182,7 +182,7 @@ Voici mes notes et Screen-shots de ces quelques événements :
 
 {% embed url="https://speakerdeck.com/thirion/event-sharing-2020" %}
 
-### Objectif 5 : Pouvoir dédier du temps à des actions à but non lucratif
+### Objectif 5 : Dédier du temps à des actions à but non lucratifs
 
 En cette première année d'exercice ça n'a pas forcément été un objectif facile à atteindre mais je suis quand même assez fier d'avoir pu contribuer à l'initiative des [formations de Noël](https://formationsdenoel.fr/) en donnant 2 formations : Introduction au Management 3.0 et une autre sur l'artisanat Logiciel.
 
