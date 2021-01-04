@@ -1,11 +1,10 @@
----
-description: >-
-  Je vous propose à travers cet article le bilan de mon année 2020. Je partage
-  cet article en me disant que cela pourrait être bénéfique à quelqu’un qui
-  hésiterait à se lancer.
----
+# Retour sur mon année 2020
 
-# Retour d'un freelance sur l'année 2020
+A travers cet article je propose de vous partager de manière transparente un bilan de mon année 2020 : ma première année d'exercice en tant que Freelance. La fin / début d'année est toujours un bon moment pour faire un bilan : célébrer les accomplissements et identifier des axes d'amélioration.
+
+Je souhaite partager le résultat de cet exercice afin de montrer que même en étant seul on est en capacité de définir et de suivre des objectifs alignés avec ses propres valeurs.
+
+Je vais donc partager dans un premier temps pourquoi j'ai choisi de devenir Freelance et présenterai mes OKRs 2020 ainsi que leurs status dans un second temps.
 
 ## Devenir indépendant
 
@@ -24,7 +23,9 @@ Les raisons souvent invoqués par les personnes qui sautent le pas sont les suiv
 
 Selon moi, les actes des organisations devraient être toujours en accord avec les valeurs qu'elles véhiculent. C'est ce qu'on appelle la congruence.
 
-A la recherche de cette congruence je me suis rendu compte que je ne pouvais pas attendre d'une organisation qu'elle soit à la fois congruente et en accord avec les valeurs qui me motivent :
+A la recherche de cette congruence je me suis rendu compte que je ne pouvais pas attendre d'une organisation qu'elle soit à la fois congruente et en accord avec les valeurs qui me motivent.
+
+### Mes Valeurs
 
 * Toujours/tout partager
 * Apprendre en continu
@@ -36,7 +37,7 @@ Pour ces raisons j'ai alors décidé de me lancer dans l'aventure Freelance en m
 
 ## Mes objectifs pour 2020
 
-La fin / début d'année est toujours un bon moment pour faire un bilan : célébrer les accomplissements et identifier des axes d'amélioration. Juste avant de me lancer dans l'aventure j'avais formalisé mes objectifs de l'année en utilisant la méthode [OKR](https://everlaab.com/methode-okr/).
+Juste avant de me lancer dans l'aventure j'avais formalisé mes objectifs de l'année en utilisant la méthode [OKR](https://everlaab.com/methode-okr/).
 
 Je commence par me les remémorer et associer les réussites / faire un status par objectif.
 
