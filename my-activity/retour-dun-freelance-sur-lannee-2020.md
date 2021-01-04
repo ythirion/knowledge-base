@@ -2,7 +2,11 @@
 
 A travers cet article je propose de vous partager de manière transparente un bilan de ma première année d'exercice en tant que Freelance. 
 
-La fin / début d'année est toujours un bon moment pour faire ce genre d'exercice : célébrer les accomplissements et identifier des axes d'amélioration. Je souhaite partager le résultat de cet exercice afin de montrer que même en étant seul on est en capacité de définir et de suivre des objectifs alignés avec ses propres valeurs.
+La fin / début d'année est toujours un bon moment pour faire ce genre d'exercice : célébrer les accomplissements et identifier des axes d'amélioration. 
+
+{% hint style="info" %}
+Je souhaite partager le résultat de cet exercice afin de montrer que même en étant seul on est en capacité de définir et de suivre des objectifs alignés avec ses propres valeurs \(des objectifs pas uniquement mercantiles\).
+{% endhint %}
 
 Je vais donc partager dans un premier temps pourquoi j'ai choisi de devenir indépendant et présenterai mes OKRs 2020 ainsi que leurs status dans un second temps.
 
