@@ -1,10 +1,10 @@
 # Retour sur mon année 2020
 
-A travers cet article je propose de vous partager de manière transparente un bilan de mon année 2020 : ma première année d'exercice en tant que Freelance. La fin / début d'année est toujours un bon moment pour faire un bilan : célébrer les accomplissements et identifier des axes d'amélioration.
+A travers cet article je propose de vous partager de manière transparente un bilan de ma première année d'exercice en tant que Freelance. 
 
-Je souhaite partager le résultat de cet exercice afin de montrer que même en étant seul on est en capacité de définir et de suivre des objectifs alignés avec ses propres valeurs.
+La fin / début d'année est toujours un bon moment pour faire ce genre d'exercice : célébrer les accomplissements et identifier des axes d'amélioration. Je souhaite partager le résultat de cet exercice afin de montrer que même en étant seul on est en capacité de définir et de suivre des objectifs alignés avec ses propres valeurs.
 
-Je vais donc partager dans un premier temps pourquoi j'ai choisi de devenir Freelance et présenterai mes OKRs 2020 ainsi que leurs status dans un second temps.
+Je vais donc partager dans un premier temps pourquoi j'ai choisi de devenir indépendant et présenterai mes OKRs 2020 ainsi que leurs status dans un second temps.
 
 ## Devenir indépendant
 
@@ -37,11 +37,9 @@ Pour ces raisons j'ai alors décidé de me lancer dans l'aventure Freelance en m
 
 ## Mes objectifs pour 2020
 
-Juste avant de me lancer dans l'aventure j'avais formalisé mes objectifs de l'année en utilisant la méthode [OKR](https://everlaab.com/methode-okr/).
+Juste avant de me lancer dans l'aventure j'avais formalisé mes objectifs de l'année en utilisant la méthode [OKR](https://everlaab.com/methode-okr/). Je commence par me les remémorer et associer les réussites / faire un status par objectif.
 
-Je commence par me les remémorer et associer les réussites / faire un status par objectif.
-
-![OKR 2020 : Yoan Thirion](../.gitbook/assets/image%20%28462%29.png)
+![OKRs 2020 Yoan Thirion](../.gitbook/assets/image%20%28463%29.png)
 
 ### Objectif 1 : Avoir un taux d'occupation supérieur à 90%
 
