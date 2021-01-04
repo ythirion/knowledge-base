@@ -185,6 +185,6 @@ From my experience here are some key success criteria for your COPs :
 
 * [Building Successful Communities of Practice](https://www.amazon.fr/Building-Successful-Communities-Practice-Webber/dp/095749193X) by [Emily Webber](https://www.amazon.fr/Emily-Webber/e/B01BZI7GRU/ref=dp_byline_cont_book_1)
 * [Fais survivre ta communauté dans un monde hostile](https://youtu.be/0bxw3mgmSXE)
-* [Self evaluation tools by Jimmy Janlen](https://blog.crisp.se/2014/01/30/jimmyjanlen/team-barometer-self-evaluation-tool)
+* [Self evaluation tools by Jimmy Janlen](https://blog.crisp.se/2019/03/11/jimmyjanlen/health-checks-for-teams-and-leadership)
 * [Lean Change Management - Jason Little](https://leanchange.org/)
 
