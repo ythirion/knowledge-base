@@ -247,5 +247,6 @@ Some of those practices :
 
 ## To go further :
 
+* Communicate the Effects of Technical Improvements to Non-Technical Stakeholders : [https://codescene.com/blog/communicate-technical-improvements-to-non-technical-stakeholders/](https://codescene.com/blog/communicate-technical-improvements-to-non-technical-stakeholders/)
 * Culture code by Octo : [https://www.octo.com/publications/culture-code/](https://www.octo.com/publications/culture-code/)
 
