@@ -89,7 +89,7 @@ I believe :
   * MVP Program
   * Sharing stories of team members living core values and then celebrating their successes
     * Consistent language 
-    * To reward, recognise and reeducate others in their efforts to be an aligned tea
+    * To reward, recognize and reeducate others in their efforts to be an aligned team
 
 ![](../../../.gitbook/assets/image%20%28449%29.png)
 
