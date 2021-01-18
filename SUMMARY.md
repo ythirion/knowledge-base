@@ -49,6 +49,7 @@
     * [Speed boat](agile-coaching/retrospectives/speed-boat.md)
     * [Star wars theme](agile-coaching/retrospectives/star-wars-theme.md)
     * [Story cubes](agile-coaching/retrospectives/story-cubes.md)
+  * [Technical Agile Coaching with the Samman Method](agile-coaching/technical-agile-coaching-with-the-samman-method.md)
   * [Xanpan - a team centric agile method story](agile-coaching/xanpan-a-team-centric-agile-method-story.md)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
 * [Leadership](leadership/README.md)
@@ -78,7 +79,6 @@
       * [Culture Agile](xtrem-reading/resources/book-notes/culture-agile.md)
       * [Culture is everything](xtrem-reading/resources/book-notes/culture-is-everything.md)
       * [Domain-Driven Design: The First 15 Years](xtrem-reading/resources/book-notes/domain-driven-design-the-first-15-years.md)
-      * [Technical Agile Coaching with the Samman Method](xtrem-reading/resources/book-notes/technical-agile-coaching-with-the-samman-method.md)
 * [My Activity](my-activity/README.md)
   * [Retour sur mon année 2020](my-activity/retour-dun-freelance-sur-lannee-2020.md)
 

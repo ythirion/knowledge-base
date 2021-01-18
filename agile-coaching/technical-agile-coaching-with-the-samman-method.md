@@ -12,7 +12,13 @@ Samman Technical Coaching is **a kind of Agile Coaching that specializes in tech
 
 _The first part of the method is working in an ensemble with development teams, programming in their production codebase. To complement this hands-on mentoring, the second part of the method is short daily "learning hour" sessions to practice particular techniques_. In this book you will learn about the Samman coaching method and how to do it in practice. From the details of daily coaching work to marketing your services and how to find a suitable assignment. It is a practical handbook for an aspiring coach and contains fresh ideas for an experienced coach looking for new ways of working.
 
-![](../../../.gitbook/assets/image%20%28464%29.png)
+![](../.gitbook/assets/image%20%28464%29.png)
+
+## Infographic
+
+![Home infographic from the book](../.gitbook/assets/image%20%28471%29.png)
+
+{% file src="../.gitbook/assets/samman-technical-coaching.pdf" caption="Hi-resolution infographic" %}
 
 ## Foreword by Kent Beck
 
@@ -71,7 +77,7 @@ The Samman coaching method is also on-the-job, together with developers in their
 
 ### Day in the life of a Samman Technical Coach
 
-![Sample agenda when coaching 2 teams](../../../.gitbook/assets/image%20%28467%29.png)
+![Sample agenda when coaching 2 teams](../.gitbook/assets/image%20%28467%29.png)
 
 ### Development techniques 
 
@@ -400,7 +406,7 @@ Check Sharon Bowman’s ‘4C’ learning model and her book ‘Training from th
 
 ### Six ‘trumps’ to help remember useful rules about how the brain works
 
-![](../../../.gitbook/assets/image%20%28468%29.png)
+![](../.gitbook/assets/image%20%28468%29.png)
 
 * Movement trumps Sitting
   * Learn more when you’re feeling awake
@@ -475,7 +481,7 @@ Each coach has their own perspective and background. Use what you know and put t
 
 ### **Sales Pitch**
 
-![](../../../.gitbook/assets/image%20%28469%29.png)
+![](../.gitbook/assets/image%20%28469%29.png)
 
 ### Beginning Coaching with a New Organization
 
