@@ -53,6 +53,7 @@
   * [Xanpan - a team centric agile method story](agile-coaching/xanpan-a-team-centric-agile-method-story.md)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
 * [Leadership](leadership/README.md)
+  * [Bref. J'ai pris une tarte dans la gueule \(et ça fait extrêmement de bien\)](leadership/bref.-jai-pris-une-tarte-dans-la-gueule-et-ca-fait-extremement-de-bien.md)
   * [Forward Summit 2020](leadership/forward-summit-2020.md)
   * [Learn leadership from the Navy SEALs](leadership/learn-leadership-from-the-navy-seals.md)
   * [Learn to lead and help your team\(s\) to be successful](leadership/learn-to-lead-and-help-your-team-s-to-be-successful.md)
