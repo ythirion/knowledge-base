@@ -22,13 +22,12 @@ description: Practice refactoring tips to improve your day-to-day efficiency
 
 ![](../../.gitbook/assets/image%20%28477%29.png)
 
-Please Describe : 
+_**Names of Refactorings :**_
 
-* Why Do you refactor ?
-* When do you make it ?
-* How do you do it ?
-* What help you in such situation ?
-* How many times do you refactor during a week ?
+* Write down names of refactorings you already know
+* Write up names on a whiteboard or flipchart
+
+Remind them some they use probably : Rename Variable and Extract Interface.
 
 ## Concepts
 
