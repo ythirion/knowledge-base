@@ -37,6 +37,10 @@ Remind them some they use probably : Rename Variable and Extract Interface.
 
 ### What is refactoring ?
 
+> _Refactoring \(noun\): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior._
+>
+> _Refactoring \(verb\): to restructure software by applying a series of refactorings without changing its observable behavior_. - [Martin Fowler](https://martinfowler.com/bliki/DefinitionOfRefactoring.html)
+
 {% hint style="success" %}
 Refactoring is a systematic process of **improving code** without creating new functionality that **can transform a mess into clean code and simple design**.
 {% endhint %}
