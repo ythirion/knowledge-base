@@ -5,7 +5,7 @@
 * In solo, list all the pros and cons of Pair Programming
 * Share with the rest of the group
 
-![](../../.gitbook/assets/image%20%28490%29.png)
+![](../../.gitbook/assets/image%20%28491%29.png)
 
 ## Concepts - 20'
 
@@ -25,15 +25,15 @@
 
 * Pair programming is not 1 person sleeping and only one working.
 
-![](../../.gitbook/assets/image%20%28499%29.png)
+![](../../.gitbook/assets/image%20%28500%29.png)
 
 ### Different styles
 
-![](../../.gitbook/assets/image%20%28496%29.png)
+![](../../.gitbook/assets/image%20%28497%29.png)
 
-![](../../.gitbook/assets/image%20%28491%29.png)
+![](../../.gitbook/assets/image%20%28492%29.png)
 
-![Ping pong when doing TDD](../../.gitbook/assets/image%20%28493%29.png)
+![Ping pong when doing TDD](../../.gitbook/assets/image%20%28494%29.png)
 
 ### What about the cost of TDD ?
 
@@ -44,7 +44,7 @@
     * Higher quality assurance
     * Less field support
 
-![](../../.gitbook/assets/image%20%28498%29.png)
+![](../../.gitbook/assets/image%20%28499%29.png)
 
 ## Concrete Practice - Create your check-list - 20'
 
