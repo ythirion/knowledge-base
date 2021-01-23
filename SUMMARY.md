@@ -19,6 +19,7 @@
   * [Code katas](software-craftsmanship/code-katas/README.md)
     * [TDD](software-craftsmanship/code-katas/tdd-katas/README.md)
       * [Stack kata](software-craftsmanship/code-katas/tdd-katas/stack.md)
+      * [Fizzbuzz](software-craftsmanship/code-katas/tdd-katas/fizzbuzz.md)
     * [Improve your software quality with Property-Based Testing](software-craftsmanship/code-katas/improve-your-software-quality-with-property-based-testing.md)
     * [Clean Code](software-craftsmanship/code-katas/clean-code.md)
     * [Clean Architecture](software-craftsmanship/code-katas/clean-architecture.md)
