@@ -3,6 +3,7 @@
 * [Home](README.md)
 * [Software craftsmanship](software-craftsmanship/README.md)
   * [Practices](software-craftsmanship/practices/README.md)
+    * [Pair Programming](software-craftsmanship/practices/pair-programming.md)
     * [Co-designs](software-craftsmanship/practices/co-designs.md)
     * [Design sessions](software-craftsmanship/practices/design-sessions.md)
   * [The Software Craftsman](software-craftsmanship/the-software-craftsman.md)
