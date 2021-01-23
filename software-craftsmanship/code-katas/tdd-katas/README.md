@@ -1,2 +1,2 @@
-# TDD Katas
+# TDD
 
