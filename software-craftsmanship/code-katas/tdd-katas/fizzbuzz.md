@@ -55,7 +55,7 @@ Write a method that returns for a number from 1 to 100 this given number, except
 * For the multiples of 5 returns “_**Buzz**_”
 * For numbers which are multiples of both 3 and 5 returns “_**FizzBuzz**_”
 
-![](../../../.gitbook/assets/image%20%28493%29.png)
+![](../../../.gitbook/assets/image%20%28499%29.png)
 
 Let them start for 10' then reflect you can then give them more guidance :
 
@@ -63,7 +63,7 @@ Let them start for 10' then reflect you can then give them more guidance :
 
 By using the Test Cards in pair : identify test cases
 
-![](../../../.gitbook/assets/image%20%28495%29.png)
+![](../../../.gitbook/assets/image%20%28501%29.png)
 
 ### How would you name your first test ?
 
