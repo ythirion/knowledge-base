@@ -119,5 +119,5 @@ Take times to reflect on the design outside of the test : great to use diagrams 
 * [Mocking as a design tool article](https://codurance.com/2018/10/18/mocking-as-a-design-tool/)
 * [Clean architecture through outside-in TDD](https://medium.com/@erik.sacre/clean-architecture-through-outside-in-tdd-64a31de17ccf)
 
-![](../../../.gitbook/assets/image%20%28521%29.png)
+![](../../../.gitbook/assets/image%20%28522%29.png)
 
