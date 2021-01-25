@@ -1,4 +1,4 @@
-# Code katas
+# Katas
 
 ## Ressources
 
@@ -6,7 +6,7 @@
 * [https://katalyst.codurance.com/](https://katalyst.codurance.com/)
 * [https://github.com/emilybache/](https://github.com/emilybache/)
 * [https://kata-log.rocks/](https://kata-log.rocks/)
-* Technical agile coaching materials : [https://emilybache.github.io/](https://emilybache.github.io/)
+* Technical agile coaching materials : [https://sammancoaching.org/](https://sammancoaching.org/)
 
 ## Refactoring
 

@@ -17,7 +17,7 @@
       * [CDC testing made simple with Pact](software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests/cdc-testing-made-simple-with-pact.md)
       * [Pact broker : the missing piece of your Consumer-Driven Contract approach](software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests/pact-broker-the-missing-piece-of-your-consumer-driven-contract-approach.md)
     * [Improve your test quality with Mutation testing](software-craftsmanship/testing/mutation-testing.md)
-  * [Code katas](software-craftsmanship/code-katas/README.md)
+  * [Katas](software-craftsmanship/code-katas/README.md)
     * [TDD](software-craftsmanship/code-katas/tdd-katas/README.md)
       * [Stack kata](software-craftsmanship/code-katas/tdd-katas/stack.md)
       * [Fizzbuzz](software-craftsmanship/code-katas/tdd-katas/fizzbuzz.md)
