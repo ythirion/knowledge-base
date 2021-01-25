@@ -18,6 +18,7 @@
       * [Pact broker : the missing piece of your Consumer-Driven Contract approach](software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests/pact-broker-the-missing-piece-of-your-consumer-driven-contract-approach.md)
     * [Improve your test quality with Mutation testing](software-craftsmanship/testing/mutation-testing.md)
   * [Katas](software-craftsmanship/code-katas/README.md)
+    * [Mocking](software-craftsmanship/code-katas/mocking.md)
     * [TDD](software-craftsmanship/code-katas/tdd-katas/README.md)
       * [Stack kata](software-craftsmanship/code-katas/tdd-katas/stack.md)
       * [Fizzbuzz](software-craftsmanship/code-katas/tdd-katas/fizzbuzz.md)

@@ -13,6 +13,7 @@ description: Kata from Sandro Mancuso
 
 * What does it bring to design classes as a consumer of the class ?
 * What could it bring to do it in pair ?
+* \[Which kind of tool can help you design better software ?\] - Optional
 
 ## Concepts - 10'
 
