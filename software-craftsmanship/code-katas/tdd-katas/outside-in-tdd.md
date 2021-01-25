@@ -29,7 +29,7 @@ _**In outside-in TDD we only implement what is needed to serve the outside.**_
   * Drive to the next step
 * _**This double loop continues till the feature test turns green**_
 
-![](../../../.gitbook/assets/image%20%28517%29.png)
+![](../../../.gitbook/assets/image%20%28518%29.png)
 
 By using this practice :
 
@@ -90,7 +90,7 @@ As a coach use the Double Loop diagram to demo where the people are.
 
 Introduce the use of Sequence diagram after some time spend on the kata
 
-![](../../../.gitbook/assets/image%20%28515%29.png)
+![](../../../.gitbook/assets/image%20%28516%29.png)
 
 Use sequence diagram to :
 
@@ -119,5 +119,5 @@ Take times to reflect on the design outside of the test : great to use diagrams 
 * [Mocking as a design tool article](https://codurance.com/2018/10/18/mocking-as-a-design-tool/)
 * [Clean architecture through outside-in TDD](https://medium.com/@erik.sacre/clean-architecture-through-outside-in-tdd-64a31de17ccf)
 
-![](../../../.gitbook/assets/image%20%28519%29.png)
+![](../../../.gitbook/assets/image%20%28521%29.png)
 
