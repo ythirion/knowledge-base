@@ -45,7 +45,7 @@
 
 ### NoSQL
 
-![](../.gitbook/assets/image%20%28515%29.png)
+![](../.gitbook/assets/image%20%28518%29.png)
 
 ### Different kind of NoSQL Databases
 
@@ -83,7 +83,7 @@ We can now create polyglot persistence :
 
 Use the tool that fits the best your needs.
 
-![](../.gitbook/assets/image%20%28513%29.png)
+![](../.gitbook/assets/image%20%28514%29.png)
 
 ### Remember the past
 
