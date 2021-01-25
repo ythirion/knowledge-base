@@ -81,8 +81,9 @@ public class Leap_year_spec {
 
 ## Conclusion - 10'
 
-Reflect on what happened :
+Imagine you use this naming technique during the next 6 months :
 
-* How did we break down the problem into pieces ?
-* Will it be easy to maintain and read those tests ?
+* What has changed ?
+* Who else have noticed those changes ?
+* What are the impacts on your day to day ?
 
