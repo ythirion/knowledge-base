@@ -87,3 +87,9 @@ Imagine you use this naming technique during the next 6 months :
 * Who else have noticed those changes ?
 * What are the impacts on your day to day ?
 
+### Resources
+
+* [https://www.youtube.com/watch?v=azoucC\_fwzw&ab\_channel=BuildStuff](https://www.youtube.com/watch?v=azoucC_fwzw&ab_channel=BuildStuff)
+
+
+
