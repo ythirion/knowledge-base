@@ -30,6 +30,10 @@ Samman Technical Coaching is a method for people who want to make a difference a
   * [How to run a Community of Practices \(COP\)](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/how-to-run-a-community-of-practices-cop)
   * [The developers — the forgotten of agility](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/the-developers-the-forgotten-of-agility)
   * [Xanpan](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/xanpan-a-team-centric-agile-method-story)
+  * [Drive and Intrinsic motivation](https://speakerdeck.com/thirion/drive-and-intrinsic-motivation-a-toolkit-for-todays-managers)
+  * [Leadership lessons from the Navy SEALs](https://yoan-thirion.gitbook.io/knowledge-base/leadership/learn-leadership-from-the-navy-seals)
+    * [Part 2](https://yoan-thirion.gitbook.io/knowledge-base/leadership/learn-to-lead-and-help-your-team-s-to-be-successful)
+  * [Agile HR](https://speakerdeck.com/thirion/how)
 * Xtrem
   * [En route vers l’apprenance avec Xtrem Reading](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective)
