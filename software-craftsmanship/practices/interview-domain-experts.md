@@ -195,18 +195,18 @@ module CardGame =
 ```kotlin
 private enum class Suit { Club, Diamond, Spade, Heart }
 private enum class Rank { Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King, Ace }
-
 private data class Card(val suit: Suit, val rank: Rank)
-private data class Player(val name: String, val hand: Hand)
-private data class Game(val deck: Deck, val players: List<Player>)
 
 private typealias Hand = List<Card>
 private typealias Deck = List<Card>
 private typealias ShuffledDeck = List<Card>
 
-private typealias deal = (ShuffledDeck) -> Pair<Card?, ShuffledDeck>
-private typealias pickUpCard = (Card, Hand) -> Hand
-private typealias shuffle = (Deck) -> ShuffledDeck
+private data class Player(val name: String, val hand: Hand)
+private data class Game(val deck: Deck, val players: List<Player>)
+
+private typealias Deal = (ShuffledDeck) -> Pair<Card?, ShuffledDeck>
+private typealias PickUpCard = (Card, Hand) -> Hand
+private typealias Shuffle = (Deck) -> ShuffledDeck
 ```
 {% endtab %}
 {% endtabs %}
@@ -419,4 +419,52 @@ _**Example**_ : _**For your next**_ report, I suggest that you divide the summar
 * [Domain Modeling Made Functional Video](https://www.youtube.com/watch?v=2JB1_e5wZmU&ab_channel=KanDDDinsky)
 
 ![](../../.gitbook/assets/image%20%28547%29.png)
+
+#### Implementation of the Domain Model
+
+{% tabs %}
+{% tab title="F\#" %}
+```fsharp
+module CardGameImplementation =
+    open CardGame
+
+    let pickup : PickUp =
+        fun (card,hand) ->
+            // the "::" operator prepends the card to the hand
+            let newHand = card::hand
+            newHand
+
+    let deal : Deal =
+        fun (ShuffledDeck deck) ->
+            // the "::" pattern deconstructs a non-empty list into head/tail
+            match deck with
+            | first::rest -> Some first, ShuffledDeck rest
+            | [] -> None, ShuffledDeck []
+
+    let shuffle : Shuffle =
+        fun deck ->
+            // don't worry about how to do proper shuffling
+            let random = System.Random()
+
+            deck
+            |> List.map (fun card -> random.Next(), card )  // add a random to each card
+            |> List.sortBy (fun (rand,card) -> rand)       // sort
+            |> List.map (fun (rand,card) -> card)          // remove the random number
+            |> ShuffledDeck
+```
+{% endtab %}
+
+{% tab title="Kotlin" %}
+```kotlin
+private val pickUp : PickUpCard = { card, hand -> hand + card }
+private val dealer : Deal = { shuffledDeck ->
+    when {
+        shuffledDeck.isEmpty() -> Pair(null, ArrayList())
+        else -> Pair(shuffledDeck.first(), shuffledDeck.drop(1))
+    }
+}
+private val shuffle : Shuffle = { deck -> deck.shuffled() }
+```
+{% endtab %}
+{% endtabs %}
 
