@@ -15,6 +15,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
 * Discover Practices
   * [Pair Programming](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/practices/pair-programming)
   * [Code Review](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/practices/code-review)
+  * [Interview Domain Experts](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/practices/interview-domain-experts)
 * [Technical Debt retrospective](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/technical-debt-workshop)
 * Languages / Libs
   * [F\# for OO Programmers](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/f-for-oo-programmers)
