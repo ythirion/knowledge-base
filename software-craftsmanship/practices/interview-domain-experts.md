@@ -390,6 +390,7 @@ data PhoneNumber = non empty string containing only digits, hyphens, and spaces
     * Did it work? Are you using the same vocabulary? 
   * Fast feedback on the design 
     * A few weeks of coding can save hours of talking! 
+  * What this practice could bring on your current development ?
 * Bonus : Write a feedforward for yourself :
   * Formulate requests or propose future-oriented options or solutions
 
