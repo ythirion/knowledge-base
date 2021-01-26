@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Samman Technical Coaching](samman-technical-coaching.md)
 * [Software craftsmanship](software-craftsmanship/README.md)
   * [Practices](software-craftsmanship/practices/README.md)
     * [Pair Programming](software-craftsmanship/practices/pair-programming.md)
@@ -62,6 +63,7 @@
   * [Technical Agile Coaching with the Samman Method](agile-coaching/technical-agile-coaching-with-the-samman-method.md)
   * [Xanpan - a team centric agile method story](agile-coaching/xanpan-a-team-centric-agile-method-story.md)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
+  * [Become a better speaker through peer feedback](agile-coaching/become-a-better-speaker-through-peer-feedback.md)
 * [Leadership](leadership/README.md)
   * [Bref. J'ai pris une tarte dans la gueule \(et ça fait extrêmement de bien\)](leadership/bref.-jai-pris-une-tarte-dans-la-gueule-et-ca-fait-extremement-de-bien.md)
   * [Forward Summit 2020](leadership/forward-summit-2020.md)
@@ -76,8 +78,6 @@
   * [How to debrief a game ?](serious-games/how-to-debrief-a-game.md)
   * [Lego Serious Play \(LSP\)](serious-games/lego-serious-play-lsp/README.md)
     * [LSP in your job interviews](serious-games/lego-serious-play-lsp/lsp-in-your-job-interviews.md)
-* [Soft skills](soft-skills/README.md)
-  * [Become a better speaker through peer feedback](soft-skills/become-a-better-speaker-through-peer-feedback.md)
 * [Xtrem Reading](xtrem-reading/README.md)
   * [En route vers l’apprenance avec Xtrem Reading](xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading.md)
   * [Resources](xtrem-reading/resources/README.md)
