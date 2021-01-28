@@ -39,7 +39,9 @@ This book examines:
 
 ![](../.gitbook/assets/image%20%28394%29.png)
 
-### **2. What is the difference between an architecture decision and a design principle?**A design principle differs from an architecture decision in that a design principle is a guideline rather than a hard-and-fast rule**.**
+### **2. What is the difference between an architecture decision and a design principle?**
+
+A design principle differs from an architecture decision in that a design principle is a guideline rather than a hard-and-fast rule**.**
 
 If a particular architecture decision cannot be implemented in one part of the system due to some condition or other constraint, that decision \(or rule\) can be broken through something called a variance. Most organizations have variance models that are used by an architecture review board \(ARB\) or chief architect. 
 
