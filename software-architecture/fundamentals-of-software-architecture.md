@@ -322,7 +322,7 @@ Architects must ensure that developers understand the purpose of the fitness fun
 
 _**Closed to the Bounded Context concept from Eric Evans**_
 
-**2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this system have a single quantum or four quanta? Why?**
+### **2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this system have a single quantum or four quanta? Why?**
 
 4 quantas because each services include their owns DB : ****Each independently deployable artifact
 
