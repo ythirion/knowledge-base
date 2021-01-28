@@ -326,7 +326,7 @@ _**Closed to the Bounded Context concept from Eric Evans**_
 
 4 quantas because each services include their owns DB : ****Each independently deployable artifact
 
-_**Interesting Kata : Going, Going, Gone**_
+_**Interesting Kata :**_ [_**Going, Going, Gone**_](http://fundamentalsofsoftwarearchitecture.com/katas/kata?id=GoingGoingGone)_\*\*\*\*_
 
 ## Chapter 8: Component-Based Thinking
 
