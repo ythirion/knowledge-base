@@ -175,7 +175,11 @@ From my experience here are some key success criteria for your COPs :
   * Organize retrospectives
   * You can use the self assessment questions below \(I recommend to adapt them regarding your own COP vision\)
 
-![src : https://blog.crisp.se/2014/01/30/jimmyjanlen/team-barometer-self-evaluation-tool](../.gitbook/assets/image%20%28425%29.png)
+### Community Health check
+
+![](../.gitbook/assets/image%20%28548%29.png)
+
+{% file src="../.gitbook/assets/cop-health-check.pdf" caption="Download the cards" %}
 
 ## Infographic
 
