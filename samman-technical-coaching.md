@@ -38,6 +38,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
 * Xtrem
   * [En route vers l’apprenance avec Xtrem Reading](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective)
+* [Good Morning Learning by Philippe Bourgau](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/?utm_content=bufferab70c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
 ## Code Katas
 
