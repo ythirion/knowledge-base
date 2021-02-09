@@ -45,6 +45,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
 * Craft code
   * [Clean Code](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/clean-code)
   * [Write S.O.L.I.D code](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/write-s.o.l.i.d-code)
+  * Pure Functions
   * [Clean Architecture](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/clean-architecture)
   * [Functional Programming made easy in Java & C\#](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/functional-programming-made-easy-in-java-and-c) \(Vavr / Language-ext\)
 * Test Driven Development

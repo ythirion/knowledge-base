@@ -33,6 +33,7 @@
     * [Gilded Rose \(Approval Testing\)](software-craftsmanship/code-katas/gilded-rose-approval-testing.md)
     * [Mikado method](software-craftsmanship/code-katas/mikado-method/README.md)
       * [Mikado kata](software-craftsmanship/code-katas/mikado-method/mikado-kata.md)
+    * [Pure functions](software-craftsmanship/code-katas/pure-functions.md)
     * [Theatrical players refactoring Kata](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/README.md)
       * [Let's refactor \(OOP style\)](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/lets-refactor-oop-style.md)
       * [Let's refactor \(FP style\)](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/lets-refactor-fp-style.md)
