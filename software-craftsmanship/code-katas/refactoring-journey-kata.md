@@ -95,7 +95,9 @@ There are two cases when tests can break down after refactoring :
 
 ![](../../.gitbook/assets/image%20%28479%29.png)
 
-Follow the README file from [my repository](https://github.com/ythirion/refactoring-journey)
+Follow the journey step by step as explained in [my website](https://ythirion.github.io/refactoring-journey/) :
+
+![](../../.gitbook/assets/image%20%28566%29.png)
 
 ## Conclusion
 
