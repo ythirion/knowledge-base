@@ -1,6 +1,11 @@
+---
+description: >-
+  In this session we will think about our responsibility as Software Developers
+  regarding larger communities and we will initiate our own Oaths that we will
+  be able to apply in our day to day.
+---
+
 # Dev ethics
-
-
 
 ## Connection - 10'
 
