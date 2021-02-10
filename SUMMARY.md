@@ -9,6 +9,7 @@
     * [Co-designs](software-craftsmanship/practices/co-designs.md)
     * [Design sessions](software-craftsmanship/practices/design-sessions.md)
     * [Interview Domain Experts](software-craftsmanship/practices/interview-domain-experts.md)
+    * [Dev ethics](software-craftsmanship/practices/dev-ethics.md)
   * [The Software Craftsman](software-craftsmanship/the-software-craftsman.md)
   * [Technical debt workshop](software-craftsmanship/technical-debt-workshop.md)
   * [Functional Programming made easy in C\# with Language-ext](software-craftsmanship/functional-programming-made-easy-in-c-with-language-ext.md)
