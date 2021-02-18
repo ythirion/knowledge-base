@@ -218,8 +218,9 @@ You can check in the branch **final-solution** to see one possible implementatio
 * Onion Architecture : [https://bitbucket.org/jeffreypalermo/onion-architecture/src](https://bitbucket.org/jeffreypalermo/onion-architecture/src
   )
 * Clean Architecture : [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* A simple template for Onion Architecture with .NET 5 : [https://pereiren.medium.com/a-simple-template-for-onion-architecture-with-net-5-6c0e2f3b29c8](https://pereiren.medium.com/a-simple-template-for-onion-architecture-with-net-5-6c0e2f3b29c8)
 
-
+![](../../.gitbook/assets/image%20%28567%29.png)
 
 
 
