@@ -39,7 +39,7 @@
       * [Let's refactor \(OOP style\)](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/lets-refactor-oop-style.md)
       * [Let's refactor \(FP style\)](software-craftsmanship/code-katas/theatrical-players-refactoring-kata/lets-refactor-fp-style.md)
     * [Functional Programming made easy in Java & C\#](software-craftsmanship/code-katas/functional-programming-made-easy-in-java-and-c.md)
-    * [Refactoring journey \(kata\)](software-craftsmanship/code-katas/refactoring-journey-kata.md)
+    * [Refactoring journey](software-craftsmanship/code-katas/refactoring-journey-kata.md)
 * [Software Architecture](software-architecture/README.md)
   * [Fundamentals of Software Architecture](software-architecture/fundamentals-of-software-architecture.md)
   * [Aligning Product & Software Design](software-architecture/aligning-product-and-software-design.md)

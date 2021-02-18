@@ -2,7 +2,7 @@
 description: Practice refactoring tips to improve your day-to-day efficiency
 ---
 
-# Refactoring journey \(kata\)
+# Refactoring journey
 
 ## Objectives
 
@@ -98,6 +98,10 @@ There are two cases when tests can break down after refactoring :
 Follow the journey step by step as explained in [my website](https://ythirion.github.io/refactoring-journey/) :
 
 ![](../../.gitbook/assets/image%20%28566%29.png)
+
+#### Enjoy the Journey
+
+![Refactoring Journey map](../../.gitbook/assets/refactoring-map.webp)
 
 ## Conclusion
 
