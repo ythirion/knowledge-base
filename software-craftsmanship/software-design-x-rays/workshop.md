@@ -1,3 +1,7 @@
+---
+description: Workshop to demo the power of CrimeScene and the ideas behind it.
+---
+
 # Workshop
 
 ### Objectives :
