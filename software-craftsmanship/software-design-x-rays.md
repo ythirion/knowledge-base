@@ -457,7 +457,7 @@ Several factors can minimize the risk of **social loafing**:
 
 ![](../.gitbook/assets/image%20%28571%29.png)
 
-### Guide On- and Offboarding with Social Data
+### Guide On- and Off-boarding with Social Data
 
 #### Identify the Experts
 
