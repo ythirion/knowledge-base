@@ -1,0 +1,56 @@
+# Workshop
+
+### Objectives :
+
+* Understand how to fix technical debt with Code Analysis.
+
+## Connection - 10'
+
+In pair answer to those questions, in your team :
+
+* How do you quantify your technical debt ?
+* How do you use your Static Code Analysis tools ?
+* What could be improved ?
+
+## Concepts - 20'
+
+Go through this page
+
+{% page-ref page="./" %}
+
+![](../../.gitbook/assets/software-design-x-rays.png)
+
+## Concrete Practice - 20'
+
+In pair select 1 exercise \(in each exercise you will investigate in a code base of your choice with [CodeScene](https://codescene.io/)\) - **15'**
+
+* Find Refactoring Candidates :
+  * [ASP .NET Core](https://codescene.io/projects/1690/jobs/52744/results/code/hotspots/system-map)
+  * [Docker](https://codescene.io/projects/169/jobs/3964/results/code/hotspots/system-map)
+  * [Rails](https://codescene.io/projects/1699/jobs/4265/results/code/hotspots/system-map)
+* Prioritize Hotspots :
+  * [Linux](https://codescene.io/projects/1740/jobs/4358/results/code/hotspots/system-map)
+* Identify change patterns :
+  * [e-Commerce site](https://codescene.io/projects/1593/jobs/3920/results/code/temporalcoupling/by-commits)
+  * [PhpSpreadSheet](https://codescene.io/projects/1579/jobs/3839/results/code/temporalcoupling/by-commits)
+* Find the Experts in [Kubernetes](https://codescene.io/projects/1823/jobs/4598/results/social/knowledge/individuals)
+* Off-boarding, what if someone leaves the project?
+  * [Clojure](https://codescene.io/projects/1824/jobs/4597/results/social/knowledge/individuals?aspect=loss)
+  * [Git](https://codescene.io/projects/1664/jobs/4156/results/social/knowledge/individuals?aspect=loss)
+
+#### Collective debriefing - What are your findings ?
+
+## Conclusion - 10'
+
+There is so much more to do with what we already have.
+
+Demo of CodeCharta with SonarQube Data :
+
+![](../../.gitbook/assets/image%20%28593%29.png)
+
+#### Resources
+
+* [Codecharta](https://github.com/MaibornWolff/codecharta)
+* [CodeScene](https://codescene.com/)
+* [Code-maat](https://github.com/adamtornhill/code-maat)
+
