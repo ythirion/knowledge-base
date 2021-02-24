@@ -14,9 +14,9 @@ Use statistics and data science to uncover both problematic code and the behavio
 
 ## Infographic
 
-![Home made infographic of the book](../../.gitbook/assets/software-design-x-rays.png)
+![Home made infographic from the book](../../.gitbook/assets/software-design-x-rays%20%281%29.png)
 
-{% file src="../../.gitbook/assets/software-design-x-rays.pdf" caption="Hi-resolution infographic" %}
+{% file src="../../.gitbook/assets/software-design-x-rays \(1\).pdf" caption="Hi-resolution infographic" %}
 
 ## Part I — Prioritize and React to Technical Debt
 
