@@ -48,13 +48,28 @@ In pair select 1 exercise \(in each exercise you will investigate in a code base
 
 There is so much more to do with what we already have.
 
-Demo of CodeCharta with SonarQube Data :
+#### Demo of CodeCharta with SonarQube Data :
 
 ![](../../.gitbook/assets/image%20%28593%29.png)
+
+#### Demo of code-forensics
+
+* Clone a repository
+* Run analysis through :
+
+```bash
+sh run-analysis.sh --projectName=<project> --repositoryPath=<path>
+```
+
+{% embed url="https://github.com/ythirion/code-forensics" %}
+
+![](../../.gitbook/assets/image%20%28594%29.png)
 
 #### Resources
 
 * [Codecharta](https://github.com/MaibornWolff/codecharta)
 * [CodeScene](https://codescene.com/)
 * [Code-maat](https://github.com/adamtornhill/code-maat)
+* [code-forensics](https://github.com/smontanari/code-forensics)
+* [code-forensics scripts](https://github.com/ythirion/code-forensics)
 
