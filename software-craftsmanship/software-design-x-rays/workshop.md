@@ -74,5 +74,4 @@ sh run-analysis.sh --projectName=<project> --repositoryPath=<path>
 * [Code-maat](https://github.com/adamtornhill/code-maat)
 * [code-forensics](https://github.com/smontanari/code-forensics)
 * [code-forensics scripts](https://github.com/ythirion/code-forensics)
-* I really took a slap in my face the first time I have heard about his perspective on software development and I am sure you will take it too during this session ;-\)
 
