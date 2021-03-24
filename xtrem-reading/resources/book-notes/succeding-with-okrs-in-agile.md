@@ -149,5 +149,116 @@ In [Grow the Pie](https://www.amazon.fr/Grow-Pie-Companies-Deliver-Purpose/dp/11
   * benefits society
   * brings financial rewards too
 
+### Writing OKRs
 
+* Quarterly writing of new OKRs is a strategy question :
+  * _What are the strategic priorities for the next quarter ?_
+  * _What does the team aim to do ?_
+  * _What targets will the team set for itself ?_
+* Prioritization is not just about deciding what to do
+  * It is also deciding **what not to do**
+  * Everything that is not in the OKRs is lower priority \(by definition\)
+* OKRs operate within a cycle : prioritize, focus, execute, review
+
+#### Team setting
+
+* _Are you setting utility OKRs or aspirational OKRs ?_
+  * One team may embrace ambition and aim high
+  * Other teams may value predictability and set goals they are confident can be achieved
+* Mark aspirations
+  * Some teams mark objectives or key results that they feel to be aspirational
+
+#### Limited number
+
+* Aim of OKR = create focus
+  * Self-defeating to set too many OKRs
+* Teams exist to share work
+  * TowarD a common purpose
+  * OKRs serve to provide that purpose
+* OKRs serve to help say "NO"
+  * At least "Not Now"
+* 3 is the maximum \(Allan's recommendation\)
+  * This rule of thumb serves both for the number of O and the numbers of KRs
+
+#### Priority
+
+* All OKRs are not equals
+  * Some might be higher priority
+* Possible to prioritize Key Results independently of objectives
+  * Example : KR1 of O1, KR1 of O2, KR2 and KR3 of O1, ...
+  * Warning : it complicates matter
+
+#### Effort
+
+* In sprint or days per OKR
+* Priority does not correspond to the capacity allocated
+
+#### When to Set OKRs ?
+
+* No specific time to set them
+* Should not be set weeks and weeks in advance of the quarter they will apply
+* Just a few weeks :
+  * 2 or 3 should be fine
+
+#### Not Money
+
+Profit is a side effect of delivering on that purpose and creating value
+
+### Objectives
+
+* First thing to write = Objective
+  * Something the organization wants / values
+  * Something that contributes towards the bigger goals that leaders have outlined
+* The thing you are trying to achieve
+  * Perhaps the thing you are trying to build / create
+  * A change you are seeking to make
+* The objective doesn't need to explain the problem in detail
+* Make the value the objective brings obvious
+  * Example : 
+    * Retool the delivery pipeline to facilitate CD
+    * **VS** Increase ROI by reducing TTM with a new delivery pipeline and continuous delivery practices
+  * Use the "so that"
+* Avoid boxing yourself into a specific approach or solution
+
+{% hint style="info" %}
+One OKR for the team per quarter : nominated by the team to increase productive capacity
+{% endhint %}
+
+* Testing trouble : time
+  * Some OKR can be measured after a specific amount of time
+  * Can be marked as achieved
+  * Final judgement for a later date
+
+### Key Results
+
+* Deliver value with each KR
+* Fight against dominos
+  * Don't accept dependencies
+* Test-driven
+  * KRs are the tests against which the objective will be measured
+  * Example :
+    * Make the site easy to use OR The site is secured
+    * _Turn into testable statements_
+    * New users can complete a purchase on the site within 5 minutes without cursing
+
+###  KR tricks
+
+* _**Experiments**_
+  * Phrasing a key result as an experiment can be a useful way of attempting something with an uncertain outcome
+    * Exemple : Run 3 experiments to increase page views
+  * Success is doing the experiment itself and absorbing the learning
+  * Like this it makes safer for the team to take on risk
+* _**Hypothesis-driven development**_
+
+  * Template
+
+  ![](../../../.gitbook/assets/image%20%28598%29.png)
+
+  * Outcome of those KRs = learning
+
+* Time-boxed
+  * Experiment for 4 weeks for example
+* Survey
+  * Make changes to people
+  * Test it with a survey
 
