@@ -339,3 +339,42 @@ OKRs form a link between the big and possibly nebulous strategy and the specific
     * Better metaphor
       * Debt has a good side \(buy houses, ...\)
 
+### Leaders
+
+* They need to set the context of work through culture, big goals and strategy elements
+* They need to embody and live the culture as role models for the teams
+* They can promote behaviors and decisions in line with the culture
+* It is the myriad of tiny daily decisions that managers make that bring culture, goals, strategy into being
+
+### Culture
+
+* OKRs require supportive culture
+  * Psychological safety
+    * Failures will happen
+    * _"if you aren't failing, you aren't trying"_
+* Delivery culture
+  * Culture needs to value delivery
+  * Not hours worked, not partially done work
+  * Delivery = actual working products being used by actual customers
+
+### Aspirations
+
+* Utility mode vs aspirational mode
+
+![](../../../.gitbook/assets/image%20%28601%29.png)
+
+### Warnings
+
+{% hint style="danger" %}
+Don't link remuneration to OKR outcomes
+{% endhint %}
+
+* Once money is attached to OKRs 
+  * People feel compelled to chase 100% success
+    * Easiest way = reduce the target
+* Look at employee behavior instead
+  * What behaviors would you like from your team members ?
+  * What kind of behavior makes work go more smoothly ?
+
+> As with agile, you need to find you own way to OKRs \[...\] be prepared to experiment.
+
