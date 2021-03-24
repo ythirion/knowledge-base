@@ -135,7 +135,7 @@ Value comes in many different forms
 * Money
   * "Money is the best form of feedback"
 
-![](../../../.gitbook/assets/image%20%28597%29.png)
+![](../../../.gitbook/assets/image%20%28598%29.png)
 
 #### Pieconomics
 
@@ -252,7 +252,7 @@ One OKR for the team per quarter : nominated by the team to increase productive 
 
   * Template
 
-  ![](../../../.gitbook/assets/image%20%28598%29.png)
+  ![](../../../.gitbook/assets/image%20%28599%29.png)
 
   * Outcome of those KRs = learning
 
@@ -261,4 +261,81 @@ One OKR for the team per quarter : nominated by the team to increase productive 
 * Survey
   * Make changes to people
   * Test it with a survey
+
+### Organizing to deliver OKRs
+
+* 2 schools :
+  * OKRs are additives
+    * Add more work 
+    * A new way of injecting work
+  * OKRs are everything
+    * OKRs = origin of all work and all organization
+
+![](../../../.gitbook/assets/image%20%28596%29.png)
+
+* OKRs everywhere
+  * "Will this contribute to achieve the OKR?"
+* Sprint planning with OKRs
+  * Planning meeting needs to include a full review of the current OKRs
+  * Direct the team to the highest prio OKR
+  * Avoid the temptation to do a little of everything
+
+#### Traffic lights and status
+
+| Color | Status | Meaning |
+| :--- | :--- | :--- |
+| White | Not started |  |
+| Yellow | On course |  |
+| Green | Achieved | No more work needed |
+| Red | Troubled | Problems encounter |
+| Purple | Abandoned | Team has accepted the goal will not be achieved |
+
+### OKRs and backlog
+
+* 2 approaches :
+  * Backlog first
+  * OKRs first
+    * Success
+      * No longer burning down the backlog
+      * Delivering OKRs
+    * Choose Sprint Backlog items derived from the OKRs
+      * Might be KRs themselves
+
+### BAU 
+
+* Problematic in an OKR driven world
+  * Does not generate new business benefit
+* Option 1 : suppress BAU
+  * Force BAU to go away
+* Option 2 : reduce or remove BAU
+  * Set an OKR to reduce BAU
+  * Think about google
+    * Community support portal for example
+* Option 3 : make BAU better
+  * Make the work better
+    * More efficient with better quality
+* Option 4 : Objective 0
+  * BAU in the OKRs
+  * Objective 0 -&gt; keep the existing system operation within the historic range
+  * Add a 4th OKR for BAU here
+
+### Beyond the quarter
+
+* 3 horizons in terms of planning :
+  * Now : sprint planning looks a few weeks into the future
+  * Soon : OKRs look to the next few months
+  * Later : looking months and years into the future
+    * Can create valuable learning
+      * Don't expect plans not to change 
+      * What if thinking
+
+{% hint style="info" %}
+OKRs form a link between the big and possibly nebulous strategy and the specific-code face work of agile teams
+{% endhint %}
+
+* Don't forget technology
+  * Technical excellence and consistently high quality = key strategy for agile teams
+  * **Technical liabilities** over technical debt
+    * Better metaphor
+      * Debt has a good side \(buy houses, ...\)
 
