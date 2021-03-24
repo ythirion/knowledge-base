@@ -124,6 +124,8 @@ _Some things are more important than OKRs and sometimes those things can't be me
 
 #### Value
 
+Value comes in many different forms
+
 * Learning is valuable
   * Knowledge on new tech for example
 * Feedback is valuable
