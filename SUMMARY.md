@@ -95,7 +95,7 @@
       * [Culture Agile](xtrem-reading/resources/book-notes/culture-agile.md)
       * [Culture is everything](xtrem-reading/resources/book-notes/culture-is-everything.md)
       * [Domain-Driven Design: The First 15 Years](xtrem-reading/resources/book-notes/domain-driven-design-the-first-15-years.md)
-      * [Succeding with OKRs in Agile](xtrem-reading/resources/book-notes/succeding-with-okrs-in-agile.md)
+      * [Succeeding with OKRs in Agile](xtrem-reading/resources/book-notes/succeding-with-okrs-in-agile.md)
 * [My Activity](my-activity/README.md)
   * [Retour sur mon année 2020](my-activity/retour-dun-freelance-sur-lannee-2020.md)
 

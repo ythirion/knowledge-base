@@ -2,7 +2,7 @@
 description: from Allan Kelly
 ---
 
-# Succeding with OKRs in Agile
+# Succeeding with OKRs in Agile
 
 ## Pitch <a id="title"></a>
 
