@@ -191,4 +191,7 @@ From my experience here are some key success criteria for your COPs :
 * [Fais survivre ta communauté dans un monde hostile](https://youtu.be/0bxw3mgmSXE)
 * [Self evaluation tools by Jimmy Janlen](https://blog.crisp.se/2019/03/11/jimmyjanlen/health-checks-for-teams-and-leadership)
 * [Lean Change Management - Jason Little](https://leanchange.org/)
+* [Community Canvas](https://community-canvas.org/)
+
+![](../.gitbook/assets/image%20%28607%29.png)
 
