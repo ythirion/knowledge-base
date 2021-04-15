@@ -417,9 +417,11 @@ _A fracture plane is a natural seam in the software system that allows the syste
 
 * Team topologies used should adapt and evolve to meet emerging challenges
 * 3 core team interaction modes that **simplify and clarify the essential interactions needed between teams building software systems**
-  * **Collaboration** : working closely together with another team
-  * **X-as-a-Service** : consuming or providing something with minimal collaboration
-  * **Facilitating** : helping \(or being helped by\) another team to clear impediments
+  * **Collaboration** : two teams work together on a shared goal, particularly during discovery of new technology or approaches.
+    * The overhead is valuable due to the rapid pace of learning
+  * **X-as-a-Service** : one team consumes something provided by another team \(such as an API, a tool, or a full software product\). 
+    * Collaboration is minimal
+  * **Facilitating** : one team \(usually an enabling team\) facilitates another team in learning or adopting a new approach.
 
 #### Well-Defined Interactions Are Key to Effective Teams
 
@@ -427,11 +429,90 @@ _A fracture plane is a natural seam in the software system that allows the syste
 “poorly defined team interactions and responsibilities are a source of friction and ineffectiveness"
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28613%29.png)
+![](../../../.gitbook/assets/image%20%28614%29.png)
 
 * Teams should ask: 
   * What kind of interaction should we have with this other team? 
   * Should we be collaborating closely with the other team? 
   * Should we be expecting or providing a service? 
   * Or should we be expecting or providing facilitation?
+
+![](../../../.gitbook/assets/image%20%28616%29.png)
+
+* The team on the right is providing something “as a service” to the team on the left \(perhaps an API, some developer tooling, or even an entire platform\).
+
+### Choose suitable Team interaction modes
+
+![](../../../.gitbook/assets/image%20%28617%29.png)
+
+|  | Collaboration | X-as-a-Service | Facilitating |
+| :--- | :--- | :--- | :--- |
+| **Stream-aligned** | Typical | Typical | Occasional |
+| **Enabling** | Occasional |  | Typical |
+| **Complicated-subsystem** | Occasional | Typical |  |
+| **Platform** | Occasional | Typical |  |
+
+### Constant Evolution of Team Topologies
+
+![](../../../.gitbook/assets/image%20%28613%29.png)
+
+### Triggers for Evolution of Team Topologies
+
+{% hint style="success" %}
+_it's often difficult to have the required organizational self-awareness to detect when it’s time to evolve the team structure_
+{% endhint %}
+
+* **Trigger: Software Has Grown Too Large for One Team**
+  * Symptoms :
+    * A startup company grows beyond fifteen people \(Dunbar’s number\)
+    * Other teams spend lots of time waiting on a single team 
+    * Changes to certain components or workflows in the system routinely get assigned to the same people, even when they’re already busy or away
+    * Team members complain about lack of system documentation
+* **Trigger: Delivery Cadence Is Becoming Slower**
+  * Team members qualitatively feel it takes longer to release changes
+  * Team velocity or throughput metrics show a clear downward variation compared to one year ago
+  * Team members complain that the delivery process used to be simpler, with fewer steps. 
+  * Work in progress keeps increasing
+
+### Conclusion
+
+Team Topologies alone will not produce an effective software-delivery and operations organization. Beyond the structures and dynamics suggested in this book, important additional ingredients of success include :
+
+* **A healthy organizational culture** : 
+  * an environment that supports the professional development of individuals and teams
+  * which people feel empowered
+    * Safe to speak 
+    * The organization expects to learn continuously
+* **Good engineering practices** : 
+  * Test-first design and development of all aspects of the systems
+  * a focus on continuous delivery and operability practices
+  * pairing and mobbing for code review
+  * avoiding the search for a single “root cause” for incidents
+  * designing for testability, and so on
+* **Healthy funding and financial practices** :
+  * Avoiding the pernicious effects of a CapEx/OpEx 
+  * Avoiding project-driven deadlines and large-batch budgeting wherever possible
+  * Allocating training budgets to teams or groups rather than individuals
+* **Clarity of business vision** : 
+  * Executive or leadership provides a clear vision and direction
+    * with horizons at human-relevant timescales
+    * clear reasoning behind the priorities
+      * So people in the organization can understand how and why these were chosen.
+
+### How to get started ?
+
+1. **Start with the Team**
+   * What does the team need in order to :
+     * Act and operate as an effective team? 
+     * Own part of the software effectively? 
+     * Reduce unnecessary cognitive load? 
+     * Consume and provide software and information to other teams?
+2. **Identify Suitable Streams of Change**
+3. **Identify a Thinnest Viable Platform \(TVP\)**
+   * Identify the services needed to support a reliable, swift flow of change in those streams
+4. **Identify Capability Gaps** in Team Coaching, Mentoring, Service Management, and Documentation
+   * Ensure that your teams are populated not just with technologists 
+     * BUT also with people who have other skills
+     * Examples : Team coaching, Mentoring, Well written documentation
+5. **Share and Practice Different Interaction Modes and Explain Principles behind New Ways of Working**
 
