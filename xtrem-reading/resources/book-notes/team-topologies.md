@@ -20,9 +20,7 @@ Team Topologies is a major step forward in organizational design for software, p
 
 ![](../../../.gitbook/assets/image%20%28608%29.png)
 
-## Book notes
-
-### Preface
+## Preface
 
 * A functional book
 * Part I - explores Conway’s law
@@ -38,7 +36,7 @@ Team Topologies is a major step forward in organizational design for software, p
 
 ![](../../../.gitbook/assets/image%20%28610%29.png)
 
-### Part 1 - Team As The Means of Delivery
+## Part 1 - Team As The Means of Delivery
 
 * The Problem with Org Charts
   * Must shift our thinking from treating teams as collections of interchangeable individuals that will succeed as long as they follow the “right” process and use the “right” tools
@@ -60,7 +58,7 @@ Team Topologies is a major step forward in organizational design for software, p
 _**Team structures must match the required software architecture or risk producing unintended software**_
 {% endhint %}
 
-#### Cognitive Load and Bottlenecks
+### Cognitive Load and Bottlenecks
 
 {% hint style="info" %}
 _When cognitive load isn’t considered, teams are spread thin trying to cover an excessive amount of responsibilities and domains. Such a team lacks bandwidth to pursue mastery of their trade and struggles with the costs of switching contexts.”_
@@ -68,7 +66,7 @@ _When cognitive load isn’t considered, teams are spread thin trying to cover a
 
 ![](../../../.gitbook/assets/image%20%28609%29.png)
 
-#### Conway's law
+### Conway's law
 
 * An organization that is arranged in functional silos
   * Where teams specialize in a particular function, such as QA, DBA, or security
@@ -89,7 +87,7 @@ _When cognitive load isn’t considered, teams are spread thin trying to cover a
     * _Clear and appropriate version compatibility_
     * Clear and appropriate cross-team testing
 
-**Organization Design Requires Technical Expertise**
+### **Organization Design Requires Technical Expertise**
 
 > “if we have managers deciding . . . which services will be built, by which teams, we implicitly have managers deciding on the system architecture.” - Ruth Malan
 
@@ -116,13 +114,13 @@ Allan Kelly’s view of a software architect’s :
 “_Disbanding high-performing teams is worse than vandalism: it is corporate psychopathy._" — Allan Kelly, Project Myopia
 {% endhint %}
 
-#### Team first-thinking
+### Team first-thinking
 
 * Research by Google on their own teams 
   * Who is on the team matters less than the team dynamics
   * _**When it comes to measuring performance, teams matter more than individuals**_
 
-#### Use Small, Long-Lived Teams as the Standard
+### Use Small, Long-Lived Teams as the Standard
 
 * “team” = stable grouping of five to nine people who work toward a shared goal as a unit
 * > _An organization should never assign work to individuals; only to teams_
@@ -140,7 +138,7 @@ Allan Kelly’s view of a software architect’s :
   * Around fifty people—limit of people with whom we can have mutual trust
   * Around 150 people—limit of people whose capabilities we can remember
 
-#### The Team Owns the Software
+### The Team Owns the Software
 
 * With small, long-lived teams in place
   * We can begin to improve the ownership of software
@@ -160,7 +158,7 @@ Allan Kelly’s view of a software architect’s :
 
 #### Reward the Whole Team not individuals
 
-#### Good Boundaries Minimize Cognitive Load
+### Good Boundaries Minimize Cognitive Load
 
 * Organizations need to _**ensure**_ that the _**cognitive load on a team is not too high**_
 * Restrict Team Responsibilities to Match Team Cognitive Load
@@ -182,7 +180,7 @@ Allan Kelly’s view of a software architect’s :
 _**With a team-first approach, the team’s responsibilities are matched to the cognitive load that the team can handle**_
 {% endhint %}
 
-#### Measure the Cognitive Load Using Relative Domain Complexity
+### Measure the Cognitive Load Using Relative Domain Complexity
 
 * Ask the team : 
   * “Do you feel like you’re effective and able to respond in a timely fashion to the work you are asked to do?”
@@ -214,11 +212,11 @@ _**With a team-first approach, the team’s responsibilities are matched to the 
   * Other: anything else that other teams need to use to interact with the team
 * Team API should consider usability by other teams
 
-### Part 2 - Team Topologies that Work for Flow
+## Part 2 - Team Topologies that Work for Flow
 
 ![](../../../.gitbook/assets/image%20%28611%29.png)
 
-#### Stream-Aligned teams
+### Stream-Aligned teams
 
 * “stream” : the continuous flow of work aligned to a business domain or organizational capability
   * Requires clarity of purpose and responsibility
@@ -235,7 +233,7 @@ _**With a team-first approach, the team’s responsibilities are matched to the 
 _**Purpose of the other fundamental team topologies is to reduce the burden on the stream-aligned teams**_
 {% endhint %}
 
-**Capabilities**
+#### **Capabilities**
 
 * Application security
 * Commercial and operational viability analysis 
@@ -252,7 +250,7 @@ _**Purpose of the other fundamental team topologies is to reduce the burden on t
   * understand and act upon the above capabilities
 * Have a mix of generalists and a few specialists
 
-**Expected Behaviors**
+#### **Expected Behaviors**
 
 * Aims to produce a steady flow of feature delivery
 * Correct based on feedback from the latest changes
@@ -263,7 +261,7 @@ _**Purpose of the other fundamental team topologies is to reduce the burden on t
 * Proactively and regularly reaches out to the supporting fundamental-topologies teams \(complicated subsystem, enabling, and platform\)
 * Feel they have achieved or are in the path to achieving “autonomy, mastery, and purpose,” the three key components of engaged knowledge workers, according to Daniel Pink
 
-#### **Enabling Teams**
+### **Enabling Teams**
 
 * In Accelerate High-performing teams are continuously improving their capabilities in order to stay ahead
   * But how can a stream-aligned team with end-to-end ownership find the space for researching, reading about, learning, and practicing new skills?”
@@ -276,7 +274,7 @@ _**Purpose of the other fundamental team topologies is to reduce the burden on t
   * Not the solutions per se
 * Should not be a permanent dependency
 
-**Expected Behaviors**
+#### **Expected Behaviors**
 
 {% hint style="info" %}
 _The mission of enabling teams is to help stream-aligned teams acquire missing capabilities, usually around a specific technical or product management area_
@@ -287,12 +285,153 @@ _The mission of enabling teams is to help stream-aligned teams acquire missing c
   * Jointly agreeing when more collaboration is needed
 * Stays ahead of the curve in keeping abreast of new approaches, tooling, and practices in their area of expertise
 * Act as a proxy for external \(or internal\) services that are currently too difficult for stream-aligned teams to use directly
-* Promotes learning not only inside the enabling team but across stream-aligned teams
+* Promotes **learning** not only inside the enabling team but across stream-aligned teams
   * Acting as a curator that facilitates appropriate knowledge sharing inside the organization
 
 {% hint style="info" %}
 _**Enabling teams do not exist to fix problems that arise from poor practices, poor prioritization choices, or poor code quality within stream-aligned teams**_
 {% endhint %}
 
+### Complicated-Subsystem Teams
 
+* Responsible for building and maintaining
+  * a part of the system that depends heavily on specialist knowledge
+* GOAL of this team : 
+  * Reduce the cognitive load of stream-aligned teams 
+    * working on systems that include or use the complicated subsystem
+  * Examples : 
+    * Video processing codec
+    * Mathematical model
+    * Real-time trade reconciliation algorithm
+    * Transaction reporting system for financial services
+    * Face-recognition engine
+  * Created only when a subsystem needs mostly specialized knowledge
+
+#### **Expected Behaviors**
+
+* Mindful of the current stage of development of the subsystem / acts accordingly
+  * High collaboration with stream-aligned teams during early exploration and development phases
+  * Reduced interaction and focus on the subsystem interface and feature evolution and usage during later stages
+* Delivery speed and quality for the subsystem is clearly higher than if/when the subsystem was being developed by a stream-aligned team
+* Prioritizes and delivers upcoming work 
+  * Respecting the needs of the stream-aligned teams that use the complicated subsystem
+
+### Platform Teams
+
+* Purpose : enable stream-aligned teams to deliver work with substantial autonomy
+* Provides internal services to reduce the cognitive load that would be required from stream-aligned teams to develop these underlying services
+
+{% hint style="info" %}
+_A digital platform is a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product._ 
+{% endhint %}
+
+* Treat the services they offer as products
+  * reliable
+  * usable
+  * fit for purpose
+* A thick platform might consist of the combination of several inner platform teams
+  * Providing a myriad of services
+* A thin platform 
+  * could simply be a layer on top of a vendor-provided solution
+* Examples :
+  * From provisioning a new server instance 
+  * To providing tools for access management and security enforcement
+
+#### **Expected Behaviors**
+
+* Uses strong collaboration with stream-aligned teams to understand their needs
+* Relies on fast prototyping techniques
+  * Involves stream-aligned team members for fast feedback 
+* Has a strong focus on 
+  * Usability and reliability for their services
+    * Treating the platform as a product
+    * Regularly assesses if the services are still fit for purpose and usable
+* Leads by example
+  * Using the services they provide internally \(when applicable\)
+  * Partnering with stream-aligned teams and enabling teams
+  * Consuming lower level platforms \(owned by other platform teams\) whenever possible
+* Understands that adoption of internal new services, like new technologies, is not immediate, but instead evolves along an adoption curve
+
+#### A Good Platform Is “Just Big Enough”
+
+* A good platform provides 
+  * standards
+  * templates
+  * APIs
+  * well-proven best practices for Dev teams to use to innovate rapidly and effectively
+* Thinnest Viable Platform
+  * A list on a wiki page of underlying components or services used by consuming software
+
+### Convert Common Team Types to the Fundamental Team Topologies
+
+{% hint style="info" %}
+_"Most organizations would see major gains in effectiveness by mapping each of their teams to one of the four fundamental topologies; that is, identify which of the four fundamental topologies would represent the best way of working for each team, and then change that team’s remit to adopt the purpose and behavior patterns of that topology.”_
+{% endhint %}
+
+* Infrastructure Teams to Platform Teams 
+  * Platform is managed as a product using proven software development techniques
+    * May be quite unfamiliar to infrastructure people
+* Component teams to Platform or Other Team Types
+  * DBA teams -&gt; enabling teams
+    * Focus on spreading awareness of DB Perf, monitoring, ...
+* Tooling Teams to Enabling Teams or Part of the Platform
+* Converting Architecture and Architects
+  * Most effective pattern : a part-time enabling team
+  * Emphasizes that many decisions should be taken by implementing teams rather than left to the architecture team
+
+### Software Boundaries or “Fracture Planes
+
+{% hint style="info" %}
+_A fracture plane is a natural seam in the software system that allows the system to be split easily into two or more parts_
+{% endhint %}
+
+* Look for similar fracture planes in software 
+  * To find the natural split points that lead to software boundaries
+* **Fracture Plane: Business Domain Bounded Context**
+  * A bounded context :
+    * A unit for partitioning a larger domain \(or system\) model into smaller parts
+    * Each of which represents an internally consistent business domain area
+  * Identifying bounded contexts :
+    * Requires a fair amount of business knowledge and technical expertise
+  * Aligns technology with business
+    * Reduces mismatches in terminology and “lost in translation” issues, improving the flow of changes and reducing rework
+* **Fracture Plane: Regulatory Compliance**
+* **Fracture Plane: Change Cadence**
+  * With a monolith, every piece moves at the speed of the slowest part
+  * Splitting off the parts of the system that typically change at different speeds allows them to change more quickly
+* **Fracture Plane: Team Location**
+  * Working across different time zones aggravates communication delays and introduces bottlenecks
+* **Fracture Plane: Risk**
+  * Splitting off subsystems with clearly different risk profiles allows mapping the technology changes to business appetite or regulatory
+* **Fracture Plane: Performance Isolation**
+  * In particular types of systems, differentiating levels of performance might be beneficial
+  * Splitting off such a subsystem based on particular performance demands helps to ensure
+    * it can scale autonomously
+    * increasing performance and reducing cost
+* **Fracture Plane: Technology**
+* **Fracture Plane: User Personas**
+
+## Part 3 - Evolving Team Interactions for Innovation and Rapid Delivery
+
+### Team Interaction Modes
+
+* Team topologies used should adapt and evolve to meet emerging challenges
+* 3 core team interaction modes that **simplify and clarify the essential interactions needed between teams building software systems**
+  * **Collaboration** : working closely together with another team
+  * **X-as-a-Service** : consuming or providing something with minimal collaboration
+  * **Facilitating** : helping \(or being helped by\) another team to clear impediments
+
+#### Well-Defined Interactions Are Key to Effective Teams
+
+{% hint style="info" %}
+“poorly defined team interactions and responsibilities are a source of friction and ineffectiveness"
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28613%29.png)
+
+* Teams should ask: 
+  * What kind of interaction should we have with this other team? 
+  * Should we be collaborating closely with the other team? 
+  * Should we be expecting or providing a service? 
+  * Or should we be expecting or providing facilitation?
 
