@@ -14,9 +14,9 @@ Does your agile team get lead astray by burning fires? Do you struggle to keep y
 
 ## Infographic
 
-![Succeeding with OKRs in Agile infographic](../../../.gitbook/assets/succeeding-with-okrs-in-agile%20%281%29.png)
+![Succeeding with OKRs in Agile infographic](../../../.gitbook/assets/succeeding-with-okrs-in-agile%20%282%29.png)
 
-{% file src="../../../.gitbook/assets/succeeding-with-okrs-in-agile \(2\).pdf" caption="High Resolution infographic" %}
+{% file src="../../../.gitbook/assets/succeeding-with-okrs-in-agile \(3\).pdf" caption="High Resolution infographic" %}
 
 ## Notes
 
