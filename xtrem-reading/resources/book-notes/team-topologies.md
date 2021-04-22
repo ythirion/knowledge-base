@@ -20,6 +20,12 @@ Team Topologies is a major step forward in organizational design for software, p
 
 ![](../../../.gitbook/assets/image%20%28608%29.png)
 
+## Infographic
+
+![Team Topologies infographic](../../../.gitbook/assets/team-topologies.png)
+
+{% file src="../../../.gitbook/assets/team-topologies.pdf" caption="High Resolution Infographic" %}
+
 ## Preface
 
 * A functional book
