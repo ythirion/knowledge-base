@@ -37,6 +37,7 @@
 * [https://coach-agile.com/](https://coach-agile.com/)
   * Agile Burger Quiz : [https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/](https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/)
   * Agile Code Smells : [https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/](https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/)
+* Event Storming Retrospective : [https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 * Great videos about agile anti-patterns here :
 
 {% embed url="https://www.youtube.com/watch?v=HsB0UZR7XvE&list=PLaD4FvsFdarQytrGAmCo2qW\_rAWcfBKeV&index=2&t=0s" %}
