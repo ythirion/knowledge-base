@@ -69,7 +69,18 @@ _Code that is harder to test will lack some or all of these properties._
 
 ## Concrete Practice - 30'
 
+* Clone the repository [here](https://github.com/ythirion/pure-functions)
+* Identify the design problems related to the RentalCalculator
+* Refactor this code by using _**Pure Functions**_
 
+{% hint style="success" %}
+A step by step solution is provided in the _**solution**_ branch \(Look at the commits\)
+{% endhint %}
 
-\_\_
+![](../../.gitbook/assets/image%20%28618%29.png)
+
+## Conclusion - 10'
+
+* How much of the time do you find yourself writing tests for functions that have all the three properties of pure functions ?
+* What do you need to write more Pure Functions ?
 
