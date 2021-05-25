@@ -1,5 +1,5 @@
 ---
-description: Maude Lemair
+description: Maude Lemaire
 ---
 
 # Refactoring at Scale
