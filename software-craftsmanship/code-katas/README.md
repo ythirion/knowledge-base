@@ -10,6 +10,7 @@
 
 ## Refactoring
 
+* Refactoring Journey : [https://ythirion.github.io/refactoring-journey/](https://ythirion.github.io/refactoring-journey/)
 * Gilded rose : [https://github.com/emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 * Theatrical players Kata : [https://github.com/ythirion/Theatrical-Players-Refactoring-Kata](https://github.com/ythirion/Theatrical-Players-Refactoring-Kata)
 * Person-kata : [https://github.com/ythirion/person-kata](https://github.com/ythirion/person-kata)
