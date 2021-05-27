@@ -77,6 +77,8 @@
 
 ### Architecture
 
+* Architecture Kata : [http://fundamentalsofsoftwarearchitecture.com/katas/list.html](http://fundamentalsofsoftwarearchitecture.com/katas/list.html)
+
 {% page-ref page="clean-architecture.md" %}
 
 
