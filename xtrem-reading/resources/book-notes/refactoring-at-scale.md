@@ -290,5 +290,38 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
     * Provide transparency
     * Gather perspective on your plan to strengthen it
 
-![](../../../.gitbook/assets/image%20%28626%29.png)
+### Chapter 5 : Getting Buy-In
+
+* Why Your Manager Is Not Onboard ?
+  * Managers Aren’t Coding
+  * Managers Are Evaluated Differently
+  * Managers See the Risk
+  * Managers Need to Coordinate
+* Strategies for Making a Compelling Argument \(With our Manager\)
+  * First, have an initial investigatory conversation :
+    * It helps you understand which factors are weighing most heavily on your manager
+    * It gives you a sense of whether your manager might be more readily convinced by an emotional or logical argument
+    * This conversation will give you the preliminary context you need to choose the most effective strategies to convince your manager
+    * **HOW TO ?**
+      * 1 to 1 conversation
+      * _"I’ve been thinking about how X is affecting our ability to do Y and I wanted to know whether you had any thoughts about it.”_
+  * _AFTER THAT_
+
+#### 4 persuasion techniques
+
+* **Using Conversational Devices**
+  * Compliment their thought process
+    * Very few of us are immune to flattery, your manager included
+  * Present the counter-argument :
+    * A few benefits to presenting
+      * Demonstrating your thoughtfulness and thoroughness around the effort
+      * You’re reaffirming your manager’s concerns
+        * Confirming that their apprehension is legitimate
+    * Your manager will be more open to hearing about your ideas if they feel that their own ideas are well understood
+* **Building an Alignment Sandwich**
+  * * You can build an alignment sandwich,
+
+    securing the support of your teammates along with the support of upper management,
+
+    sandwiching your manager between the two
 
