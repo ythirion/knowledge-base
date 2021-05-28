@@ -319,9 +319,29 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
         * Confirming that their apprehension is legitimate
     * Your manager will be more open to hearing about your ideas if they feel that their own ideas are well understood
 * **Building an Alignment Sandwich**
-  * * You can build an alignment sandwich,
+  * Do it by securing the support of your teammates
+  * Along with the support of upper management
+  * sandwiching your manager between the two
+* **Relying on Evidence**
+  * If your manager is partial to logical arguments :
+    * Use the evidence you gathered in Chapter 3 to bolster your position
+* **Playing Hardball**
+  * If you are exceedingly confident that your refactor is critical to the business and your manager is unwilling to budge
+    * Stop doing unrewarded maintenance work
+    * Giving an ultimatum
+      * If all else fails, you can suggest to your manager that if they continue to oppose the
 
-    securing the support of your teammates along with the support of upper management,
+        refactor, you’ll either transfer to another team or outright quit the company.
 
-    sandwiching your manager between the two
+{% hint style="info" %}
+**Rewarding Refactoring**
+
+_No engineer should be told that refactoring is equivalent to career suicide; instead, work with engineering promotion committees and human resources to include \(and encourage\) code maintenance. \(requiring managers to include maintenance efforts in their quarterly planning\)_
+{% endhint %}
+
+### Chapter 6 : Building the Right Team
+
+* To execute on a large refactoring effort successfully, we need our own Ocean’s 11
+  * Assembling a team just the right size with just the right skills
+  * they cut down on their execution time and increased their chances of success
 
