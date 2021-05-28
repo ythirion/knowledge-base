@@ -422,3 +422,64 @@ _Policy of no laptops and minimal phone usage during meetings._
 
 All of us seek advice from peers and experienced colleagues when solving difficult problems
 
+### Chapter 8 : Strategies for Execution
+
+* Team Building
+  * Pair programming
+    * Refactoring in pairs can be particularly effective because while one person is typing, the other is freer to think about the bigger picture
+    * _Encourage pairing, but do not make it mandatory_
+    * _Pair engineers with similar levels of experience_
+    * _Timebox the session_
+  * Keeping Everyone Motivated
+    * Motivating individuals : recognizing individual teammates for their distinct contributions is a great way to keep them motivated
+    * Motivating teams : remember to celebrate your team’s achievements
+* Keeping a Tally
+  * important to check on your progress frequently and maintain a running tally of important findings
+  * Intermediate Metric Measurements
+  * Unearthed Bugs : two options when confronting a bug within the context of a refactor :
+    * Fix the bug vs to reimplement it
+* Clean-Up Items
+  * Keep track of everything that’ll need tidying
+  * Just as a cook would recommend cleaning pots and pans as you use them when preparing a meal
+  * I recommend continually cleaning up as a refactor progresses
+* Out-of-Scope Items
+  * Consider keeping a list of the opportunities you encounter to expand on the project
+* Programming Productively
+  * **Prototyping**
+    * Prototyping early and often helps your team ultimately move faster if you abide by two important principles:
+      * _Know that your solution will not be perfect_
+        * Focus on crafting a solution that works well overall, being mindful about not spending too much time perfecting the details. 
+      * _Be willing to throw code away_
+        * If we spend a week or two writing a solution that simply doesn’t deliver
+          * take the pieces that work, throw the rest away, and start again
+  * **Keep Things Small**
+    * Commit small, incremental changes makes it much easier to author great code
+      * Can get relevant feedback early and often from your tooling
+      * Reverting is much easier
+      * Concise commit = focused
+      * Maintain original version history : use _git mv_
+  * **Test, Test, Test**
+    * Frequently rerunning
+      * Unit tests, integration tests, or walking through manual tests
+      * We can either confirm 
+        * that everything has remained unaffected 
+        * or pinpoint the precise moment at which the behavior diverged
+  * **Asking the “Stupid” Question**
+    * Prioritize clarity over maintaining an illusion of omniscience
+      * You are modeling important behavior for your team
+        * Affirming that no question is, in fact, a stupid question
+
+### Chapter 9 : Making the Refactor Stick
+
+* Fostering Adoption
+  * Education
+    * Active : planning and leading workshops
+    * Passive : step-by-step tutorials, online courses, ...
+* Integrating Improvement into the Culture :
+  * One of the best ways to maintain a healthy codebase is simply to 
+    * Continue deliberately refactoring small, well-contained portions of code as you encounter the opportunity
+    * Focus on incrementally improving areas of the codebase owned and maintained by our own team
+  * Encourage and facilitate design conversations on our team frequently
+  * Hold inclusive design reviews early in the feature development process
+    * Inviting engineers from all backgrounds to evaluate your designs and ask questions
+
