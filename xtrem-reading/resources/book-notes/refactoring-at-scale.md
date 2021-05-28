@@ -344,4 +344,28 @@ _No engineer should be told that refactoring is equivalent to career suicide; in
 * To execute on a large refactoring effort successfully, we need our own Ocean’s 11
   * Assembling a team just the right size with just the right skills
   * they cut down on their execution time and increased their chances of success
+* **Identifying Different Kinds of Experts**
+  * We can start by rereading our plan
+  * Try to visualize the code we’ll need to interact with
+    * Can we conjure it up easily?
+    * Can we confidently identify the changes we need to make and reason through the potential impact or downstream effects of those changes? 
+    * Do we understand the pitfalls we might run into in the given area of the codebase? 
+    * Do we understand the potential product implications of the changes we want to make? 
+    * Are we deeply familiar with the technologies we’ll either be directly or indirectly interfacing with?
+  * If so, great! We’re probably in a good position to make those changes ourselves. 
+  * _**If not, then we’ll need someone else’s help**_**.** 
+* 2 ways to enlist someone :
+  * _**An active contributor**_ : 
+
+    * heavily involved with the project \(ideally from day one\)
+    * Actively contributing to the effort by writing code alongside you
+    * Should be consulted for input on the execution plan early and through each of its
+
+    revisions
+
+  * _**Subject matter experts, or SMEs**_ 
+    * Not active contributors to your effort
+    * Agreed to be available to talk through solutions with you
+    * Answer questions
+    * Maybe do some code review
 
