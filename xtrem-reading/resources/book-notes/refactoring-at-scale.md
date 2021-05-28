@@ -344,16 +344,18 @@ _No engineer should be told that refactoring is equivalent to career suicide; in
 * To execute on a large refactoring effort successfully, we need our own Ocean’s 11
   * Assembling a team just the right size with just the right skills
   * they cut down on their execution time and increased their chances of success
-* **Identifying Different Kinds of Experts**
-  * We can start by rereading our plan
-  * Try to visualize the code we’ll need to interact with
-    * Can we conjure it up easily?
-    * Can we confidently identify the changes we need to make and reason through the potential impact or downstream effects of those changes? 
-    * Do we understand the pitfalls we might run into in the given area of the codebase? 
-    * Do we understand the potential product implications of the changes we want to make? 
-    * Are we deeply familiar with the technologies we’ll either be directly or indirectly interfacing with?
-  * If so, great! We’re probably in a good position to make those changes ourselves. 
-  * _**If not, then we’ll need someone else’s help**_**.** 
+
+#### **Identifying Different Kinds of Experts**
+
+* We can start by rereading our plan
+* Try to visualize the code we’ll need to interact with
+  * Can we conjure it up easily?
+  * Can we confidently identify the changes we need to make and reason through the potential impact or downstream effects of those changes? 
+  * Do we understand the pitfalls we might run into in the given area of the codebase? 
+  * Do we understand the potential product implications of the changes we want to make? 
+  * Are we deeply familiar with the technologies we’ll either be directly or indirectly interfacing with?
+* If so, great! We’re probably in a good position to make those changes ourselves. 
+* _**If not, then we’ll need someone else’s help**_**.** 
 * 2 ways to enlist someone :
   * _**An active contributor**_ : 
 
@@ -368,4 +370,55 @@ _No engineer should be told that refactoring is equivalent to career suicide; in
     * Agreed to be available to talk through solutions with you
     * Answer questions
     * Maybe do some code review
+
+#### Matchmaking
+
+* Match each expertise with one or more people :
+  * Start from the beginning of the list 
+  * For each items : write the first few names of either individuals or teams that come to mind
+
+![](../../../.gitbook/assets/image%20%28630%29.png)
+
+_Part 3 : Execution_
+
+### Chapter 7 : Communication
+
+{% hint style="info" %}
+_Policy of no laptops and minimal phone usage during meetings._
+{% endhint %}
+
+* Within Your Team
+  * Stand-Ups : a great habit for keeping everyone on the team aligned at regular intervals.
+  * Weekly Syncs : 1h
+    * 1st part : accomplishments
+    * 2nd part : discuss any important topics \(new edge case for example\)
+  * Retrospectives : opportunity to reflect on the latest iteration cycle
+    * highlight opportunities for improvement
+    * identify any actions you can take moving forward
+
+#### Outside Your Team
+
+* When Kicking Off the Project
+  * Choosing a single source of truth
+    * Choose a platform your team enjoys using to collect all documentation related to the project
+  * Setting expectations
+    * Take some time to draft a rough communication plan including :
+      * _Where stakeholders can find information about the current stage of the refactor_
+      * _Where stakeholders can find a high-level project timeline_
+      * _Where engineers can expect to find technical information about the refactor_
+      * _Where stakeholders can ask questions_
+      * _When affected teams should expect to hear from you_
+* During Project Execution
+  * Progress announcements
+    * Not only important to let everyone know that you’ve completed another milestone \(and unlocked any number of benefits as a result\),
+    * Crucial in continuing to make your team feel productive and boost their morale
+  * Execution plan
+    * Make a copy of the original execution plan
+    * It will serve as a living version of the original document and should be progressively updated as the project develops
+
+![](../../../.gitbook/assets/image%20%28629%29.png)
+
+#### Seeking feedback from senior engineers
+
+All of us seek advice from peers and experienced colleagues when solving difficult problems
 
