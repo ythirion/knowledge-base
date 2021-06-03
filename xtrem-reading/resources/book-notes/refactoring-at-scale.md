@@ -12,6 +12,12 @@ Making significant changes to large, complex codebases is a daunting task--one t
 
 Software engineer Maude Lemaire walks you through the entire refactoring process from start to finish. You'll learn from her experience driving performance and refactoring efforts at Slack during a period of critical growth, including two case studies illustrating the impact these techniques can have in the real world. This book will help you achieve a newfound ability to productively introduce important changes in your codebase.
 
+## Infographic
+
+![Refactoring at Scale infographic by Yoan Thirion](../../../.gitbook/assets/refactoring-at-scale.jpg)
+
+{% file src="../../../.gitbook/assets/refactoring-at-scale.pdf" caption="High resolution infographic \(pdf\)" %}
+
 ## Notes
 
 ### Chapter 1 : Refactoring
