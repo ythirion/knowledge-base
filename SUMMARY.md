@@ -95,6 +95,7 @@
       * [Culture Agile](xtrem-reading/resources/book-notes/culture-agile.md)
       * [Culture is everything](xtrem-reading/resources/book-notes/culture-is-everything.md)
       * [Domain-Driven Design: The First 15 Years](xtrem-reading/resources/book-notes/domain-driven-design-the-first-15-years.md)
+      * [La liberté du commandement](xtrem-reading/resources/book-notes/la-liberte-du-commandement.md)
       * [Refactoring at Scale](xtrem-reading/resources/book-notes/refactoring-at-scale.md)
       * [Succeeding with OKRs in Agile](xtrem-reading/resources/book-notes/succeding-with-okrs-in-agile.md)
       * [Team Topologies](xtrem-reading/resources/book-notes/team-topologies.md)
