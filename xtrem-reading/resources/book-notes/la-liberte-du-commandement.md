@@ -16,6 +16,12 @@ L'art du commandement développé au sein de l'école ne doit rien à Sun Tzu ma
 
 > Il appartient au leader de développer l'esprit d'équipage et de faire des choix avant de les faire appliquer. À condition d'avoir au préalable développé les qualités nécessaires à sa mission.
 
+## Infographie
+
+![Infographie &quot;La libert&#xE9; du commandement&quot;](../../../.gitbook/assets/la-liberte-du-commandement.png)
+
+{% file src="../../../.gitbook/assets/la-liberte-du-commandement.pdf" caption="Infographie en haute résolution" %}
+
 ## Notes
 
 ### Commandement et management
