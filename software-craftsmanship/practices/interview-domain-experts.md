@@ -143,6 +143,12 @@ type Deal = Deck -> (Deck * Card)
 typealias deal = (Deck) -> Pair<Card?, ShuffledDeck>
 ```
 {% endtab %}
+
+{% tab title="Scala" %}
+```scala
+type deal = (ShuffledDeck) => (Option[Card], ShuffledDeck)
+```
+{% endtab %}
 {% endtabs %}
 
 ![](../../.gitbook/assets/image%20%28532%29.png)
@@ -157,6 +163,12 @@ type PickupCard = (Hand * Card) –> Hand
 {% tab title="Kotlin" %}
 ```kotlin
 private typealias pickUpCard = (Card, Hand) -> Hand
+```
+{% endtab %}
+
+{% tab title="Scala" %}
+```scala
+type pickUpCard = (Card, Hand) => Hand
 ```
 {% endtab %}
 {% endtabs %}
@@ -207,6 +219,28 @@ private data class Game(val deck: Deck, val players: List<Player>)
 private typealias Deal = (ShuffledDeck) -> Pair<Card?, ShuffledDeck>
 private typealias PickUpCard = (Card, Hand) -> Hand
 private typealias Shuffle = (Deck) -> ShuffledDeck
+```
+{% endtab %}
+
+{% tab title="Scala" %}
+```scala
+enum Suit:
+  case Club, Diamond, Spade, Heart
+enum Rank:
+  case Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King, Ace
+
+class Card(val suit: Suit, val rank: Rank)
+
+type Hand = List[Card]
+type Deck = List[Card]
+type ShuffledDeck = List[Card]
+
+class Player(val name: String, val hand: Hand)
+class Game(val deck: Deck, val players: List[Player])
+
+type Deal = (ShuffledDeck) => (Option[Card], ShuffledDeck)
+type PickUpCard = (Card, Hand) => Hand
+type Shuffle = (Deck) => ShuffledDeck
 ```
 {% endtab %}
 {% endtabs %}
@@ -464,6 +498,22 @@ private val dealer : Deal = { shuffledDeck ->
     }
 }
 private val shuffle : Shuffle = { deck -> deck.shuffled() }
+```
+{% endtab %}
+
+{% tab title="Scala" %}
+```scala
+import scala.util.Random
+
+val pickUp: PickUpCard =  (card, hand) => card :: hand
+val dealer: Deal = (shuffledDeck) => shuffledDeck match {
+  case Nil => (None, Nil)
+  case head :: tail => (Some(head), tail)
+}
+extension(deck: Deck)
+  def shuffled: ShuffledDeck = Random.shuffle(deck)
+
+val shuffle: Shuffle = deck => deck.shuffled
 ```
 {% endtab %}
 {% endtabs %}
