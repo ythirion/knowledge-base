@@ -442,6 +442,7 @@ If you want to go further I highly recommend you to read and watch those resourc
 * \_\_[Property-based testing in Java with JUnit-Quickcheck](https://baasie.com/2017/05/03/property-based-testing-in-java-with-junit-quickcheck-part-1-the-basics/) _— Kenny Baas-Schwegler_
 * \_\_[Property Testing with vavr](https://www.baeldung.com/vavr-property-testing)
 * [junit-quickcheck documentation](https://github.com/pholser/junit-quickcheck)
+* [https://johanneslink.net/how-to-specify-it/](https://johanneslink.net/how-to-specify-it/)
 
 The source code used in this article is available on github [here](https://github.com/ythirion/pbt-kata).
 
