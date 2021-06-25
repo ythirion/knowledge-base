@@ -18,9 +18,9 @@ L'art du commandement développé au sein de l'école ne doit rien à Sun Tzu ma
 
 ## Infographie
 
-![Infographie &quot;La libert&#xE9; du commandement&quot;](../../../.gitbook/assets/la-liberte-du-commandement.png)
+![Infographie &quot;La libert&#xE9; du commandement&quot;](../../../.gitbook/assets/la-liberte-du-commandement%20%281%29.png)
 
-{% file src="../../../.gitbook/assets/la-liberte-du-commandement.pdf" caption="Infographie en haute résolution" %}
+{% file src="../../../.gitbook/assets/la-liberte-du-commandement \(1\).pdf" caption="Infographie \"la liberté du commandement\" \(Haute résolution\)" %}
 
 ## Notes
 
