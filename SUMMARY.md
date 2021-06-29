@@ -70,6 +70,7 @@
   * [Xanpan - a team centric agile method story](agile-coaching/xanpan-a-team-centric-agile-method-story.md)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective.md)
   * [Become a better speaker through peer feedback](agile-coaching/become-a-better-speaker-through-peer-feedback.md)
+  * [Project-to-Product Principles](agile-coaching/project-to-product-principles.md)
 * [Leadership](leadership/README.md)
   * [Bref. J'ai pris une tarte dans la gueule \(et ça fait extrêmement de bien\)](leadership/bref.-jai-pris-une-tarte-dans-la-gueule-et-ca-fait-extremement-de-bien.md)
   * [Forward Summit 2020](leadership/forward-summit-2020.md)
