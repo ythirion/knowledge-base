@@ -14,6 +14,8 @@ Cette rétrospective est un exercice de projection dans le futur permettant à u
 * Les surprises
 * Leurs sources de motivation
 
+![](../../.gitbook/assets/retro-back-to-the-future.png)
+
 ### Matériel requis
 
 #### **En physique**
