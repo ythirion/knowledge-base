@@ -4,9 +4,9 @@ description: Here are the resources related to Xtrem Reading
 
 # Resources
 
-### Infography
+### Infographic
 
-![](https://www.xtrem-reading.com/rsc/xtrem-reading-infography.png)
+![](https://raw.githubusercontent.com/ythirion/xtrem-reading/master/rsc/xtrem-reading-infography.png)
 
 ### Website
 
@@ -16,11 +16,7 @@ description: Here are the resources related to Xtrem Reading
 
 {% embed url="https://speakerdeck.com/thirion/xtrem-reading-lisez-2-livres-en-1-heure-et-cultiver-votre-intelligence-collective" %}
 
-### Facilitator guide
-
-{% embed url="https://www.xtrem-reading.com/rsc/xtrem-reading-facilitator-guide.pptx" %}
-
 ### Xtrem Tech Watch
 
-![](https://www.xtrem-reading.com/rsc/xtrem-tech-watch-infography.png)
+![](https://raw.githubusercontent.com/ythirion/xtrem-reading/master/rsc/xtrem-tech-watch-infography.png)
 
