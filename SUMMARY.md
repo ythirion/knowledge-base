@@ -86,6 +86,7 @@
   * [Lego Serious Play \(LSP\)](serious-games/lego-serious-play-lsp/README.md)
     * [LSP in your job interviews](serious-games/lego-serious-play-lsp/lsp-in-your-job-interviews.md)
 * [Xtrem Reading](xtrem-reading/README.md)
+  * [My Book Infographics](xtrem-reading/my-book-infographics.md)
   * [En route vers l’apprenance avec Xtrem Reading](xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading.md)
   * [Resources](xtrem-reading/resources/README.md)
     * [Book notes](xtrem-reading/resources/book-notes/README.md)
