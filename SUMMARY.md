@@ -90,6 +90,7 @@
   * [En route vers l’apprenance avec Xtrem Reading](xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading.md)
   * [Resources](xtrem-reading/resources/README.md)
     * [Book notes](xtrem-reading/resources/book-notes/README.md)
+      * [How to avoid a Climate Disaster](xtrem-reading/resources/book-notes/how-to-avoid-a-climate-disaster.md)
       * [Agile People: A Radical Approach for HR & Managers](xtrem-reading/resources/book-notes/agile-people-a-radical-approach-for-hr-and-managers.md)
       * [Agile testing : A Practical Guide for Testers and Agile Teams](xtrem-reading/resources/book-notes/agile-testing-a-practical-guide-for-testers-and-agile-teams.md)
       * [Boite à outils de l'intelligence émotionnelle](xtrem-reading/resources/book-notes/boite-a-outils-de-lintelligence-emotionnelle.md)
