@@ -75,4 +75,73 @@ _The climate is like a bathtub that's slowly filling up with water. Even if we s
 
 ### Chapter 2 - This will be hard
 
-* 
+* Fossil fuels are like water
+  * "important realities are often the ones that are the hardest to see and talk about" - David Foster Wallace
+  * Fossil fuels are like that
+* Oil
+  * The world uses more than 4 billion gallons every day
+  * _Oil is cheaper than a soft drink_
+
+![](../../../.gitbook/assets/img_1086.jpg)
+
+* It's not just the rich world
+  * almost everywhere people are living longer and healthier lives
+  * Would be immoral and impractical to try to stop people who are lower down on the economic ladder from climbing up
+    * Can't expect poor people to stay poor because rich countries emitted too many greenhouse gases
+
+{% hint style="info" %}
+We need to make it possible for low-income people to climb the ladder without making climate change worse.
+{% endhint %}
+
+* Our laws and regulations are so outdated
+  * Environmental laws and regulations weren't designed with climate change in mind
+  * Clean Air Act -&gt; 1970
+* We need to build a consensus that doesn't exist and create public policies to push a transition that would not happen otherwise
+  * _**Don't despair, we can do this**_
+
+### Chapter 3 - 5 questions to ask in every climate conversation
+
+* Build a mental framework
+  * Gave a sense of how much was a lot and how much was a little
+
+1. How much of the 51 Billion Tons are we talking about ?
+   * Convert numbers into a percentage of the annual total of 51 billion tons
+2. What's your plan for Cement ?
+   * A shorthand reminder that if you're trying to come up with a comprehensive plan for climate change, you have to account for much than electricity and cars
+   * **Emissions come from 5 different activities** 
+     * We need solutions in all of them
+
+![](../../../.gitbook/assets/img_1087.jpg)
+
+3. How much power are we talking about?
+
+| Whenever you hear : | Think |
+| :--- | :--- |
+| Kilowatt | House |
+| Gigawatt | City |
+| A hundred or more gigawatts | big country |
+
+4. How much space do you need ?
+
+* If someone tells you that some source : wind, solar, nuclear, ... can supply all the energy the world needs
+  * Find out how much space will be required to produce that much energy
+  * Examples : Wind -&gt; 1-2 Watts per square meter, Fossil Fuels -&gt; 500-10,000 Watts per Square Meter
+
+5. How much this is going to cost ?
+
+* Most of the zero-carbon solutions are more expensive than their fossil-fuel counterparts
+  * Because the prices don't reflect the environmental damage they influct
+  * These additional costs are what I call _**Green Premiums**_
+    * The difference between the 2 prices
+    * It can be negative : greeen can be cheaper than sticking with fossil fuels
+
+{% hint style="info" %}
+We need the premiums to be so low that everyone will be able to decarbonize.
+{% endhint %}
+
+### Chapter 4 - How we plug in
+
+`27 percent of 51 billion tons per year`
+
+
+
