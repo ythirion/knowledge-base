@@ -35,7 +35,7 @@
 
 ![Ping pong when doing TDD](../../.gitbook/assets/image%20%28500%29.png)
 
-### What about the cost of TDD ?
+### What about the cost of Pair Programming ?
 
 * The Costs and Benefits of Pair Programming Alistair Cockburn & Laurie Williams
   * The development cost is approximately 15% higher
