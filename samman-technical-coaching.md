@@ -25,6 +25,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
   * [How to name our Unit Tests](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/testing/how-to-name-our-unit-tests)
   * [Consumer Driven Contract Testing](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests)
   * [Improve your test quality with Mutation testing](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/testing/mutation-testing)
+  * [Improve your assertions with assertJ](https://github.com/ythirion/assertj-kata)
 * Software Architecture
   * [DDD re-distilled](https://yoan-thirion.gitbook.io/knowledge-base/software-architecture/ddd-re-distilled)
   * [NoSQL](https://yoan-thirion.gitbook.io/knowledge-base/software-architecture/nosql)
