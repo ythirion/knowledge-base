@@ -43,12 +43,25 @@
 
 ### Why ?
 
-* Ensure code meets standards
-* Find bugs
-* Ensure code does what it’s supposed to
-* Check code is understandable
+* Better code
+  * Ensure code meets standards
+  * Find bugs
+  * Ensure code does what it’s supposed to
+  * Check code is understandable
 * Share Knowledge
+  * Spread code Ownership
+  * No better way to learn the right practices and promote the company’s code guidelines and requirements
 * Collaborate on Design
+* Improve communication inside the team
+  * Every team members talk to each others
+  * Foster companionship and improve team cohesion
+* Motivate to progress
+  * If you keep in mind that your code will be reviewed by some colleagues, you will put more care into it
+  * You will take the time to properly :
+    * Name identifiers
+    * Write tests
+    * Introduce well-fitted abstractions 
+    * Use carefully the enterprise wide patterns
 
 ### Different Workflows
 
@@ -195,6 +208,7 @@ _**“Being the most senior person on the team does not imply that your code doe
 
 * [Code Review Best Practices by Trisha Gee](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
 * [Code Review Worflows](https://blog.jetbrains.com/upsource/tag/code-review-workflows/)
+* [Code Review Guidelines by Patrick Smacchia](https://blog.ndepend.com/what-is-code-review-guidelines-best-practices/)
 * [Ebook "What to look for in a code review"](http://jb.gg/book/codereview)
 * [Video](https://youtu.be/3pth05Rgr8U)
 
