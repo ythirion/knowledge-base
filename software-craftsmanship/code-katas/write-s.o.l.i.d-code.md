@@ -26,3 +26,8 @@ Workshop designed using 4C model \(support provided\) :
 
 ![](../../.gitbook/assets/solid-cheat-sheet.jpg)
 
+## Resources
+
+* [Why every element of SOLID are wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong)
+* [CUPID](https://speakerdeck.com/tastapod/cupid-for-joyful-coding) is the new SOLID
+
