@@ -3,6 +3,7 @@
 ### Useful Resources 
 
 * [Mob programming facilitator guide](https://github.com/fhiegel/MobProgramming/blob/master/guide/MobProgrammingFacilitorsGuide_French.md)
+* [Mob programming resources ](https://github.com/NazeeHajebi/Talks/blob/master/FacilitatingMobProgramming.md)
 
 #### "How to Read Complex Code" by Dr Felienne Hermans \(@felienne\)
 
