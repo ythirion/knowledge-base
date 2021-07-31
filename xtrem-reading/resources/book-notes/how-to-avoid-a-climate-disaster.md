@@ -143,5 +143,126 @@ We need the premiums to be so low that everyone will be able to decarbonize.
 
 `27 percent of 51 billion tons per year`
 
+* What we like from electricity : a cheap source of energy always available
+  * Getting all the world's electricity from clean source won't be easy
+  * Fossil fuels account for two-thirds of all electricity worldwide
+    * Coal : 36%
+    * Naturals Gas : 23%
+    * Hydropower : 16%
+    * Nuclear : 10%
+    * Renewables : 11%
+    * Oil : 3%
+    * Other : 1%
+* Can we turn this around and get all the electricity we'll need without any greenhouse gas emissions ?
+* We can eliminate our emissions with only a modest Green Premium
+  * The premium for electricity :
+    * Additional cost of getting all our power from non-emitting sources : 
+      * wind, solar, nuclear, coal, natural gas fired equipped with devices that capture the carbon they produce
+  * Changing America's system to zero carbon
+    * Raise retail average rates by between 1.3 and 1.7 cents per kilowatt-hour
+    * 15% more than what people pay now
+    * Adds up to a Green Premium : 18$ a month for the average home
+* 1 problem is that fossil fuels are so cheap
+  * Their prices don't factor in the true cost of climate change
+* To get close to 100% renewable resources
+  * We'd have to move lots of clean energy from where it's made \(sunny places, windly regions\) to where it's needed
+* Sun / wind = intermittent sources
+  * How to store it ?
+* Extremely difficult / expensive to store electricity on a large scale
+* Every path to zero in the U.S will require
+  * Install as much wind and solar power as we can build and find room for it
 
+#### Making Carbon-free electricity
+
+* **Nuclear fission** : Only carbon-free energy source that can reliably deliver power day and night
+  * The process of getting energy by splitting atoms apart
+  * Problems : 
+    * Human error can cause accidents
+    * Uranium can be converted for use in weapons
+    * Waste is dangerous and hard to store
+* **Nuclear fusion** : Instead of getting energy from splitting atoms apart -&gt; it involves pushing them together, or fusing them
+  * At least a decade away from supplying electricity to consumers
+  * No chain reaction to run out of control
+    * Fusion ceases as soon as you stop supplying fuel or switch off the device containing the plasma
+* **Offshore wind :** putting wind turbines in an ocean or other body of water
+* **Geothermal** : Deep underground, are hot rocks that can be used to generate carbon-free electricity
+  * Amount of energy we get per square meter is quite low
+
+#### Storing electricity
+
+* **Batteries** : hard to improve on them
+  * Can improve by a factor of 3 but by a factor of 50
+* **Pumped hydro** : When electricity is cheap you pump water up a hill into a reservoir, then when demand for power goes up, let the water flow back down the hill -&gt; generate electricity from it
+* **Thermal storage** : When electricity is cheap, use it to heat up some material
+* **Cheap hydrogen**
+
+#### Other innovations
+
+* **Capturing carbon** : Suck up the carbon dioxide before it hits the atmosphere
+  * Expensive to buy and operate
+* **Using less** : using power more efficiently
+
+### Chapter 5 - How we make things
+
+`31 percent of 51 billion tons per year`
+
+* Every year America alone produces more than 96 millions tons of cement
+  * 600 pounds for every person in the country
+* Americans use as much steel as cement
+* Use tons of steel, cement, glass, plastic
+  * Emits lots of greenhouse gases
+  * Responsible for about a third of all emissions worldwide
+* Making 1 ton of steel produces about 1.8 tons of carbon dioxide
+
+#### Bring the premium down
+
+* Different ways :
+  * Using public policies to create demand for clean products
+    * Create incentives or requirements to buy zero-carbon cement or steel
+  * Take recycled CO2
+    * Inject it back into the cement
+
+### Chapter 6 - How we grow things
+
+`19 percent of 51 billion tons a year`
+
+* Raising animals for food is a major contributor of greenhouse gas emissions
+  * Ranks as the highest contributor in the sector that experts call "agriculture, forestry, and other land use"
+  * Composition : 70% agriculture / 30% deforestation
+* With agriculture main culprit = _methane_
+  * Causes 28 times more warming per molecule than CO2 over the course of a century
+  * Nitrous oxide causes 265 times more warming
+* If we want to get near net-zero emissions
+  * Figure out how to grow plants and raise animals while reducing and eventually eliminating greenhouse gases
+  * Have to do something about deforestation and other uses of land
+* _Global population is headed toward 10 billion people by 2100_
+  * 40% more people
+  * We'll need more than 40% more food too
+    * As people get richer, they eat more calories
+* We can cut down on meat eating while still enjoying the taste of meat
+  * Plant based meat
+  * Artificial meats
+  * Grow the meat itself in labs
+    * Cell based meat
+* Wasting less of it
+  * In Europe, Industrialized parts of Asia, Sub-Saharian Africa : 20% of food is simply thrown away
+  * US : 40%
+  * Most important solution = behavior change
+* _It's been estimated that if we couldn't make synthetic fertilizer_
+  * The world's population would be **40 to 50 percent smaller**
+  * No practical zero-carbon alternative for fertilizer right now
+* Deforestation : would be easier to stop
+  * Incentives to cut down trees are stronger than the incentives to leave them alone
+  * We need political / economic solutions
+* How much CO2 can a tree absorb in its lifetime :
+  * 4 tons over the course of 40 years
+* How long will the tree survive ?
+  * If it burns down all the CO2 it was storing will be released into the atmosphere
+
+### Chapter 7 - How we get around
+
+`16 percent of 51 billion tons a year`
+
+* Gas contains an amazing amount of energy
+  * Gasoline is remarkably cheap
 
