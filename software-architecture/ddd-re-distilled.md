@@ -428,6 +428,7 @@ Here are great books on DDD :
 
 * [Legacy Architecture Modernisation With Strategic Domain-Driven Design](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f)
 * [DOMA at Uber](https://eng.uber.com/microservice-architecture/)
+* [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
 
 {% embed url="https://speakerdeck.com/thirion/ddd-re-distilled" %}
 
