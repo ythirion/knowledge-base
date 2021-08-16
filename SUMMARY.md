@@ -105,6 +105,7 @@
       * [Refactoring at Scale](xtrem-reading/resources/book-notes/refactoring-at-scale.md)
       * [Succeeding with OKRs in Agile](xtrem-reading/resources/book-notes/succeding-with-okrs-in-agile.md)
       * [Team Topologies](xtrem-reading/resources/book-notes/team-topologies.md)
+      * [The Programmer's Brain](xtrem-reading/resources/book-notes/the-programmers-brain.md)
 * [My Activity](my-activity/README.md)
   * [Retour sur mon année 2020](my-activity/retour-dun-freelance-sur-lannee-2020.md)
 
