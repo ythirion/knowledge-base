@@ -357,5 +357,131 @@ Example : A geometry problem in which the lengths of two sides of a triangle are
 
 #### Refactoring code to reduce cognitive load
 
+* In most cases, refactoring is done to make it easier to maintain the resulting code
+  * But code that is more maintainable in the long run is not always more readable now.
+* In many cases these refactorings are temporary
+  * only meant to allow you understand the code
+  * can be rolled back once your understanding is solidified
+
+#### Refactoring 1 - Inlining Code
+
+* When reading a call to a method with a vague name, you will need to spend some time up front to understand what the method does
+* Inlining the method lowers your extraneous cognitive load
+  * Within the new context, you might also be able to choose better name for the method
+
+#### Refactoring 2 - Replacing unfamiliar language constructs
+
+Example - **Lambdas** : if lambdas are new to you, this code might cause too much extraneous cognitive load
+
+* If you feel that you are struggling with the lambda expression :
+  * Simply rewrite the code to use a regular function temporarily
+  * Other examples : Ternary operators
+
+{% tabs %}
+{% tab title="Lambdas" %}
+```java
+Optional<Product> product = productList.stream()
+        .filter(p -> p.getId() == id)
+        .findFirst();
+```
+{% endtab %}
+
+{% tab title="Reduced load" %}
+```java
+public static class Toetsie implements Predicate <Product>{
+    private int id;
+    Toetsie(int id){
+        this.id = id
+    }
+    boolean test(Product p){
+        return p.getID() == this.id;
+    }
+}
+
+Optional<Product> product = productList.stream().
+        filter(new Toetsie(id)).
+        findFirst();
+```
+{% endtab %}
+{% endtabs %}
+
+* What is easy to read depends on your prior knowledge
+  * There is no shame in helping yourself understand code by translating it to a more familiar form
+
+{% hint style="success" %}
+**CODE SYNONYMS ARE GREAT ADDITIONS TO A FLASHCARD DECK** 
+
+While there’s no shame in changing code temporarily to aid comprehension, this does point to a limitation in your understanding.
+{% endhint %}
+
+#### Marking dependencies
+
+There are two ways in which code with a complicated structure can overload the working memory :
+
+* You do not know exactly which parts of the code you need to read
+  * read more of the code than is needed
+  * may be more than your working memory is able to process
+* With code that is highly connected, your brain is trying to do two things at the same time : 
+  * Understand individual lines of code
+  * Understand the structure of the code to decide where to continue reading
+
+{% hint style="success" %}
+When you reach the limits of your working memory, you can **use a memory aid** to help you focus on the right parts of the code. 
+{% endhint %}
+
+#### Marking dependencies - Create a dependency graph
+
+* Print out the code, or convert it to a PDF
+* Open it on a tablet so you can make annotations digitally
+* Circle all the variables
+
+![](../../../.gitbook/assets/image%20%28666%29.png)
+
+* Link similar variables
+  * draw lines between occurrences of the same variable
+  * helps you to understand where data is used in the program
+
+![](../../../.gitbook/assets/image%20%28665%29.png)
+
+* Circle all method/function calls
+* Link methods/functions to their definitions
+* Circle all instances of classes
+* Draw a link between classes and their instances
+
+Now have a reference that you can refer to for information about the code’s structure :
+
+* Saving you the effort of, for example, having to search for definitions 
+* While also deciphering the meaning of the code
+
+#### Marking dependencies - Using a state table
+
+{% hint style="success" %}
+A state table focuses on the values of variables rather than the structure of the code. It has columns for each variable and lines for each step in the code.
+{% endhint %}
+
+**How to ?**
+
+1. Make a list of all the variables
+2. Create a table and give each variable its own column
+3. Add one row to the table for each distinct part of the execution of the code.
+   * Rows in the state table represent separate parts of the dependencies
+4. Execute each part of the code and write down the value each variable has afterward in the correct row and column. 
+
+![](../../../.gitbook/assets/image%20%28664%29.png)
+
+  
+Once you’ve prepared the table, work your way through the code and calculate the new value of each variable for each row in the state table. 
+
+> The process of mentally executing code is called _**tracing or cognitive compiling.**_
+
+#### Combining state tables and dependency graphs
+
+These techniques focus on different parts of the code :
+
+* Dependency graph draws your attention to how the code is organized
+* The state table captures the calculations in the code
+
+## Part 2. On thinking about code
+
 
 
