@@ -237,3 +237,13 @@ _**Expanding the set of flashcards**_
   * When you’re about to Google a certain concept
     * That is a signal that you do not yet know that concept by heart
 
+_**Thinning the set of Flashcards**_
+
+* To keep track of how well you know certain concepts
+  * You can keep a little tally on each card of your right and wrong answers
+  * Demonstrate what knowledge is already reliably stored in your long-term memory
+
+![Tally on flashcards](../../../.gitbook/assets/image%20%28661%29.png)
+
+
+
