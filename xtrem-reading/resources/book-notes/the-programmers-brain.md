@@ -435,13 +435,13 @@ When you reach the limits of your working memory, you can **use a memory aid** t
 * Open it on a tablet so you can make annotations digitally
 * Circle all the variables
 
-![](../../../.gitbook/assets/image%20%28666%29.png)
+![](../../../.gitbook/assets/image%20%28668%29.png)
 
 * Link similar variables
   * draw lines between occurrences of the same variable
   * helps you to understand where data is used in the program
 
-![](../../../.gitbook/assets/image%20%28665%29.png)
+![](../../../.gitbook/assets/image%20%28667%29.png)
 
 * Circle all method/function calls
 * Link methods/functions to their definitions
@@ -467,7 +467,7 @@ A state table focuses on the values of variables rather than the structure of th
    * Rows in the state table represent separate parts of the dependencies
 4. Execute each part of the code and write down the value each variable has afterward in the correct row and column. 
 
-![](../../../.gitbook/assets/image%20%28664%29.png)
+![](../../../.gitbook/assets/image%20%28665%29.png)
 
   
 Once you’ve prepared the table, work your way through the code and calculate the new value of each variable for each row in the state table. 
@@ -482,6 +482,142 @@ These techniques focus on different parts of the code :
 * The state table captures the calculations in the code
 
 ## Part 2. On thinking about code
+
+### 5. Reaching a deeper understanding of code
+
+#### Roles of variables \(play a central role\)
+
+{% hint style="success" %}
+Understanding what types of information variables hold is key to being able to reason about and make changes to code.
+{% endhint %}
+
+The reason that variables are hard to understand is that most programmers do not have a good schema in their long-term memory to relate variables.
+
+With just **11 roles**, you can describe almost all variables : \(distinguished by Sajaniemi\)
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Role</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Fixed value</td>
+      <td style="text-align:left">Variable whose value does not change after initialization plays the role
+        of a fixed value.</td>
+      <td style="text-align:left">
+        <ul>
+          <li>pi</li>
+          <li>data read from a file</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Stepper</td>
+      <td style="text-align:left">When iterating in a loop : always a variable that is stepping through
+        a list of values</td>
+      <td style="text-align:left">i in for loop</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Flag</td>
+      <td style="text-align:left">A variable used to indicate that something has happened or is the case</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>are is_set</li>
+          <li>is_available</li>
+          <li>is_error</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Walker</td>
+      <td style="text-align:left">A walker is a variable that traverses a data structure in a way that is
+        unknown before the loop starts.</td>
+      <td style="text-align:left">a search index in a binary tree</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Most-recent holder</td>
+      <td style="text-align:left">A variable that holds the latest value encountered in going through a
+        series of values.</td>
+      <td style="text-align:left">store the latest line read from a file : line = file.readline()</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Most-wanted holder</td>
+      <td style="text-align:left">Often when you are iterating over a list of values, you are doing that
+        to search for a certain value. The variable that holds that value, or the
+        best value found so far, is what we call a most-wanted holder.</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>minimum value</li>
+          <li>maximum value</li>
+          <li>the first value meeting a certain condition</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Gatherer</td>
+      <td style="text-align:left">A variable that collects data and aggregates it into one value.</td>
+      <td
+      style="text-align:left">sum = 0 that uses in a loop</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Container</td>
+      <td style="text-align:left">Any data structure that holds multiple elements that can be added and
+        removed.</td>
+      <td style="text-align:left">
+        <ul>
+          <li>lists</li>
+          <li>arrays</li>
+          <li>trees</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Follower</td>
+      <td style="text-align:left">Some algorithms require you to keep track of a previous or subsequent
+        value. A variable in this role is called a follower, and <em>is always coupled to another variable</em>.</td>
+      <td
+      style="text-align:left">A pointer that points to a previous element in a linked list</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Organizer</td>
+      <td style="text-align:left">
+        <p>Sometimes a variable has to be transformed in some way for further processing.</p>
+        <p>Often, they are temporary variables</p>
+      </td>
+      <td style="text-align:left">Store a sorted version of a given list</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Temporary</td>
+      <td style="text-align:left">
+        <p>Variables that are used only briefly.</p>
+        <p>Used to swap data, or to store the result of a computation that is used
+          multiple times.</p>
+      </td>
+      <td style="text-align:left">often called temp or t</td>
+    </tr>
+  </tbody>
+</table>
+
+![Variable roles cheat sheet](../../../.gitbook/assets/image%20%28664%29.png)
+
+
+
+For most professional programmers :
+
+* The roles in Sajaniemi’s framework will be somewhat familiar \(maybe by other names\)
+* Rather than introducing new concepts, the purpose of this list is to **give you a new vocabulary to use when discussing variables**.
+
+You can create a set of icons corresponding to the 11 roles that a variable can play according to Sajaniemi’s framework, and use them to mark the roles of variables in unfamiliar code.
+
+![Felienne&apos;s variable roles icons](../../../.gitbook/assets/image%20%28669%29.png)
+
+![](../../../.gitbook/assets/image%20%28666%29.png)
 
 
 
