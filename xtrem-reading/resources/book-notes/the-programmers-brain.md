@@ -21,7 +21,7 @@ In The Programmer’s Brain: What every programmer needs to know about cognition
 
 Learn how to optimize your brain’s natural cognitive processes to read code more easily, write code faster, and pick up new languages in much less time. This book will help you through the confusion you feel when faced with strange and complex code, and explain a codebase in ways that can make a new team member productive in days!
 
-![](../../../.gitbook/assets/image%20%28657%29.png)
+![](../../../.gitbook/assets/image%20%28658%29.png)
 
 ## **Part 1. On Reading Code Better**
 
@@ -35,7 +35,7 @@ Learn how to optimize your brain’s natural cognitive processes to read code mo
 * 3 types of confusion in code
   * Lack of knowledge
 
-![](../../../.gitbook/assets/image%20%28655%29.png)
+![](../../../.gitbook/assets/image%20%28656%29.png)
 
 * Lack of easy-to-access information
   * The information about exactly how _toBinaryString\(\)_ works is not readily available
@@ -53,11 +53,11 @@ public class BinaryCalculator {
   * You cannot oversee all the small steps that are being executed
   * If you need to understand all the steps, you may likely use a memory aid like intermediate values of variables shown here
 
-![](../../../.gitbook/assets/image%20%28656%29.png)
+![](../../../.gitbook/assets/image%20%28657%29.png)
 
 #### Different cognitive processes that affect coding
 
-![](../../../.gitbook/assets/image%20%28658%29.png)
+![](../../../.gitbook/assets/image%20%28659%29.png)
 
 An overview of the three cognitive processes that this book covers: STM, LTM, and working memory.
 
@@ -118,6 +118,85 @@ Limited capacity of your short-term memory :
 * Limitation of size : just a few slots available for information
   * 7 + or - two
   * More research indicates that its capacity could be smaller : just 2 to 6 things
+
+#### Remembering more code by using long-term memory
+
+* Experts’ memories differ from beginners’
+  * De groot chess experiment
+    * When comparing the performance of average players with chess master
+    * He found that expert players were much better at recreating the chess setups than average players if not random
+    * Experts grouped info in logical ways -&gt; chunks
+    * He considered “Sicilian opening,” for example, as one chunk,
+      * Which can fit into one slot in short-term memory. 
+  * The theory of chunks also adequately explains why both types of players performed equally in experiment 2 \(random setup\)
+
+#### Chunking in code
+
+{% hint style="success" %}
+The more information you have stored about a specific topic, the easier it is to effectively divide information into chunks.
+{% endhint %}
+
+In 1981 [Katherine McKeithen](https://www.researchgate.net/publication/222462455_Knowledge_Organization_and_Skill_Differences_in_Computer_Programmers), a researcher at Bell Labs, tried to repeat de Groot’s experiments on programmers :
+
+![](../../../.gitbook/assets/image%20%28655%29.png)
+
+Main takeaway : _**beginners will be able to process a lot less code than experts**_
+
+#### **How to write "chunkable" code**
+
+* **Use Design Patterns**
+  * Having a design pattern present in the code was more helpful for performing maintenance tasks when the programmers knew that the pattern was present in the code
+  * Gaining knowledge about design patterns
+    * Going to improve your chunking ability
+    * Helps you to process code faster
+* **Write comments**
+  * When code contains comments
+    * Programmers will take more time to read it
+      * You might think that is a bad thing—that comments “slow you down”—
+      * In fact, this is a sign that comments are being read when programmers read code
+  * High-level comments like “this function prints a given binary tree in order” 
+    * can help programmers to chunk larger pieces of code
+  * Low-level comments such as “increment i \(by one\)” after a line that reads i++;
+    * can create a burden on the chunking process
+* **Leave Beacons**
+  * Beacons are parts of a program that help a programmer to understand what the code does like a line of code even part of a line of code, that your eye falls on which "Now I see"
+  * Provide an important signaling service for programmers during the comprehension process
+    * They often act as a trigger for programmers to confirm or refute hypotheses about the source
+  * 2 types
+    * Simple beacons :
+      * Self-explaining syntactic code elements : meaningful variable names, operators such as +, &gt;, and && and structural statements such as if, else, and so on can be considered simple beacons too
+    * Compound beacons : larger code structures comprised of simple beacons. Compound beacons provide semantic meaning for
+
+{% code title="Beacons example" %}
+```python
+# A class that represents a node in a tree
+class Node:
+    def __init__(self, key):
+    self.left = None
+    self.right = None
+    self.val = key
+    # A function to do in-order tree traversal
+        
+def print_in_order(root):
+    if root:
+    # First recur on left child
+    print_in_order(root.left)
+    # then print the data of node
+    print(root.val),
+    # now recur on right child
+    print_in_order(root.right)
+    print("Contents of the tree are")
+    print_in_order(tree)
+    
+    
+1. Comments using the word “tree”
+2. Variables called root and tree
+3. Fields called left and right
+4. String contents in the code that concern trees
+```
+{% endcode %}
+
+### 3. How to learn programming syntax more quickly
 
 
 
