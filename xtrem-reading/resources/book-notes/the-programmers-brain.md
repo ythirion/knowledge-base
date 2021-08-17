@@ -282,4 +282,19 @@ After several repetitions spaced out over a long period, the knowledge should re
 
 * Don’t try to memorize all of your flashcards in a day
   * But spread your study out over a longer period of time
+  * Research has shown that actively trying to remember makes memories stronger
+* 2 techniques **to strengthen memories** :
+  * **Retrieval practice** : actively trying to remember something
+    * Retrieval is a more formal word for remembering
+  * **Elaboration** : actively connecting new knowledge to existing memories
+* How to measure memories strength ?
+  * _**Storage strength**_ : indicates how well something is stored in long-term memory
+    * The more you study something
+    * The stronger the memory of it is
+    * Until it becomes virtually impossible to ever forget it
+  * _**Retrieval strength**_ : indicates how easy it is to remember something
+    * Have you already have the feeling where you’re sure you know something 
+      * a name, a song, a phone number, the syntax of the filter\(\) function in JavaScript
+      * But you can’t quite recall it; the answer is on the tip of your tongue
+      * > Information for which the storage strength is high— and retrieval strength is low
 
