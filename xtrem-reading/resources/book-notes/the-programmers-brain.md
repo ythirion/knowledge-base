@@ -435,13 +435,13 @@ When you reach the limits of your working memory, you can **use a memory aid** t
 * Open it on a tablet so you can make annotations digitally
 * Circle all the variables
 
-![](../../../.gitbook/assets/image%20%28670%29.png)
+![](../../../.gitbook/assets/image%20%28672%29.png)
 
 * Link similar variables
   * draw lines between occurrences of the same variable
   * helps you to understand where data is used in the program
 
-![](../../../.gitbook/assets/image%20%28669%29.png)
+![](../../../.gitbook/assets/image%20%28671%29.png)
 
 * Circle all method/function calls
 * Link methods/functions to their definitions
@@ -467,7 +467,7 @@ A state table focuses on the values of variables rather than the structure of th
    * Rows in the state table represent separate parts of the dependencies
 4. Execute each part of the code and write down the value each variable has afterward in the correct row and column. 
 
-![](../../../.gitbook/assets/image%20%28667%29.png)
+![](../../../.gitbook/assets/image%20%28669%29.png)
 
   
 Once you’ve prepared the table, work your way through the code and calculate the new value of each variable for each row in the state table. 
@@ -604,7 +604,7 @@ With just **11 roles**, you can describe almost all variables : \(distinguished 
   </tbody>
 </table>
 
-![Variable roles cheat sheet](../../../.gitbook/assets/image%20%28666%29.png)
+![Variable roles cheat sheet](../../../.gitbook/assets/image%20%28668%29.png)
 
 
 
@@ -615,9 +615,9 @@ For most professional programmers :
 
 You can create a set of icons corresponding to the 11 roles that a variable can play according to Sajaniemi’s framework, and use them to mark the roles of variables in unfamiliar code.
 
-![Felienne&apos;s variable roles icons](../../../.gitbook/assets/image%20%28671%29.png)
+![Felienne&apos;s variable roles icons](../../../.gitbook/assets/image%20%28674%29.png)
 
-![](../../../.gitbook/assets/image%20%28668%29.png)
+![](../../../.gitbook/assets/image%20%28670%29.png)
 
 #### Gaining a deeper knowledge of programs
 
@@ -649,11 +649,97 @@ Evidence from fMRI about what code does in the brain
 * The regions are BA6, BA21, BA40, BA44, and BA47
   * BA21, BA44, and BA47 are related to natural languages
 
-![](../../../.gitbook/assets/image%20%28664%29.png)
+![](../../../.gitbook/assets/image%20%28665%29.png)
 
 {% hint style="success" %}
 There are many similarities between reading code and reading natural language, and your ability to learn a natural language can be a predictor of your ability to learn to program.
 {% endhint %}
+
+> If you can learn English, you can learn Clojure !!!
+
+#### Text comprehension strategies applied to code
+
+There has been a lot of research into effective reading strategies and how to learn them. Strategies for reading comprehension can be roughly divided into these seven categories : 
+
+* _**Activating**_—Actively thinking of related things to activate prior knowledge
+  * Actively thinking about code elements will help your working memory to find relevant information stored in the LTM
+  * That might be helpful in comprehending the code at hand 
+* _**Monitoring**_—Keeping track of your understanding of a text
+  * When reading code, it is important to keep track of what you are reading and whether or not you understand it
+
+![](../../../.gitbook/assets/image%20%28673%29.png)
+
+* _**Determining importance**_—Deciding what parts of a text are most relevant
+  * What matters is that you think about which parts of the code are likely to have the most influence on the program’s execution.
+* _**Inferring**_—Filling in facts that are not explicitly given in the text
+  * Inferring the meaning of variable names
+* _**Visualizing**_—Drawing diagrams of the read text to deepen understanding
+  * One technique that can be helpful for very complex code of which a deeper understanding is needed is to list all operations in which variables are involved.
+* _**Questioning**_—Asking questions about the text at hand 
+  * Asking yourself questions while reading code will help you understand the code’s goals and functionality.
+  * Ex : What are the five most central concepts of the code? \(identifier names, themes, classes, or information found in comments\), what strategies did you use to identify the central concepts?
+* _**Summarizing**_—Creating a short summary of a text
+  * Writing a summary of code in natural language will help you gain a deeper understanding of what’s happening in that code
+
+![](../../../.gitbook/assets/image%20%28664%29.png)
+
+### 6. Getting better at solving programming problems
+
+* Models are simplified representations of reality
+  * The main goal = support you in thinking about a problem and ultimately also solving the problem
+* How you represent a problem can heavily influence the way you think about it
+  * **For example :** thinking of customers as a list versus as a collection can influence how you store and analyze customer objects
+* Mental models are mental representations that we form while thinking of problems. 
+  * People can hold multiple mental models that can compete with each other. 
+* Notional machines are abstract versions of how a real computer functions that are used when explaining programming concepts and reasoning about programming.
+
+### 7. Misconceptions: bugs in thinking
+
+* Sometimes bugs are the result of sloppiness :
+  * For example when you forget to close a file or make a typo in a filename.
+  * More often though, bugs are the result of a mistake in thinking.
+
+#### Why learning a second programming language is easier than learning the first one
+
+* Keywords and mental models that are stored in your long-term memory can help you comprehend code Sometimes, when you’ve learned something, that knowledge is also useful in another domain. 
+  * This is called **transfer**. 
+  * Transfer happens when information that you already know helps you to do new things.
+* When you activate your working memory by thinking about a new programming concept
+  * The LTM is also activated and starts a search for relevant information.
+
+![](../../../.gitbook/assets/image%20%28667%29.png)
+
+_**Transfer of learning**_ happens when you can apply things that you already know in entirely unfamiliar situations. When people are talking about cognitive science and use the term transfer, they almost always mean transfer of learning.
+
+#### Different forms of transfer
+
+* High and Low-road transfer
+  * Transfer of automatized skills is called low-road transfer. 
+    * In programming, low-road transfer might occur if you use Ctrl-C and Ctrl-V in a new editor without thinking about it. 
+  * Transfer of more complex tasks is called high-road transfer. 
+    * When high-road transfer occurs, you are often aware that it is happening
+    * _**Ex**_ : you might assume that you need to declare a variable in a new programming language because you know that is the case in most languages.
+* Near and far transfer :
+  * Near transfer happens when knowledge transfers from domains that are seen as close to each other :
+    * like calculus and algebra
+    * C\# and Java 
+  * Far transfer when skills transfer between very different domains
+    * like Latin and logic
+    * Java and Prolog
+
+> Sometimes existing knowledge helps you learn faster or perform new tasks better. This is called **positive transfer**.
+
+#### Misconceptions: bugs in thinking 
+
+* When existing knowledge prevents you from learning something new, we call this **negative transfer**.
+* You can use positive transfer to learn new things more effectively by actively searching for related information in your long-term memory \(for example, by elaboration, as covered earlier in the book\).
+* You may hold misconceptions, which occur when you are sure you are right but are actually wrong
+* Misconceptions are not always addressed by simply realizing or being told that you are wrong. 
+  * For misconceptions to be fixed, you need a new mental model to replace the old, wrong model.
+* Even if you have learned a correct model, there is always the risk that you will fall back to using the misconception. 
+* Use tests and documentation within a codebase to help prevent misconceptions. 
+
+### 8. How to get better at naming things
 
 
 
