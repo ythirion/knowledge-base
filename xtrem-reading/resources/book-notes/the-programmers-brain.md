@@ -188,7 +188,6 @@ def print_in_order(root):
     print("Contents of the tree are")
     print_in_order(tree)
     
-    
 1. Comments using the word “tree”
 2. Variables called root and tree
 3. Fields called left and right
@@ -198,5 +197,43 @@ def print_in_order(root):
 
 ### 3. How to learn programming syntax more quickly
 
+* What you already know impacts to a large extent how efficiently you can read and understand code
+  * The more concepts, data structures, and syntax you know
+  * The more code you can easily chunk, and thus remember and process
 
+{% hint style="success" %}
+_**4 Techniques** that will help you memorize programming concepts better and more_
+{% endhint %}
+
+#### A word on interruptions
+
+* Parnin determined that interruptions are, unsurprisingly, quite disruptive to productivity
+* His study showed that 
+  * It typically takes about a quarter of an hour to get back to editing code after an interruption
+* When interrupted during an edit of a method
+  * Programmers were able to resume their work in less than a minute in only 10% of cases
+
+#### Technique 1 : Flashcards
+
+* A great way to learn anything, including syntax, fast is to use flashcards
+* Simply paper cards or Post-its of which you use both sides
+  * One side has a prompt on it—the thing that you want to learn
+  * The other side has the corresponding knowledge on it
+
+![example of flashcards on Brainscape](../../../.gitbook/assets/image%20%28660%29.png)
+
+_**When to use them ?**_
+
+* Use them often to practice
+* Use Apps like **Brainscape**, Anki, Quizlet, that allow you to create your own digital flashcards
+  * They will remind you when to practice again
+* After a few weeks your syntactic vocabulary will have increased
+
+_**Expanding the set of flashcards**_
+
+* 2 good times to add flashcards to your set
+  * When you’re learning a new programming language, framework, or library
+    * You can add a card each time you encounter a new concept
+  * When you’re about to Google a certain concept
+    * That is a signal that you do not yet know that concept by heart
 
