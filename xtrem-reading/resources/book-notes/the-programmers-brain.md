@@ -619,5 +619,25 @@ You can create a set of icons corresponding to the 11 roles that a variable can 
 
 ![](../../../.gitbook/assets/image%20%28666%29.png)
 
+#### Gaining a deeper knowledge of programs
 
+* Text knowledge vs plan knowledge
+  * _**Text structure knowledge**_ : means knowing the syntactic concepts used in code
+  * _**Plan knowledge**_ : means understanding the intentions of the code’s creator
+* 4 steps commonly taken when moving from superficial knowledge of a program to deeper understanding are: 
+  1. Find a focal point
+     * Start your exploration of the code at a certain focal point. 
+     * It may be the main\(\) method 
+  2. Expand knowledge from the focal point.
+     * Look for relationships in the code. 
+     * Starting at the focal point, circle all the relevant entities \(variables, methods, and classes\) that play a role 
+  3. Understand a concept from a set of related entities. 
+     * There are several lessons from the lines highlighted
+       * Is there a method that is called in several places within the slice you’ve highlighted? 
+       * That method likely plays a large role in the codebase and warrants further investigation 
+       * Once you have investigated the important locations further, you can create a list of all related classes 
+  4. Understand concepts across multiple entities.
+     * Get a high-level understanding of the different concepts in the code 
+     * What are you allowed to do, and what is forbidden? 
+       * For example, will an error be thrown if you add a third node or is that up to the user? 
 
