@@ -278,5 +278,8 @@ The biggest takeaway from this section is that the best way that science knows t
 After several repetitions spaced out over a long period, the knowledge should remain in your long-term memory forever.
 {% endhint %}
 
-_\*\*\*\*_
+#### How to remember syntax longer ?
+
+* Don’t try to memorize all of your flashcards in a day
+  * But spread your study out over a longer period of time
 
