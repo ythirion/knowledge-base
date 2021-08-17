@@ -213,7 +213,7 @@ _**4 Techniques** that will help you memorize programming concepts better and mo
 * When interrupted during an edit of a method
   * Programmers were able to resume their work in less than a minute in only 10% of cases
 
-#### Technique 1 : Flashcards
+#### Technique : Flashcards
 
 * A great way to learn anything, including syntax, fast is to use flashcards
 * Simply paper cards or Post-its of which you use both sides
@@ -297,4 +297,65 @@ After several repetitions spaced out over a long period, the knowledge should re
       * a name, a song, a phone number, the syntax of the filter\(\) function in JavaScript
       * But you can’t quite recall it; the answer is on the tip of your tongue
       * > Information for which the storage strength is high— and retrieval strength is low
+
+#### Strengthen memories by actively thinking
+
+By actively thinking about and reflecting on the information
+
+{% hint style="success" %}
+_The process of thinking about information that you have just learned is called elaboration._
+{% endhint %}
+
+**Schemata**
+
+* The ways in which thoughts and the relationships between them are organized in our minds are called schemas, or schemata
+* When we save memories
+  * the memories can even be changed to adapt themselves to existing schemata
+
+**Technique : Elaboration**
+
+* One thing you can do to strengthen the initial encoding of memories is called elaboration
+* Elaboration means thinking about what you want to remember
+  * Relating it to existing memories
+  * Making the new memories fit into schemata already stored in your long-term memory
+* Using elaboration to learn new programming concepts
+  * For example, you might try thinking of related concepts in other programming languages
+    * **T**hinking of alternative concepts in Python or other programming languages
+    * Or thinking of how this concept relates to other paradigms
+
+### 4. How to read complex code
+
+* What’s the difference between working memory and short-term memory?
+  * **Working memory = the short-term memory applied to a problem**
+  * **Example :**
+    * Remember a phone number -&gt; use your STM
+    * Add integers -&gt; use your working memory
+* What happens in the working memory when you read code?
+  * Like the short-term memory, the working memory is only capable of processing between 2 and 6 things at a time
+  * In the context of working memory, this capacity is known as the _**cognitive load**_.
+
+Different types of cognitive load :
+
+| Load Type | Description |
+| :--- | :--- |
+| Intrinsic load | How complex the problem is in itself |
+| Extraneous load | What outside distractions add to the problem |
+| Germane load | Cognitive load created by having to store your thought to LTM |
+
+#### Intrinsic cognitive load when reading code
+
+Intrinsic cognitive load is cognitive load caused by features of a problem that the problem contains by nature
+
+Example : A geometry problem in which the lengths of two sides of a triangle are given and the third one needs to be calculated. This can be a problem that is hard to solve, depending on your prior knowledge. However, _**the problem itself cannot be made any simpler without changing it.**_ 
+
+#### Extraneous cognitive load
+
+* we can think of this type of extraneous load as similar to accidental complexity :
+  * Aspects of a program that make a problem harder than it needs to be
+* What creates extraneous load is not the same for every programmer
+* The more experience you have using a certain concept, the less cognitive load it creates for you.
+
+#### Refactoring code to reduce cognitive load
+
+
 
