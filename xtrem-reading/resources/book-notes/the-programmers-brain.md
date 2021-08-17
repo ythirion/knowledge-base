@@ -435,13 +435,13 @@ When you reach the limits of your working memory, you can **use a memory aid** t
 * Open it on a tablet so you can make annotations digitally
 * Circle all the variables
 
-![](../../../.gitbook/assets/image%20%28668%29.png)
+![](../../../.gitbook/assets/image%20%28670%29.png)
 
 * Link similar variables
   * draw lines between occurrences of the same variable
   * helps you to understand where data is used in the program
 
-![](../../../.gitbook/assets/image%20%28667%29.png)
+![](../../../.gitbook/assets/image%20%28669%29.png)
 
 * Circle all method/function calls
 * Link methods/functions to their definitions
@@ -467,7 +467,7 @@ A state table focuses on the values of variables rather than the structure of th
    * Rows in the state table represent separate parts of the dependencies
 4. Execute each part of the code and write down the value each variable has afterward in the correct row and column. 
 
-![](../../../.gitbook/assets/image%20%28665%29.png)
+![](../../../.gitbook/assets/image%20%28667%29.png)
 
   
 Once you’ve prepared the table, work your way through the code and calculate the new value of each variable for each row in the state table. 
@@ -604,7 +604,7 @@ With just **11 roles**, you can describe almost all variables : \(distinguished 
   </tbody>
 </table>
 
-![Variable roles cheat sheet](../../../.gitbook/assets/image%20%28664%29.png)
+![Variable roles cheat sheet](../../../.gitbook/assets/image%20%28666%29.png)
 
 
 
@@ -615,9 +615,9 @@ For most professional programmers :
 
 You can create a set of icons corresponding to the 11 roles that a variable can play according to Sajaniemi’s framework, and use them to mark the roles of variables in unfamiliar code.
 
-![Felienne&apos;s variable roles icons](../../../.gitbook/assets/image%20%28669%29.png)
+![Felienne&apos;s variable roles icons](../../../.gitbook/assets/image%20%28671%29.png)
 
-![](../../../.gitbook/assets/image%20%28666%29.png)
+![](../../../.gitbook/assets/image%20%28668%29.png)
 
 #### Gaining a deeper knowledge of programs
 
@@ -639,5 +639,21 @@ You can create a set of icons corresponding to the 11 roles that a variable can 
   4. Understand concepts across multiple entities.
      * Get a high-level understanding of the different concepts in the code 
      * What are you allowed to do, and what is forbidden? 
-       * For example, will an error be thrown if you add a third node or is that up to the user? 
+       * For example, will an error be thrown if you add a third node or is that up to the user?
+
+#### Reading text is similar to reading code
+
+Evidence from fMRI about what code does in the brain
+
+* Siegmund's findings reliably showed that program comprehension activates five Brodmann areas, all located in the left hemisphere of the brain. 
+* The regions are BA6, BA21, BA40, BA44, and BA47
+  * BA21, BA44, and BA47 are related to natural languages
+
+![](../../../.gitbook/assets/image%20%28664%29.png)
+
+{% hint style="success" %}
+There are many similarities between reading code and reading natural language, and your ability to learn a natural language can be a predictor of your ability to learn to program.
+{% endhint %}
+
+
 
