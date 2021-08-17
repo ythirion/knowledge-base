@@ -220,12 +220,12 @@ _**4 Techniques** that will help you memorize programming concepts better and mo
   * One side has a prompt on it—the thing that you want to learn
   * The other side has the corresponding knowledge on it
 
-![example of flashcards on Brainscape](../../../.gitbook/assets/image%20%28660%29.png)
+![example of flashcards on Brainscape](../../../.gitbook/assets/image%20%28661%29.png)
 
 _**When to use them ?**_
 
 * Use them often to practice
-* Use Apps like **Brainscape**, Anki, Quizlet, that allow you to create your own digital flashcards
+* Use Apps like [**Brainscape**](https://www.brainscape.com/), Anki, Quizlet, that allow you to create your own digital flashcards
   * They will remind you when to practice again
 * After a few weeks your syntactic vocabulary will have increased
 
@@ -243,7 +243,40 @@ _**Thinning the set of Flashcards**_
   * You can keep a little tally on each card of your right and wrong answers
   * Demonstrate what knowledge is already reliably stored in your long-term memory
 
-![Tally on flashcards](../../../.gitbook/assets/image%20%28661%29.png)
+![Tally on flashcards](../../../.gitbook/assets/image%20%28662%29.png)
 
+#### How to not forget things
 
+* The big problem with your **LTM** : _you cannot remember things for a long time without extra practice_
+* The decay for LTM is not seconds, like that of the STM
+  * But it is still a lot shorter than you might think
+  * `After 2 days, just 25% of the knowledge remains in your LTM`
+
+![Forgetting curve](../../../.gitbook/assets/image%20%28660%29.png)
+
+#### Why do we forget memories?
+
+* Storage of memories in the brain is not based on zeros and ones
+  * BUT it does share a name with how we store information to disk: encoding
+* Memories in the brain are organized in a network structure
+  * Because facts are connected to large numbers of other facts
+
+![on the left, a hierarchical filesystem; on the right, memories organized as a network](../../../.gitbook/assets/image%20%28663%29.png)
+
+* Memories are stored with associations, or relationships to each other
+
+#### Spaced Repetition
+
+* You remember the longest if you study over a longer period of time
+  * In contrast with formal education, where we try to cram all the knowledge into one semester
+* **Revisiting your set of flashcards once a month** 
+  * Will be enough to help your memory in the long run, and it’s also relatively doable!
+
+{% hint style="success" %}
+The biggest takeaway from this section is that the best way that science knows to prevent forgetting is to practice regularly. _****_Each repetition strengthens your memory. 
+
+After several repetitions spaced out over a long period, the knowledge should remain in your long-term memory forever.
+{% endhint %}
+
+_\*\*\*\*_
 
