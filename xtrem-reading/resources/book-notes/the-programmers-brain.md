@@ -732,14 +732,37 @@ _**Transfer of learning**_ happens when you can apply things that you already kn
 #### Misconceptions: bugs in thinking 
 
 * When existing knowledge prevents you from learning something new, we call this **negative transfer**.
-* You can use positive transfer to learn new things more effectively by actively searching for related information in your long-term memory \(for example, by elaboration, as covered earlier in the book\).
+  * Wrong assumptions based on previous leraning
+  * _**Ex**_ : Exception in java vs C\#
+    * Similar languages but not identical
+    * Checked Exceptions in java \(exceptions checked at compile-time\)
+      * No try / catch -&gt; will not compile
+    * People from C\# won't realize these exceptions from what the are used to
+    * Those people have the wrong mental model, but they think they have the right one! 
+* You can use positive transfer to learn new things more effectively by **actively searching for related information in your long-term memory** \(for example, by elaboration, as covered earlier in the book\).
 * You may hold misconceptions, which occur when you are sure you are right but are actually wrong
 * Misconceptions are not always addressed by simply realizing or being told that you are wrong. 
   * For misconceptions to be fixed, you need a new mental model to replace the old, wrong model.
 * Even if you have learned a correct model, there is always the risk that you will fall back to using the misconception. 
 * Use tests and documentation within a codebase to help prevent misconceptions. 
 
+## Part 3. On writing code better
+
 ### 8. How to get better at naming things
 
-
+* **Good names** help to activate your LTM to find relevant information that you already know about the domain of the code
+* **Bad names** can lead you to make assumptions about the code leading to misconceptions.
+* 4 main reasons **why** identifier names matter :
+  * _Names make up a large part of codebases_
+    * Eclipse source code : tokens = 33%, characters = 72%
+  * _Names play a role in code reviews_
+    * Analyzed over 170 reviews with over 1000 remarks in them
+      * **Findings** : 
+        * 1 in four code reviews contained remarks related to naming
+        * Remarks about identifier names occurred in 9% of all code reviews.
+    * cf Miltiadis Allamanis study
+  * _Names are the more accessible form of documentation_
+    * Serve as an important type of documentation : right inside the codebase
+  * _Names can serve as beacons_
+    * Help readers make sense of code
 
