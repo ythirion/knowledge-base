@@ -944,3 +944,5 @@ Study available here : [http://oro.open.ac.uk/17007/1/butler09wcreshort\_latest.
    * Constructing a name using the chosen words
    * Comes down to selecting one of the naming molds
 
+### 9. Avoiding bad code and cognitive load : 2 frameworks
+
