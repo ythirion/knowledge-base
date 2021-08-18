@@ -435,13 +435,13 @@ When you reach the limits of your working memory, you can **use a memory aid** t
 * Open it on a tablet so you can make annotations digitally
 * Circle all the variables
 
-![](../../../.gitbook/assets/image%20%28672%29.png)
+![](../../../.gitbook/assets/image%20%28673%29.png)
 
 * Link similar variables
   * draw lines between occurrences of the same variable
   * helps you to understand where data is used in the program
 
-![](../../../.gitbook/assets/image%20%28671%29.png)
+![](../../../.gitbook/assets/image%20%28672%29.png)
 
 * Circle all method/function calls
 * Link methods/functions to their definitions
@@ -467,7 +467,7 @@ A state table focuses on the values of variables rather than the structure of th
    * Rows in the state table represent separate parts of the dependencies
 4. Execute each part of the code and write down the value each variable has afterward in the correct row and column. 
 
-![](../../../.gitbook/assets/image%20%28669%29.png)
+![](../../../.gitbook/assets/image%20%28670%29.png)
 
   
 Once you’ve prepared the table, work your way through the code and calculate the new value of each variable for each row in the state table. 
@@ -604,7 +604,7 @@ With just **11 roles**, you can describe almost all variables : \(distinguished 
   </tbody>
 </table>
 
-![Variable roles cheat sheet](../../../.gitbook/assets/image%20%28668%29.png)
+![Variable roles cheat sheet](../../../.gitbook/assets/image%20%28669%29.png)
 
 
 
@@ -615,9 +615,9 @@ For most professional programmers :
 
 You can create a set of icons corresponding to the 11 roles that a variable can play according to Sajaniemi’s framework, and use them to mark the roles of variables in unfamiliar code.
 
-![Felienne&apos;s variable roles icons](../../../.gitbook/assets/image%20%28674%29.png)
+![Felienne&apos;s variable roles icons](../../../.gitbook/assets/image%20%28676%29.png)
 
-![](../../../.gitbook/assets/image%20%28670%29.png)
+![](../../../.gitbook/assets/image%20%28671%29.png)
 
 #### Gaining a deeper knowledge of programs
 
@@ -667,7 +667,7 @@ There has been a lot of research into effective reading strategies and how to le
 * _**Monitoring**_—Keeping track of your understanding of a text
   * When reading code, it is important to keep track of what you are reading and whether or not you understand it
 
-![](../../../.gitbook/assets/image%20%28673%29.png)
+![](../../../.gitbook/assets/image%20%28674%29.png)
 
 * _**Determining importance**_—Deciding what parts of a text are most relevant
   * What matters is that you think about which parts of the code are likely to have the most influence on the program’s execution.
@@ -707,7 +707,7 @@ There has been a lot of research into effective reading strategies and how to le
 * When you activate your working memory by thinking about a new programming concept
   * The LTM is also activated and starts a search for relevant information.
 
-![](../../../.gitbook/assets/image%20%28667%29.png)
+![](../../../.gitbook/assets/image%20%28668%29.png)
 
 _**Transfer of learning**_ happens when you can apply things that you already know in entirely unfamiliar situations. When people are talking about cognitive science and use the term transfer, they almost always mean transfer of learning.
 
@@ -765,4 +765,182 @@ _**Transfer of learning**_ happens when you can apply things that you already kn
     * Serve as an important type of documentation : right inside the codebase
   * _Names can serve as beacons_
     * Help readers make sense of code
+* Choosing a good name is important
+  * Many different researchers have tried to define what makes a variable name good or bad
+  * **Different perspectives** on this question
+
+#### Perspective 1 :  A good name can be defined syntactically
+
+Simon Butler, associate Senior Lecturer at the Open University in the UK, created a list of issues with variable names 
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Example of a bad name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Capitalization Anomaly</td>
+      <td style="text-align:left">Identifiers should use proper capitalization.</td>
+      <td style="text-align:left">page counter</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Consecutive underscores</td>
+      <td style="text-align:left">Identifiers should not contain multiple consecutive underscores.</td>
+      <td
+      style="text-align:left">page__counter</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Dictionary words</td>
+      <td style="text-align:left">Identifiers should consist of words, and only use abbreviations when they
+        are more commonly used than the full words.</td>
+      <td style="text-align:left">pag_countr</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Number of Words</td>
+      <td style="text-align:left">Identifiers should be composed of between two and four words.</td>
+      <td
+      style="text-align:left">
+        <p>page_counter_</p>
+        <p>converted_and_</p>
+        <p>normalized_value</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Excessive words</td>
+      <td style="text-align:left">Identifiers should not be composed out of more than four words.</td>
+      <td
+      style="text-align:left">
+        <p>page_counter_</p>
+        <p>converted_and_</p>
+        <p>normalized_value</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Short Identifier Name</td>
+      <td style="text-align:left">Identifiers should not consist of fewer than eight characters, except
+        for c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z.</td>
+      <td style="text-align:left">P, page</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Enumeration Identifier Declaration Order</td>
+      <td style="text-align:left">Unless there are clear reasons to do so, enumeration types should be declared
+        in alphabetical order.</td>
+      <td style="text-align:left">CardValue = {ACE, EIGHT, FIVE, FOUR, JACK, KING...}</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">External Underscores</td>
+      <td style="text-align:left">Identifiers should not begin or end in an underscore.</td>
+      <td style="text-align:left">__page_counter_</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Identifier Encoding</td>
+      <td style="text-align:left">Type information should not be encoded in identifier names using Hungarian
+        notation or similar.</td>
+      <td style="text-align:left">int_page_counter</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Long Identifier Name</td>
+      <td style="text-align:left">Long identifier names should be avoided where possible.</td>
+      <td style="text-align:left">
+        <p>page_counter_</p>
+        <p>converted_and_</p>
+        <p>normalized_value</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Naming Convention Anomaly</td>
+      <td style="text-align:left">Identifiers should not combine uppercase and lowercase characters in non-standard
+        ways.</td>
+      <td style="text-align:left">Page_counter</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Numeric Identifier Name</td>
+      <td style="text-align:left">
+        <p>Identifiers should not be composed entirely of</p>
+        <p>numeric words or numbers.</p>
+      </td>
+      <td style="text-align:left">FIFTY</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Perspective 2 :  Names should be consistent in a codebase
+
+* If the same word is used for similar objects across a codebase
+* it will be easier for the brain to find relevant related information stored in the LTM
+* Proved by Allamanis work on code reviews
+
+#### Formatting names support your STM
+
+It helps make sense of the names you are reading
+
+| Researcher  | Perspective  | Fits cognition because  |
+| :--- | :--- | :--- |
+| Allamanis  | Names should be consistent across a codebase  | Supports chunking  |
+| Butler  | Syntactically similar names  | Lower cognitive load while processing names  |
+
+#### Clear names help your LTM
+
+![](../../../.gitbook/assets/image%20%28666%29.png)
+
+* When you read a name, the name firstly will be broken up into separate chunks
+* The name is then sent to the working memory
+* At the same time, the long-term memory is searched for information related to the different parts of the variable name
+* Related information from the long-term memory is also sent to the WM
+
+#### Variable names can contain different types of information to help you understand them
+
+![](../../../.gitbook/assets/image%20%28675%29.png)
+
+Names can support your thinking about :
+
+* Domain of the code
+  * Word like “customer” will have all sorts of associations in your LTM
+  * A customer is probably buying a product, needs a name and an address, and so on
+* Programming
+  * Concept like a tree will also unlock information from the LTM
+  * A tree has a root, can be traversed and flattened, and so on
+* Conventions 
+  * Contains information about conventions your LTM is aware of
+  * For example, a variable named j will remind you of a nested loop
+
+#### To abbreviate or not to abbreviate ?
+
+Hofmeister \(researcher at the University of Passau\)
+
+* 72 professional C\# developers
+* Found that participants found on average **19% more defects per minute** when reading programs in which the identifiers were words
+  * Compared to letters and abbreviations.
+
+#### Snake case or camel Case ?
+
+Study investigating the differences in comprehension between variables written in camelCase and those written in snake\_case : [https://ieeexplore.ieee.org/abstract/document/5090039](https://ieeexplore.ieee.org/abstract/document/5090039) :
+
+* Show that the use of camelCase leads to higher accuracy among both programmers and non-programmers
+* There is a 51.5% higher chance of selecting the right option for identifiers written in the camelCase style.
+
+#### Code with bad names has more bugs
+
+Study available here : [http://oro.open.ac.uk/17007/1/butler09wcreshort\_latest.pdf](http://oro.open.ac.uk/17007/1/butler09wcreshort_latest.pdf)
+
+#### Feitelson’s three-step model for better variable names
+
+1. Select the concepts to include in the name
+   * Domain-specific
+   * Intent of the name : should represent what information the object
+
+     holds and what it is used for
+
+   * When you feel the need to write a comment to explain the name
+     * wording from the comment should probably be included in the variable name
+2. Choose the words to represent each concept
+   * A project lexicon : important definitions are noted and alternatives for synonyms are registered
+   * Can help programmers select names consistently
+3. Construct a name using these words
+   * Constructing a name using the chosen words
+   * Comes down to selecting one of the naming molds
 
