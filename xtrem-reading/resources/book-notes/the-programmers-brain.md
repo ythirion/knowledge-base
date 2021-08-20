@@ -1045,7 +1045,21 @@ How to ?
 2. Devising a plan
 3. Carrying out the plan
 
-Types of memories that play a role in problem solving
+#### Types of memories that play a role in problem solving
 
+* LTM can store different types of memory :
+  * **Procedural** \(or implicit\) memory showcases 
+    * **How to do something**
+    * **Ex :** How to run a bike
+  * **Declarative** \(explicit\) memory consists of memories we are **explicitly aware of \(fqcts you can remember\)**, divided into things :
+    * You have experienced and that are stored in **episodic** memory
+      * memories of experiences
+      * **Ex** :  -&gt; meeting your spouse
+    * Facts you know that are stored in **semantic** memory
+      * Memory for meanings, concepts, facts
+      * **Ex** : 5 x 7 = 35
 
+![](../../../.gitbook/assets/image%20%28677%29.png)
+
+#### What types of memories play a role when you solve problems ?
 
