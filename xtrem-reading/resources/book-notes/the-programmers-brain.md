@@ -1032,5 +1032,20 @@ She studied their occurrence in 7 open-source projects :
       * No need for your brain to dig deeper
       * By trying to save energy, your brain has made a wrong assumption
 
+### 10. Getting better at solving complex problems
+
+Problem solving means : 
+
+* Traversing the state space in the optimal way
+* Reaching the goal state in as few steps as possible
+
+How to ?
+
+1. Understanding the problem
+2. Devising a plan
+3. Carrying out the plan
+
+Types of memories that play a role in problem solving
+
 
 
