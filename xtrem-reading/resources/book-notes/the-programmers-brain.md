@@ -944,5 +944,93 @@ Study available here : [http://oro.open.ac.uk/17007/1/butler09wcreshort\_latest.
    * Constructing a name using the chosen words
    * Comes down to selecting one of the naming molds
 
-### 9. Avoiding bad code and cognitive load : 2 frameworks
+### 9. Avoiding bad code and cognitive load
+
+#### Why code with code smells creates a lot of cognitive load
+
+| Code Smell  | Explanation  | Level  |
+| :--- | :--- | :--- |
+| Long method  | A method consists of many lines of code, performing different calculations.  | Method level  |
+| Long parameter list  | A method has many parameters  | Method level  |
+| Switch statements  | Code contains large switch statements, while polymorphism could also be used to ease the code  | Method level  |
+| Alternative classes with different interfaces  | Two different classes seem different at first glance but have similar fields and methods  | Class level  |
+| Primitive obsession  | Overuse of primitive types in a class  | Class level  |
+| Incomplete library class  | Methods are added to ‘random’ classed instead of to a library class  | Class level  |
+| Large class  | A class has too many methods and fields, and it is not clear what abstraction the class provides.  | Class level  |
+| Lazy class  | A class is doing too little to justify its existence  | Class level  |
+| Data class  | Classes should not contain just data, they should contain methods as well  | Class level  |
+| Temporary field  | Classes should not contain unnecessary temporary fields  | Class level  |
+| Data clumps  | Data are often used in combination belong together and should be stored together in a class or structure  | Class level  |
+| Divergent change  | Code changes should in general be local, preferably to one class. If you have to make many different changes in different places, that indicates a poor structure in the code  | Codebase level  |
+| Feature Envy  | When methods on class A are references a lot from class B, they belong in B and should be moved there.  | Codebase level  |
+| Inappropriate intimacy  | Classes should not be connected to other classes extensively  | Codebase level  |
+| Duplicated code or code clones  | The same or very similar code occurs in multiple different places in a codebase  | Codebase level  |
+| Comments  | Comments should describe why the code is there not what it does  | Codebase level  |
+| Message chains  | Long chains of message calls, where methods call methods call methods, etc | Codebase level  |
+| Middle Man | If a class is delegating too much responsibility, should it exist? | Codebase level |
+| Parallel inheritance | When you make a subclass of one class, you need to make a subclass of another. This indicates that the functionality of both classes might belong in one class. | Codebase level |
+| Refused bequest | When classed inherit behavior that they do not use, the inheritance might not be necessary. | Codebase level |
+| Shotgun surgery | Code changes should in general be local to one class. If you have to make many different changes in different places, that indicates a poor structure in the code | Codebase level |
+| Speculative generality | Do not add code to a codebase “just in case”, only add features that are needed. | Codebase level |
+
+#### How code smells harm cognition
+
+Knowing what we know about the working memory : we can understand why Long parameter list and Complex switch statements are hard to read :
+
+* Both smells are related to an overloaded working memory
+* Newer research even suggests that the capacity might be as low as 6
+* While reading code, it will be impossible to hold all the parameters in working memory
+  * as such, the method will be harder to understand
+
+#### The influence of bad names on cognitive load
+
+{% hint style="warning" %}
+Code smells are parts of code that suffer from structural anti-patterns: the code is correct, but not structured in a way that is easy to process.
+{% endhint %}
+
+**Arnaoudova’s six categories of linguistic anti-patterns :** 
+
+* Methods that do more than they say 
+* Methods that say more than they do 
+* Methods that do the opposite than they say 
+* Identifiers whose name says that they contain more than what the entity contains
+* Identifiers whose name says that they contain less than what the entity contains
+* Identifiers whose name says that the opposite than the entity contains
+
+List of Linguistic Anti-patterns available [here](https://veneraarnaoudova.com/linguistic-anti-pattern-detector-lapd/LAs/)
+
+She studied their occurrence in 7 open-source projects :
+
+* 11% of setters also return a value in addition to setting a field
+* 2.5% of methods, the method name and the corresponding comment gave opposite descriptions of the working of the method
+* 64% of identifiers starting with ‘is’ turned out not to be Boolean
+
+**Measuring Cognitive Load**
+
+* Cognitive load = the overloading of the working memory
+* How to measure it ?
+  * PAAS scale : participants are asked to self-rate the cognitive load on this nine-point scale \( from "very, very low mental effort" to "very high mental effort"\)
+  * Skin based measurement : skin temperature / sweat
+  * Brain based measurement : fMRI scanner
+  * Electroencephalogram
+  * Functional near infra-read spectroscopy \(FNIRS\)
+* Results from the fNIRS device :
+  * Presence of linguistic anti-patterns in the source code significantly increases the average oxygenated blood flow that a participant experiences
+  * aka cognitive load that is induced by the snippet is higher
+
+#### Why linguistic anti-patterns cause confusion
+
+* When reading a conflicting name
+  * The wrong information will be presented to you
+  * Ex : reading a function name retrieveElements\(\) 
+    * Think of information on functions returning a list of things
+    * Gives you the idea you could sort, filter, or slice the returning element
+    * While that is not true for a single element
+  * Lead to “mischunking”
+    * When you are reading a variable name such as isValid
+      * Assume the variable is a Boolean
+      * No need for your brain to dig deeper
+      * By trying to save energy, your brain has made a wrong assumption
+
+
 
