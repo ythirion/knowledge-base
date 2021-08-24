@@ -1067,7 +1067,7 @@ How to ?
 Research shows that especially **experts** **heavily rely on episodic memory** when solving problems : instead of finding a new solution, they rely on solutions that have previously worked for similar problems.
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28680%29.png)
+![](../../../.gitbook/assets/image%20%28681%29.png)
 
 * Unlearning :
   * Having a lot of implicit memory can harm your flexibility
@@ -1137,7 +1137,7 @@ Automatization of programming skills is _**key to being able to solve larger and
       * Children in Group 2 also performed better on different problems
       * For which calculations rules could be used which were present in the recipe, like subtracting the same value from both sides of an equation or dividing both sides of the equation by the same
 
-![](../../../.gitbook/assets/image%20%28679%29.png)
+![](../../../.gitbook/assets/image%20%28680%29.png)
 
 #### Using worked examples in your working life
 
@@ -1149,4 +1149,269 @@ We have seen that explicitly studying code, plus studying the process of how it 
 * Explore github
   * if you choose a repository of which the domain is at least a bit familiar to you, so there are not too many unfamiliar words and domain concepts causing additional extraneous load and you can focus on the programming itself
 * Read books / blog post about source code
-* 
+
+## **Part 4. On collaborating on Code**
+
+### 11. The act of writing code
+
+* Different activities while programming :
+  * CDN is a framework to evaluate the cognitive impact of a programming language or code base
+    * Cognitive Dimensions of Notations
+  * CDN describes 5 activities
+    * **Searching** : looking through a code base, searching for a specific piece of information
+      * Location of a bug
+      * Calls of a certain method or the location of something \(variables, ...\)
+      * Mainly hard on your short-term memory
+      * _**Best supported by making notes to offload some of the memories to paper, or to a separate document on your code**_
+    * **Comprehension** : reading and executing code to gain an understanding of its functionality
+      * Running test code as complement
+    * **Transcription** : the activity where you are “just coding”. 
+      * You have a concrete plan of what you want to add or change to the code base, and you are going to do just that.
+    * **Incrementation** : mix of all of the above
+      * adding a new feature
+        * Likely to include both :
+          * searching for the location\(s\) to add code
+          * comprehending the existing code to understand where to add code and how to do that
+      * if you know the code base very well, your working memory and short-term memory might not be impacted by searching and comprehending the code
+    * **Exploration** : you are in essence sketching with code. 
+      * Have a vague idea of where you want to go
+      * But by the act of programming you are gaining clarity about the domain of the problem and about the programming constructs that you will need to use
+
+![activities and the memory systems they use most](../../../.gitbook/assets/image%20%28682%29.png)
+
+#### Programmer, interrupted
+
+* About 20 percent of a developer’s time is spent on interrupts \(Van Solingen study\)
+* According to [Parnin’s study](ttps://ieeexplore.ieee.org/document/5090030) :
+  * The average programmer will have just one uninterrupted two-hour session in a day
+
+#### What happens after an interruption?
+
+{% hint style="danger" %}
+It takes about a quarter of an hour to start editing code after an interruption.
+{% endhint %}
+
+When interrupted during an edit of a method, only 10% of times programmers could resume their work in less than a minute.
+
+#### How to prepare for interruptions better?
+
+3 techniques :
+
+* **Store your mental model** :
+  * Nakagawa’s results showed a warm-up period in comprehension activities :
+    * Spent on building a mental model of the code at hand
+    * If parts of the model are stored apart from the code, that can help quickly regain your mental model.
+  * Comments can be an excellent location to leave notes about your mental model.
+* **Help your "Prospective memory"**
+  * memory of remembering to do something in the future
+    * Related to planning / problem solving
+  * TODO comments in the part of the code that they are working on to remind them to complete or improve part of the code
+  * Parnin also developed a Visual Studio plugin that allows you to support your prospective memory when you have to stop programming
+    * Allows to add TODO items to your code
+      * and give the TODOs an expiry date
+      * so you do not forget to actually work on tasks
+    * [https://marketplace.visualstudio.com/items?itemName=chrisparnin.attachables](https://marketplace.visualstudio.com/items?itemName=chrisparnin.attachables)
+* **Label subgoals** 
+  * explicitly write down into what small steps a problem can be divided.
+
+![](../../../.gitbook/assets/image%20%28683%29.png)
+
+#### When to interrupt a programmer?
+
+Be interrupted at more convenient times with FlowLight :
+
+* a physical light that a developer can place on their desk or on top of their screen
+* Based on computer-interactions, like typing speeds and mouse clicks
+* Detects whether the programmer is deeply engaged in a task and experiencing high cognitive load
+
+### 12. Designing and improving larger systems
+
+#### Assess and improve the usability of existing large codebases
+
+Cognitive Dimensions of Notations :
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Dimension</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Error-proneness</td>
+      <td style="text-align:left">In some programming languages it is easier to make a mistake than in other
+        languages (dynamic languages like JS). inconsistent conventions, a lack
+        of documentation or vague names.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Consistency</td>
+      <td style="text-align:left">Another way to examine how people will interact with a programming language
+        or codebase is consistency: how similar are similar things?</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Diffuseness</td>
+      <td style="text-align:left">How much room or space a programming construct takes, not only concern
+        the number of lines of code, you could also consider how many chunks the
+        code consists of</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Hidden dependencies</td>
+      <td style="text-align:left">
+        <p>indicates to what extent dependencies are visible to the user.</p>
+        <p>Ex : HTML page with a button controlled by JavaScript, which is stored
+          in a different file.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Provisionality</td>
+      <td style="text-align:left">How easy it is to &apos;think using the tool&apos;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Viscosity</td>
+      <td style="text-align:left">
+        <p>how hard it is to make changes in a certain system.</p>
+        <p>Typically, codebases written in dynamically typed languages are a bit
+          easier to change.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Progressive evaluation</td>
+      <td style="text-align:left">how easy it is in a given system to check or execute partial work.Some
+        programming systems allow programmers to do live programming</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Role expressiveness</td>
+      <td style="text-align:left">how easy it is to set the role of different code parts in a program. Brackets
+        at the end of a function are an example of role expressiveness.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Closeness of mapping</td>
+      <td style="text-align:left">how close the programming language or the code is to the domain in which
+        problems are solved</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Hard mental operations</td>
+      <td style="text-align:left">Some systems require a user to think very hard, to perform hard mental
+        operations, outside of the system. For example, asking users to memorize
+        a large number of parameters to call in the right order is a hard mental
+        operation</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Secondary notation</td>
+      <td style="text-align:left">indicates the possibility for the programmer to add extra meaning to code,
+        which is not in the formal specification.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Abstraction</td>
+      <td style="text-align:left">describes whether a user of your system can create their own abstractions
+        that are as powerful as the build-in abstractions.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Visibility</td>
+      <td style="text-align:left">
+        <p>how easy it is to see different parts of a system.</p>
+        <p>In a codebase, it can be hard to see what classes the codebase consists
+          of, especially if code is divided over different files.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### Using CDN to improve your codebase
+
+* The list of Cognitive Dimensions can be used as a sort of a checklist for a codebase. 
+* Not all dimensions matter for all codebases
+  * Investigating each one and deciding how your codebase is doing regularly will help you maintain the usability
+
+#### Design maneuvers and their trade-offs
+
+Making changes to a codebase to improve a certain dimension in a codebase is called a Design Maneuver.
+
+_**Examples**_ :
+
+* adding types to a codebase is a Design Maneuver that improves error-proneness
+* Changing function names to be more in line with the domain of the code is a Design Maneuver that improves Closeness of mapping
+
+#### Dimensions and activities
+
+| Dimension  | Helps  | Harms  |
+| :--- | :--- | :--- |
+| Error-Proneness  | Incrementation  |  |
+| Consistency  | Searching, Comprehension  | Transcription  |
+| Diffuseness  | Searching  |  |
+| Hidden Dependencies  | Searching  |  |
+| Provisionality  | Exploration  |  |
+| Viscosity  | Transcription, Incrementation  |  |
+| Progressive evaluation  | Exploration  |  |
+| Role expressiveness  | Comprehension  |  |
+| Closeness of mapping  | Incrementation  |  |
+| Hard mental operations  | Transcription, Incrementation, Exploration  |  |
+| Secondary Notation  | Searching  |  |
+| Abstraction  | Comprehension  | Exploration  |
+| Visibility  | Comprehension  |  |
+
+### 13. How to onboard new developers 
+
+#### Issues in the onboarding process
+
+* A senior developer throws lots of new information at a newcomer
+  * The amount of information is too much to process
+  * Causing high cognitive load
+* After the introduction, the senior developer asks the newcomer a question or gives the newcomer a task.
+* The newcomer fails
+  * Because of the high cognitive load
+  * Caused by a combination of a lack of relevant chunks for the domain and/or the programming language, and a lack of automatized skills relevant
+
+{% hint style="success" %}
+One of the reasons that more senior people often struggle with effectively teaching and explaining is the "_**curse of expertise**_." Once you have mastered a certain skill sufficiently, you will inevitably forget how hard it was to learn that skill or knowledge.
+{% endhint %}
+
+#### How to improve it ?
+
+**Limit tasks to one programming activity :**
+
+* One of the issues in the onboarding scenario above is that you ask the newcomer to perform at least four different activities: 
+  * Searching for the right place to implement the feature or for relevant information
+  * Comprehending new source code
+  * Exploring the codebase to gain a better understanding
+  * Incrementing the codebase with a new feature
+* During an onboarding process, it is best to specifically choose activities in each of the five categories, and have newcomers **do them one by one**.
+
+| Activity  | Example use to support onboardees  |
+| :--- | :--- |
+| Exploration  | Browsing the codebase to get a general sense of the codebase  |
+| Searching  | Find a class that implements a certain interface  |
+| Transcription  | Give the newcomer a clear plan to implement a certain method which has to be implemented  |
+| Comprehension  | Understand aspects of the code, for example summarize a specific method in natural language  |
+| Incrementation  | Add a feature to an existing class, including the creation of the plan for the feature.  |
+
+**Support the memory of the onboardee**
+
+* Support the LTM : explain relevant information
+  * Prepare the onboarding process for newcomers by deeply understanding the relevant information that plays a role when working with the codebase
+  * Separate domain learning from exploring code
+
+![](../../../.gitbook/assets/image%20%28679%29.png)
+
+#### Understanding is a better welcome task than building
+
+If you want a newcomer to understand a certain piece of the code, ask them to understand a piece rather than giving them an implementation task. 
+
+For example, ask them to write a summary of an existing class or write down all classes involved in executing a certain feature.   
+
+
+#### Support the WTM : draw diagrams
+
+#### Read code together
+
+Another technique you can use to onboard newcomers is to read code as a team collaboratively. In Chapter 5, we proposed seven techniques from natural language to be applied to code reading. 
+
+* **Activating.** Actively thinking of related things to activate prior knowledge. 
+* **Determining Importance.** Deciding what parts of text are most relevant. 
+* **Inferring.** Filling in facts that are not explicitly given in the text. 
+* **Monitoring.** Keeping track of you understanding of a text. 
+* **Visualizing.** Drawing diagrams of the read text to deepen understanding. 
+* **Questioning.** Asking questions about the text at hand. 
+* **Summarizing.** Creating a short summary of text. 
+
