@@ -1051,7 +1051,7 @@ How to ?
   * **Procedural** \(or implicit\) memory showcases 
     * **How to do something**
     * **Ex :** How to run a bike
-  * **Declarative** \(explicit\) memory consists of memories we are **explicitly aware of \(fqcts you can remember\)**, divided into things :
+  * **Declarative** \(explicit\) memory consists of memories we are **explicitly aware of \(facts you can remember\)**, divided into things :
     * You have experienced and that are stored in **episodic** memory
       * memories of experiences
       * **Ex** :  -&gt; meeting your spouse
@@ -1063,3 +1063,90 @@ How to ?
 
 #### What types of memories play a role when you solve problems ?
 
+{% hint style="success" %}
+Research shows that especially **experts** **heavily rely on episodic memory** when solving problems : instead of finding a new solution, they rely on solutions that have previously worked for similar problems.
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28680%29.png)
+
+* Unlearning :
+  * Having a lot of implicit memory can harm your flexibility
+    * Ex : once you have learned how to touch type on a Qwerty keyboard, learning to use a Dvorak keyboard will be harder than if you had never learned Qwerty
+  * Unlearning implicit memory &gt; learned a second programming language with a syntax quite different from the first programming language that you learned
+    * Moving from C\# to Java
+
+#### Technique 1 : Automatization \(creating implicit memories\)
+
+{% hint style="success" %}
+Once you have **practiced a skill so many times** that you can do it without thinking about it, like walking, reading, or tying your shoelaces, we say that you have **automatized this skill**.
+{% endhint %}
+
+Automatization of programming skills is _**key to being able to solve larger and more complex problems :**_
+
+* The more implicit memories you have for programming
+  * The easier it will be to solve larger problems
+  * Because you will have more cognitive load to spare to think about the problem
+* Implicit memories are formed in 3 different phases :
+  * **Cognitive phase** : when you learn something new
+    * In this phase : a new piece of information needs to be split explicitly in smaller parts and you have to explicitly think about the task at hand
+    * That is why it is called the cognitive phase. 
+  * **Associative phase** : you need to actively repeat the new information until patterns of response emerge. 
+    * You see an opening bracket and you get nervous if you do not see the closing one 
+  * **Autonomous phase** : In the autonomous phase \(also called the procedural phase\) the skill is perfected. 
+    * **Ex** : you have reached the autonomous phase when you index into a list and you always do it correctly, no matter the context, the data type or the operations on the list.
+    * Here you have automatized the skill 
+
+![](../../../.gitbook/assets/image%20%28678%29.png)
+
+**Automatization will make you program quicker** 
+
+* By creating a large repository of techniques \(skeptics might call them “tricks”\) 
+  * we can create an ever-growing toolbox of new techniques 
+* Gordon Logan, an American psychologist
+  * Automatization is done by retrieving memories _from the episodic part of the long-term memory_
+  * When you are confronted with a similar task, rather than reasoning about the task---as someone might do who lacks enough instance memories
+    * you can remember how you did it before and apply the same method again
+  * According to him
+    * automatization is complete when you fully rely on episodic memory and do not use any reasoning at all
+
+#### Improving implicit memories
+
+* Use deliberate practice to improve skills
+  * Use very small tasks and execute them repeatedly, until you have reached perfection
+* When you are struggling with creating for loops without errors
+  * Deliberately typing 100 for loops 
+    * Building these small skills will help you to solve larger problems with greater ease
+    * It frees up cognitive load for larger problems
+  * Just like with flashcards, spaced repetition is key to learning
+    * **Set some time aside every day to practice and continue until you can consistently perform the tasks without any effort.**
+
+#### Technique 2 : Learning from code and its explanation
+
+* Deliberately study how others have solved problems
+  * Study worked examples
+  * Worked examples explain how to solve the problems in detail
+* Australian professor John Sweller 
+  * Sweller taught children mathematics by having them solve algebra equations
+  * Frustrated by how little they were learning from only working on traditional algebra problems 
+  * _**Experiment**_ : divided the students into two groups, who were both asked to solve typical algebra equations, like a = 7 – 4a, solve for a.
+    * Group 2 : received the algebra equations
+      * but also received worked examples of the equations
+      * Can think of worked examples are something like a recipe which describes in detail the steps that are needed to solve the equations. 
+    * Group 2 solved it 5 times faster
+    * Here is the kicker: 
+      * Children in Group 2 also performed better on different problems
+      * For which calculations rules could be used which were present in the recipe, like subtracting the same value from both sides of an equation or dividing both sides of the equation by the same
+
+![](../../../.gitbook/assets/image%20%28679%29.png)
+
+#### Using worked examples in your working life
+
+We have seen that explicitly studying code, plus studying the process of how it was created can help you to strengthen your programming skills :
+
+* Collaborate with a colleague
+  * start a “code reading club”
+    * can exchange code and its explanation, and learn from each other
+* Explore github
+  * if you choose a repository of which the domain is at least a bit familiar to you, so there are not too many unfamiliar words and domain concepts causing additional extraneous load and you can focus on the programming itself
+* Read books / blog post about source code
+* 
