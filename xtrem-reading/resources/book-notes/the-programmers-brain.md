@@ -23,6 +23,12 @@ Learn how to optimize your brain’s natural cognitive processes to read code mo
 
 ![](../../../.gitbook/assets/image%20%28658%29.png)
 
+## **Infographic**
+
+![Programmer&apos;s brain infographic by Yoan Thirion](../../../.gitbook/assets/programmers-brain.png)
+
+{% file src="../../../.gitbook/assets/programmers-brain.pdf" caption="Programmer\'s brain infographic \(Hi resolution\)" %}
+
 ## **Part 1. On Reading Code Better**
 
 ### 1. Decoding your confusion while coding
