@@ -2,7 +2,7 @@
 
 * _\*\*\*\*_[_**The programmer's brain**_](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/resources/book-notes/the-programmers-brain) _by Felienne Hermans - August 2021_
 
-![](../.gitbook/assets/programmers-brain.png)
+![](../.gitbook/assets/programmers-brain%20%281%29.png)
 
 * _\*\*\*\*_[_**La Liberté du Commandement**_ ](https://livre.fnac.com/a14046398/Loic-Finaz-La-liberte-du-commandement)_par Loïc Finaz - June 2021_
 
