@@ -43,6 +43,8 @@
     * [Refactoring journey](software-craftsmanship/code-katas/refactoring-journey-kata.md)
   * [Software Design X-Rays](software-craftsmanship/software-design-x-rays/README.md)
     * [Workshop](software-craftsmanship/software-design-x-rays/workshop.md)
+  * [The Programmer's Brain](software-craftsmanship/the-programmers-brain/README.md)
+    * [How to read code better](software-craftsmanship/the-programmers-brain/how-to-read-code-better.md)
 * [Software Architecture](software-architecture/README.md)
   * [Fundamentals of Software Architecture](software-architecture/fundamentals-of-software-architecture.md)
   * [Aligning Product & Software Design](software-architecture/aligning-product-and-software-design.md)
@@ -105,7 +107,6 @@
       * [Refactoring at Scale](xtrem-reading/resources/book-notes/refactoring-at-scale.md)
       * [Succeeding with OKRs in Agile](xtrem-reading/resources/book-notes/succeding-with-okrs-in-agile.md)
       * [Team Topologies](xtrem-reading/resources/book-notes/team-topologies.md)
-      * [The Programmer's Brain](xtrem-reading/resources/book-notes/the-programmers-brain.md)
 * [My Activity](my-activity/README.md)
   * [Retour sur mon année 2020](my-activity/retour-dun-freelance-sur-lannee-2020.md)
 
