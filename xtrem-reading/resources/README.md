@@ -19,4 +19,3 @@ description: Here are the resources related to Xtrem Reading
 ### Xtrem Tech Watch
 
 ![](https://raw.githubusercontent.com/ythirion/xtrem-reading/master/rsc/xtrem-tech-watch-infography.png)
-

@@ -24,7 +24,7 @@ Un ouvrage pragmatique et un guide de transformation de l’entreprise. Des exem
 
 Des outils de coaching agile, contextualisés et opérationnels.
 
-![](../../../.gitbook/assets/image%20%28274%29.png)
+![](<../../../.gitbook/assets/image (263).png>)
 
 ## Notes
 
@@ -35,8 +35,8 @@ Des outils de coaching agile, contextualisés et opérationnels.
 * 3 niveaux
   * Individuel 
   * Equipe 
-  * Organisationnel \(service ou entreprise\) 
-* "Etendre en continu sa capacité à créer son futur" - Peter Senge \(la 5ème discipline\)
+  * Organisationnel (service ou entreprise) 
+* "Etendre en continu sa capacité à créer son futur" - Peter Senge (la 5ème discipline)
 * Nécessite que chacun de ses membre 
   * Apprenne à apprendre : ensemble 
   * Investissement collectif 
@@ -47,14 +47,14 @@ Des outils de coaching agile, contextualisés et opérationnels.
 
 * [Arbre du sens](http://www.qualitystreet.fr/2018/11/06/larbre-du-sens/)
 
-![](../../../.gitbook/assets/image%20%28276%29.png)
+![](<../../../.gitbook/assets/image (264).png>)
 
 * [Roue de l'agilité managériale](http://www.qualitystreet.fr/2018/02/28/agilite-manageriale-coaching-de-managers/) : "Solution focus"
   * S'interroger sur sa posture de manager agile
   * Identifier / décrire ce qu'on veut
   * S'appuyer sur ses ressources pour avancer et progresser
 
-![](../../../.gitbook/assets/image%20%28257%29.png)
+![](<../../../.gitbook/assets/image (265).png>)
 
 ### Agilité pour toute l'entreprise
 
@@ -80,7 +80,7 @@ Des outils de coaching agile, contextualisés et opérationnels.
   * Rassurer 
   * Donner du sens
 
-![](../../../.gitbook/assets/image%20%28246%29.png)
+![](<../../../.gitbook/assets/image (266).png>)
 
 * [C.A.V.E.C.T.O.I ](http://www.qualitystreet.fr/2017/11/09/transformation-agile/)
   * **C**rédible 
@@ -112,4 +112,3 @@ Des outils de coaching agile, contextualisés et opérationnels.
       * Forum ouvert 
       * Lean coffee
       * World Café
-

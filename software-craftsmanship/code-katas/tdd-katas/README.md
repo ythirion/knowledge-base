@@ -2,15 +2,19 @@
 
 During Workshops you can use Test Cards to help attendees think about Test Cases
 
-![](../../../.gitbook/assets/image%20%28487%29.png)
+![](<../../../.gitbook/assets/image (498).png>)
 
-{% file src="../../../.gitbook/assets/test-cards.pdf" caption="Here is the pdf version" %}
+{% file src="../../../.gitbook/assets/test-cards.pdf" %}
+Here is the pdf version
+{% endfile %}
 
 ## 2 katas to start your journey to TDD :
 
-{% page-ref page="stack.md" %}
+{% content-ref url="stack.md" %}
+[stack.md](stack.md)
+{% endcontent-ref %}
 
-{% page-ref page="fizzbuzz.md" %}
-
-
+{% content-ref url="fizzbuzz.md" %}
+[fizzbuzz.md](fizzbuzz.md)
+{% endcontent-ref %}
 

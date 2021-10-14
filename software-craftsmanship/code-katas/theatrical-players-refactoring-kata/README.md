@@ -80,17 +80,17 @@ public class StatementPrinter {
 * Will it be easy to do the exercise ?
 * Why ?
 
-![](../../../.gitbook/assets/image%20%2824%29.png)
+![](<../../../.gitbook/assets/image (82).png>)
 
 ### Identify code smells
 
-![](../../../.gitbook/assets/image%20%2889%29.png)
+![](<../../../.gitbook/assets/image (84).png>)
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](<../../../.gitbook/assets/image (83).png>)
 
 ### Does it break any S.O.L.I.D principles ?
 
-![](../../../.gitbook/assets/image%20%2870%29.png)
+![](<../../../.gitbook/assets/image (85).png>)
 
 ## How to start ?
 
@@ -103,16 +103,16 @@ _"Before you start refactoring, make sure you have a solid suite of tests. These
 The code already exists and works :
 
 * Easiest way to add a regression test is to find some test data, exercise the code, and approve the result
-* Add [approval tests](https://approvaltests.com/) / [snapshot tests](https://jestjs.io/docs/en/snapshot-testing) / [Golden master](https://codurance.com/2012/11/11/testing-legacy-code-with-golden-master/)
+* Add [approval tests](https://approvaltests.com) / [snapshot tests](https://jestjs.io/docs/en/snapshot-testing) / [Golden master](https://codurance.com/2012/11/11/testing-legacy-code-with-golden-master/)
 
 ### Approval tests : generate output / create your golden master
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](<../../../.gitbook/assets/image (86).png>)
 
 We store this golden master in a file :
 
 {% code title="StatementPrinterTests.exampleStatement.approved.txt" %}
-```text
+```
 Statement for BigCo
   Hamlet: $650.00 (55 seats)
   As You Like It: $580.00 (35 seats)
@@ -124,7 +124,7 @@ You earned 47 credits
 
 ### Approval tests : create a test
 
-To do so we can use the library "[approvaltests](https://approvaltests.com/)".
+To do so we can use the library "[approvaltests](https://approvaltests.com)".
 
 The verify is an approvaltests method that will compare the result returned by the print method and our Golden master.
 
@@ -166,11 +166,11 @@ We should ask ourselves if we have covered every piece of code with our test.
 
 To do so we have a tool : _**code coverage**_.
 
-![](../../../.gitbook/assets/image%20%2878%29.png)
+![](<../../../.gitbook/assets/image (87).png>)
 
-The Code Coverage \(from IntelliJ here\) shows us that the default case is not covered at the moment.
+The Code Coverage (from IntelliJ here) shows us that the default case is not covered at the moment.
 
-![Code coverage](../../../.gitbook/assets/image%20%28119%29.png)
+![Code coverage](<../../../.gitbook/assets/image (88).png>)
 
 So let's add a new test :
 
@@ -198,33 +198,34 @@ So let's add a new test :
 
 To check this we can check the quality of our tests by using a concept called mutation testing.
 
-{% page-ref page="../../testing/mutation-testing.md" %}
+{% content-ref url="../../testing/mutation-testing.md" %}
+[mutation-testing.md](../../testing/mutation-testing.md)
+{% endcontent-ref %}
 
-![](../../../.gitbook/assets/image%20%28111%29.png)
+![](<../../../.gitbook/assets/image (89).png>)
 
-You can use tools like pitest \(for Java\) or stryker \(for C\#, Javascript, Scala\).
+You can use tools like pitest (for Java) or stryker (for C#, Javascript, Scala).
 
 Now we are confident enough, let's do the exercise.
 
 ## 2 ways of refactoring
 
-![](../../../.gitbook/assets/image%20%2859%29.png)
+![](<../../../.gitbook/assets/image (90).png>)
 
-{% page-ref page="lets-refactor-oop-style.md" %}
+{% content-ref url="lets-refactor-oop-style.md" %}
+[lets-refactor-oop-style.md](lets-refactor-oop-style.md)
+{% endcontent-ref %}
 
-{% page-ref page="lets-refactor-fp-style.md" %}
+{% content-ref url="lets-refactor-fp-style.md" %}
+[lets-refactor-fp-style.md](lets-refactor-fp-style.md)
+{% endcontent-ref %}
 
 ## To go further
 
-* Base artcile from Emily Bache : [https://www.praqma.com/stories/refactoring-kata/  ](https://www.praqma.com/stories/refactoring-kata/
-  )
-* Approval Tests : [https://approvaltests.com/  ](https://approvaltests.com/
-  )
-* Strategy pattern : [https://refactoring.guru/design-patterns/strategy  ](https://refactoring.guru/design-patterns/strategy
-  )
+* Base artcile from Emily Bache : [https://www.praqma.com/stories/refactoring-kata/  ](https://www.praqma.com/stories/refactoring-kata/)
+* Approval Tests : [https://approvaltests.com/  ](https://approvaltests.com)
+* Strategy pattern : [https://refactoring.guru/design-patterns/strategy  ](https://refactoring.guru/design-patterns/strategy)
 * Facilitator slide deck :
 
 {% embed url="https://speakerdeck.com/thirion/theatrical-players-refactoring-kata" %}
-
-
 

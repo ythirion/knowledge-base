@@ -34,22 +34,22 @@ In Domain Driven Design we talk about Domain Modeling and Ubiquitous Language bu
 * Waiter to chef: "Some eggs, please" 
 * Russian chef: "Here you go…" 
 
-![](../../.gitbook/assets/image%20%28543%29.png)
+![](<../../.gitbook/assets/image (525).png>)
 
 * Waiter to chef: "Not fish eggs, chicken eggs " 
 * Chef: "Ok, here you go…" 
 
-![](../../.gitbook/assets/image%20%28538%29.png)
+![](<../../.gitbook/assets/image (526).png>)
 
 * Waiter to chef: " No, cooked chicken eggs" 
 * Chef: "Ok, this time I understand…" 
 
-![](../../.gitbook/assets/image%20%28545%29.png)
+![](<../../.gitbook/assets/image (527).png>)
 
 * Waiter to customer: "Here are your eggs" 
 * Customer: "I wanted fried eggs"
 
-![](../../.gitbook/assets/image%20%28546%29.png)
+![](<../../.gitbook/assets/image (528).png>)
 
 > "_Entre ce que je pense, ce que je veux dire, ce que je crois dire, ce que je dis, ce que vous voulez entendre, ce que vous entendez, ce que vous croyez en comprendre, ce que vous voulez comprendre, et ce que vous comprenez, il y a au moins neuf possibilités de ne pas se comprendre._" - Bernard Werber
 
@@ -71,7 +71,7 @@ Spec for the eggs : **2 fried eggs**
 * Shared vocabulary 
   * Everyone knows what "fried eggs" means
 
-![](../../.gitbook/assets/image%20%28544%29.png)
+![](<../../.gitbook/assets/image (530).png>)
 
 In our day to day job we need to create this Shared Mental Model
 
@@ -95,25 +95,25 @@ In our day to day job we need to create this Shared Mental Model
 
 #### What we want to avoid
 
-![](../../.gitbook/assets/image%20%28527%29.png)
+![](<../../.gitbook/assets/image (532).png>)
 
 #### Waterfall
 
-![](../../.gitbook/assets/image%20%28531%29.png)
+![](<../../.gitbook/assets/image (535).png>)
 
 {% hint style="warning" %}
-_**It's the developer's understanding of the domain that gets deployed to production!**_ 
+_**It's the developer's understanding of the domain that gets deployed to production! **_
 {% endhint %}
 
 #### Agile
 
-![](../../.gitbook/assets/image%20%28539%29.png)
+![](<../../.gitbook/assets/image (534).png>)
 
 #### Domain Driven Design
 
-![](../../.gitbook/assets/image%20%28541%29.png)
+![](<../../.gitbook/assets/image (536).png>)
 
-```text
+```
 Domain Model == Code == Documentation
 ```
 
@@ -121,18 +121,18 @@ Domain Model == Code == Documentation
 
 #### What non-developers think source code looks like
 
-![](../../.gitbook/assets/image%20%28526%29.png)
+![](<../../.gitbook/assets/image (537).png>)
 
 ####  What DDD source code should look like 
 
-![](../../.gitbook/assets/image%20%28529%29.png)
+![](<../../.gitbook/assets/image (538).png>)
 
 #### Modeling actions with functions
 
-![](../../.gitbook/assets/image%20%28530%29.png)
+![](<../../.gitbook/assets/image (539).png>)
 
 {% tabs %}
-{% tab title="F\#" %}
+{% tab title="F#" %}
 ```fsharp
 type Deal = Deck -> (Deck * Card)
 ```
@@ -151,10 +151,10 @@ type deal = (ShuffledDeck) => (Option[Card], ShuffledDeck)
 {% endtab %}
 {% endtabs %}
 
-![](../../.gitbook/assets/image%20%28532%29.png)
+![](<../../.gitbook/assets/image (540).png>)
 
 {% tabs %}
-{% tab title="F\#" %}
+{% tab title="F#" %}
 ```fsharp
 type PickupCard = (Hand * Card) –> Hand
 ```
@@ -183,7 +183,7 @@ type pickUpCard = (Card, Hand) => Hand
 ### The Entire Domain Model on 1 page
 
 {% tabs %}
-{% tab title="F\#" %}
+{% tab title="F#" %}
 ```fsharp
 module CardGame =
     type Suit = Club | Diamond | Spade | Heart
@@ -249,7 +249,7 @@ type Shuffle = (Deck) => ShuffledDeck
 
 * What do you think about this code ?
   * Non programmer can understand it ?
-  * Can spot mistakes from it \(check Card Game picture\)
+  * Can spot mistakes from it (check Card Game picture)
     * Leads to instant feedback
 * Domain Driven Design
   * No infrastructure / Database related stuff / No PK or FK
@@ -263,7 +263,7 @@ type Shuffle = (Deck) => ShuffledDeck
   * The value of the business is created in this process of transformation 
 * Data that is sitting there unused is not contributing anything 
 
-![](../../.gitbook/assets/image%20%28537%29.png)
+![](<../../.gitbook/assets/image (541).png>)
 
 #### Events
 
@@ -274,16 +274,16 @@ type Shuffle = (Deck) => ShuffledDeck
   * Context changed
   * A customer request has been received
 
-![](../../.gitbook/assets/image%20%28540%29.png)
+![](<../../.gitbook/assets/image (542).png>)
 
 #### Workflow
 
-![](../../.gitbook/assets/image%20%28536%29.png)
+![](<../../.gitbook/assets/image (543).png>)
 
 * In functional programming, workflows are the "unit of development" for modeling, coding, and delivery
 * _**Workflows are modeled as functions**_
 
-![](../../.gitbook/assets/image%20%28535%29.png)
+![](<../../.gitbook/assets/image (544).png>)
 
 ```fsharp
 type MyWorkflow = EventData * OtherData * State ->
@@ -302,7 +302,7 @@ type MyWorkflow = EventData * OtherData * State ->
 ### How to model a domain ?
 
 * Pick one workflow to focus on 
-* Learn about that workflow by interviewing domain expert\(s\) 
+* Learn about that workflow by interviewing domain expert(s) 
 * Document your knowledge with a textual domain model
 
 ### How to interview ?
@@ -328,19 +328,19 @@ type MyWorkflow = EventData * OtherData * State ->
   * What data should be saved to storage?
 * How does the state of the system change?
   * Does data need to be loaded, changed, and resaved?
-* What are the side effects? \(Things that must be done but are internal to the domain\)
+* What are the side effects? (Things that must be done but are internal to the domain)
 
 ### Guidelines
 
 Each team picks a domain and then collaborate on building a shared mental model and documenting the domain.
 
 * One person takes the role of **domain expert**
-* One person takes the role of **main interviewer** \(although everyone can ask questions\)
-* One person **documents the domain** \(although everyone can contribute\)
+* One person takes the role of **main interviewer** (although everyone can ask questions)
+* One person **documents the domain** (although everyone can contribute)
 
-![](../../.gitbook/assets/image%20%28533%29.png)
+![](<../../.gitbook/assets/image (545).png>)
 
-_**The interviewer\(s\) will ask the domain expert questions in order to understand the domain and become domain experts themselves.**_
+_**The interviewer(s) will ask the domain expert questions in order to understand the domain and become domain experts themselves.**_
 
 **The goal is to:**
 
@@ -352,10 +352,10 @@ Possible domains to use:
 * ATM/Cash Machine
 * Microwave oven
 * Self-service espresso/cappuccino machine
-* Delivery tracking service \(e.g Fedex/DHL\)
+* Delivery tracking service (e.g Fedex/DHL)
 * Your own domain that you are an expert in
 
-====================
+\====================
 
 ### "Place order" Example
 
@@ -374,7 +374,7 @@ output:
 
 #### Document the data with "AND"
 
-![](../../.gitbook/assets/image%20%28542%29.png)
+![](<../../.gitbook/assets/image (546).png>)
 
 ```fsharp
 data Order =
@@ -428,7 +428,7 @@ data PhoneNumber = non empty string containing only digits, hyphens, and spaces
 * Bonus : Write a feedforward for yourself :
   * Formulate requests or propose future-oriented options or solutions
 
-_**Example**_ : _**For your next**_ report, I suggest that you divide the summary of your activities by date or by function \(budget, planning, operations management, ...\). _**So that**_ it will be easier to read it, to find the information I need and to refer to it later.
+_**Example**_ : _**For your next**_ report, I suggest that you divide the summary of your activities by date or by function (budget, planning, operations management, ...). _**So that**_ it will be easier to read it, to find the information I need and to refer to it later.
 
 ### Cheat sheet
 
@@ -437,7 +437,7 @@ _**Example**_ : _**For your next**_ report, I suggest that you divide the summar
   * The domain model is part of the software design 
   * A good domain model reduces "garbage in" 
   * A good domain model represents shared knowledge 
-* _**The Everywhere \("Ubiquitous"\) Language**_ 
+* _**The Everywhere ("Ubiquitous") Language **_
   * Concepts and vocabulary associated with the domain 
   * Shared by both the team members and the source code
 * _**Domain Event**_
@@ -450,14 +450,14 @@ _**Example**_ : _**For your next**_ report, I suggest that you divide the summar
 ### Resources
 
 * [Domain Modeling Made Functional book by Scott Wlaschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
-* [Domain Modeling Made Functional Video](https://www.youtube.com/watch?v=2JB1_e5wZmU&ab_channel=KanDDDinsky)
+* [Domain Modeling Made Functional Video](https://www.youtube.com/watch?v=2JB1\_e5wZmU\&ab_channel=KanDDDinsky)
 
-![](../../.gitbook/assets/image%20%28547%29.png)
+![](<../../.gitbook/assets/image (547).png>)
 
 #### Implementation of the Domain Model
 
 {% tabs %}
-{% tab title="F\#" %}
+{% tab title="F#" %}
 ```fsharp
 module CardGameImplementation =
     open CardGame
@@ -517,4 +517,3 @@ val shuffle: Shuffle = deck => deck.shuffled
 ```
 {% endtab %}
 {% endtabs %}
-

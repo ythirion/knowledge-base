@@ -2,17 +2,17 @@
 description: Theatrical players refactoring Kata in Object Oriented Programming
 ---
 
-# Let's refactor \(OOP style\)
+# Let's refactor (OOP style)
 
 ## Start by establishing our plan
 
-We can use the [mikado method](http://mikadomethod.info/) to do so.
+We can use the [mikado method](http://mikadomethod.info) to do so.
 
 Here is mine :
 
-![](../../../.gitbook/assets/image%20%2832%29.png)
+![](<../../../.gitbook/assets/image (91).png>)
 
-## 1\) Extract the amount calculation
+## 1) Extract the amount calculation
 
 #### Create the interface
 
@@ -70,7 +70,7 @@ public class AmountCalculators {
 ```
 {% endcode %}
 
-## 2\) Extract the credits calculation
+## 2) Extract the credits calculation
 
 ```java
 private int volumeCredits(Invoice invoice, Map<String, Play> plays) {
@@ -88,9 +88,9 @@ private int volumeCredits(Invoice invoice, Map<String, Play> plays) {
 }
 ```
 
-## 3\) Create a specific Printer implementation
+## 3) Create a specific Printer implementation
 
-#### Create types \(simple POJOs\) that represents a Statement
+#### Create types (simple POJOs) that represents a Statement
 
 {% tabs %}
 {% tab title="Statement.java" %}
@@ -157,7 +157,7 @@ public class TextPrinter implements Printer {
 ```
 {% endcode %}
 
-## 4\) Putting whole together
+## 4) Putting whole together
 
 {% code title="StatementPrinter.java" %}
 ```java
@@ -212,4 +212,3 @@ public class StatementPrinter {
 {% endcode %}
 
 Our code is now ready to be extended with the new HTLM printer.
-

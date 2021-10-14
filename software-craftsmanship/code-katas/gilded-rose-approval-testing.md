@@ -2,7 +2,7 @@
 description: Learn how Approval testing can help you when dealing with legacy code
 ---
 
-# Gilded Rose \(Approval Testing\)
+# Gilded Rose (Approval Testing)
 
 ## Objectives
 
@@ -49,7 +49,7 @@ In normal unit testing, you say `assertEquals(5, person.getAge())`. Approval tes
 * Normally, a human inspects and approves some actual program output when creating a test case.
 * Raw program output may be processed into a more convenient format before being used for approval and comparison.
 * Design a Printer to display complex objects, instead of many assertions.
-* If actual program output is not yet available, the _**approved value may be a manual sketch of the expected output \(usefull when you do TDD\)**_.
+* If actual program output is not yet available, the _**approved value may be a manual sketch of the expected output (usefull when you do TDD)**_.
 * _**Approved values are stored separately from the sourcecode for the test case**_, although in the same VCS repository.
 * When a test case fails, you can use a tool to inspect the differences and easily update the approved value.
 
@@ -57,17 +57,17 @@ In normal unit testing, you say `assertEquals(5, person.getAge())`. Approval tes
 
 When you start working on a new feature :
 
-![](../../.gitbook/assets/image%20%28337%29.png)
+![](<../../.gitbook/assets/image (326).png>)
 
-![](../../.gitbook/assets/image%20%28335%29.png)
+![](<../../.gitbook/assets/image (327).png>)
 
 ### Tools
 
 There are many tools depending the language you use.
 
-The most common one is [ApprovalTests](https://approvaltests.com/) available on a lot of language \(from js to C\# passing through C++, ...\)
+The most common one is [ApprovalTests](https://approvaltests.com) available on a lot of language (from js to C# passing through C++, ...)
 
-![](../../.gitbook/assets/image%20%28327%29.png)
+![](<../../.gitbook/assets/image (328).png>)
 
 ## Concrete Practice
 
@@ -90,11 +90,11 @@ We have recently signed a supplier of conjured items. This requires an update to
 
 ### Draw a diagram representing different paths of the updateQuality
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](<../../.gitbook/assets/image (329).png>)
 
 ### Add a first test
 
-Based on the specifications write a first test by using junit 5 \(dependency already in your pom\) :
+Based on the specifications write a first test by using junit 5 (dependency already in your pom) :
 
 {% code title="GildedRoseTests.java" %}
 ```java
@@ -155,12 +155,12 @@ public class GildedRoseTests {
 {% endcode %}
 
 * Run the test 
-  * Now it should fail ![](../../.gitbook/assets/image%20%28333%29.png)
+  * Now it should fail ![](<../../.gitbook/assets/image (330).png>)
 * ApprovalTests library compares 2 files :
-  * _**GildedRoseTests.updateQuality.received.txt**_ that has been generated based on what is inside the verify method call
-  * _**GildedRoseTests.updateQuality.approved.txt**_ a content that has already been approved
+  * _**GildedRoseTests.updateQuality.received.txt **_that has been generated based on what is inside the verify method call
+  * _**GildedRoseTests.updateQuality.approved.txt **_a content that has already been approved
 
-![](../../.gitbook/assets/image%20%28334%29.png)
+![](<../../.gitbook/assets/image (331).png>)
 
 * _In this case we have not approved anything and our approved file is empty._
 
@@ -177,14 +177,14 @@ mv GildedRoseTests.updateQuality.received.txt GildedRoseTests.updateQuality.appr
 * If you run the test again, it should be green now
 
 {% hint style="success" %}
-_When you work with Approval Tests never commit what you receive from the tests verifications but only the generated files \(Golden Master or Snapshot\)_
+_When you work with Approval Tests never commit what you receive from the tests verifications but only the generated files (Golden Master or Snapshot)_
 {% endhint %}
 
 ### What about coverage ?
 
 Before making a refactoring a good practice is to be confident about the tests covering the code you want to refactor. To do so you can run your test with Coverage :
 
-![](../../.gitbook/assets/image%20%28331%29.png)
+![](<../../.gitbook/assets/image (333).png>)
 
 Because there are plenty of hardcoded strings and paths in the code, we have areas for improvement regarding our code coverage.
 
@@ -192,11 +192,11 @@ Because there are plenty of hardcoded strings and paths in the code, we have are
 
 By default test coverage is poor but you can boost it by editing the "Run/Debug" configurations and enabling the Tracing option.
 
-![](../../.gitbook/assets/image%20%28330%29.png)
+![](<../../.gitbook/assets/image (334).png>)
 
 If you run the test again, you should now have more information and new colors on the screen :
 
-![](../../.gitbook/assets/image%20%28326%29.png)
+![](<../../.gitbook/assets/image (335).png>)
 
 ### Use Code Coverage to increase our confidence
 
@@ -204,13 +204,13 @@ If you run the test again, you should now have more information and new colors o
 What I recommend when you use Code Coverage or design tests is to always have your Subject Under Test in front of you : split your screen vertically.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28329%29.png)
+![](<../../.gitbook/assets/image (336).png>)
 
 #### Use CombinationApprovals
 
 _**CombinationApprovals**_ allow to combine a lot of inputs in the same ApprovalTests.
 
-![](../../.gitbook/assets/image%20%28336%29.png)
+![](<../../.gitbook/assets/image (337).png>)
 
 We need to provide a Function as a first parameter and then the parameters.
 
@@ -251,13 +251,13 @@ public class GildedRoseTests {
 
 Note that the received version has changed now because when you use CombinationApprovals it adds a description of the combination for each input :
 
-> \[a common item, 0, 0\] =&gt; a common item, -1, 0
+> \[a common item, 0, 0] => a common item, -1, 0
 
 ### Cover new lines of codes
 
 By discovering them with the Code Coverage tool :
 
-![](../../.gitbook/assets/image%20%28340%29.png)
+![](<../../.gitbook/assets/image (339).png>)
 
 At the end you should have a code coverage of 100% with a test looking like this :
 
@@ -359,7 +359,9 @@ public class GildedRoseTests {
 Code coverage is a quantitative metric. To have a quality one we can use Mutation testing.
 {% endhint %}
 
-{% page-ref page="../testing/mutation-testing.md" %}
+{% content-ref url="../testing/mutation-testing.md" %}
+[mutation-testing.md](../testing/mutation-testing.md)
+{% endcontent-ref %}
 
 Let's use pitest to discover if we can improve our tests :
 
@@ -382,9 +384,9 @@ Let's use pitest to discover if we can improve our tests :
 
 Pitest shows us where mutants survive and guide us to improve our test quality :
 
-![](../../.gitbook/assets/image%20%28353%29.png)
+![](<../../.gitbook/assets/image (354).png>)
 
-![](../../.gitbook/assets/image%20%28339%29.png)
+![](<../../.gitbook/assets/image (340).png>)
 
 Based on the report we can add new inputs in our test until it's green :
 
@@ -402,13 +404,14 @@ Individually note down what has happened today in these categories:
 * Lacked
 * Longed for
 
-![](../../.gitbook/assets/image%20%28354%29.png)
+![](<../../.gitbook/assets/image (355).png>)
 
 ## Resources
 
 * [Part 1/3 - Introducing the Gilded Rose kata and writing test cases using Approval Tests, Emily Bache](https://www.youtube.com/watch?v=zyM2Ep28ED8)
 * [https://emilybache.github.io/workshops/approvals/](https://emilybache.github.io/workshops/approvals/)
-* [https://approvaltests.com/](https://approvaltests.com/)
+* [https://approvaltests.com/](https://approvaltests.com)
 
-{% embed url="https://speakerdeck.com/thirion/approval-testing-kata-gilded-rose" caption="Facilitator guide" %}
-
+{% embed url="https://speakerdeck.com/thirion/approval-testing-kata-gilded-rose" %}
+Facilitator guide
+{% endembed %}

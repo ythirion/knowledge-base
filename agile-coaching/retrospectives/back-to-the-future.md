@@ -14,7 +14,7 @@ Cette rétrospective est un exercice de projection dans le futur permettant à u
 * Les surprises
 * Leurs sources de motivation
 
-![](../../.gitbook/assets/retro-back-to-the-future.png)
+![](<../../.gitbook/assets/Retro back to the future.png>)
 
 ### Matériel requis
 
@@ -25,31 +25,31 @@ Pour cette rétrospective, il vous faudra préparer le matériel suivant :
 * Un tableau blanc
 * Des marqueurs
 * Des post-its : 5 couleurs différentes
-* Un téléphone et/ou des enceintes pour la musique \(Optionnel\)
+* Un téléphone et/ou des enceintes pour la musique (Optionnel)
 
 #### En remote
 
 * 1 Licence miro pour pouvoir importer le board disponible dans les ressources de cette page
 * Ou le refaire chez soi à partir de la version Read-Only ici :
-  * [https://miro.com/app/board/o9J\_kmsv4R4=/](https://miro.com/app/board/o9J_kmsv4R4=/)
+  * [https://miro.com/app/board/o9J_kmsv4R4=/](https://miro.com/app/board/o9J_kmsv4R4=/)
 
 _**Temps nécessaire : 2h**_
 
 ## Déroulé de l'atelier
 
-![](../../.gitbook/assets/image%20%28639%29.png)
+![](<../../.gitbook/assets/image (636).png>)
 
-### Etape 1 - Futurespective \(30'\)
+### Etape 1 - Futurespective (30')
 
 #### Introduire le contexte de l'exercice : projection
 
-On est ici pour se remémorer ce qu'il s'est passé entre aujourd'hui et _**&lt;Date future&gt;**_
+On est ici pour se remémorer ce qu'il s'est passé entre aujourd'hui et _**\<Date future>**_
 
 {% hint style="info" %}
-Définir en avance la date dans le futur _**:**_ si vous avez 1 milestone d'équipe dans le futur ça peut être 1 bon point de fixation dans le futur.
+Définir en avance la date dans le futur_** : **_si vous avez 1 milestone d'équipe dans le futur ça peut être 1 bon point de fixation dans le futur.
 {% endhint %}
 
-_**Demander à chaque participant\(e\) de remplir son canvas / ses post-its :**_
+_**Demander à chaque participant(e) de remplir son canvas / ses post-its :**_
 
 * Quels ont été les moments majeurs de l'aventure ? - _**5'**_
 * Qu’est-ce qu’il aura fallu mettre en place pour que cela se produise ? - _**5'**_
@@ -59,19 +59,19 @@ _**Demander à chaque participant\(e\) de remplir son canvas / ses post-its :**_
 
 Voici la légende pour chaque question :
 
-![](../../.gitbook/assets/image%20%28643%29.png)
+![](<../../.gitbook/assets/image (639).png>)
 
 #### En ligne
 
-![](../../.gitbook/assets/image%20%28642%29.png)
+![](<../../.gitbook/assets/image (640).png>)
 
 ### Etape 2 - Tell me a Story - 45'
 
-* **Invitez les participant\(s\) à prendre du temps pour regarder le canva / post-its des autres membres de l'équipe - 15'**
+* **Invitez les participant(s) à prendre du temps pour regarder le canva / post-its des autres membres de l'équipe - 15'**
   * Qu'est ce qui vous surprend ?
   * Posez vos questions
 * **Leur demander ensuite de créer une histoire sur base de leurs canvas individuels - 20'**
-  * Le temps s'écoule de gauche \(maintenant\) à droite \(date dans le futur\)
+  * Le temps s'écoule de gauche (maintenant) à droite (date dans le futur)
     * Les moment majeurs
     * Ce qu'il a fallu mettre en place
     * les surprises de chacun
@@ -80,7 +80,7 @@ Voici la légende pour chaque question :
 
 #### En ligne
 
-![](../../.gitbook/assets/image%20%28640%29.png)
+![](<../../.gitbook/assets/image (641).png>)
 
 ### Etape 3 - What's Next ? - 30'
 
@@ -94,7 +94,7 @@ Une fois l'histoire clarifiée, faire réfléchir l'équipe via des questions ou
 
 #### En ligne
 
-![](../../.gitbook/assets/image%20%28644%29.png)
+![](<../../.gitbook/assets/image (642).png>)
 
 ### Etape 4 - Actions
 
@@ -107,11 +107,11 @@ _**Les autres tickets serviront d'inputs pour les prochaines rétrospectives**_
 
 #### En ligne
 
-![](../../.gitbook/assets/image%20%28636%29.png)
+![](<../../.gitbook/assets/image (643).png>)
 
 ### Clôture - Feed-forward
 
-* Demandez aux participant\(e\)s de se formuler un feed-forward :
+* Demandez aux participant(e)s de se formuler un feed-forward :
   * _**Pour l'année prochaine je t'invite à ... afin de ...**_
 * Invitez ceux qui le souhaitent à le partager
 
@@ -121,11 +121,11 @@ _Le "feedforward" consiste à formuler des demandes ou à proposer des options o
 
 #### En ligne
 
-![](../../.gitbook/assets/image%20%28641%29.png)
+![](<../../.gitbook/assets/image (644).png>)
 
 ## Ressources
 
-{% file src="../../.gitbook/assets/retro-futurespective.rtb.zip" caption="Backup miro \"Rétro back to the future\"" %}
-
-
+{% file src="../../.gitbook/assets/retro futurespective.rtb.zip" %}
+Backup miro "Rétro back to the future"
+{% endfile %}
 

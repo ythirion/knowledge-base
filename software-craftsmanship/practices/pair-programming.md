@@ -5,7 +5,7 @@
 * In solo, list all the pros and cons of Pair Programming
 * Share with the rest of the group
 
-![](../../.gitbook/assets/image%20%28497%29.png)
+![](<../../.gitbook/assets/image (488).png>)
 
 ## Concepts - 20'
 
@@ -14,26 +14,26 @@
   * What are the other pros and cons explained
 * Be sure that everyone has understood the roles : Drive / Navigator
 
-| Pros | Cons |
-| :--- | :--- |
-| Instantly shared best practices / knowledge | Tiring |
-| Improved design / code quality \(fewer mistakes\)  | Can create frictions |
-| Faster on-boarding  |  |
-| Increase moral / confidence |  |
-| Increase team cohesion / collective ownership |  |
-| Instant code reviews |  |
+| Pros                                             | Cons                 |
+| ------------------------------------------------ | -------------------- |
+| Instantly shared best practices / knowledge      | Tiring               |
+| Improved design / code quality (fewer mistakes)  | Can create frictions |
+| Faster on-boarding                               |                      |
+| Increase moral / confidence                      |                      |
+| Increase team cohesion / collective ownership    |                      |
+| Instant code reviews                             |                      |
 
 * Pair programming is not 1 person sleeping and only one working.
 
-![](../../.gitbook/assets/image%20%28508%29.png)
+![](<../../.gitbook/assets/image (489).png>)
 
 ### Different styles
 
-![](../../.gitbook/assets/image%20%28504%29.png)
+![](<../../.gitbook/assets/image (492).png>)
 
-![](../../.gitbook/assets/image%20%28498%29.png)
+![](<../../.gitbook/assets/image (494).png>)
 
-![Ping pong when doing TDD](../../.gitbook/assets/image%20%28500%29.png)
+![Ping pong when doing TDD](<../../.gitbook/assets/image (495).png>)
 
 ### What about the cost of Pair Programming ?
 
@@ -44,7 +44,7 @@
     * Higher quality assurance
     * Less field support
 
-![](../../.gitbook/assets/image%20%28507%29.png)
+![](<../../.gitbook/assets/image (496).png>)
 
 ## Concrete Practice - Create your check-list - 20'
 
@@ -69,11 +69,10 @@
 
 ### How to start in your team ?
 
-![Pair Programming Matrix from Jimmy Janlen](../../.gitbook/assets/image%20%28488%29.png)
+![Pair Programming Matrix from Jimmy Janlen](<../../.gitbook/assets/image (497).png>)
 
 * WHY ?
   * To do more pair programming
   * Visualize how much you pair during a week/sprint
 * HOW ?
   * Whenever you’ve done a pairing session, make a tick in the corresponding box
-

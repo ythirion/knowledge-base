@@ -2,19 +2,19 @@
 description: Theatrical players refactoring Kata in a Functional Programming style
 ---
 
-# Let's refactor \(FP style\)
+# Let's refactor (FP style)
 
 ## Start by establishing our plan
 
-We can use the [mikado method](http://mikadomethod.info/) to do so.
+We can use the [mikado method](http://mikadomethod.info) to do so.
 
 Here is mine :
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](<../../../.gitbook/assets/image (92).png>)
 
-We will use [vavr](https://www.vavr.io/) to refactor this code in java.
+We will use [vavr](https://www.vavr.io) to refactor this code in java.
 
-## 1\) Extract the amount calculation
+## 1) Extract the amount calculation
 
 {% code title="PlayAmounts.java" %}
 ```java
@@ -42,7 +42,7 @@ class PlayAmounts {
 ```
 {% endcode %}
 
-## 2\) Build a statement
+## 2) Build a statement
 
 ```java
 private String formatLine(String name, Integer amount, Integer audience) {
@@ -63,7 +63,7 @@ private Statement makeStatement(Performance perf, Play play) {
 }
 ```
 
-## 3\) Run the pipeline
+## 3) Run the pipeline
 
 ```java
 public String print(Invoice invoice, java.util.Map<String, Play> plays) {
@@ -78,7 +78,7 @@ public String print(Invoice invoice, java.util.Map<String, Play> plays) {
 }
 ```
 
-## 4\) Putting whole together
+## 4) Putting whole together
 
 {% code title="StatementPrinter.java" %}
 ```java
@@ -121,4 +121,3 @@ public class StatementPrinter implements StatementPrinter {
 {% endcode %}
 
 Our code is now ready to be extended with the new HTLM printer.
-

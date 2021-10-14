@@ -6,7 +6,7 @@ description: Maude Lemaire
 
 ## Pitch
 
-![](../../../.gitbook/assets/image%20%28620%29.png)
+![](<../../../.gitbook/assets/image (619).png>)
 
 Making significant changes to large, complex codebases is a daunting task--one that's nearly impossible to do successfully unless you have the right team, tools, and mindset. If your application is in need of a substantial overhaul and you're unsure how to go about implementing those changes in a sustainable way, then this book is for you.
 
@@ -14,28 +14,30 @@ Software engineer Maude Lemaire walks you through the entire refactoring process
 
 ## Infographic
 
-![Refactoring at Scale infographic by Yoan Thirion](../../../.gitbook/assets/refactoring-at-scale.jpg)
+![Refactoring at Scale infographic by Yoan Thirion](<../../../.gitbook/assets/Refactoring at scale.jpg>)
 
-{% file src="../../../.gitbook/assets/refactoring-at-scale.pdf" caption="High resolution infographic \(pdf\)" %}
+{% file src="../../../.gitbook/assets/Refactoring at scale.pdf" %}
+High resolution infographic (pdf)
+{% endfile %}
 
 ## Notes
 
 ### Chapter 1 : Refactoring
 
 * What Is Refactoring?
-  * Process by which we restructure existing code \(the factoring\) without changing its external behavior
+  * Process by which we restructure existing code (the factoring) without changing its external behavior
 
-![](../../../.gitbook/assets/image%20%28621%29.png)
+![](<../../../.gitbook/assets/image (620).png>)
 
 Refactored version
 
-![](../../../.gitbook/assets/image%20%28619%29.png)
+![](<../../../.gitbook/assets/image (621).png>)
 
 * What Is _**Refactoring at Scale**_?
   * One that affects a substantial surface area of your systems
-    * Typically \(but not exclusively\) involves a large codebase \(a million or more lines of code\)
+    *   Typically (but not exclusively) involves a large codebase (a million or more lines of code)
 
-      powering applications with many users
+        powering applications with many users
   * About identifying a systemic problem in your codebase
     * Conceiving of a better solution
     * Executing on that solution in a strategic, disciplined way
@@ -59,9 +61,9 @@ Refactored version
     * When looking to refactor a small, straightforward section of well-tested code,
     * Should be very little holding you back
   * Code Complexity Actively Hinders Development
-    * Every time we read over the code our brows furrow, our hearts pound, our neurons start
+    *   Every time we read over the code our brows furrow, our hearts pound, our neurons start
 
-      firing
+        firing
   * Shift in Product Requirements : can frequently map to drastic shifts in code
   * Performance
   * Using a new Technology
@@ -80,9 +82,9 @@ a high level of vigilance over the state of the codebase and any external influe
 * _Code has degraded when its **perceived utility has decreased**_
 * 2 ways in which code can degrade either :
   * The requirements for what the code needs to do or how it needs to behave have changed,
-  * Or your organization has been cutting corners in an attempt to achieve more in a short
+  *   Or your organization has been cutting corners in an attempt to achieve more in a short
 
-    period
+      period
 * We refer to these as “requirement shifts” and “tech debt,” respectively
 * **Requirement shifts** : Scalability, Accessibility, Device Compatibility, Environmental changes, External Dependencies, Unused code, Changes in Product Requirements
 * **Tech Debt** : Working around Tech Choices, Persistent Lack of organization, Moving too quickly
@@ -97,94 +99,87 @@ Quantifying the impact of refactoring motivated by performance is often the easi
 
 #### Measuring Code Complexity
 
-* **Halstead Metrics \(1975\)** : counting the number of operators and operands in a given computer program
+* **Halstead Metrics (1975)** : counting the number of operators and operands in a given computer program
   * **Operators** are constructs that behave like functions, but differ syntactically or semantically from typical functions. 
-    * These include arithmetic symbols like - and +, logical
+    *   These include arithmetic symbols like - and +, logical
 
-      operators like &&, comparison operators like &gt;, and assignment operators like =
+        operators like &&, comparison operators like >, and assignment operators like =
   * **Operands :** any entities we operate on, using our set of operators
   * He proposed a set of metrics to calculate a set of characteristics :
-    * _Program’s volume_ : or how much information the reader of the code has to
+    *   _Program’s volume_ : or how much information the reader of the code has to
 
-      absorb in order to understand its meaning.
+        absorb in order to understand its meaning.
+    *   _Program’s difficulty_ : or the amount of mental effort required to re-create the
 
-    * _Program’s difficulty_ : or the amount of mental effort required to re-create the
-
-      software; also commonly referred to as the Halstead effort metric.
-
+        software; also commonly referred to as the Halstead effort metric.
     * _The number of bugs_ you are likely to find in the system.
 
-![](../../../.gitbook/assets/image%20%28624%29.png)
+![](<../../../.gitbook/assets/image (622).png>)
 
-* **Cyclomatic Complexity \(1976\) :** _****_it is a quantitative measure of the number of linearly independent paths through a program’s source code
+* **Cyclomatic Complexity (1976) :**_** **_it is a quantitative measure of the number of linearly independent paths through a program’s source code
   * Essentially a count of the number of control flow statements within a program
-  * This includes _if_ statements, _while_ and _for_ loops, and _case_ statements in side
+  *   This includes _if_ statements, _while_ and _for_ loops, and _case_ statements in side
 
-    switch blocks
+      switch blocks
 
-![](../../../.gitbook/assets/image%20%28627%29.png)
+![](<../../../.gitbook/assets/image (623).png>)
 
-* **NPath Complexity \(1988\) :** Nejmeh asserts that _**not all control flow structures are equal**_; some are more difficult to understand use properly than others
+*   **NPath Complexity (1988) : **Nejmeh asserts that _**not all control flow structures are equal**_; some are more difficult to understand use properly than others
 
-  * For example, a while loop might be trickier for a developer to reason about than a switch statement.
-  * Nesting can influence the psychological complexity of the function
-  * Psychological complexity can have a large impact on our ability to maintain software
+    * For example, a while loop might be trickier for a developer to reason about than a switch statement.
+    * Nesting can influence the psychological complexity of the function
+    * Psychological complexity can have a large impact on our ability to maintain software
 
-  quality
+    quality
 
-  * The calculation is recursive and can quickly balloon
-
-* **Lines of Code :** Control flow graph metrics can be difficult to calculate
+    * The calculation is recursive and can quickly balloon
+* **Lines of Code : **Control flow graph metrics can be difficult to calculate
   * Program size can help us locate likely pain points in our application
   * If we’re looking for a pragmatic, low-effort approach to quantifying the complexity of our code, then size-based metrics are the way to go
-  * _LOC \(lines of code\) per file_ : capture the psychological overhead required to
+  *   _LOC (lines of code) per file_ : capture the psychological overhead required to
 
-    understand their contents and responsibilities when a developer pops them open
+      understand their contents and responsibilities when a developer pops them open
 
-    in their editor.
-
-  * _Function length :_ Measuring the length of functions or methods within your application can be a helpful way of approximating their individual complexities.
-  * _Average function length per file, module, or class :_ Knowing the average length of the smaller logical components contained within it can give you an indication of the relative complexity of that unit as a whole.
+      in their editor.
+  * _Function length : _Measuring the length of functions or methods within your application can be a helpful way of approximating their individual complexities.
+  * _Average function length per file, module, or class : _Knowing the average length of the smaller logical components contained within it can give you an indication of the relative complexity of that unit as a whole.
 
 #### **Test Coverage Metrics**
 
-Whatever our approach, the desired outcome ****is the same: a new feature, fully backed by a quality set of tests
+Whatever our approach, the desired outcome** **is the same: a new feature, fully backed by a quality set of tests
 
 * We can evaluate test coverage in two ways: quantitatively and qualitatively
   * **Quantitatively** : calculate a percentage representing the proportion of code that is executed when the test suite is run against it
     * We can collect metrics for both the number of functional lines of code and the number of execution paths tested
     * _test coverage alone is not an indication of how well-tested something is_
   * **Qualitatively :** suitable test quality has been attained if the following points hold true:
-    * The tests are _**reliable**_. From one run to the next, they consistently produce passing results when run against unchanged code and catch bugs during
+    *   The tests are _**reliable**_. From one run to the next, they consistently produce passing results when run against unchanged code and catch bugs during
 
-      development.
+        development.
+    *   The tests are _**resilient**_. They are not so tightly coupled to implementation that
 
-    * The tests are _**resilient**_. They are not so tightly coupled to implementation that
+        they stifle change.
+    *   _**A range of test types exercise the code**_. Having unit, integration, and end-to-end
 
-      they stifle change.
-
-    * _**A range of test types exercise the code**_. Having unit, integration, and end-to-end
-
-      tests can help us assert that our code is functioning as intended with different levels of fidelity.
+        tests can help us assert that our code is functioning as intended with different levels of fidelity.
 
 #### **Documentation**
 
-* _Formal Documentation_ : everything you most likely think of as documentation
-  * We can use things like technical specs as evidence that our refactor is necessary or useful by referencing design decisions, assumptions, or other designs considered or
+* _Formal Documentation _: everything you most likely think of as documentation
+  *   We can use things like technical specs as evidence that our refactor is necessary or useful by referencing design decisions, assumptions, or other designs considered or
 
-    rejected.
+      rejected.
 * _Informal Documentation_ : 
-  * _Chat and email transcripts_ : can provide insightful information about the code you’re
+  *   _Chat and email transcripts_ : can provide insightful information about the code you’re
 
-    seeking to refactor
-
+      seeking to refactor
   * Bug Tracking system
   * Project Management System
 
 #### Version Control
 
 * _Commit Messages_ : set of keywords or by isolating commit messages associated with changes to a set of files we’re interested in
-* _Commits in Aggregate_ : ref Software Design X-Rays
+* _Commits in Aggregate _: ref Software Design X-Rays
   * _Change frequencies_ : are the number of commits made to each file over the complete version history of your application
   * Code authorship
 
@@ -192,7 +187,7 @@ Whatever our approach, the desired outcome ****is the same: a new feature, fully
 
 A simple, low-effort means of collecting reputation data is to interview fellow developers :
 
-![](../../../.gitbook/assets/image%20%28628%29.png)
+![](<../../../.gitbook/assets/image (624).png>)
 
 #### Building a complete Picture
 
@@ -211,44 +206,43 @@ I recommend picking one metric from every category :
 Feel free to provide both an ideal end state and an acceptable end state. Sometimes, getting 80 percent of the way there gives you 99 percent of the benefit of the refactor.
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28622%29.png)
+![](<../../../.gitbook/assets/image (625).png>)
 
-* **Mapping the Shortest Distance :** a few alternatives
+* **Mapping the Shortest Distance : **a few alternatives
   * Open a blank document :
     * For 15 to 20 minutes : write down every step you can come up with
-    * Set the document aside for at the very least a few hours \(ideally a day or two\)
+    * Set the document aside for at the very least a few hours (ideally a day or two)
     * Open it up again and try to order each step in chronological order
-  * _Gather a few coworkers_ who are either interested in the project or you know will
+  *   _Gather a few coworkers_ who are either interested in the project or you know will
 
-    be contributing
+      be contributing
 
-    * Set aside an hour or so : grab a pack of sticky notes and a pen for
+      *   Set aside an hour or so : grab a pack of sticky notes and a pen for
 
-      each of you
+          each of you
 
-      * For 15 to 20' \(or until everyone’s pens are down\), write
+          *   For 15 to 20' (or until everyone’s pens are down), write
 
-        down every step you think is required, each on individual sticky notes
-
-      * Then, have a first person lay out their steps in chronological order
-      * Subsequent teammates go through each of their own sticky notes and either :
-        * Pair them up with their duplicates 
-        * or insert them into the appropriate spot within the timeline
-      * Once everyone’s organized all of their notes :
-        * Go through each step
-        * Ask the room whether they believe that the step is absolutely required in order to reach the goal
-        * If not, discard it
-      * The final product should be a reasonable set of minimal steps
-      * Final output of the exercise should be a written document that is easy to distribute and collaboratively improve
-* **Identifying Strategic Intermediate Milestones** : 
+              down every step you think is required, each on individual sticky notes
+          * Then, have a first person lay out their steps in chronological order
+          * Subsequent teammates go through each of their own sticky notes and either :
+            * Pair them up with their duplicates 
+            * or insert them into the appropriate spot within the timeline
+          * Once everyone’s organized all of their notes :
+            * Go through each step
+            * Ask the room whether they believe that the step is absolutely required in order to reach the goal
+            * If not, discard it
+          * The final product should be a reasonable set of minimal steps
+          * Final output of the exercise should be a written document that is easy to distribute and collaboratively improve
+* **Identifying Strategic Intermediate Milestones **: 
   * 1\) Does this step feel attainable in a reasonable period?
   * 2\) Is this step valuable on its own?
   * 3\) If something comes up, could we stop at this step and pick it back up easily later?
 
-![](../../../.gitbook/assets/image%20%28625%29.png)
+![](<../../../.gitbook/assets/image (626).png>)
 
-* **Choosing a Rollout Strategy** :
-  * One of the key success metrics is that _no behavior has changed_
+* **Choosing a Rollout Strategy **:
+  * One of the key success metrics is that_ no behavior has changed_
   * **Dark Mode / Light Mode** : We can compare pre-refactor and post-refactor behavior by employing what we’ve coined at Slack as the light/dark technique
     * Dark mode : 
       * Both implementations are called
@@ -269,19 +263,19 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
           * Continue logging any differences in the result sets
           * Continue to opt broader groups of users into light mode, _**until everyone is successfully processing results**_ from the new implementation.
         * Disable execution of both code paths
-        * Remove the old logic altogether : only the new implementation
+        *   Remove the old logic altogether : only the new implementation
 
-          should remain
-    * **Cons :** If the code you are refactoring is performance-sensitive, and you’re operating in an environment that does not enable true multi-threading \(PHP, Python, or Node\), then running two versions of the same logic side by side might not be a great option
+            should remain
+    * **Cons : **If the code you are refactoring is performance-sensitive, and you’re operating in an environment that does not enable true multi-threading (PHP, Python, or Node), then running two versions of the same logic side by side might not be a great option
 * **Cleaning Up Artifacts**
   * No refactor is complete unless all remaining transitional artifacts are properly cleaned up. 
-  * _**Examples**_ : Feature Flags, Abstractions, Dead Code, Comments \(TODOs\), Unit Tests \(duplicative ones\)
+  * _**Examples**_ : Feature Flags, Abstractions, Dead Code, Comments (TODOs), Unit Tests (duplicative ones)
 * **Referencing Metrics in your Plan**
   * To support the initiative, not only does your problem statement need to be convincing with clear success criteria
   * Your proposal also needs to include definitive progress metrics
     * Showing that you have a strong direction should ease any concerns they might have about giving the go-ahead on a lengthy refactor.
 
-![](../../../.gitbook/assets/image%20%28623%29.png)
+![](<../../../.gitbook/assets/image (627).png>)
 
 * **Estimating**
   * Simple technique :
@@ -291,7 +285,7 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
   * The larger the software project, the greater the chance something won’t go quite to plan
 * **Sharing Your Plan with Other Teams**
   * Large refactoring projects typically affect a large number of engineering groups
-  * Brainstorm with your team \(or a small group of trusted colleagues\) to make sure you’ve covered a variety of disciplines and departments
+  * Brainstorm with your team (or a small group of trusted colleagues) to make sure you’ve covered a variety of disciplines and departments
   * 2 primary reasons : 
     * Provide transparency
     * Gather perspective on your plan to strengthen it
@@ -303,7 +297,7 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
   * Managers Are Evaluated Differently
   * Managers See the Risk
   * Managers Need to Coordinate
-* Strategies for Making a Compelling Argument \(With our Manager\)
+* Strategies for Making a Compelling Argument (With our Manager)
   * First, have an initial investigatory conversation :
     * It helps you understand which factors are weighing most heavily on your manager
     * It gives you a sense of whether your manager might be more readily convinced by an emotional or logical argument
@@ -335,14 +329,14 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
   * If you are exceedingly confident that your refactor is critical to the business and your manager is unwilling to budge
     * Stop doing unrewarded maintenance work
     * Giving an ultimatum
-      * If all else fails, you can suggest to your manager that if they continue to oppose the
+      *   If all else fails, you can suggest to your manager that if they continue to oppose the
 
-        refactor, you’ll either transfer to another team or outright quit the company.
+          refactor, you’ll either transfer to another team or outright quit the company.
 
 {% hint style="info" %}
 **Rewarding Refactoring**
 
-_No engineer should be told that refactoring is equivalent to career suicide; instead, work with engineering promotion committees and human resources to include \(and encourage\) code maintenance. \(requiring managers to include maintenance efforts in their quarterly planning\)_
+_No engineer should be told that refactoring is equivalent to career suicide; instead, work with engineering promotion committees and human resources to include (and encourage) code maintenance. (requiring managers to include maintenance efforts in their quarterly planning)_
 {% endhint %}
 
 ### Chapter 6 : Building the Right Team
@@ -361,17 +355,16 @@ _No engineer should be told that refactoring is equivalent to career suicide; in
   * Do we understand the potential product implications of the changes we want to make? 
   * Are we deeply familiar with the technologies we’ll either be directly or indirectly interfacing with?
 * If so, great! We’re probably in a good position to make those changes ourselves. 
-* _**If not, then we’ll need someone else’s help**_**.** 
+* _**If not, then we’ll need someone else’s help**_**. **
 * 2 ways to enlist someone :
-  * _**An active contributor**_ : 
+  *   _**An active contributor**_ : 
 
-    * heavily involved with the project \(ideally from day one\)
-    * Actively contributing to the effort by writing code alongside you
-    * Should be consulted for input on the execution plan early and through each of its
+      * heavily involved with the project (ideally from day one)
+      * Actively contributing to the effort by writing code alongside you
+      * Should be consulted for input on the execution plan early and through each of its
 
-    revisions
-
-  * _**Subject matter experts, or SMEs**_ 
+      revisions
+  * _**Subject matter experts, or SMEs **_
     * Not active contributors to your effort
     * Agreed to be available to talk through solutions with you
     * Answer questions
@@ -383,7 +376,7 @@ _No engineer should be told that refactoring is equivalent to career suicide; in
   * Start from the beginning of the list 
   * For each items : write the first few names of either individuals or teams that come to mind
 
-![](../../../.gitbook/assets/image%20%28630%29.png)
+![](<../../../.gitbook/assets/image (629).png>)
 
 _Part 3 : Execution_
 
@@ -397,7 +390,7 @@ _Policy of no laptops and minimal phone usage during meetings._
   * Stand-Ups : a great habit for keeping everyone on the team aligned at regular intervals.
   * Weekly Syncs : 1h
     * 1st part : accomplishments
-    * 2nd part : discuss any important topics \(new edge case for example\)
+    * 2nd part : discuss any important topics (new edge case for example)
   * Retrospectives : opportunity to reflect on the latest iteration cycle
     * highlight opportunities for improvement
     * identify any actions you can take moving forward
@@ -416,13 +409,13 @@ _Policy of no laptops and minimal phone usage during meetings._
       * _When affected teams should expect to hear from you_
 * During Project Execution
   * Progress announcements
-    * Not only important to let everyone know that you’ve completed another milestone \(and unlocked any number of benefits as a result\),
+    * Not only important to let everyone know that you’ve completed another milestone (and unlocked any number of benefits as a result),
     * Crucial in continuing to make your team feel productive and boost their morale
   * Execution plan
     * Make a copy of the original execution plan
     * It will serve as a living version of the original document and should be progressively updated as the project develops
 
-![](../../../.gitbook/assets/image%20%28629%29.png)
+![](<../../../.gitbook/assets/image (630).png>)
 
 #### Seeking feedback from senior engineers
 
@@ -488,4 +481,3 @@ All of us seek advice from peers and experienced colleagues when solving difficu
   * Encourage and facilitate design conversations on our team frequently
   * Hold inclusive design reviews early in the feature development process
     * Inviting engineers from all backgrounds to evaluate your designs and ask questions
-

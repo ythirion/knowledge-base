@@ -14,48 +14,48 @@ This book examines:
 * Modernity: Engineering practices and operational approaches that have changed radically in the past few years
 * Architecture as an engineering discipline: Repeatable results, metrics, and concrete valuations that add rigor to software architecture
 
-![](../.gitbook/assets/image%20%28400%29.png)
+![](<../.gitbook/assets/image (397).png>)
 
 ## Chapter 1 : Introduction
 
 ### **1. What are the four dimensions that define software architecture?**
 
-![](../.gitbook/assets/image%20%28390%29.png)
+![](<../.gitbook/assets/image (390).png>)
 
 * **Structure of the system** : Structure refers to the type of architecture styles used in the system such as microservices, layered, or microkernel
 
-![](../.gitbook/assets/image%20%28396%29.png)
+![](<../.gitbook/assets/image (393).png>)
 
 * **Architecture characteristics** : The architecture characteristics define the success criteria of a system, which is generally orthogonal to the functionality of the system.
 
-![](../.gitbook/assets/image%20%28392%29.png)
+![](<../.gitbook/assets/image (394).png>)
 
 * **Architecture decisions** : Architecture decisions define the rules for how a system should be constructed
   * For example, an architect might make an architecture decision that only the business and services layers within a layered architecture can access the database
 
-![](../.gitbook/assets/image%20%28395%29.png)
+![](<../.gitbook/assets/image (395).png>)
 
 * **Design principles** : guidelines for constructing systems
 
-![](../.gitbook/assets/image%20%28394%29.png)
+![](<../.gitbook/assets/image (396).png>)
 
 ### **2. What is the difference between an architecture decision and a design principle?**
 
 A design principle differs from an architecture decision in that a design principle is a guideline rather than a hard-and-fast rule**.**
 
-If a particular architecture decision cannot be implemented in one part of the system due to some condition or other constraint, that decision \(or rule\) can be broken through something called a variance. Most organizations have variance models that are used by an architecture review board \(ARB\) or chief architect. 
+If a particular architecture decision cannot be implemented in one part of the system due to some condition or other constraint, that decision (or rule) can be broken through something called a variance. Most organizations have variance models that are used by an architecture review board (ARB) or chief architect. 
 
 ### **3. List the eight core expectations of a software architect.**
 
 * _**Make architecture decisions**_ : 
   * Define the architecture decisions and design principles used to guide technology decisions within the team, the department, or across the enterprise
-  * Instead of saying \(use ReactJs\) : an architect should instead instruct development teams to use a reactive-based framework for frontend web development
+  * Instead of saying (use ReactJs) : an architect should instead instruct development teams to use a reactive-based framework for frontend web development
 * _**Continually analyze the architecture**_ : continually analyze the architecture and current technology environment and then recommend solutions for improvement
 * _**Keep current with latest trends**_ : 
   * Keep current with the latest technology and industry trends
   * Understanding and following key trends helps the architect prepare for the future and make the correct decision
 * _**Ensure compliance with decisions**_ : with architecture decisions and design principles
-* _**Diverse exposure and experience**_ : have exposure to multiple and diverse technologies, frameworks, platforms, and environments
+* _**Diverse exposure and experience **_: have exposure to multiple and diverse technologies, frameworks, platforms, and environments
 * _**Have business domain knowledge**_ : have a certain level of business domain expertise
 * _**Possess interpersonal skills**_ : possess exceptional interpersonal skills, including teamwork, facilitation, and leadership
 * _**Understand and navigate politics**_ : understand the political climate of the enterprise and be able to navigate the politics.
@@ -74,7 +74,7 @@ If a particular architecture decision cannot be implemented in one part of the s
 
 #### **Traditional View : Architecture vs Design**
 
-![](../.gitbook/assets/image%20%28399%29.png)
+![](<../.gitbook/assets/image (400).png>)
 
 * It is the _**unidirectional arrow**_ passing though the virtual and physical barriers separating the architect from the developer that causes all of the problems associated with architecture
 * Decisions an architect makes sometimes never make it to the development teams, and decisions development teams make that change the architecture rarely get back to the architect
@@ -82,7 +82,7 @@ If a particular architecture decision cannot be implemented in one part of the s
 
 #### Making architecture work through collaboration
 
-![](../.gitbook/assets/image%20%28401%29.png)
+![](<../.gitbook/assets/image (401).png>)
 
 To make architecture work, both the physical and virtual barriers that exist between architects and developers must be broken down
 
@@ -92,16 +92,16 @@ To make architecture work, both the physical and virtual barriers that exist bet
 
 ### **2. List the three levels of knowledge in the knowledge triangle and provide an example of each.**
 
-\*\*\*\*
+****
 
-![](../.gitbook/assets/image%20%28402%29.png)
+![](<../.gitbook/assets/image (402).png>)
 
 * _Stuff you know :_ includes the technologies, frameworks, languages, and tools a technologist uses on a daily basis to perform their job, such as knowing Java as a Java programmer
-  * _**Example**_ : DDD, C\#, .NET, Java, Agile
+  * _**Example**_ : DDD, C#, .NET, Java, Agile
 * _Stuff you know you don’t know_ : includes those things a technologist knows a little about or has heard of but has little or no expertise in
   * _**Example**_ : Machine learning
 * _Stuff you don’t know you don’t know_  : includes the entire host of technologies, tools, frameworks, and languages that would be the perfect solution to a problem a technologist is trying to solve, but the technologist doesn’t even know those things exist
-  * _**Example**_ : Don't know ;-\)
+  * _**Example**_ : Don't know ;-)
 
 ### **3. Why is it more important for an architect to focus on technical breadth rather than technical depth?**
 
@@ -113,13 +113,13 @@ Because architects must make decisions that match capabilities to technical cons
 Thus, for an architect, the wise course of action is to sacrifice some hard-won expertise and use that time to broaden their portfolio.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28403%29.png)
+![](<../.gitbook/assets/image (403).png>)
 
 ### **4. What are some of the ways of maintaining your technical depth and remaining hands-on as an architect?**
 
 > “We firmly believe that every architect should code and be able to maintain a certain level of technical depth”
 
-* Do frequent proof-of-concepts \(POCs\)
+* Do frequent proof-of-concepts (POCs)
   * Helps validate an architecture decision by taking implementation details into account
 * Tackle some of the technical debt stories
 * Working on bug fixes
@@ -127,7 +127,7 @@ Thus, for an architect, the wise course of action is to sacrifice some hard-won 
 
 ## **Chapter 3: Modularity**
 
-* _Afferent coupling_ : measures the number of incoming connections to a code artifact \(component, class, function, and so on\).
+* _Afferent coupling_ : measures the number of incoming connections to a code artifact (component, class, function, and so on).
 * _Efferent coupling_ : measures the outgoing connections to other code artifacts
 
 ### **1. What is meant by the term connascence?**
@@ -141,13 +141,13 @@ Thus, for an architect, the wise course of action is to sacrifice some hard-won 
 
 ### **3. What does connascence of type mean? Is it static or dynamic connascence?**
 
-It means that multiple components must agree on the type of an entity. ****Common facility in many statically typed languages to limit variables and Parameters to specific types.
+It means that multiple components must agree on the type of an entity.** **Common facility in many statically typed languages to limit variables and Parameters to specific types.
 
 ### **4. What is the strongest form of connascence?**
 
 Connascence of Identity
 
-![](../.gitbook/assets/image%20%28404%29.png)
+![](<../.gitbook/assets/image (404).png>)
 
 ### **5. What is the weakest form of connascence?**
 
@@ -172,7 +172,7 @@ An architecture characteristic meets three criteria:
   * Architecture characteristics specify operational and design criteria for success
     * Concerning **how** to implement the requirements and why certain choices were made
   * Ex : Level of performance for the application
-* **Influences some structural aspect of the design** : 
+* **Influences some structural aspect of the design **: 
   * Does this architecture characteristic require special structural consideration to succeed
   * Ex : Security aspects
 * **Is critical or important to application success** :
@@ -180,9 +180,9 @@ An architecture characteristic meets three criteria:
 
 ### **2. What is the difference between an implicit characteristic and an explicit one? Provide an example of each.**
 
-\*\*\*\*
+****
 
-![](../.gitbook/assets/image%20%28405%29.png)
+![](<../.gitbook/assets/image (405).png>)
 
 * Implicit ones rarely appear in requirements, yet they’re necessary for project success. 
   * Examples : Availability, reliability, and security
@@ -191,13 +191,13 @@ An architecture characteristic meets three criteria:
 
 ### **3. Provide an example of an operational characteristic.**
 
-* _**Availability**_ : How long the system will need to be available \(if 24/7, steps need to be in place to allow the system to be up and running quickly in case of any failure\). 
+* _**Availability**_ : How long the system will need to be available (if 24/7, steps need to be in place to allow the system to be up and running quickly in case of any failure). 
 * _**Performance**_ : Includes stress testing, peak analysis, analysis of the frequency of functions used, capacity required, and response times. 
 * ...
 
 ### **4. Provide an example of a structural characteristic.**
 
-* _**Configurability**_ : Ability for the end users to easily change aspects of the software’s configuration \(through usable interfaces\). 
+* _**Configurability**_ : Ability for the end users to easily change aspects of the software’s configuration (through usable interfaces). 
 * _**Extensibility**_ : How important it is to plug new pieces of functionality in.
 * ...
 
@@ -220,17 +220,17 @@ It depends...
 
 ## Chapter 5: Identifying Architecture Characteristics
 
-### **1. Give a reason why it is a good practice to limit the number of characteristics \(“-ilities”\) an architecture should support.**
+### **1. Give a reason why it is a good practice to limit the number of characteristics (“-ilities”) an architecture should support.**
 
 A common anti-pattern in architecture entails trying to design a generic architecture, one that supports all the architecture characteristics.
 
 ### **2. True or false: most architecture characteristics come from business requirements and user stories.**
 
-**True :** Understanding the key domain goals and domain situation allows an architect to translate those domain concerns to “-ilities”
+**True : **Understanding the key domain goals and domain situation allows an architect to translate those domain concerns to “-ilities”
 
-![](../.gitbook/assets/image%20%28406%29.png)
+![](<../.gitbook/assets/image (406).png>)
 
-### **3. If a business stakeholder states that time-to-market \(i.e., getting new features and bug fixes pushed out to users as fast as possible\) is the most important business concern, which architecture characteristics would the architecture need to support?**
+### **3. If a business stakeholder states that time-to-market (i.e., getting new features and bug fixes pushed out to users as fast as possible) is the most important business concern, which architecture characteristics would the architecture need to support?**
 
 * Agility does not equal Time To Market
 * It is : Agility + Testability + Deployability
@@ -250,7 +250,7 @@ Availability of our systems and scalability at least.
 
 A domain stakeholder might say something like :
 
-> “Due to regulatory requirements, it is absolutely imperative that we complete end-of-day fund pricing on time.”
+> “Due to regulatory requirements, it is absolutely imperative that we complete end-of-day fund pricing on time.” 
 
 #### On what Architecture Characteristics should we focus ?
 
@@ -259,7 +259,7 @@ A domain stakeholder might say something like :
   * It doesn’t matter how fast the system is if it isn’t available when needed
   * As the domain grows and more funds are created, the system must be able to also scale to finish end-of-day processing in time
   * The system must not only be available, but must also be reliable so that it doesn’t crash as end-of-day fund prices are being calculated
-  * _**What happens if**_ the end-of-day fund pricing is about 85% complete and the system crashes?  It must be able to recover and restart where the pricing left off. 
+  * _**What happens if **_the end-of-day fund pricing is about 85% complete and the system crashes?  It must be able to recover and restart where the pricing left off. 
   * The system may be fast, but are the fund prices being calculated correctly? 
 
 So, in addition to performance, the architect must also equally place a focus on availability, scalability, reliability, recoverability, and auditability.
@@ -286,7 +286,7 @@ public void decision(int c1, int c2) {
 * E represents edges : possible decisions
 * N represents nodes : lines of code
 
-![](../.gitbook/assets/image%20%28417%29.png)
+![](<../.gitbook/assets/image (417).png>)
 
 {% hint style="danger" %}
 It is universally agreed that overly complex code represents a code smell it harms virtually every one of the desirable characteristics of code bases: modularity, testability, deployability, and so on
@@ -296,7 +296,7 @@ It is universally agreed that overly complex code represents a code smell it har
 
 Any mechanism that provides an objective integrity assessment of some architecture characteristic or combination of architecture characteristics.
 
-![](../.gitbook/assets/image%20%28418%29.png)
+![](<../.gitbook/assets/image (418).png>)
 
 ### **3. Provide an example of an architecture fitness function to measure the scalability of an architecture.**
 
@@ -314,9 +314,9 @@ Architects must ensure that developers understand the purpose of the fitness fun
 
 > “An independently deployable artifact with high functional cohesion and synchronous connascence”
 
-* _Independently deployable_ **:** includes all the necessary components to function independently from other parts of the architecture.
+* _Independently deployable_** : **includes all the necessary components to function independently from other parts of the architecture.
   * “For example, if an application uses a database, it is part of the quantum because the system won’t function without it
-* _High functional cohesion :_ how well the contained code is unified in purpose.
+* _High functional cohesion : _how well the contained code is unified in purpose.
   * Implies that an architecture quantum does something purposeful
 * _Synchronous connascence_ : implies synchronous calls within an application context or between distributed services that form this architecture quantum
 
@@ -324,9 +324,9 @@ _**Closed to the Bounded Context concept from Eric Evans**_
 
 ### **2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this system have a single quantum or four quanta? Why?**
 
-4 quantas because each services include their owns DB : ****Each independently deployable artifact
+4 quantas because each services include their owns DB :** **Each independently deployable artifact
 
-_**Interesting Kata :**_ [_**Going, Going, Gone**_](http://fundamentalsofsoftwarearchitecture.com/katas/kata?id=GoingGoingGone)_\*\*\*\*_
+_**Interesting Kata : **_[_**Going, Going, Gone**_](http://fundamentalsofsoftwarearchitecture.com/katas/kata?id=GoingGoingGone)_****_
 
 ## Chapter 8: Component-Based Thinking
 
@@ -408,7 +408,7 @@ _**Interesting Kata :**_ [_**Going, Going, Gone**_](http://fundamentalsofsoftwar
 
 **4. What technique can you use to manage database changes within a service-based architecture?**
 
-**5. Do domain services require a container \(such as Docker\) to run?**
+**5. Do domain services require a container (such as Docker) to run?**
 
 **6. Which architecture characteristics are well supported by the service-based architecture style?**
 
@@ -496,7 +496,7 @@ _**Interesting Kata :**_ [_**Going, Going, Gone**_](http://fundamentalsofsoftwar
 
 ## Chapter 18: Choosing the Appropriate Architecture Style
 
-**1. In what way does the data architecture \(structure of the logical and physical data models\) influence the choice of architecture style?**
+**1. In what way does the data architecture (structure of the logical and physical data models) influence the choice of architecture style?**
 
 **2. How does it influence your choice of architecture style to use?**
 
@@ -530,9 +530,9 @@ _**Interesting Kata :**_ [_**Going, Going, Gone**_](http://fundamentalsofsoftwar
 
 **4. Why is it necessary for the identification activity within risk storming to be an individual activity and not a collaborative one?**
 
-**5. What would you do if three participants identified risk as high \(6\) for a particular area of the architecture, but another participant identified it as only medium \(3\)?**
+**5. What would you do if three participants identified risk as high (6) for a particular area of the architecture, but another participant identified it as only medium (3)?**
 
-**6. What risk rating \(1-9\) would you assign to unproven or unknown technologies?**
+**6. What risk rating (1-9) would you assign to unproven or unknown technologies?**
 
 ## Chapter 21: Diagramming and Presenting Architecture
 
@@ -592,13 +592,12 @@ Small teams work for 45 minutes on a design :
 Each kata has predefined sections: 
 
 * _**Description**_ :  The overall domain problem the system is trying to solve 
-* _**Users**_ : The expected number and/or types of users of the system
-* _**Requirements Domain/domain-level requirements**_ : as an architect might expect from domain users/domain experts
+* _**Users **_: The expected number and/or types of users of the system
+* _**Requirements Domain/domain-level requirements **_: as an architect might expect from domain users/domain experts
 * _**Additional context**_ : Many of the considerations an architect must make aren’t explicitly expressed in requirements but rather by implicit knowledge of the problem domain
 
 [Kata list](http://fundamentalsofsoftwarearchitecture.com/katas/list.html)
 
 ## **Resources**
 
-\*\*\*\*[**http://fundamentalsofsoftwarearchitecture.com/**](http://fundamentalsofsoftwarearchitecture.com/)\*\*\*\*
-
+****[**http://fundamentalsofsoftwarearchitecture.com/**](http://fundamentalsofsoftwarearchitecture.com)****

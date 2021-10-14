@@ -6,7 +6,7 @@ description: Hands on Mikado method to refactoring
 
 ## Facilitation notes
 
-This kata is an abstract of the one available here in [java](https://github.com/mikadomethod/kata-java) and [C\#](https://github.com/mikadomethod/kata-dotnet).
+This kata is an abstract of the one available here in [java](https://github.com/mikadomethod/kata-java) and [C#](https://github.com/mikadomethod/kata-dotnet).
 
 ### Before we start
 
@@ -20,7 +20,9 @@ Clone the java code from [here](https://github.com/ythirion/kata-java.git)
 
 ### Concepts : Mikado method explained
 
-{% page-ref page="./" %}
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
 
 ### Concrete practice
 
@@ -50,7 +52,7 @@ Clone the java code from [here](https://github.com/ythirion/kata-java.git)
 
 ## Context
 
-Pasta Software is a small family-owned company. By good luck and coincidence, their pride and joy MasterCrüpt \(TM\), has been sold to a new customer. 
+Pasta Software is a small family-owned company. By good luck and coincidence, their pride and joy MasterCrüpt (TM), has been sold to a new customer. 
 
 But now, problems arise. 
 
@@ -66,7 +68,7 @@ _It is virtually impossible to tell how a system will evolve in advance. Trying 
 
 #### Ubiquitous language
 
-* _**Leetspeak**_ : the way hackers and crackers avoided text filters on Bulletin Board Systems \(BBS\) in the eighties by re-placing alphabetic characters with non-alphabetic, but resembling, characters. 
+* _**Leetspeak**_ : the way hackers and crackers avoided text filters on Bulletin Board Systems (BBS) in the eighties by re-placing alphabetic characters with non-alphabetic, but resembling, characters. 
   * For instance, in one leet dialect ’leet’ is translated to ’l33t’, where ’3’ is the mirrored capital ’E’.
 
 ### Existing code
@@ -143,17 +145,17 @@ public class Leeter {
 
 ## Baby steps
 
-We will run this kata in baby steps_**.**_ 
+We will run this kata in baby steps_**. **_
 
 {% hint style="warning" %}
 _The code is really easy and could be rewritten in only a few minutes but the whole exercise has been created to practice Mikado method and to do so the creator proposes to follow those steps **:**_
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28152%29.png)
+![](<../../../.gitbook/assets/image (154).png>)
 
 ### Draw the class diagram of the system
 
-![Class diagram](../../../.gitbook/assets/image%20%28154%29.png)
+![Class diagram](<../../../.gitbook/assets/image (153).png>)
 
 #### How does it work ?
 
@@ -165,10 +167,10 @@ _The code is really easy and could be rewritten in only a few minutes but the wh
 * The _**Leeter**_ simply performs the leeting of the incoming message by substituting the character ’e’ with the character ’3’.
 
 {% hint style="info" %}
-**It only takes a few classes to create a mess.** For instance there’s a circular dependency between UI and Application, not to mention the mysterious callbacks.
+**It only takes a few classes to create a mess. **For instance there’s a circular dependency between UI and Application, not to mention the mysterious callbacks.
 {% endhint %}
 
-_**In reality, codebases are a lot bigger and more complex by nature, so the ways of creating a mess are almost unlimited.**_ 
+_**In reality, codebases are a lot bigger and more complex by nature, so the ways of creating a mess are almost unlimited. **_
 
 {% hint style="success" %}
 Mikado Method can be applied no matter how big or small the codebase is. The method serves as a guide and helps to identify the critical change path in order to be able to deliver. 
@@ -189,10 +191,10 @@ We start from a clean state.
 Now, our goal is to create a system that can be delivered to Stranger Eons Ltd.
 
 {% hint style="success" %}
-_**Mikado Goal**_ : new deliverable for Stranger Eons Ltd
+_**Mikado Goal **_: new deliverable for Stranger Eons Ltd
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28163%29.png)
+![](<../../../.gitbook/assets/image (161).png>)
 
 ###  Find out what we need to do
 
@@ -208,7 +210,7 @@ In the Java world, "New deliverables" means we will probably have a separate pro
 _**Step**_ : "Create Stranger Eons project" as a prerequisite to our business goal, the root of the Mikado Graph.
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28157%29.png)
+![](<../../../.gitbook/assets/image (186).png>)
 
 In the naïve spirit, we just create the new project to see what happens. So far so good.
 
@@ -267,7 +269,7 @@ We choose to create a test for Stranger Eons Ltd in the new project, a test whic
 _**Step**_ : Add a tests case for Stranger Eons
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28176%29.png)
+![](<../../../.gitbook/assets/image (184).png>)
 
 ```java
 package mastercrupt.strangereons;
@@ -286,16 +288,16 @@ public class AcceptanceTest {
 
 Can not compile : the UI class is in the mastercrupt project and we must avoid a dependency to that project, since it still contains code that can’t be shared
 
-![](../../../.gitbook/assets/image%20%28182%29.png)
+![](<../../../.gitbook/assets/image (162).png>)
 
-![](../../../.gitbook/assets/image%20%28162%29.png)
+![](<../../../.gitbook/assets/image (163).png>)
 
-  
+\
 To resolve the compilation problems, one option is to duplicate the entire project. We won’t do that because we think duplication is bad, as described in detail in Don’t Repeat Yourself - DRY.
 
 So, _**we need to change the chain of dependencies in order to allow us to add the test case to the project without any compilation errors**_.
 
-![](../../../.gitbook/assets/image%20%28181%29.png)
+![](<../../../.gitbook/assets/image (185).png>)
 
 ### Extract common dependencies
 
@@ -303,7 +305,7 @@ So, _**we need to change the chain of dependencies in order to allow us to add t
 * UI has some common logic which we want to use in both projects
 * Choose to create a new project for the UI code and this project will be used as a common dependency : `mastercrupt.shared` for example
 
-![](../../../.gitbook/assets/image%20%28186%29.png)
+![](<../../../.gitbook/assets/image (164).png>)
 
 * We can't compile because of the circular dependency
 
@@ -312,26 +314,26 @@ So, _**we need to change the chain of dependencies in order to allow us to add t
 Now it’s time for a non-intuitive step, but an important part of the method: Back out broken code.
 
 {% hint style="warning" %}
-_**Step**_ **:** Roll back to the tag "Before new client".
+_**Step**_** : **Roll back to the tag "Before new client".
 {% endhint %}
 
 The `strangereons` project has compilation problems and we don’t want to do anything there, nor any place else. So, we roll back to the very beginning.
 
 We update our Mikado graph
 
-![](../../../.gitbook/assets/image%20%28178%29.png)
+![](<../../../.gitbook/assets/image (183).png>)
 
-![](../../../.gitbook/assets/image%20%28180%29.png)
+![](<../../../.gitbook/assets/image (166).png>)
 
 {% hint style="success" %}
-_**Decision**_ : Break dependency between UI and Application.
+_**Decision **_: Break dependency between UI and Application.
 {% endhint %}
 
 ### Break circular dependency
 
 We often add decisions, like breaking dependencies, to the Mikado Graph even before we know exactly how to resolve them. Such items serve as a decision node, and they help us defer commitment until the last responsible moment.
 
-![](../../../.gitbook/assets/image%20%28167%29.png)
+![](<../../../.gitbook/assets/image (182).png>)
 
 #### Dependency Inversion Principle
 
@@ -340,10 +342,10 @@ A common way to break circular dependencies is to introduce an interface for one
 We choose to introduce an interface for the `Application` class, the `ApplicationInterface`.
 
 {% hint style="success" %}
-_**Step**_ : Extract ApplicationInterface, including method leet\(...\)
+_**Step **_: Extract ApplicationInterface, including method leet(...)
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28160%29.png)
+![](<../../../.gitbook/assets/image (181).png>)
 
 ```java
 public interface ApplicationInterface {
@@ -352,10 +354,10 @@ public interface ApplicationInterface {
 ```
 
 {% hint style="success" %}
-_**Step**_ : Inject ApplicationInterface instance into the UI constructor
+_**Step **_: Inject ApplicationInterface instance into the UI constructor
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28184%29.png)
+![](<../../../.gitbook/assets/image (176).png>)
 
 {% tabs %}
 {% tab title="ApplicationInterface.java" %}
@@ -406,15 +408,15 @@ public class AcceptanceTest {
 
 By doing this we have solved the circular dependency problem
 
-![](../../../.gitbook/assets/image%20%28172%29.png)
+![](<../../../.gitbook/assets/image (171).png>)
 
 {% hint style="success" %}
-_**Commit**_ : Broke circular dependency between UI and Application
+_**Commit **_: Broke circular dependency between UI and Application
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28174%29.png)
+![](<../../../.gitbook/assets/image (177).png>)
 
-We can now tick the 3 leafs : \(here in green on the graph\)
+We can now tick the 3 leafs : (here in green on the graph)
 
 * Extract Application interface
 * Inject instance of ApplicationInterface
@@ -429,13 +431,13 @@ We perfectly now what are our next steps : go through our graph to our goal
 * Move UI code to UI project
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28185%29.png)
+![](<../../../.gitbook/assets/image (173).png>)
 
 {% hint style="success" %}
 _**Commit :**_ UI-code in separate project
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28161%29.png)
+![](<../../../.gitbook/assets/image (178).png>)
 
 ### Create the Stranger Eons project
 
@@ -461,9 +463,9 @@ public class StrangerEonsApplication implements ApplicationInterface {
 {% endtab %}
 {% endtabs %}
 
-![](../../../.gitbook/assets/image%20%28175%29.png)
+![](<../../../.gitbook/assets/image (175).png>)
 
-![](../../../.gitbook/assets/image%20%28173%29.png)
+![](<../../../.gitbook/assets/image (180).png>)
 
 We have reached our goal and can stop here.
 
@@ -486,11 +488,9 @@ We did this by using the Mikado Method to
 
 
 
-![](../../../.gitbook/assets/image%20%28159%29.png)
+![](<../../../.gitbook/assets/image (187).png>)
 
 ## To go further
 
 {% embed url="https://github.com/mikadomethod/kata-java/blob/master/kata.pdf" %}
-
-
 

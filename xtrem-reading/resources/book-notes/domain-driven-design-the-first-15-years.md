@@ -10,7 +10,7 @@ Fifteen years after the publication of "Domain-Driven Design: Tackling Complexit
 
 To celebrate the anniversary, we've asked _**prominent authors in the software design world to contribute old and new essays**_.
 
-![](../../../.gitbook/assets/image%20%28351%29.png)
+![](<../../../.gitbook/assets/image (350).png>)
 
 ## Notes
 
@@ -20,7 +20,7 @@ A collaborative book sponsored by Domain-Driven Design Europe
 
 #### Use pivotal events 
 
-![](../../../.gitbook/assets/image%20%28352%29.png)
+![](<../../../.gitbook/assets/image (351).png>)
 
 * “specific events which are particularly relevant for the business and mark a transition between different business phases.” 
 * Candidate System boundaries
@@ -46,5 +46,4 @@ Guide to start FP for DDD
 
 ## Mind map
 
-![](../../../.gitbook/assets/image%20%28344%29.png)
-
+![](<../../../.gitbook/assets/image (352).png>)

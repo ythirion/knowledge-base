@@ -8,7 +8,7 @@ description: from Per Kristiansen
 
 **Unleash innovation potential with creative, serious play**
 
-Building a Better Business Using the LEGO® SERIOUS PLAY® Method delivers a creative approach to enhancing innovation and improving business performance, with the focus on unleashing play. Written by the two original Master Trainers for LEGO SERIOUS PLAY \(LSP\), the book outlines how LSP can develop teams, people, relationships and business . Based on the merging of play with organizational development, systems thinking and strategy development, LSP can foster improved meetings, faster innovation processes, team growth, and better communication.
+Building a Better Business Using the LEGO® SERIOUS PLAY® Method delivers a creative approach to enhancing innovation and improving business performance, with the focus on unleashing play. Written by the two original Master Trainers for LEGO SERIOUS PLAY (LSP), the book outlines how LSP can develop teams, people, relationships and business . Based on the merging of play with organizational development, systems thinking and strategy development, LSP can foster improved meetings, faster innovation processes, team growth, and better communication.
 
 The belief that everyone intends to "do good" and has the potential to do it is at the heart of LSP. The method nurtures the idea that everyone in an organization can contribute to discussions and outcomes. Building with LEGO bricks is a type of creative play that triggers a different kind of thought process, unleashing imagination and potential that is frequently untapped by the logical mind. The book explains this hands–on, minds–on approach, and discusses the theory as well as the practical implementation of LSP. Topics include:
 
@@ -19,11 +19,11 @@ The belief that everyone intends to "do good" and has the potential to do it is 
 
 The LEGO SERIOUS PLAY method is employed by start–ups and multinational corporations alike to maximize synergy among teams and throughout organizations. For leaders looking to boost effectiveness and see better results, Building a Better Business Using the LEGO® SERIOUS PLAY® Method is a comprehensive introduction to this creative management technique.
 
-![](../../../.gitbook/assets/image%20%28139%29.png)
+![](<../../../.gitbook/assets/image (122).png>)
 
 ## Notes
 
-### Lego Serious Play \(LSP\) 
+### Lego Serious Play (LSP) 
 
 * Purpose
   * Can be used for
@@ -81,7 +81,5 @@ Each participant MUST start with a set of Bricks
 
 ## Mind map
 
-![](../../../.gitbook/assets/image%20%28147%29.png)
-
-
+![](<../../../.gitbook/assets/image (146).png>)
 

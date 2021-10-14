@@ -6,7 +6,7 @@ Understand what are Pure Functions and the benefits of using them
 
 ## Connection - 10'
 
-Categorize these code samples in _**Pure Functions**_ vs _**Impure Functions**_ :
+Categorize these code samples in _**Pure Functions**_ vs _**Impure Functions **_:
 
 ```python
 import random
@@ -56,13 +56,13 @@ Explain your choices.
 ## Concept - 5'
 
 {% hint style="success" %}
-Pure functions don’t refer to any global state. _**Those functions do not produce any side effects \(state changes\).**_
+Pure functions don’t refer to any global state. _**Those functions do not produce any side effects (state changes).**_
 {% endhint %}
 
 They are _**easier to test because**_ of these properties:
 
 1. You can see all the inputs in the argument list
-2. The execution is deterministic \(the same inputs will always get the same outputs\)
+2. The execution is deterministic (the same inputs will always get the same outputs)
 3. You can see all the outputs in the return value
 
 _Code that is harder to test will lack some or all of these properties._
@@ -74,13 +74,12 @@ _Code that is harder to test will lack some or all of these properties._
 * Refactor this code by using _**Pure Functions**_
 
 {% hint style="success" %}
-A step by step solution is provided in the _**solution**_ branch \(Look at the commits\)
+A step by step solution is provided in the _**solution**_ branch (Look at the commits)
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28618%29.png)
+![](<../../.gitbook/assets/image (549).png>)
 
 ## Conclusion - 10'
 
 * How much of the time do you find yourself writing tests for functions that have all the three properties of pure functions ?
 * What do you need to write more Pure Functions ?
-

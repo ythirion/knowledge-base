@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction
 
-Samman Technical Coaching is a method for people who want to make a difference and improve the way software is built. I strongly advise you to read [Emily's Bache book](https://leanpub.com/techagilecoach) and visit [her website](http://sammancoaching.org/).
+Samman Technical Coaching is a method for people who want to make a difference and improve the way software is built. I strongly advise you to read [Emily's Bache book](https://leanpub.com/techagilecoach) and visit [her website](http://sammancoaching.org).
 
 ## Learning hours
 
@@ -21,7 +21,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
 * [Software Design X-Rays](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/software-design-x-rays)
 * [The programmer's brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 * Languages / Libs
-  * [F\# for OO Programmers](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/f-for-oo-programmers)
+  * [F# for OO Programmers](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/f-for-oo-programmers)
 * Testing practices
   * [How to name our Unit Tests](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/testing/how-to-name-our-unit-tests)
   * [Consumer Driven Contract Testing](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/testing/improve-the-design-and-testing-of-your-micro-services-through-consumer-driven-contract-tests)
@@ -32,7 +32,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
   * [NoSQL](https://yoan-thirion.gitbook.io/knowledge-base/software-architecture/nosql)
   * [Fundamentals of Software Architecture](https://yoan-thirion.gitbook.io/knowledge-base/software-architecture/fundamentals-of-software-architecture)
 * Agile Coaching
-  * [How to run a Community of Practices \(COP\)](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/how-to-run-a-community-of-practices-cop)
+  * [How to run a Community of Practices (COP)](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/how-to-run-a-community-of-practices-cop)
   * [The developers — the forgotten of agility](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/the-developers-the-forgotten-of-agility)
   * [Xanpan](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/xanpan-a-team-centric-agile-method-story)
   * [Drive and Intrinsic motivation](https://speakerdeck.com/thirion/drive-and-intrinsic-motivation-a-toolkit-for-todays-managers)
@@ -42,7 +42,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
 * Xtrem
   * [En route vers l’apprenance avec Xtrem Reading](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective)
-* [Good Morning Learning by Philippe Bourgau](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/?utm_content=bufferab70c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Good Morning Learning by Philippe Bourgau](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/)
 
 ## Code Katas
 
@@ -51,7 +51,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
   * [Write S.O.L.I.D code](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/write-s.o.l.i.d-code)
   * [Pure Functions](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/pure-functions)
   * [Clean Architecture](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/clean-architecture)
-  * [Functional Programming made easy in Java & C\#](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/functional-programming-made-easy-in-java-and-c) \(Vavr / Language-ext\)
+  * [Functional Programming made easy in Java & C#](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/functional-programming-made-easy-in-java-and-c) (Vavr / Language-ext)
 * Test Driven Development
   * [Stack kata](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/tdd-katas/stack)
   * [Fizzbuzz kata](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/tdd-katas/fizzbuzz)
@@ -62,7 +62,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
   * [Approval Testing with Gilded Rose kata](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/gilded-rose-approval-testing)
 * Refactoring
   * [Mikado Method](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/mikado-method)
-  * [Theatrical players refactoring Kata](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/theatrical-players-refactoring-kata) \(OO and FP style\)
+  * [Theatrical players refactoring Kata](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/theatrical-players-refactoring-kata) (OO and FP style)
   * [Refactoring Journey](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/refactoring-journey-kata)
 * [Kata Catalog](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas)
 
@@ -75,4 +75,3 @@ Samman Technical Coaching is a method for people who want to make a difference a
 * [Yata - a DevOps game](https://play14.org/games/yata)
 * [Customer Journey from mars](https://play14.org/games/my-customer-journey-from-mars)
 * [DES’PO’RATE HOUSEWIVES](https://play14.org/games/desporate-housewives)
-

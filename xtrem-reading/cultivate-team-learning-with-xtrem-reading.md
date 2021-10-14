@@ -1,6 +1,6 @@
 # Cultivate Team Learning with Xtrem Reading
 
-#### **I have written this article for infoQ, it has been plublished here :** [**https://www.infoq.com/articles/learning-xtrem-reading/**](https://www.infoq.com/articles/learning-xtrem-reading/)\*\*\*\*
+#### **I have written this article for infoQ, it has been plublished here : **[**https://www.infoq.com/articles/learning-xtrem-reading/**](https://www.infoq.com/articles/learning-xtrem-reading/)****
 
 #### Key Takeaways
 
@@ -14,7 +14,7 @@
 
 ## How could our organizations achieve that?
 
-The answer has been known for a few decades now \(in 1990\): by becoming a **learning organization;** an organization skilled at:
+The answer has been known for a few decades now (in 1990): by becoming a** learning organization;** an organization skilled at:
 
 * Creating, acquiring, and transferring knowledge
 * Modifying its behavior to reflect new knowledge and insights
@@ -41,7 +41,7 @@ He identified 5 disciplines associated:
   * Instead of focusing on individual issues, systems thinking reflects the observational process of an entire system
   * People have to understand that every action and consequence is correlated with another
 
-Finally, the message I took away is that learning is the only way for an organization to shape its own future. It is through learning that it can move from “**I learn to survive**” \(learning to survive/adapt\) **to “I learn to generate, create, and bring out new things.”**
+Finally, the message I took away is that learning is the only way for an organization to shape its own future. It is through learning that it can move from “**I learn to survive**” (learning to survive/adapt) **to “I learn to generate, create, and bring out new things.”**
 
 ![](../.gitbook/assets/1-learning-organization.jpg)
 
@@ -57,14 +57,14 @@ We are maybe a little bit old school, but we came up with an observation:
 
 _Even in an ultra-digitized world, reading remains one of the most used means to expand an individual’s knowledge, develop new skills, or discover new subjects._
 
-For the record, at the time, I was affected by a syndrome called Tsundoku. \(Maybe you are too at this moment.\) To make a self-diagnostic, you just have to answer two questions:
+For the record, at the time, I was affected by a syndrome called Tsundoku. (Maybe you are too at this moment.) To make a self-diagnostic, you just have to answer two questions:
 
 * Do you have piles of books just waiting for you to read?
 * Do you still buy new books, attracted by the tempting windows of your booksellers?
 
 If you answer YES to those 2 simple questions, you are affected. Tsundoku is the act of acquiring books and letting them pile up without reading them. Sorry for this deviation, let’s go back to my original story.
 
-After having identified reading as the number one practice for individual learnings, the problem was the following: _Reading_, as we have been taught, is a solo activity—how could we make it collective?
+After having identified reading as the number one practice for individual learnings, the problem was the following:_ Reading_, as we have been taught, is a solo activity—how could we make it collective?
 
 After a few brainstorming and experimental sessions, we created what we now call Xtrem Reading.
 
@@ -74,44 +74,44 @@ After a few brainstorming and experimental sessions, we created what we now call
 
 Xtrem Reading is an easy-to-run workshop format that comes with a promise: Read 2 books in 1 hour and cultivate your collective intelligence. To run a session, it requires:
 
-* A facilitator \(or rather a timekeeper\)
-* The facilitation infographic \(provided in this article\)
-* A space/room \(virtual or physical\)
-* Some books \(more books than the number of participants\)
-* Volunteers \(2 people minimum without any maximum\)
+* A facilitator (or rather a timekeeper)
+* The facilitation infographic (provided in this article)
+* A space/room (virtual or physical)
+* Some books (more books than the number of participants)
+* Volunteers (2 people minimum without any maximum)
 
 When we talk about this format to new people, usually they react like this: “What kind of black magic is this?” or “I’m not Superman, I’m not able to read so fast”…
 
 ### How does it work?
 
-#### **1\) Each volunteer brings a book**
+#### **1) Each volunteer brings a book**
 
-![](../.gitbook/assets/image%20%28652%29.png)
+![](<../.gitbook/assets/image (646).png>)
 
-Before the beginning of the session, the facilitator invites volunteers to bring a book of their choice that they haven’t read \(often the one lying on their bedside table\).
+Before the beginning of the session, the facilitator invites volunteers to bring a book of their choice that they haven’t read (often the one lying on their bedside table).
 
-#### **2\) Share choices**
+#### **2) Share choices**
 
-![](../.gitbook/assets/image%20%28651%29.png)
+![](<../.gitbook/assets/image (647).png>)
 
 Invite them to share their choice with the other participants by explaining what they hope to find in the book they brought.
 
-#### **3\) Create groups of interests**
+#### **3) Create groups of interests**
 
-![](../.gitbook/assets/image%20%28647%29.png)
+![](<../.gitbook/assets/image (648).png>)
 
 Following the sharing, participants organize themselves into interest groups of 2 to 3 people.
 
-#### **4\) Read 2 books**
+#### **4) Read 2 books**
 
 During 2 iterations of 15 to 25 minutes, participants read 2 books with a clear objective in mind: **Extract the main points to present to other members of the group.**
 
 At the end of the first iteration inside their group, each participant will change the book with someone else and read the new book.
 
-Here is the black magic—to be good at it, we need to unlearn how we have learned reading at school \(don’t read from page 1 until the end\).  
+Here is the black magic—to be good at it, we need to unlearn how we have learned reading at school (don’t read from page 1 until the end).\
 
 
-![](../.gitbook/assets/image%20%28654%29.png)
+![](<../.gitbook/assets/image (649).png>)
 
 The first step is to use simple techniques:
 
@@ -132,26 +132,26 @@ Once you master the first stage techniques you can learn and use Speed Reading t
 * Read in chunks: group words together to get through them faster
 * Avoid subvocalization: avoid pronouncing the words in your head otherwise you limit your reading rate to your speech rate
 
-#### **5\) Sharing**
+#### **5) Sharing**
 
-![](../.gitbook/assets/image%20%28653%29.png)
+![](<../.gitbook/assets/image (650).png>)
 
 Within each group, 5 to 10 minutes are spent per book to explain what has been discovered. This stage is often very surprising and interesting—in a reading of only 15 to 25 minutes, participants can bring out an incredible amount of information.
 
 I strongly encourage the facilitator to add questions at the end of the sharing, like how could we use this learning in our day-to-day life?
 
-**It will encourage strong collective reflection through dialogue.** Often \(depending on the books\) it leads to awareness or team experimentations.
+**It will encourage strong collective reflection through dialogue. **Often (depending on the books) it leads to awareness or team experimentations.
 
-#### **6\) Appreciate the book \(optional\)**
+#### **6) Appreciate the book (optional)**
 
-![](../.gitbook/assets/image%20%28649%29.png)
+![](<../.gitbook/assets/image (651).png>)
 
 At the end, each reader can write down his/her feelings about 2 dimensions:
 
-* Book’s readability: \(on a scale from 1 to 5\)
+* Book’s readability: (on a scale from 1 to 5)
   * 1 - It is almost impossible to find clear information in a quick way
-  * 5 - It is easy to find clear information \(abstract at the end of chapters for example\)
-* Recommendation: \(on a scale from 1 to 5\)
+  * 5 - It is easy to find clear information (abstract at the end of chapters for example)
+* Recommendation: (on a scale from 1 to 5)
   * 1 - I don’t recommend it at all
   * 5 - It seems to be a MUST Read on the topic
 
@@ -159,7 +159,7 @@ Those appreciations help to create a community feeling in which participants can
 
 ## Lessons learned
 
-So far, I have facilitated dozens of sessions with more than 400 different people in different contexts, \(at client’s location, in specific communities, or at conferences\), and in different countries.
+So far, I have facilitated dozens of sessions with more than 400 different people in different contexts, (at client’s location, in specific communities, or at conferences), and in different countries.
 
 Based on these various experiences, here are my discoveries:
 
@@ -173,7 +173,7 @@ Based on these various experiences, here are my discoveries:
     * By sharing each book we create emotions around it that will help us retain it.
 * Creates a **lot of learning**:
   * Each participant in each session learns something new.
-  * Without noticing it, we take the participants on the road to Team Learning \(our famous 4th discipline\)
+  * Without noticing it, we take the participants on the road to Team Learning (our famous 4th discipline)
 * A very **rich experience**:
   * We all have different systems of thinking and that’s where the real richness lies.
   * When sharing, each reader may have seen and retained different things. Crossing them is incredibly rich!!!
@@ -182,19 +182,19 @@ Based on these various experiences, here are my discoveries:
   * It will help participants to prioritize their next readings and reduce their Tsundoku syndrome.
 * **Break silos** and connect people: “anytime, anywhere, anyone, any topics”
   * Everyone is concerned by this learning experience and wants to participate. The willingness to learn isn’t limited to operational staff.
-  * It breaks down horizontal silos \(inside teams and between teams or departments\) but also vertical silos \(hierarchy\).
+  * It breaks down horizontal silos (inside teams and between teams or departments) but also vertical silos (hierarchy).
   * It creates empathy between people who aren’t used to working together.
 
-_You not only learn from the book but also from each other because you will most likely have read different bits, and you will probably have formed very different opinions about the same book._ – [Nancy Beers \(Happy Scrum Master\)](https://www.linkedin.com/in/nancybeers/)
+_You not only learn from the book but also from each other because you will most likely have read different bits, and you will probably have formed very different opinions about the same book._ – [Nancy Beers (Happy Scrum Master)](https://www.linkedin.com/in/nancybeers/)
 
 *  **No more waiting frustration**:
   * What’s cool about going to the cinema as a group is the debriefing of the film that takes place right afterward.
     * I like to think that with Xtrem Reading we create this same feeling about books.
   * No more 6 months waiting frustration before being able to talk about a book with someone else
 
-_Xtrem Reading allows me to meet other colleagues whom I don’t usually meet. Finally, even though the length of the session limits the reading to a broad and not a deep exploration, I find that the concepts I get from the books are easier to re-explain afterward._ – [Fabien Hiegel \(Juste un Dev\)](https://www.linkedin.com/in/fabien-hiegel-874416b5/)
+_Xtrem Reading allows me to meet other colleagues whom I don’t usually meet. Finally, even though the length of the session limits the reading to a broad and not a deep exploration, I find that the concepts I get from the books are easier to re-explain afterward._ – [Fabien Hiegel (Juste un Dev)](https://www.linkedin.com/in/fabien-hiegel-874416b5/)
 
-![](../.gitbook/assets/image%20%28650%29.png)
+![](<../.gitbook/assets/image (652).png>)
 
 ### The limits
 
@@ -219,7 +219,7 @@ There are some limitations that you need to be aware of before facilitating a se
   *  I like to remind participants that just because people have spent some time on a book explaining a given concept, doesn’t make them experts on this given concept.
     * It can help to fight this effect.
 
-![](../.gitbook/assets/image%20%28648%29.png)
+![](<../.gitbook/assets/image (653).png>)
 
 ### And with the Pandemic?
 
@@ -231,10 +231,10 @@ Xtrem reading can be used remotely as well by using different tools. Here are th
 
 Honestly, the first sessions are really chaotic: book file format nightmares, tool usage, access rights on the different tools…
 
-Once participants are used to it, it is a different experience but as rich as physical.  
+Once participants are used to it, it is a different experience but as rich as physical.\
 
 
-![](../.gitbook/assets/image%20%28646%29.png)
+![](<../.gitbook/assets/image (654).png>)
 
 ## Conclusion
 
@@ -250,9 +250,10 @@ As a conclusion, I propose to you some reflections:
 
 ## Infographic
 
-![Xtrem Reading infographic by Yoan Thirion](../.gitbook/assets/xtrem-reading-for-infoq.png)
+![Xtrem Reading infographic by Yoan Thirion](<../.gitbook/assets/Xtrem Reading for infoQ.png>)
 
-{% file src="../.gitbook/assets/xtrem-reading-for-infoq.pdf" caption="Xtream Reading infographic High Definition" %}
+{% file src="../.gitbook/assets/Xtrem Reading for infoQ.pdf" %}
+Xtream Reading infographic High Definition
+{% endfile %}
 
-_This article is based on the Xtrem Reading concept I have created with_ [_Cédric Tamavond_ ](https://www.linkedin.com/in/cedric-tamavond-b30ab917/)_when I was an employee at AP. This work has been licensed under a_ [_Creative Commons Attribution-ShareAlike 4.0 International License_](https://creativecommons.org/licenses/by-sa/4.0)_._
-
+_This article is based on the Xtrem Reading concept I have created with _[_Cédric Tamavond _](https://www.linkedin.com/in/cedric-tamavond-b30ab917/)_when I was an employee at AP. This work has been licensed under a _[_Creative Commons Attribution-ShareAlike 4.0 International License_](https://creativecommons.org/licenses/by-sa/4.0)_._

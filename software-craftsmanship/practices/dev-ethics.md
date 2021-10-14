@@ -15,9 +15,9 @@ Imagine you are working for the _**most ethic company on earth**_ :
 * You and your teammates are on the front page of every TV channel
 * You are recognized and praised on all sides
 
-![](../../.gitbook/assets/image%20%28564%29.png)
+![](<../../.gitbook/assets/image (550).png>)
 
-#### Draw this breaking news \(in groups\)
+#### Draw this breaking news (in groups)
 
 * Cover – states the spectacular success accomplished by the company
 * Headers – reveal what the story is about
@@ -28,11 +28,11 @@ Imagine you are working for the _**most ethic company on earth**_ :
 
 ## Concepts - 10'
 
-![Ethics definition](../../.gitbook/assets/image%20%28556%29.png)
+![Ethics definition](<../../.gitbook/assets/image (551).png>)
 
 ### What do they have in common ?
 
-![](../../.gitbook/assets/image%20%28558%29.png)
+![](<../../.gitbook/assets/image (552).png>)
 
 {% hint style="info" %}
 Almost any professional whose work impacts the public must abide by some sort of e_**thical code of conduct**_.
@@ -40,7 +40,7 @@ Almost any professional whose work impacts the public must abide by some sort of
 
 ### Hippocratic Oath
 
-![](../../.gitbook/assets/image%20%28551%29.png)
+![](<../../.gitbook/assets/image (553).png>)
 
 Hippocrates, the “Father of Medicine,” around 500 B.C. has written the famous oath which has guided the practice of medicine.
 
@@ -50,7 +50,7 @@ Hippocrates, the “Father of Medicine,” around 500 B.C. has written the famou
 
 Software is eating the world
 
-![](../../.gitbook/assets/image%20%28560%29.png)
+![](<../../.gitbook/assets/image (554).png>)
 
 Imagine a life without software : zombies ?
 
@@ -72,7 +72,7 @@ Software is a set of rules if we think about it
 * Our civilization doesn’t quite realize how dependent it has become on software
 * _**How many hours do you spend on your computers, smartphones, cars each day ?**_
 
-![](../../.gitbook/assets/image%20%28555%29.png)
+![](<../../.gitbook/assets/image (555).png>)
 
 ### Software can hurt
 
@@ -94,7 +94,7 @@ _**Social exclusion, various environmental impacts, ....**_
 
 #### Who is responsible ?
 
-![](../../.gitbook/assets/image%20%28559%29.png)
+![](<../../.gitbook/assets/image (556).png>)
 
 Code doesn't kill people, who does it ?
 
@@ -107,15 +107,15 @@ Do we all need to be informed and responsible?
 
 ### Devs as the last Bastion ?
 
-![](../../.gitbook/assets/image%20%28552%29.png)
+![](<../../.gitbook/assets/image (557).png>)
 
 1st time in human being history that ethics, philosophy and technics are intimately bounds
 
-![](../../.gitbook/assets/image%20%28553%29.png)
+![](<../../.gitbook/assets/image (558).png>)
 
 ### What is our future ?
 
-![](../../.gitbook/assets/image%20%28549%29.png)
+![](<../../.gitbook/assets/image (559).png>)
 
 **AI**
 
@@ -129,13 +129,13 @@ Business and startups can play a huge role in designing technology that supports
 
 #### Some brilliant in are raising warnings
 
-![](../../.gitbook/assets/image%20%28554%29.png)
+![](<../../.gitbook/assets/image (560).png>)
 
 "_Nous devons être conscients des dangers, les identifier, et employer les meilleures pratiques et cadres pour nous préparer à ses conséquences bien en avance, avait-il déclaré lors d’une conférence. La montée de l’IA pourrait être la pire ou la meilleure chose qui soit jamais arrivée à l’humanité._" - **Stephen Hawking**
 
 ## Concrete Practice - Create your own oath - 30'
 
-Based on the breaking news : _**create an oath**_ to design ethical software
+Based on the breaking news : _**create an oath **_to design ethical software
 
 1. Think about your current and last projects
    * Did they respect environment, human beings ?
@@ -170,22 +170,22 @@ Maybe different levels : Developer / Product / Client / Society
 
 ### [The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 
-![](../../.gitbook/assets/image%20%28561%29.png)
+![](<../../.gitbook/assets/image (561).png>)
 
 Watch [his video](https://youtu.be/36NgPu9OyRM?list=PLWKjhJtqVAbno-B4RmJHCDO0ZUKC2tpUQ) :
 
-![](../../.gitbook/assets/image%20%28563%29.png)
+![](<../../.gitbook/assets/image (562).png>)
 
 ### Existing principles
 
 * [5 principles of software ethics](https://thenewstack.io/five-principles-software-ethics/) – Steven Wilmott
-* [Association for Computing Machinery \(ACM\) code of ethics](https://en.wikipedia.org/wiki/Programming_ethics)
+* [Association for Computing Machinery (ACM) code of ethics](https://en.wikipedia.org/wiki/Programming_ethics)
 * [The programmer’s Oath ](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)– Uncle Bob
-* [A Code of Ethics for \(Agile\) Software Developers ](https://medium.com/the-liberators/a-code-of-ethics-for-agile-software-developers-430b9a879be6)? - Christiaan Verwijs
+* [A Code of Ethics for (Agile) Software Developers ](https://medium.com/the-liberators/a-code-of-ethics-for-agile-software-developers-430b9a879be6)? - Christiaan Verwijs
 
 ### Limitations
 
-![](../../.gitbook/assets/image%20%28550%29.png)
+![](<../../.gitbook/assets/image (563).png>)
 
 {% hint style="danger" %}
 Ethical codes only work when they are embraced by the majority of developers and become a part of educational training.
@@ -193,11 +193,10 @@ Ethical codes only work when they are embraced by the majority of developers and
 
 #### Everything is not dark
 
-![](../../.gitbook/assets/image%20%28557%29.png)
+![](<../../.gitbook/assets/image (564).png>)
 
 [7 principles of AI by Google](https://www.blog.google/technology/ai/ai-principles/)
 
-![](../../.gitbook/assets/image%20%28565%29.png)
+![](<../../.gitbook/assets/image (565).png>)
 
-![](../../.gitbook/assets/image%20%28562%29.png)
-
+![](<../../.gitbook/assets/image (566).png>)

@@ -2,7 +2,7 @@
 description: Kata from Sandro Mancuso
 ---
 
-# Outside-in TDD \(London Style\)
+# Outside-in TDD (London Style)
 
 ### Objectives
 
@@ -13,7 +13,7 @@ description: Kata from Sandro Mancuso
 
 * What does it bring to design classes as a consumer of the class ?
 * What could it bring to do it in pair ?
-* \[Which kind of tool can help you design better software ?\] - Optional
+* \[Which kind of tool can help you design better software ?] - Optional
 
 ## Concepts - 10'
 
@@ -29,11 +29,11 @@ _**In outside-in TDD we only implement what is needed to serve the outside.**_
   * Drive to the next step
 * _**This double loop continues till the feature test turns green**_
 
-![](../../../.gitbook/assets/image%20%28518%29.png)
+![](<../../../.gitbook/assets/image (517).png>)
 
 By using this practice :
 
-* Think about what you want to test in isolation \(mocking\)
+* Think about what you want to test in isolation (mocking)
 * Create unit tests
 * What are your test boundaries ?
 
@@ -41,7 +41,7 @@ By using this practice :
 
 The test is used to design the system, and part of that design is deciding how the different components interact / how they are bounds to each others
 
-![](../../../.gitbook/assets/image%20%28513%29.png)
+![](<../../../.gitbook/assets/image (518).png>)
 
 ## Concrete Practice - 2h minimum
 
@@ -57,7 +57,7 @@ Create a simple bank application with the following features :
 
 Statement should have the following the format :
 
-```text
+```
 DATE       | AMOUNT  | BALANCE
 10/04/2014 | 500.00  | 1400.00
 02/04/2014 | -100.00 | 900.00
@@ -90,7 +90,7 @@ As a coach use the Double Loop diagram to demo where the people are.
 
 Introduce the use of Sequence diagram after some time spend on the kata
 
-![](../../../.gitbook/assets/image%20%28516%29.png)
+![](<../../../.gitbook/assets/image (519).png>)
 
 Use sequence diagram to :
 
@@ -114,10 +114,9 @@ Take times to reflect on the design outside of the test : great to use diagrams 
 
 * [Bank kata explained](https://katalyst.codurance.com/bank)
 * [Sandro Mancuso's implementing the solution](https://www.codurance.com/publications/videos/2015-05-12-outside-in-tdd-part-1)
-* [London vs Chicago \(video series\)](https://cleancoders.com/videos/comparativeDesign)
+* [London vs Chicago (video series)](https://cleancoders.com/videos/comparativeDesign)
   * Sandro Mancuso and Uncle Bob
 * [Mocking as a design tool article](https://codurance.com/2018/10/18/mocking-as-a-design-tool/)
 * [Clean architecture through outside-in TDD](https://medium.com/@erik.sacre/clean-architecture-through-outside-in-tdd-64a31de17ccf)
 
-![](../../../.gitbook/assets/image%20%28522%29.png)
-
+![](<../../../.gitbook/assets/image (520).png>)

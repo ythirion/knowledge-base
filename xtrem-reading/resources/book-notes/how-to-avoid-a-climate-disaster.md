@@ -6,17 +6,17 @@ description: from Bill Gates
 
 ## Pitch
 
-**\#1 NEW YORK TIMES BEST SELLER**
+**#1 NEW YORK TIMES BEST SELLER**
 
-**In this urgent, authoritative book, Bill Gates sets out a wide-ranging, practical—and** _**accessible—**_**plan for how the world can get to zero greenhouse gas emissions in time to avoid a climate catastrophe.**  
-  
-Bill Gates has spent a decade investigating the causes and effects of climate change. With the help of experts in the fields of physics, chemistry, biology, engineering, political science, and finance, he has focused on what must be done in order to stop the planet’s slide to certain environmental disaster. In this book, he not only explains why we need to work toward net-zero emissions of greenhouse gases, but also details what we need to do to achieve this profoundly important goal.  
-  
-He gives us a clear-eyed description of the challenges we face. Drawing on his understanding of innovation and what it takes to get new ideas into the market, he describes the areas in which technology is already helping to reduce emissions, where and how the current technology can be made to function more effectively, where breakthrough technologies are needed, and who is working on these essential innovations. Finally, he lays out a concrete, practical plan for achieving the goal of zero emissions—suggesting not only policies that governments should adopt, but what we as individuals can do to keep our government, our employers, and ourselves accountable in this crucial enterprise.  
-  
+**In this urgent, authoritative book, Bill Gates sets out a wide-ranging, practical—and **_**accessible—**_**plan for how the world can get to zero greenhouse gas emissions in time to avoid a climate catastrophe.**\
+\
+Bill Gates has spent a decade investigating the causes and effects of climate change. With the help of experts in the fields of physics, chemistry, biology, engineering, political science, and finance, he has focused on what must be done in order to stop the planet’s slide to certain environmental disaster. In this book, he not only explains why we need to work toward net-zero emissions of greenhouse gases, but also details what we need to do to achieve this profoundly important goal.\
+\
+He gives us a clear-eyed description of the challenges we face. Drawing on his understanding of innovation and what it takes to get new ideas into the market, he describes the areas in which technology is already helping to reduce emissions, where and how the current technology can be made to function more effectively, where breakthrough technologies are needed, and who is working on these essential innovations. Finally, he lays out a concrete, practical plan for achieving the goal of zero emissions—suggesting not only policies that governments should adopt, but what we as individuals can do to keep our government, our employers, and ourselves accountable in this crucial enterprise.\
+\
 As Bill Gates makes clear, achieving zero emissions will not be simple or easy to do, but if we follow the plan he sets out here, it is a goal firmly within our reach.
 
-![](../../../.gitbook/assets/image%20%28645%29.png)
+![](<../../../.gitbook/assets/image (645).png>)
 
 ## Book notes
 
@@ -48,7 +48,7 @@ _The climate is like a bathtub that's slowly filling up with water. Even if we s
 * The earth is warming
   * Because of human activity
   * We have every reason to believe that at some point the impact will be catastrophic
-  * We don't know precisely WHEN \(30 years ? 50 years ? ...\)
+  * We don't know precisely WHEN (30 years ? 50 years ? ...)
   * We need to act now
 * Already raised 1 degree Celsius since preindustrial times
   * mid-century : probably between 1.5 and 3 degrees Celsius
@@ -65,13 +65,13 @@ _The climate is like a bathtub that's slowly filling up with water. Even if we s
   * The amount by which a global pandemic increases the global mortality rate : **14 deaths per 100,000 people each year**
   * By mid-century climate change could represent the same amount than COVID-19 : 
     * **14 deaths per 100,000 people each year**
-  * By the end of century : could be responsible for ****
+  * By the end of century : could be responsible for** **
     * **75 extra deaths per 100,000 people each year**
     * **By 2100 could be five times as deadly than COVID**
   * 2 things we can do about it 
     * **Adaptation** : minimize the impact of the changes that are already here and that we know are coming
     * **Mitigation** : stop adding greenhouse gases to the atmosphere
-      * Biggest emitters \(richest countries\) have to get top net-zero emissions by 2050
+      * Biggest emitters (richest countries) have to get top net-zero emissions by 2050
 
 ### Chapter 2 - This will be hard
 
@@ -82,7 +82,7 @@ _The climate is like a bathtub that's slowly filling up with water. Even if we s
   * The world uses more than 4 billion gallons every day
   * _Oil is cheaper than a soft drink_
 
-![](../../../.gitbook/assets/img_1086.jpg)
+![](../../../.gitbook/assets/IMG\_1086.JPG)
 
 * It's not just the rich world
   * almost everywhere people are living longer and healthier lives
@@ -95,7 +95,7 @@ We need to make it possible for low-income people to climb the ladder without ma
 
 * Our laws and regulations are so outdated
   * Environmental laws and regulations weren't designed with climate change in mind
-  * Clean Air Act -&gt; 1970
+  * Clean Air Act -> 1970
 * We need to build a consensus that doesn't exist and create public policies to push a transition that would not happen otherwise
   * _**Don't despair, we can do this**_
 
@@ -108,26 +108,26 @@ We need to make it possible for low-income people to climb the ladder without ma
    * Convert numbers into a percentage of the annual total of 51 billion tons
 2. What's your plan for Cement ?
    * A shorthand reminder that if you're trying to come up with a comprehensive plan for climate change, you have to account for much than electricity and cars
-   * **Emissions come from 5 different activities** 
+   * **Emissions come from 5 different activities **
      * We need solutions in all of them
 
-![](../../../.gitbook/assets/img_1087.jpg)
+![](../../../.gitbook/assets/IMG\_1087.JPG)
 
-3. How much power are we talking about?
+3\. How much power are we talking about?
 
-| Whenever you hear : | Think |
-| :--- | :--- |
-| Kilowatt | House |
-| Gigawatt | City |
+| Whenever you hear :         | Think       |
+| --------------------------- | ----------- |
+| Kilowatt                    | House       |
+| Gigawatt                    | City        |
 | A hundred or more gigawatts | big country |
 
-4. How much space do you need ?
+4\. How much space do you need ?
 
 * If someone tells you that some source : wind, solar, nuclear, ... can supply all the energy the world needs
   * Find out how much space will be required to produce that much energy
-  * Examples : Wind -&gt; 1-2 Watts per square meter, Fossil Fuels -&gt; 500-10,000 Watts per Square Meter
+  * Examples : Wind -> 1-2 Watts per square meter, Fossil Fuels -> 500-10,000 Watts per Square Meter
 
-5. How much this is going to cost ?
+5\. How much this is going to cost ?
 
 * Most of the zero-carbon solutions are more expensive than their fossil-fuel counterparts
   * Because the prices don't reflect the environmental damage they influct
@@ -165,7 +165,7 @@ We need the premiums to be so low that everyone will be able to decarbonize.
 * 1 problem is that fossil fuels are so cheap
   * Their prices don't factor in the true cost of climate change
 * To get close to 100% renewable resources
-  * We'd have to move lots of clean energy from where it's made \(sunny places, windly regions\) to where it's needed
+  * We'd have to move lots of clean energy from where it's made (sunny places, windly regions) to where it's needed
 * Sun / wind = intermittent sources
   * How to store it ?
 * Extremely difficult / expensive to store electricity on a large scale
@@ -180,11 +180,11 @@ We need the premiums to be so low that everyone will be able to decarbonize.
     * Human error can cause accidents
     * Uranium can be converted for use in weapons
     * Waste is dangerous and hard to store
-* **Nuclear fusion** : Instead of getting energy from splitting atoms apart -&gt; it involves pushing them together, or fusing them
+* **Nuclear fusion** : Instead of getting energy from splitting atoms apart -> it involves pushing them together, or fusing them
   * At least a decade away from supplying electricity to consumers
   * No chain reaction to run out of control
     * Fusion ceases as soon as you stop supplying fuel or switch off the device containing the plasma
-* **Offshore wind :** putting wind turbines in an ocean or other body of water
+* **Offshore wind : **putting wind turbines in an ocean or other body of water
 * **Geothermal** : Deep underground, are hot rocks that can be used to generate carbon-free electricity
   * Amount of energy we get per square meter is quite low
 
@@ -192,13 +192,13 @@ We need the premiums to be so low that everyone will be able to decarbonize.
 
 * **Batteries** : hard to improve on them
   * Can improve by a factor of 3 but by a factor of 50
-* **Pumped hydro** : When electricity is cheap you pump water up a hill into a reservoir, then when demand for power goes up, let the water flow back down the hill -&gt; generate electricity from it
+* **Pumped hydro** : When electricity is cheap you pump water up a hill into a reservoir, then when demand for power goes up, let the water flow back down the hill -> generate electricity from it
 * **Thermal storage** : When electricity is cheap, use it to heat up some material
 * **Cheap hydrogen**
 
 #### Other innovations
 
-* **Capturing carbon** : Suck up the carbon dioxide before it hits the atmosphere
+* **Capturing carbon **: Suck up the carbon dioxide before it hits the atmosphere
   * Expensive to buy and operate
 * **Using less** : using power more efficiently
 
@@ -265,4 +265,3 @@ We need the premiums to be so low that everyone will be able to decarbonize.
 
 * Gas contains an amazing amount of energy
   * Gasoline is remarkably cheap
-

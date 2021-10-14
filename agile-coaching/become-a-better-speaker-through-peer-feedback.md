@@ -12,9 +12,9 @@ Usually, in a brown bag there is only 1 role : the **speaker**. We wanted to hav
 * Learn how to give feedback
 * Help the speakers to improve
 
-## Jedi’s brown bag - Gamify your internal events <a id="2dba"></a>
+## Jedi’s brown bag - Gamify your internal events <a href="2dba" id="2dba"></a>
 
-![](../.gitbook/assets/image%20%28278%29.png)
+![](<../.gitbook/assets/image (268).png>)
 
 
 
@@ -42,15 +42,15 @@ On each card you can find :
 * The list of tasks to do during the brown bag
 * The purpose of the role for the person that will play this role
 
-![](../.gitbook/assets/image%20%28253%29.png)
+![](<../.gitbook/assets/image (269).png>)
 
-![](../.gitbook/assets/image%20%28251%29.png)
+![](<../.gitbook/assets/image (270).png>)
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](<../.gitbook/assets/image (271).png>)
 
-![](../.gitbook/assets/image%20%28280%29.png)
+![](<../.gitbook/assets/image (272).png>)
 
-![](../.gitbook/assets/image%20%28238%29.png)
+![](<../.gitbook/assets/image (273).png>)
 
 ## How to ?
 
@@ -67,6 +67,4 @@ The prerequisite to use this tool is to already have a safe and learning environ
 * Download the brown bag Jedi’s resources [here](http://bit.ly/2SBX2Th)
 
 {% embed url="https://speakerdeck.com/thirion/how-could-we-be-better-speakers" %}
-
-
 

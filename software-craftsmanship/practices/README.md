@@ -2,11 +2,15 @@
 
 A compilation of team practices to use in your teams :
 
-{% page-ref page="pair-programming.md" %}
+{% content-ref url="pair-programming.md" %}
+[pair-programming.md](pair-programming.md)
+{% endcontent-ref %}
 
-{% page-ref page="co-designs.md" %}
+{% content-ref url="co-designs.md" %}
+[co-designs.md](co-designs.md)
+{% endcontent-ref %}
 
-{% page-ref page="design-sessions.md" %}
-
-
+{% content-ref url="design-sessions.md" %}
+[design-sessions.md](design-sessions.md)
+{% endcontent-ref %}
 

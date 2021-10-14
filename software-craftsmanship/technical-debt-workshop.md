@@ -14,7 +14,7 @@ Here is the facilitation support :
 
 ## Connection : 3 words
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](<../.gitbook/assets/image (109).png>)
 
 Ask to the participants :
 
@@ -42,7 +42,7 @@ _"Just because some code is bad doesn't mean it's technical debt. It's not techn
 
 ### Symptoms
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](<../.gitbook/assets/image (111).png>)
 
 * Accumulate bugs
 * Add a new functionality will cost a lot of money : reduced velocity
@@ -64,31 +64,30 @@ One thing we hear the most in teams is the lack of time as an explanation of tec
 * **Poor Business understanding** : It is impossible to design something you do not understand...
 * **Poor Scheduling / Underestimating** : No testing effort in estimations. 
 * **Bad Development Practices** : Development team needs to have a set of practices and conventions so that there is a little or no significant difference in design and implementation from feature to feature.
-* **Outdated Technology** : As technology evolves, software standards become higher every day : No technology watch, innovation time
+* **Outdated Technology **: As technology evolves, software standards become higher every day : No technology watch, innovation time
 * **No team rules / conventions**
-* Only Michel knows this piece of code, no one else can update it \(SPOF
+* Only Michel knows this piece of code, no one else can update it (SPOF
 * …
 
 The technical debt creation can be deliberate or inadvertent. That's what Martin Fowler explains with the Technical Debt Quadrant :
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](<../.gitbook/assets/image (112).png>)
 
 Read more about it here : [https://martinfowler.com/bliki/TechnicalDebtQuadrant.html](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
 
 ### Some examples of technical debt
 
-* **Source Code Formatting** 
+* **Source Code Formatting **
 * **Bad naming** : Source code is not understandable by anyone. 
 * **Low/No Test Coverage** : Tests ensure that each part of the code is behaving the intended way.
 * **Code duplication**
-* **Lack of Modularity** : Some code sometimes serves different business logic. The more codes developers write, the more lack of modularity can bottleneck. 
+* **Lack of Modularity **: Some code sometimes serves different business logic. The more codes developers write, the more lack of modularity can bottleneck. 
 * **Code Complexity** : Complexity can be measured in several different ways, but it measures the dependence and path length to perform an operation. A long path leads to complex code.
 * **No automation** : Deployments and tests are done manually.
 
 ## Concrete practice : Dice of debt
 
-Dice of debt is a serious game that demonstrates the importance of managing technical debt. It has been documented on the agile alliance website here : [https://www.agilealliance.org/dice-of-debt-game/](https://www.agilealliance.org/dice-of-debt-game/
-)
+Dice of debt is a serious game that demonstrates the importance of managing technical debt. It has been documented on the agile alliance website here : [https://www.agilealliance.org/dice-of-debt-game/](https://www.agilealliance.org/dice-of-debt-game/)
 
 ### How to play ?
 
@@ -110,8 +109,8 @@ Technical debt can reduce that value dramatically.
 
 * Sprint = 1 turn
 * You have a finite capacity in each sprint represented by **12 dice**
-  * 8 dice to create new value \(NV\)
-  * 4 dice for technical debt creation \(TD\)
+  * 8 dice to create new value (NV)
+  * 4 dice for technical debt creation (TD)
 
 You must run the technical debt dice at each turn.
 
@@ -119,28 +118,28 @@ You must run the technical debt dice at each turn.
 
 You can lower the burden of technical debt during the game by investing in some reducing tech debt measure :
 
-* Continuous integration \(CI\)
-* Test-driven development \(TDD\)
+* Continuous integration (CI)
+* Test-driven development (TDD)
 * Code review
 * Increase test coverage
 
-| Cost | Benefits |
-| :--- | :--- |
+| Cost                                                                           | Benefits                  |
+| ------------------------------------------------------------------------------ | ------------------------- |
 | Each investment in a TD-reducing measure reduces your NV dice for a few turns. | Get the associated effect |
 
 #### Scoring sheet
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](<../.gitbook/assets/image (113).png>)
 
 #### Tracking sheet
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](<../.gitbook/assets/image (114).png>)
 
 #### How to play ?
 
-At each turn \(x 10\) , each team must :
+At each turn (x 10) , each team must :
 
-* Choose a strategy \(use the investment effort or no\)
+* Choose a strategy (use the investment effort or no)
 * Roll the NV dice
 * Roll the TD dice
 * Update the score sheet
@@ -152,15 +151,17 @@ At each turn \(x 10\) , each team must :
 
 ### Debrief the game with the participants
 
-{% page-ref page="../serious-games/how-to-debrief-a-game.md" %}
+{% content-ref url="../serious-games/how-to-debrief-a-game.md" %}
+[how-to-debrief-a-game.md](../serious-games/how-to-debrief-a-game.md)
+{% endcontent-ref %}
 
 ### Explain what the trends are indicating
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](<../.gitbook/assets/image (115).png>)
 
 ### You will always face some Technical Debt
 
-* Some amount is to be expected \(Unintentional\)
+* Some amount is to be expected (Unintentional)
 * The amount of technical debt will never be zero 
 
 BUT it has to be **manageable**.
@@ -183,18 +184,18 @@ Ask questions to the participants / small technical retrospective :
 
 We can easily measure things that can help us quantify our technical debt :
 
-* **Functionalities** : Measure the performance of the system for each period of time \(iterations\) by measuring the number of functionalities \(User stories\) done / delivered.
+* **Functionalities** : Measure the performance of the system for each period of time (iterations) by measuring the number of functionalities (User stories) done / delivered.
 * **Bugs** : Number of "stuff" to fix in the code : bugs, fixes.
 * **Technical debt** : Number of refactoring or technical improvements identified by the team.
   * The definition of this measure can differ from one team to another and it’s fine. The only things is that this definition must be constant for the team.
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](<../.gitbook/assets/image (117).png>)
 
 #### Use static code analysis tool
 
-Tools like Sonar can give an idea on the health of your code base \(some trends to follow\). It calculates technical debt indicator :
+Tools like Sonar can give an idea on the health of your code base (some trends to follow). It calculates technical debt indicator :
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](<../.gitbook/assets/image (118).png>)
 
 #### Make the debt visible
 
@@ -223,11 +224,11 @@ Dedicate time to technical debt reduction and prevention.
 _“Always leave the code you’re editing a little better than you found it.”_ - Uncle Bob
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](<../.gitbook/assets/image (119).png>)
 
 #### Use great development practices
 
-There are a lot of them in [XP](http://www.extremeprogramming.org/)
+There are a lot of them in [XP](http://www.extremeprogramming.org)
 
 {% hint style="info" %}
 _“I'm not a great programmer; I'm just a good programmer with great habits.”_ - Kent Beck
@@ -249,4 +250,3 @@ Some of those practices :
 
 * Communicate the Effects of Technical Improvements to Non-Technical Stakeholders : [https://codescene.com/blog/communicate-technical-improvements-to-non-technical-stakeholders/](https://codescene.com/blog/communicate-technical-improvements-to-non-technical-stakeholders/)
 * Culture code by Octo : [https://www.octo.com/publications/culture-code/](https://www.octo.com/publications/culture-code/)
-

@@ -30,14 +30,14 @@ When you use it in interview it is no longer a "conducted" interview. You speak 
   * The mood of the team? 
   * The communication/interactions in the team ?
 
-![](../../.gitbook/assets/image%20%28143%29.png)
+![](<../../.gitbook/assets/image (130).png>)
 
 ### Motivation
 
 * What are your different sources of motivation ? 
 * How do you keep / feed your motivation ?
 
-![](../../.gitbook/assets/image%20%28132%29.png)
+![](<../../.gitbook/assets/image (131).png>)
 
 ### Your role / job
 
@@ -46,14 +46,14 @@ When you use it in interview it is no longer a "conducted" interview. You speak 
 * What is easy in your role? 
 * What is difficult in your role?
 
-![](../../.gitbook/assets/image%20%28142%29.png)
+![](<../../.gitbook/assets/image (132).png>)
 
 ### You in your role
 
 * How do you see yourself in your role ?
 * How do you feel in this role ?
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](<../../.gitbook/assets/image (133).png>)
 
 ### Agile expedition
 
@@ -61,13 +61,13 @@ Imagine you have been in a great agile company for a learning expedition. You ha
 
 * _**What are your best souvenirs of your expedition ?**_
 
-![](../../.gitbook/assets/image%20%28146%29.png)
+![](<../../.gitbook/assets/image (134).png>)
 
 ### Behavior
 
 Tell me about a time your behavior had a positive impact on your team or colleagues.
 
-![](../../.gitbook/assets/image%20%28121%29.png)
+![](<../../.gitbook/assets/image (135).png>)
 
 ### Other challenges
 
@@ -81,7 +81,5 @@ Tell me about a time your behavior had a positive impact on your team or colleag
 * What did you appreciated in this interview ?
 * What you would like to change in a future similar interview ?
 
-_\*\*\*\*_
-
-
+_****_
 

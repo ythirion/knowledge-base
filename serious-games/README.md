@@ -22,5 +22,3 @@ A collection of research on gamification shows that a majority of studies on gam
 
 
 
-
-

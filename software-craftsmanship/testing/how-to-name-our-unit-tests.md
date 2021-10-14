@@ -14,7 +14,7 @@ public static boolean isLeapYear(int year)
 
 * Ask attendees to note on a Sticky Note what is the name of their first test
 * Compare the different styles
-* What do they prefer \(Dot voting\)
+* What do they prefer (Dot voting)
 
 ## Concepts - 10'
 
@@ -89,7 +89,5 @@ Imagine you use this naming technique during the next 6 months :
 
 ### Resources
 
-* [https://www.youtube.com/watch?v=azoucC\_fwzw&ab\_channel=BuildStuff](https://www.youtube.com/watch?v=azoucC_fwzw&ab_channel=BuildStuff)
-
-
+* [https://www.youtube.com/watch?v=azoucC_fwzw\&ab_channel=BuildStuff](https://www.youtube.com/watch?v=azoucC_fwzw\&ab_channel=BuildStuff)
 

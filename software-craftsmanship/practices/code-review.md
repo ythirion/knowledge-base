@@ -8,7 +8,7 @@
 
 ## Concepts - 10'
 
-![](../../.gitbook/assets/image%20%28496%29.png)
+![](<../../.gitbook/assets/image (502).png>)
 
 ### How to do it ?
 
@@ -16,7 +16,7 @@
   * Spell check
   * Code beautifier
 * Small batches
-  * No more than 200 to 400 lines of code \(LOC\) at a time
+  * No more than 200 to 400 lines of code (LOC) at a time
   * Brain cannot process and detect errors if too much data
 * At least two developers sitting together
   * Junior Dev should pair with a more experienced one
@@ -75,7 +75,7 @@ A developer :
 
 The reviewer checks the code and, if everything is OK : the code is merged into the main development branch.
 
-![](../../.gitbook/assets/image%20%28495%29.png)
+![](<../../.gitbook/assets/image (505).png>)
 
 #### [Knowledge Sharing](https://blog.jetbrains.com/upsource/2017/03/14/code-review-for-knowledge-sharing/)
 
@@ -83,7 +83,7 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
 * The purpose is not to check if the code is correct
 * But to share with other developers what changes have been made
 
-![](../../.gitbook/assets/image%20%28502%29.png)
+![](<../../.gitbook/assets/image (506).png>)
 
 #### Early Design Feedback
 
@@ -91,9 +91,9 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
   * Check the code frequently while it’s being built
   * So design feedback comes at the right time
 
-![](../../.gitbook/assets/image%20%28491%29.png)
+![](<../../.gitbook/assets/image (507).png>)
 
-### Anti-patterns \(List from Trisha Gee\)
+### Anti-patterns (List from Trisha Gee)
 
 * My job as a Reviewer is to find problem
   * When you try to find problems, you will always find more problems
@@ -114,20 +114,20 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
 * The Ghost Reviewer
   * No time for it
   * _**The bigger the code review, the more likely it will receive a green check**_
-* Ping Pong Reviews \(Between reviewer and author\)
+* Ping Pong Reviews (Between reviewer and author)
   * Happens when you goal is to find problems
   * Have a Definition of Done
   * Clear guidelines
 
 ### Use a checklist
 
-![](../../.gitbook/assets/image%20%28505%29.png)
+![](<../../.gitbook/assets/image (503).png>)
 
 #### Example
 
 * [ ] **Compliance**
-  * [ ] With internal tech radar \(Lombok, MapStruct, ..\) 
-  * [ ] Right version of the libraries \(Java 8\)
+  * [ ] With internal tech radar (Lombok, MapStruct, ..) 
+  * [ ] Right version of the libraries (Java 8)
   * [ ] Pass internal automatic quality gates 
 * [ ] **Operability**
   * [ ] Exceptions are easily understood
@@ -140,7 +140,7 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
   * [ ] Team **conventions** are followed
   * [ ] There is **no obsolete code**/function
   * [ ] There is **no commented out code** or TODOs 
-  * [ ] Use of design patterns when appropriate \(modularity, simplicity, ..\) 
+  * [ ] Use of design patterns when appropriate (modularity, simplicity, ..) 
 * [ ] Is the code testable ?
 * [ ] Do the tests
   * [ ] Cover requirements
@@ -163,11 +163,15 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
 
 #### Here are the cards
 
-![](../../.gitbook/assets/image%20%28490%29.png)
+![](<../../.gitbook/assets/image (508).png>)
 
-{% file src="../../.gitbook/assets/code-review-cards.pdf" caption="Download pdf cards here" %}
+{% file src="../../.gitbook/assets/code-review-cards.pdf" %}
+Download pdf cards here
+{% endfile %}
 
-{% file src="../../.gitbook/assets/code-samples-for-code-review.zip" caption="Code samples for code reviews" %}
+{% file src="../../.gitbook/assets/code samples for code review.zip" %}
+Code samples for code reviews
+{% endfile %}
 
 ### Debriefing round 1 :
 
@@ -176,17 +180,17 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
 
 #### Explain things to avoid during code review
 
-![](../../.gitbook/assets/image%20%28494%29.png)
+![](<../../.gitbook/assets/image (509).png>)
 
 * Judgmental questions :
-  * Avoid to say : Why didn’t you just do \_\_\_ here?
-  * Try it : What do you think about \_\_\_, which has the benefit of\_\_\_\_?
+  * Avoid to say : Why didn’t you just do \__\_ here?
+  * Try it : What do you think about \__\_, which has the benefit of\_\_\_\_?
 * Being sarcastic
   * Avoid to say : Did you even test this code before you checked it in
-  * Try it : This breaks when \_\_\_. Can you please address this case?
+  * Try it : This breaks when \__\_. Can you please address this case?
 * Passing off opinion as fact
-* Avoid to say : This component should be \_\_\_.
-* Try it : Since this component \_\_\_, it could be made \_\_\_. This will improve\_\_\_
+* Avoid to say : This component should be \__\_.
+* Try it : Since this component \__\_, it could be made \__\_. This will improve\_\_\_
 
 ### Lets do a second round
 
@@ -211,4 +215,3 @@ _**“Being the most senior person on the team does not imply that your code doe
 * [Code Review Guidelines by Patrick Smacchia](https://blog.ndepend.com/what-is-code-review-guidelines-best-practices/)
 * [Ebook "What to look for in a code review"](http://jb.gg/book/codereview)
 * [Video](https://youtu.be/3pth05Rgr8U)
-

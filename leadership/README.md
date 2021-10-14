@@ -7,5 +7,3 @@
 
 {% embed url="https://youtu.be/-I8QHkZreyo" %}
 
-
-

@@ -6,13 +6,13 @@ description: Abstract of the book "The Software Craftsman" from Sandro Mancuso
 
 I really loved this [great book](https://www.amazon.fr/Software-Craftsman-Professionalism-Pragmatism-Pride/dp/0134052501) from [Sandro Mancuso](https://twitter.com/sandromancuso). 
 
-![](../.gitbook/assets/image%20%28283%29.png)
+![](<../.gitbook/assets/image (282).png>)
 
 ## Infography
 
 I love this book so much that I have created an infography :
 
-![The Software Craftsman infography](../.gitbook/assets/image%20%28281%29.png)
+![The Software Craftsman infography](<../.gitbook/assets/image (283).png>)
 
 ## Book notes
 
@@ -26,7 +26,7 @@ I love this book so much that I have created an infography :
   * A mindset 
     * For developers
     * For companies 
-  * Adoption of \(XP\) 
+  * Adoption of (XP) 
     * Practices 
     * Disciplines 
   * Not a methodology
@@ -37,7 +37,7 @@ I love this book so much that I have created an infography :
 
 What modern developers do :
 
-* Coding \(But not only\)
+* Coding (But not only)
 * Speak to customers 
 * Automate tests/deployment 
 * Make technical choices 
@@ -60,7 +60,7 @@ With agile methodologies, mentality is evolving. More collaboration and dev are 
 #### Agile 
 
 * 2 types of disciplines
-  * Process oriented \(Value\)
+  * Process oriented (Value)
     * Plan 
     * Measure velocity 
     * Roles people should play 
@@ -72,11 +72,11 @@ With agile methodologies, mentality is evolving. More collaboration and dev are 
     * ... 
 
 {% hint style="success" %}
-_**Agility is about building the right thing, Craftsmanship is about building the thing right**_ 
+_**Agility is about building the right thing, Craftsmanship is about building the thing right **_
 {% endhint %}
 
-* "Craftsmanship over crap", Robert C. Martin \(2008\) 
-* Team = responsible of the realization \(all aspects\) 
+* "Craftsmanship over crap", Robert C. Martin (2008) 
+* Team = responsible of the realization (all aspects) 
 * **Being good at writing code is the minimum skill expected from software professionals"**
 
 #### Why do agile transformations fail ? 
@@ -107,7 +107,7 @@ _**Agility is about building the right thing, Craftsmanship is about building th
   * Improve the process 
   * Improve technical excellence
 
-### The Manifesto for Software Craftsmanship \(2008\)
+### The Manifesto for Software Craftsmanship (2008)
 
 #### 4 values
 
@@ -163,7 +163,7 @@ Quality of the code may not guarantee the success of a project But can be the ma
   * Passionates 
   * Inspiring professionals
 
-  
+\
 `Not only customer collaboration, but also productive partnerships`
 
 * Productive partnerships
@@ -229,7 +229,7 @@ _**Reduce the gap between Agile methodologies Technical world**_
 
 * Constantly finding ways to become better professional 
 * Continuous learning
-* _**"Who owns your career ?"**_ 
+* _**"Who owns your career ?" **_
   * What if our company 
     * Does not buy any books 
     * Never sent us to any training course or conferences 
@@ -307,7 +307,7 @@ Peter's principle : "_**Only incompetent people are scared to lose their job**_"
   * Definitions : Ready / Done
 * `For building the thing right ?`
 
-![](../.gitbook/assets/image%20%28282%29.png)
+![](<../.gitbook/assets/image (284).png>)
 
 * How do I sell tech practices ? 
   * Focus on the benefits 
@@ -321,4 +321,3 @@ Peter's principle : "_**Only incompetent people are scared to lose their job**_"
     * To answer a need 
     * Not because someone says to 
   * Compare values between practices
-

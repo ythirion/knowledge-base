@@ -9,7 +9,7 @@ description: Practice refactoring tips to improve your day-to-day efficiency
 * Practice refactoring tips to improve your day-to-day efficiency
 * Use your IDE features
 
-![](../../.gitbook/assets/image%20%28473%29.png)
+![](<../../.gitbook/assets/image (473).png>)
 
 ### Before we start
 
@@ -20,7 +20,7 @@ description: Practice refactoring tips to improve your day-to-day efficiency
 
 ### Refactoring, you said refactoring ?
 
-![](../../.gitbook/assets/image%20%28477%29.png)
+![](<../../.gitbook/assets/image (475).png>)
 
 _**Names of Refactorings :**_
 
@@ -33,25 +33,25 @@ Remind them some they use probably : Rename Variable and Extract Interface.
 
 ### Several ways to write code
 
-![](../../.gitbook/assets/image%20%28474%29.png)
+![](<../../.gitbook/assets/image (476).png>)
 
 ### What is refactoring ?
 
-> _Refactoring \(noun\): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior._
+> _Refactoring (noun): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior._
 >
-> _Refactoring \(verb\): to restructure software by applying a series of refactorings without changing its observable behavior_. - [Martin Fowler](https://martinfowler.com/bliki/DefinitionOfRefactoring.html)
+> _Refactoring (verb): to restructure software by applying a series of refactorings without changing its observable behavior_. - [Martin Fowler](https://martinfowler.com/bliki/DefinitionOfRefactoring.html)
 
 {% hint style="success" %}
 Refactoring is a systematic process of **improving code** without creating new functionality that **can transform a mess into clean code and simple design**.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28480%29.png)
+![](<../../.gitbook/assets/image (478).png>)
 
 > _**The main purpose of refactoring is to fight technical debt**_
 
 ### When to refactor ?
 
-![](../../.gitbook/assets/image%20%28475%29.png)
+![](<../../.gitbook/assets/image (479).png>)
 
 #### When adding a feature
 
@@ -60,7 +60,7 @@ Refactoring is a systematic process of **improving code** without creating new f
 * Refactoring makes it easier to add new features
   * Easier to make changes in clean code
 
-#### Rule of Three \(duplication\)
+#### Rule of Three (duplication)
 
 * You can copy and paste the code once
 * BUT when the same code is replicated **3 times**, it should be extracted into a new procedure
@@ -81,23 +81,23 @@ Refactoring is a systematic process of **improving code** without creating new f
 
 ### How to ?
 
-![](../../.gitbook/assets/image%20%28481%29.png)
+![](<../../.gitbook/assets/image (481).png>)
 
 There are two cases when tests can break down after refactoring : 
 
 * You made an _**error during refactoring**_
   * Go ahead and fix the error
-* Your _**tests were too low-level**_ \(for example, you were testing private methods of classes\)
+* Your _**tests were too low-level **_(for example, you were testing private methods of classes)
   * In this case : the tests are to blame
   * Either refactor the tests themselves or write an entirely new set of higher-level tests
 
 ## Concrete Practice
 
-![](../../.gitbook/assets/image%20%28479%29.png)
+![](<../../.gitbook/assets/image (482).png>)
 
 Follow the journey step by step as explained in [my website](https://ythirion.github.io/refactoring-journey/) :
 
-![](../../.gitbook/assets/image%20%28566%29.png)
+![](<../../.gitbook/assets/image (567).png>)
 
 #### Enjoy the Journey
 
@@ -110,7 +110,5 @@ Follow the journey step by step as explained in [my website](https://ythirion.gi
 * Each participant add his/her name on the quadrant
 * Please explain _**why you are there**_
 
-![](../../.gitbook/assets/image%20%28482%29.png)
-
-
+![](<../../.gitbook/assets/image (484).png>)
 

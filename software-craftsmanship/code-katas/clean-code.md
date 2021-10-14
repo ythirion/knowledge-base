@@ -9,7 +9,7 @@ description: Hands on Clean Code
 * Understand what is “Clean code”
 * How to apply it in a daily basis
 
-Workshop designed using 4C model \(support provided\) :
+Workshop designed using 4C model (support provided) :
 
 * **Connection** : Build your Clean Code definition
 * **Concepts** : Slide deck
@@ -23,8 +23,6 @@ Workshop designed using 4C model \(support provided\) :
 
 * Source code : [https://github.com/ythirion/clean-code](https://github.com/ythirion/clean-code)
 * Refactoring guru : [https://refactoring.guru/refactoring/smells](https://refactoring.guru/refactoring/smells)
-
-
 
 
 

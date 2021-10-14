@@ -13,11 +13,11 @@ La veille est une activité habituellement individuelle, avec Xtrem Watch on la 
 * **Collective** : ce qui permet de partager et découvrir de nouveaux sujets qui ne sont pas dans notre radar
 * **Continue** : répond à la problématique du manque de temps. On se bloque des créneaux afin de pouvoir effectuer des activités de veille non plus en best effort mais sur notre temps de travail.
 
-Nous avons créé ce format d’atelier en nous basant sur notre vécu avec [Xtrem Reading](https://medium.com/@yoan.thirion/en-route-vers-lapprenance-avec-xtrem-reading-fc460112cabb?source=friends_link&sk=f6fd28e5084b3e5033fdf6424b335f02) en nous posant une question :
+Nous avons créé ce format d’atelier en nous basant sur notre vécu avec [Xtrem Reading](https://medium.com/@yoan.thirion/en-route-vers-lapprenance-avec-xtrem-reading-fc460112cabb?source=friends_link\&sk=f6fd28e5084b3e5033fdf6424b335f02) en nous posant une question :
 
 > Quelle autre activité solitaire pourrait bénéficier de l’intelligence collective et s’enrichir avec des interactions ?
 
-## Quoi ? <a id="df69"></a>
+## Quoi ? <a href="df69" id="df69"></a>
 
 Cet atelier permet :
 
@@ -35,9 +35,9 @@ A chaque fois qu’on organise une session les participants sont surpris :
 
 Ils ne croient pas que ce soit possible de consolider de quoi présenter aux autres participants à la fin de l’activité. Pourtant on doit bien souvent mettre fin aux discussions tellement les gens ont de choses à partager.
 
-## Comment faire ? <a id="5baf"></a>
+## Comment faire ? <a href="5baf" id="5baf"></a>
 
-### L’invitation <a id="4491"></a>
+### L’invitation <a href="4491" id="4491"></a>
 
 Lorsque nous organisons cette activité, nous envoyons massivement une invitation par email mais aussi à l’aide d’affiches physiques.
 
@@ -45,7 +45,7 @@ L’idée est de toucher un maximum de personnes. _**On souhaite en attirer avec
 
 Le secret est de réussir à susciter l’intérêt à l’aide d’une invitation impactante et inclusive :
 
-![Exemple d&#x2019;invitation](https://miro.medium.com/max/319/1*kAT0SjBa8TVALgdgemFAqg.png)
+![Exemple d’invitation](https://miro.medium.com/max/319/1\*kAT0SjBa8TVALgdgemFAqg.png)
 
 ### Organisation de l’espace / matériel nécessaire
 
@@ -56,59 +56,59 @@ _Matériel pour chaque participant :_
 _Matériel de facilitation :_
 
 * Des post-its pour l’idéation
-* Des marqueurs \(1 / participant\)
-* Un ou plusieurs mur\(s\) — pas le plus difficile à trouver ;-\)
+* Des marqueurs (1 / participant)
+* Un ou plusieurs mur(s) — pas le plus difficile à trouver ;-)
 * L’infographie ci-dessous qui explique le format et sert de support de facilitation
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](<../.gitbook/assets/image (61).png>)
 
 {% hint style="info" %}
 _L’activité peut également se faire avec tout ou partie des participants à distance dans ce cas-là on peut utiliser des outils comme Miro ou Trello pour la partie idéation._
 {% endhint %}
 
-### La distribution de la participation <a id="79df"></a>
+### La distribution de la participation <a href="79df" id="79df"></a>
 
-L’atelier est conçu de manière à alterner travail individuel et en groupe \(de 2 ou 3\). Il faut un minimum de 4 participants \(de quoi former 2 groupes\) pour pouvoir se lancer. On vous conseille de planifier des sessions d’1h30 cela permet de dérouler l’atelier sans mettre la pression aux participants et ainsi en tirer le maximum pour tous.
+L’atelier est conçu de manière à alterner travail individuel et en groupe (de 2 ou 3). Il faut un minimum de 4 participants (de quoi former 2 groupes) pour pouvoir se lancer. On vous conseille de planifier des sessions d’1h30 cela permet de dérouler l’atelier sans mettre la pression aux participants et ainsi en tirer le maximum pour tous.
 
-### Etapes et timing <a id="9e54"></a>
+### Etapes et timing <a href="9e54" id="9e54"></a>
 
 Une session **se déroule de la manière suivante** :
 
-![](https://miro.medium.com/max/346/1*fNHkzYkr9-l0V50MXrbVWQ.png)
+![](https://miro.medium.com/max/346/1\*fNHkzYkr9-l0V50MXrbVWQ.png)
 
 Les participants sont invités à _**brainstormer**_ pendant 5 minutes afin de générer un maximum de post-its sur lesquels ils inscrivent des sujets qu’ils souhaitent vraiment découvrir durant la session. Ils utilisent en général leurs smartphones pour cela : fils twitter, sites d’information, Reddit, …
 
-![](https://miro.medium.com/max/346/1*wnmA4oLyGdrLgtlaUi-66A.png)
+![](https://miro.medium.com/max/346/1\*wnmA4oLyGdrLgtlaUi-66A.png)
 
-Chaque participant vient coller ses post-its sur le mur d’idéation et pour chacun d’entre eux _**expose rapidement le concept**_ \(1 minute / participant\) associé et pourquoi il veut le découvrir durant cette session.
+Chaque participant vient coller ses post-its sur le mur d’idéation et pour chacun d’entre eux _**expose rapidement le concept **_(1 minute / participant) associé et pourquoi il veut le découvrir durant cette session.
 
-![](https://miro.medium.com/max/346/1*7jO67euOoeeD91HUAlsJoA.png)
+![](https://miro.medium.com/max/346/1\*7jO67euOoeeD91HUAlsJoA.png)
 
-Une fois que tout le monde a présenté ses sujets le facilitateur _**invite les participants à voter**_ pour les sujets qu’ils veulent tacler durant cette session \(le plus souvent on utilise le dot voting car efficace peu importe la taille du groupe\).
+Une fois que tout le monde a présenté ses sujets le facilitateur _**invite les participants à voter** _pour les sujets qu’ils veulent tacler durant cette session (le plus souvent on utilise le dot voting car efficace peu importe la taille du groupe).
 
-![](https://miro.medium.com/max/502/1*5NXR4luc-Jf_--ngzvN9hw.png)
+![](https://miro.medium.com/max/502/1\*5NXR4luc-Jf\_--ngzvN9hw.png)
 
-Suite à la priorisation, les participants s’organisent pour _**former des groupes d’intérêts**_ de 2 ou 3 personnes. Ils en profitent pour se déplacer et constituer des groupes physiquement localisés.
+Suite à la priorisation, les participants s’organisent pour _**former des groupes d’intérêts** _de 2 ou 3 personnes. Ils en profitent pour se déplacer et constituer des groupes physiquement localisés.
 
-![](https://miro.medium.com/max/349/1*9lmJM23jjw7E7carl9gpRw.png)
+![](https://miro.medium.com/max/349/1\*9lmJM23jjw7E7carl9gpRw.png)
 
-Chacun va alors avoir 5 minutes pour _**se plonger dans le sujet**_ et ainsi rechercher via son smartphone ou un ordinateur un maximum ****d’informations sur le sujet de son groupe.
+Chacun va alors avoir 5 minutes pour _**se plonger dans le sujet**_ et ainsi rechercher via son smartphone ou un ordinateur un maximum** **d’informations sur le sujet de son groupe.
 
 L’idée est de croiser un maximum de sources différentes et de ratisser large dans cette étape.
 
-![](https://miro.medium.com/max/349/1*SDnj38GgLuS5vnTfQcoJhg.png)
+![](https://miro.medium.com/max/349/1\*SDnj38GgLuS5vnTfQcoJhg.png)
 
 Au sein de chaque groupe les participants vont _**échanger sur leurs découvertes**_, présenter ce qu’ils ont trouvé et à l’aide de quelles sources. A la fin de ces 5 minutes le groupe a déterminé ce _**sur quoi il souhaite aller plus loin**_ et s’est réparti les catégories à traiter.
 
-![](https://miro.medium.com/max/349/1*oofqayFMYP8sjvW-NRTq9Q.png)
+![](https://miro.medium.com/max/349/1\*oofqayFMYP8sjvW-NRTq9Q.png)
 
 Suite à la synchronisation chacun repart se plonger sur les catégories à traiter. Ils plongent encore un peu _**plus profondément dans le sujet**_.
 
-![](https://miro.medium.com/max/349/1*QE9EjDR9s5483kfQpPc-Qw.png)
+![](https://miro.medium.com/max/349/1\*QE9EjDR9s5483kfQpPc-Qw.png)
 
 Chaque membre du groupe a désormais passé une dizaine de minutes à creuser le sujet. Il est temps de faire profiter les autres de ces pépites. Le groupe a alors 10 minutes pour _**préparer son partage à l’assemblée**_. Cela peut se faire à l’aide slides, de mind maps, d’images ou de sketch note, … il n’y a pas de limite à la créativité.
 
-![](https://miro.medium.com/max/776/1*pmt7DTlzjY3a2V7Nf6rdyg.png)
+![](https://miro.medium.com/max/776/1\*pmt7DTlzjY3a2V7Nf6rdyg.png)
 
 Le partage se fait en plusieurs étapes :
 
@@ -126,7 +126,7 @@ Voici quelques exemples de sujets taclés dernièrement durant nos sessions :
 
 Les sujets peuvent être vraiment très variés et sont le reflet de l’intérêt des participants à un moment précis dans le temps.
 
-### Bons Tuyaux & Pièges <a id="74f0"></a>
+### Bons Tuyaux & Pièges <a href="74f0" id="74f0"></a>
 
 Pour réussir cette activité il faut vraiment réussir à la lancer dans la bonne humeur et mettre tout le monde dans un état d’esprit de partage.
 
@@ -138,10 +138,9 @@ Il faut également introduire la limite de l’exercice : pas de vérification p
 _**PRO TIP** : En tant que facilitateur ne reste pas dans l’ombre, intègre un groupe et participe à l’atelier ; les temps sont assez longs et par expérience faciliter et participer est tout à fait faisable avec ce format._
 {% endhint %}
 
-### Variations <a id="c0aa"></a>
+### Variations <a href="c0aa" id="c0aa"></a>
 
 Ce que vous pourriez expérimenter :
 
 * Organiser ce genre de session sur des domaines bien spécifiques afin de faire découvrir les expertises des uns et des autres : casser les silos en douceur
 * Lancer un challenge sur le format de restitution : faire en sorte ce soit un challenge ? sketch note, utiliser un logiciel particulier, dans une autre langue que la langue maternelle, …
-

@@ -21,11 +21,11 @@
 
 ### ACID
 
-![](../.gitbook/assets/image%20%28510%29.png)
+![](<../.gitbook/assets/image (511).png>)
 
 * Atomicity
   * "all or nothing"
-  * One part fails =&gt; the entire transaction fails
+  * One part fails => the entire transaction fails
 * Consistency
   * Bring the database from one valid state to another
   * All defined rules, including constraints, cascades, triggers, and any combination are respected
@@ -45,11 +45,11 @@
 
 ### NoSQL
 
-![](../.gitbook/assets/image%20%28519%29.png)
+![](<../.gitbook/assets/image (513).png>)
 
 ### Different kind of NoSQL Databases
 
-![](../.gitbook/assets/image%20%28511%29.png)
+![](<../.gitbook/assets/image (514).png>)
 
 ### Why use NoSQL ?
 
@@ -64,11 +64,11 @@
 
 Let's play with a GraphDB call Neo4j for the next minutes :
 
-* Connect to the [platform](https://sandbox.neo4j.com/)
+* Connect to the [platform](https://sandbox.neo4j.com)
 * Play with the Cypher queries
 * Play with the Graph Visualization
 
-![](../.gitbook/assets/image%20%28512%29.png)
+![](<../.gitbook/assets/image (515).png>)
 
 ## Conclusion - 10'
 
@@ -83,7 +83,7 @@ We can now create polyglot persistence :
 
 Use the tool that fits the best your needs.
 
-![](../.gitbook/assets/image%20%28514%29.png)
+![](<../.gitbook/assets/image (516).png>)
 
 ### Remember the past
 
@@ -118,6 +118,4 @@ Think about the past few years, in which development you have made this kind of 
 
 * Cassandra
 * HBase
-
-
 

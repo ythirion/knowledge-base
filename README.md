@@ -9,32 +9,7 @@ description: >-
 
 ## Contributors :
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Name</th>
-      <th style="text-align:left">Job title</th>
-      <th style="text-align:left">Links</th>
-      <th style="text-align:left">Avatar</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><a href="https://yoan-thirion.com/">Yoan Thirion</a>
-      </td>
-      <td style="text-align:left">Technical Agile Coach</td>
-      <td style="text-align:left">
-        <p><a href="https://www.linkedin.com/in/yoanthirion/">Linkedin</a>
-        </p>
-        <p><a href="https://twitter.com/yot88">@yot88</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <img src=".gitbook/assets/image (7).png" alt/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
+| Name                                     | Job title              | Links                                                                                                                       | Avatar                                |
+| ---------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Yoan Thirion](https://yoan-thirion.com) | Technical Agile Coach  | <p><a href="https://www.linkedin.com/in/yoanthirion/">Linkedin</a></p><p><a href="https://twitter.com/yot88">@yot88</a></p> | ![](<.gitbook/assets/image (93).png>) |
 

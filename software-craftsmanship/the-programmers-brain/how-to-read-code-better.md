@@ -14,7 +14,7 @@ description: Workshop to demonstrate how our programmers brain work.
 
 ## Connection - Code reader 10'
 
-![](../../.gitbook/assets/image%20%28685%29.png)
+![](<../../.gitbook/assets/image (684).png>)
 
 Ask participants to :
 
@@ -25,7 +25,9 @@ Ask participants to :
   * What makes it easy to understand the code ?
   * What makes it hard to understand the code ?
 
-{% file src="../../.gitbook/assets/code-snippets.zip" caption="Code snippets examples" %}
+{% file src="../../.gitbook/assets/code-snippets.zip" %}
+Code snippets examples
+{% endfile %}
 
 Debrief it and relate to the confusion related to code.
 
@@ -42,7 +44,7 @@ Debrief it and relate to the confusion related to code.
 
 **Example** :
 
-![](../../.gitbook/assets/image%20%28686%29.png)
+![](<../../.gitbook/assets/image (685).png>)
 
 ## Conclusion - 5'
 
@@ -50,5 +52,4 @@ Debrief it and relate to the confusion related to code.
 * Ask participants to stick their name
 * Ask them why here
 
-![](../../.gitbook/assets/image%20%28684%29.png)
-
+![](<../../.gitbook/assets/image (686).png>)

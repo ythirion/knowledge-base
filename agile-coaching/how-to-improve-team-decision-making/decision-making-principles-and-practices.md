@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The better resource I use on this topic is the book [_**27 Decision making principles and practices**_](https://leanpub.com/decision-making-principles) _****_from [Jimmy Janlen](https://twitter.com/jimmyjanlen) 
+The better resource I use on this topic is the book [_**27 Decision making principles and practices**_](https://leanpub.com/decision-making-principles)_** **_from [Jimmy Janlen](https://twitter.com/jimmyjanlen) 
 
-![](../../.gitbook/assets/image%20%28317%29.png)
+![](<../../.gitbook/assets/image (297).png>)
 
 I strongly invite you to buy the book on leanpub. In this post I will just give some pieces of it.
 
@@ -35,7 +35,7 @@ Always ensure you have a facilitator for each and every meeting
 If you don't have a dedicated facilitator in your team you can :
 
 * Elect one at the beginning of the meeting
-* Rotate the facilitator responsibility \(according to you\)
+* Rotate the facilitator responsibility (according to you)
   * For each meeting
   * Per week
   * Per sprint
@@ -60,13 +60,13 @@ Once the presentation is done :
 * Ideas for improving the proposal are discussed
 * Concerns are raised, and if possible used to further **improve the proposal**
 
-![](../../.gitbook/assets/image%20%28308%29.png)
+![](<../../.gitbook/assets/image (299).png>)
 
 ### Survey with fist of five 
 
 Participants express their current opinion about the direction of the discussion and the emerging proposal by voting with their fingers.
 
-![](../../.gitbook/assets/image%20%28288%29.png)
+![](<../../.gitbook/assets/image (300).png>)
 
 On a scale from 1 to 5, "_**How much closer do you think we are to an acceptable proposal ?**_" :
 
@@ -87,11 +87,11 @@ Design a proposal as an experiment invites you to identify concerns that should 
 * How would we be able to gauge or measure whether or not we need to revisit the decision and make adjustments, or try something else? 
 * Can we set a date for an evaluation or retrospective?
 
-![](../../.gitbook/assets/image%20%28287%29.png)
+![](<../../.gitbook/assets/image (309).png>)
 
 I like to use this simple template when I formulate an experiment :
 
-![](../../.gitbook/assets/image%20%28295%29.png)
+![](<../../.gitbook/assets/image (302).png>)
 
 It forces us to formulate our experiment and structure them.
 
@@ -103,28 +103,26 @@ Techniques to decide with consent.
 
 * _**Consent decision making**_ – the proposal is decided in the absent of qualified objection.
 * _**Consensus**_ - everyone must agree with the proposal.
-* _**Good enough proposal**_ - means the proposal is clear enough for you. You trust that the
+*   _**Good enough proposal **_- means the proposal is clear enough for you. You trust that the
 
-  team is capable of dealing with challenges and problems as they surface in a responsible manner.
-
+    team is capable of dealing with challenges and problems as they surface in a responsible manner.
 * _**Safe enough**_ - refers to the danger of failing. Is it safe enough to try, and then inspect and adapt?
 
 ### Consent voting
 
 It’s way faster than consensus more inclusive and collaborative in nature than a democratic majority vote.
 
-![](../../.gitbook/assets/image%20%28298%29.png)
+![](<../../.gitbook/assets/image (304).png>)
 
-* **No thumbs down** : a decision has been made and that the proposal has been
+*   **No thumbs down **: a decision has been made and that the proposal has been
 
-  accepted.
+    accepted.
 
-  * Thumbs sideways or closed fists
-    * Ask those members to share why they voted like this
-    *  Clarify that the decision has been made
-    * But it's always valuable to have their points of view
-      * It's not the time to reopen a debate
-
+    * Thumbs sideways or closed fists
+      * Ask those members to share why they voted like this
+      *  Clarify that the decision has been made
+      * But it's always valuable to have their points of view
+        * It's not the time to reopen a debate
 * **Thumbs down :** The proposal didn’t go through.
   * Ask the people to share their perspective on 
     * Why this would be a bad thing ?
@@ -135,7 +133,7 @@ It’s way faster than consensus more inclusive and collaborative in nature than
 
 Sometimes you can declare decision mandate yourself. **For decisions that don’t impact the whole team, don’t be afraid to simply state you intentions**. 
 
-![](../../.gitbook/assets/image%20%28291%29.png)
+![](<../../.gitbook/assets/image (308).png>)
 
 * Clearly share what you intend do, and why. 
 * Ask if anyone objects.
@@ -151,10 +149,10 @@ Dot‐voting is an effective voting and sorting technique to order suggestions b
 
 * Agree on how many dot‐votes each person gets
   * If unsure, go for three dots each as a default
-* Each person can distribute the points as he/she want \(3 dots on the same topic or 1 dot on 3 different post-its\)
+* Each person can distribute the points as he/she want (3 dots on the same topic or 1 dot on 3 different post-its)
 * Once voting is done, rearrange the Post‐its according to the results
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](<../../.gitbook/assets/image (316).png>)
 
 ## What to do when you are stuck ?
 
@@ -162,21 +160,21 @@ How to help the team have good, valuable and constructive discussions, that invo
 
 ### **Make decisions smaller**
 
-One approach to make progress when stuck in a discussion around a proposal, ****or when you as team fail to agree on a way forward, is to r_**educe the size of the proposal or slice up the decisions to be made**_.
+One approach to make progress when stuck in a discussion around a proposal,** **or when you as team fail to agree on a way forward, is to r_**educe the size of the proposal or slice up the decisions to be made**_.
 
-![](../../.gitbook/assets/image%20%28297%29.png)
+![](<../../.gitbook/assets/image (310).png>)
 
 ### Delegate decision mandate
 
-One approach to make faster progress can be to delegate to a smaller group \(can be nominated or volunteers\). That group hashes out the details of a proposal, AND are given mandate and trust to make the actual decision.
+One approach to make faster progress can be to delegate to a smaller group (can be nominated or volunteers). That group hashes out the details of a proposal, AND are given mandate and trust to make the actual decision.
 
-![](../../.gitbook/assets/image%20%28305%29.png)
+![](<../../.gitbook/assets/image (311).png>)
 
 ### Clarify Statu Quo
 
 _**Dont' take a decision just because you have to. Sometimes Status quo is a perfectly valid outcome.**_
 
-![](../../.gitbook/assets/image%20%28293%29.png)
+![](<../../.gitbook/assets/image (313).png>)
 
 If the proposal is not agreed upon :
 
@@ -189,9 +187,9 @@ If the proposal is not agreed upon :
 
 If the team fails to agree upon a decision, being stuck in discussions or having every proposal blocked, the default principle can be to _**delegate the decision to a single person, the accountable**_. It's the last resort solution.
 
-To do so, accountability must be crystal clear \(see Delegation Poker\).
+To do so, accountability must be crystal clear (see Delegation Poker).
 
-## **How to stimulate** _****_**t**eam wisdom ?
+## **How to stimulate**_** **_**t**eam wisdom ?
 
 Make everyone heard
 
@@ -207,15 +205,15 @@ Ask everyone to briefly share :
 
 Start with individual thinking, then share with the whole team.
 
-![](../../.gitbook/assets/image%20%28312%29.png)
+![](<../../.gitbook/assets/image (315).png>)
 
-### Collaborative proposals \(1-2-4-All\)
+### Collaborative proposals (1-2-4-All)
 
 It is a workshop format designed to quickly generate a collaborative and inclusive proposal. 
 
 It is a liberating structure documented [**here**](http://www.liberatingstructures.com/1-1-2-4-all/).
 
-![](../../.gitbook/assets/image%20%28322%29.png)
+![](<../../.gitbook/assets/image (318).png>)
 
 * Everyone individually drafts a proposal in silence - **3'**
 * In pair, share and explain their draft to each other - **2'**
@@ -237,7 +235,7 @@ To maintain focus / avoid the frustration of leaving important concerns unresolv
 * capture the unanswered question on a Post‐it 
 * Put it up on the parking‐lot area on a board
 
-![](../../.gitbook/assets/image%20%28301%29.png)
+![](<../../.gitbook/assets/image (319).png>)
 
 It acknowledges that the question is important, which can help people bring their focus back to the original discussion.
 
@@ -253,13 +251,13 @@ Maximize the probability of the agreements becoming reality by strengthening eac
 
 For each and every ToDo, make sure there is a name associated with it.
 
-![](../../.gitbook/assets/image%20%28311%29.png)
+![](<../../.gitbook/assets/image (320).png>)
 
 ### DIBB rationale narrative
 
 A framework to test if you can tell a comprehensive story on why you decided on what you did.
 
-![DIBB is created by Spotify and is part of &#x201C;Spotify Rhythm&#x201D;](../../.gitbook/assets/image%20%28324%29.png)
+![DIBB is created by Spotify and is part of “Spotify Rhythm”](<../../.gitbook/assets/image (303).png>)
 
 * What DATA did you look at? 
   * What were your sources? 
@@ -277,15 +275,14 @@ In Software Architecture it's a document that captures an important architectura
 
 You can use a template and structure your decisions log with this format :
 
-![](../../.gitbook/assets/image%20%28314%29.png)
+![](<../../.gitbook/assets/image (312).png>)
 
 ## Clarify team decision scope with Delegation Poker
 
-![](../../.gitbook/assets/image%20%28309%29.png)
+![](<../../.gitbook/assets/image (305).png>)
 
-![](../../.gitbook/assets/image%20%28306%29.png)
+![](<../../.gitbook/assets/image (306).png>)
 
 ## Reading notes
 
-![](../../.gitbook/assets/image%20%28285%29.png)
-
+![](<../../.gitbook/assets/image (298).png>)

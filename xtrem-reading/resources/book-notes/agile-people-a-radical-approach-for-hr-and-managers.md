@@ -4,11 +4,11 @@ description: from Pia-Maria Thoren
 
 # Agile People: A Radical Approach for HR & Managers
 
-## Pitch <a id="title"></a>
+## Pitch <a href="title" id="title"></a>
 
 Corporate cultures, global mindsets, and employee priorities are changing, which means management and human resources departments must also evolve. To ensure teams are well crafted, motivated, and successful, managers and HR professionals must step outside their comfort zone and adapt to younger, newer ways of thinking—they must become Agile.
 
-![](../../../.gitbook/assets/image%20%2874%29.png)
+![](<../../../.gitbook/assets/image (62).png>)
 
 ## Notes
 
@@ -63,7 +63,5 @@ Design :
 
 ## Mind map
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
-
-
+![](<../../../.gitbook/assets/image (63).png>)
 

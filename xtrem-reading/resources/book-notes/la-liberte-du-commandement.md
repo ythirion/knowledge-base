@@ -6,7 +6,7 @@ description: Vice-amiral Loïc Finaz
 
 ## Pitch
 
-![](../../../.gitbook/assets/image%20%28634%29.png)
+![](<../../../.gitbook/assets/image (634).png>)
 
 Le Président de la République songe à réformer l'ENA sur le modèle de l'École de guerre. Une formation d'un an accueillant sur concours les officiers interarmées qui deviendront les militaires chefs de demain. 
 
@@ -18,9 +18,11 @@ L'art du commandement développé au sein de l'école ne doit rien à Sun Tzu ma
 
 ## Infographie
 
-![Infographie &quot;La libert&#xE9; du commandement&quot;](../../../.gitbook/assets/la-liberte-du-commandement%20%281%29.png)
+![Infographie "La liberté du commandement"](<../../../.gitbook/assets/La liberté du commandement.png>)
 
-{% file src="../../../.gitbook/assets/la-liberte-du-commandement \(1\).pdf" caption="Infographie \"la liberté du commandement\" \(Haute résolution\)" %}
+{% file src="../../../.gitbook/assets/La liberté du commandement (1).pdf" %}
+Infographie "la liberté du commandement" (Haute résolution)
+{% endfile %}
 
 ## Notes
 
@@ -65,7 +67,7 @@ _Rien n'irrigue plus les bonnes pratiques du management que les exigences du com
   * à aborder avec 1 esprit d'association
 
 {% hint style="info" %}
-_Les vertus d'équipage, piliers de notre sagesse constituent **l'esprit d'équipage** : autonomie et solidarité, fonction et responsabilité, hiérarchie et participation, exigence et bienveillance, énergie et culture, intelligence et courage, parole et temps._
+_Les vertus d'équipage, piliers de notre sagesse constituent **l'esprit d'équipage **: autonomie et solidarité, fonction et responsabilité, hiérarchie et participation, exigence et bienveillance, énergie et culture, intelligence et courage, parole et temps._
 {% endhint %}
 
 Cet esprit nous donne notre cohésion sociale, notre efficacité au combat comme dans le quotidien, notre réussite au service de la nation.
@@ -86,7 +88,7 @@ _"Faites de vos équipes, de vos services, un équipage"_
   * Je confirme la mission
   * J'échange avec vous : cohérence et évolution
   * Mais au quotidien : agissez
-* Pour 1 initiative malheureuse \(que le chef gérera\)
+* Pour 1 initiative malheureuse (que le chef gérera)
   * 9 seront positives
 * Solidarité : le chef est mort
 * Autonomie et solidarité : source de la participation de tous et du succès de l'ensemble
@@ -171,7 +173,7 @@ Le sens de chacun et du collectif ancre le chef dans la conviction que commander
 ### Parole et temps
 
 * C'est par la parole que l'action du dirigeant existe
-  * C'est par la parole **adressée directement** que le chef suscite espoir et enthousiasme
+  * C'est par la parole **adressée directement **que le chef suscite espoir et enthousiasme
   * Apaiser les craintes
   * Remonter le moral dans la crise ou la défaite
 
@@ -219,4 +221,3 @@ _Esprit d'équipage et esprit d'entreprise peuvent naviguer de conserve._
 * Commander c'est aimer
   * Commander, diriger au final c'est aimer
   * Tout le reste n'est que discours
-

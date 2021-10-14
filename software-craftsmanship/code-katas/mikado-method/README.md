@@ -25,7 +25,7 @@ There could be assumptions that have propagated through the code base that would
 _**Maybe there are parts of the code base that are difficult to understand, making it unclear how to make the larger change. We’ll need to improve these parts to make dependencies clearer.**_
 {% endhint %}
 
-> With this approach, we only make changes which we know will not break anything.
+> With this approach, we only make changes which we know will not break anything. 
 
 We :
 
@@ -58,16 +58,16 @@ With Big Bang Refactoring, it is expected that it is going to take a few iterati
 
 Maybe this is harder than it should be, or maybe we should have taken a different approach. We may also find that we’ve introduced a bug that is difficult to reproduce. We are faced with a difficult decision. 
 
-Should we try to make a course correction, partially reverting what we’ve done? Should we throw everything that we’ve done away and start over? Or should we press ahead in the hope that you’ll eventually be able to get code back under control? Much work could be wasted if we make the wrong decision.  
+Should we try to make a course correction, partially reverting what we’ve done? Should we throw everything that we’ve done away and start over? Or should we press ahead in the hope that you’ll eventually be able to get code back under control? Much work could be wasted if we make the wrong decision.\
 
 
 ## The Mikado Method to our rescue
 
 {% hint style="success" %}
-The [Mikado Method](http://mikadomethod.info/) is a technique for **breaking up large refactoring tasks into smaller ones in a systematic way, such that the code is practically NEVER IN A BROKEN STATE**.
+The [Mikado Method](http://mikadomethod.info) is a technique for **breaking up large refactoring tasks into smaller ones in a systematic way, such that the code is practically NEVER IN A BROKEN STATE**.
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28151%29.png)
+![](<../../../.gitbook/assets/image (150).png>)
 
 With this method we :
 
@@ -81,7 +81,7 @@ With this method we :
 
 We have some additional insight into what is going to make this change difficult.
 
-![](../../../.gitbook/assets/image%20%28150%29.png)
+![](<../../../.gitbook/assets/image (151).png>)
 
 {% hint style="success" %}
 _**FAIL FAST BUT SMARTLY**_
@@ -100,7 +100,7 @@ Now, with the code still in a good state, we can take the time to think about th
 This ultimately leads to a new refactoring decision. We are back to wanting to make a refactoring, just a more basic one. Perhaps this is still a large refactoring, where all the possible side-effects are unclear. 
 
 {% hint style="info" %}
-_"Enables you to deal with unavoidable complexities in manageable pieces." -_ **Tom Poppendiek**
+_"Enables you to deal with unavoidable complexities in manageable pieces." - _**Tom Poppendiek**
 {% endhint %}
 
 This is where the Mikado Method starts to take form : 
@@ -133,7 +133,7 @@ Applying the leaf refactoring and pruning them from the tree, new leaf changes a
 
 These leaf changes should now have become easy atomic refactoring themselves. If we continue this process, we eventually end up back at our root change. The root change is the reason we set this whole process in motion, but it is now itself an easy change, and we are done.
 
-![](../../../.gitbook/assets/image%20%28156%29.png)
+![](<../../../.gitbook/assets/image (156).png>)
 
 ### Advantages
 
@@ -162,18 +162,16 @@ These leaf changes should now have become easy atomic refactoring themselves. If
 ### Resources
 
 * [Mikado Refactoring with C++ Feature Macros](https://www.fluentcpp.com/2020/01/24/mikado-refactoring-with-c-feature-macros/)
-* [Mikado method website](http://mikadomethod.info/)
+* [Mikado method website](http://mikadomethod.info)
 * [Mikado method book](https://www.manning.com/books/the-mikado-method)
 * [Kata in java](https://github.com/mikadomethod/kata-java)
 * [Make Testing Legacy Code Viral: Mikado Method and Test Data Builders](https://philippe.bourgau.net/make-testing-legacy-code-viral-mikado-method-and-test-data-builders/)
 
-### Tools \(mind mapping\)
+### Tools (mind mapping)
 
-* [Coggle](https://coggle.it/)
-* [Xmind](https://www.xmind.net/)
-* [Mindmup](https://www.mindmup.com/)
-
-
+* [Coggle](https://coggle.it)
+* [Xmind](https://www.xmind.net)
+* [Mindmup](https://www.mindmup.com)
 
 
 

@@ -6,7 +6,7 @@ Introduce yourself to a person near you and discuss.
 
 Is it easier to unit test :
 
-```text
+```
 - a static method
 - pure function
 - method that modifies object state
@@ -24,7 +24,7 @@ _**These kinds of functions are easier to test since all the outcomes are visibl
 * TDD is too Time Consuming
   * The business team doesn’t care at all about the development process you use, as long as it’s effective.
   * TDD will :
-    * improve developer productivity \(long term\)
+    * improve developer productivity (long term)
     * Reduce customer abandonment
     * Reduce the costs of customer service 
 * Writing test cases before the code, is not feasible
@@ -34,18 +34,18 @@ _**These kinds of functions are easier to test since all the outcomes are visibl
   * Focus on the value 
 * TDD replaces QA
   * We can’t cover everything with TDD
-  * For example : GUI E2E tests \(really hard to maintain\)
+  * For example : GUI E2E tests (really hard to maintain)
   * This is where QA has an important role.
 * _**Write all tests before we start the code**_
   * _**Not at all : 1 test at a time**_
 
 ### 2 TDD schools
 
-| Chicago / Detroit TDD \(Classic\) | London TDD \(Mockist approach\) |
-| :--- | :--- |
-| From the inside to outside | From the outside to inside |
-| Starting from the model classes \(Core domain logic\) | Use external constraints as a starting point \(API endpoint, Services\) |
-| No concern for how it might be integrated elsewhere |  |
+| Chicago / Detroit TDD (Classic)                     | London TDD (Mockist approach)                                         |
+| --------------------------------------------------- | --------------------------------------------------------------------- |
+| From the inside to outside                          | From the outside to inside                                            |
+| Starting from the model classes (Core domain logic) | Use external constraints as a starting point (API endpoint, Services) |
+| No concern for how it might be integrated elsewhere |                                                                       |
 
 ## Concrete Practice
 
@@ -55,29 +55,31 @@ Write a method that returns for a number from 1 to 100 this given number, except
 * For the multiples of 5 returns “_**Buzz**_”
 * For numbers which are multiples of both 3 and 5 returns “_**FizzBuzz**_”
 
-![](../../../.gitbook/assets/image%20%28499%29.png)
+![](<../../../.gitbook/assets/image (499).png>)
 
 Let them start for 10' then reflect you can then give them more guidance :
 
-### 1\) Identify your Test Cases
+### 1) Identify your Test Cases
 
 By using the Test Cards in pair : identify test cases
 
-![](../../../.gitbook/assets/image%20%28501%29.png)
+![](<../../../.gitbook/assets/image (500).png>)
 
 ### How would you name your first test ?
 
 * Ask attendees to note on a Sticky Note what is the name of their first test
 * Compare the different styles
-* What do they prefer \(Dot voting\)
+* What do they prefer (Dot voting)
 
-### How to name Good Unit Tests ? \(GUTs\)
+### How to name Good Unit Tests ? (GUTs)
 
-{% page-ref page="../../testing/how-to-name-our-unit-tests.md" %}
+{% content-ref url="../../testing/how-to-name-our-unit-tests.md" %}
+[how-to-name-our-unit-tests.md](../../testing/how-to-name-our-unit-tests.md)
+{% endcontent-ref %}
 
 ### Fizzbuzz Test cases :
 
-```text
+```
 - shouldReturnTheNumber (ex : 1, 67, 82, ...)
 - shouldReturnFizzForMultipleOf3 (ex : 3, 30, 99)
 - shouldReturnBuzzForMultipleOf5 (ex : 5, 50, 85)
@@ -85,18 +87,18 @@ By using the Test Cards in pair : identify test cases
 - shouldThrowAnExceptionForNumberOutOfRange (ex : 0, -1, 101)
 ```
 
-### 2\) Once identified the 5 Test Cases, write the code
+### 2) Once identified the 5 Test Cases, write the code
 
 By using TDD, write Test cases once at a time :
 
-Trap to avoid : _**"do not write 1 test to rule them all"**_
+Trap to avoid :_** "do not write 1 test to rule them all"**_
 
 * Talks about sampling
   * Tests are always a sample
   * You cannot cover every possible value
 * Do not repeat the same complexity in your tests than in your Production Code
 
-### 3\) A little bit to easy ?
+### 3) A little bit to easy ?
 
 * Remove “if” in your code
 * Parameters version, implement this method : 
@@ -114,7 +116,7 @@ public class FizzBuzz {
 ```
 
 * Take a function in parameter
-  * Create a Higher Order Function : function modulo\(dividend, divisor\){ return dividend%divisor; }
+  * Create a Higher Order Function : function modulo(dividend, divisor){ return dividend%divisor; }
 * Add a voice output
 * Write it in an unknown language
 
@@ -130,8 +132,6 @@ _**Triangulation : The more specific tests you write, the more the code will bec
 
 * In pairs, discuss how TDD felt, what was difficult and what was easier.
 * Tell the other person the most useful thing you learnt today.
-
-
 
 
 

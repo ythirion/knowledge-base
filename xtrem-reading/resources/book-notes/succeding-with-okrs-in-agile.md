@@ -4,19 +4,21 @@ description: from Allan Kelly
 
 # Succeeding with OKRs in Agile
 
-## Pitch <a id="title"></a>
+## Pitch <a href="title" id="title"></a>
 
 OKRs are about goals bigger than the next story. OKRs prioritize purpose and strategy over backlogs. Objectives are big goals; key results are smaller goals that build towards the objective.
 
 Does your agile team get lead astray by burning fires? Do you struggle to keep your agile team focused?
 
-![](../../../.gitbook/assets/image%20%28595%29.png)
+![](<../../../.gitbook/assets/image (596).png>)
 
 ## Infographic
 
-![Succeeding with OKRs in Agile infographic](../../../.gitbook/assets/succeeding-with-okrs-in-agile%20%282%29.png)
+![Succeeding with OKRs in Agile infographic](<../../../.gitbook/assets/succeeding with okrs in agile (2).png>)
 
-{% file src="../../../.gitbook/assets/succeeding-with-okrs-in-agile \(3\).pdf" caption="High Resolution infographic" %}
+{% file src="../../../.gitbook/assets/succeeding with okrs in agile (3).pdf" %}
+High Resolution infographic
+{% endfile %}
 
 ## Notes
 
@@ -52,7 +54,7 @@ Does your agile team get lead astray by burning fires? Do you struggle to keep y
 * Goals bring focus
   * Focus is powerful
 * **OKRs = "Test Driven Management"**
-  * Decide what you want \(Objective\)
+  * Decide what you want (Objective)
   * Next set a series of acceptance criteria : key results
   * Get on and develop
   * Don't consider yourself done until you can pass the tests and meet the objectives
@@ -64,12 +66,12 @@ Does your agile team get lead astray by burning fires? Do you struggle to keep y
   * Each result should be useful in and of itself
 * An objective should have its own wholeness that is more than the sum of its parts
   * Whole objective should create more value than simply the value of the Key Results added together
-* OKRs get reviewed _**at the end of each quarter**_
+* OKRs get reviewed_** at the end of each quarter**_
 * The real benefit is in the outcomes delivered
 * _**Ambition over estimation**_
   * The aim of OKR
     * Not to do everything
-    * **The aim is to be ambitious \(push further\)**
+    * **The aim is to be ambitious (push further)**
   * Teams are not normally expected to complete 100% of their OKRs
     * _**70% is more common**_
   * With OKRs teams are encouraged to **aim high**
@@ -104,20 +106,20 @@ _Some things are more important than OKRs and sometimes those things can't be me
 
 ### OKR History
 
-* Management by Objective - Peter Drucker \(1992\)
+* Management by Objective - Peter Drucker (1992)
   * Managers decide strategic objectives
   * Effort & Resources 
 * OKR - Andy Grove at Intel 
   * Extended MBO with a focus on delivery
 
-| MBOs | OKRs |
-| :--- | :--- |
-| What | What and How |
-| Annual | Quarterly or monthly |
-| Private and siloed | Public and transparent |
-| Top-down | Bottom-up or sideways |
+| MBOs                 | OKRs                             |
+| -------------------- | -------------------------------- |
+| What                 | What and How                     |
+| Annual               | Quarterly or monthly             |
+| Private and siloed   | Public and transparent           |
+| Top-down             | Bottom-up or sideways            |
 | Tied to compensation | Mostly divorce from compensation |
-| Risk-averse | Agressive and aspirational |
+| Risk-averse          | Agressive and aspirational       |
 
 ### Outcomes, value and benefits
 
@@ -141,7 +143,7 @@ Value comes in many different forms
 * Money
   * "Money is the best form of feedback"
 
-![](../../../.gitbook/assets/image%20%28598%29.png)
+![](<../../../.gitbook/assets/image (597).png>)
 
 #### Pieconomics
 
@@ -163,7 +165,7 @@ In [Grow the Pie](https://www.amazon.fr/Grow-Pie-Companies-Deliver-Purpose/dp/11
   * _What targets will the team set for itself ?_
 * Prioritization is not just about deciding what to do
   * It is also deciding **what not to do**
-  * Everything that is not in the OKRs is lower priority \(by definition\)
+  * Everything that is not in the OKRs is lower priority (by definition)
 * OKRs operate within a cycle : prioritize, focus, execute, review
 
 #### Team setting
@@ -183,7 +185,7 @@ In [Grow the Pie](https://www.amazon.fr/Grow-Pie-Companies-Deliver-Purpose/dp/11
   * OKRs serve to provide that purpose
 * OKRs serve to help say "NO"
   * At least "Not Now"
-* 3 is the maximum \(Allan's recommendation\)
+* 3 is the maximum (Allan's recommendation)
   * This rule of thumb serves both for the number of O and the numbers of KRs
 
 #### Priority
@@ -222,7 +224,7 @@ Profit is a side effect of delivering on that purpose and creating value
 * Make the value the objective brings obvious
   * Example : 
     * Retool the delivery pipeline to facilitate CD
-    * **VS** Increase ROI by reducing TTM with a new delivery pipeline and continuous delivery practices
+    * **VS **Increase ROI by reducing TTM with a new delivery pipeline and continuous delivery practices
   * Use the "so that"
 * Avoid boxing yourself into a specific approach or solution
 
@@ -254,14 +256,13 @@ One OKR for the team per quarter : nominated by the team to increase productive 
     * Exemple : Run 3 experiments to increase page views
   * Success is doing the experiment itself and absorbing the learning
   * Like this it makes safer for the team to take on risk
-* _**Hypothesis-driven development**_
+*   _**Hypothesis-driven development**_
 
-  * Template
+    * Template
 
-  ![](../../../.gitbook/assets/image%20%28599%29.png)
+    ![](<../../../.gitbook/assets/image (601).png>)
 
-  * Outcome of those KRs = learning
-
+    * Outcome of those KRs = learning
 * Time-boxed
   * Experiment for 4 weeks for example
 * Survey
@@ -277,7 +278,7 @@ One OKR for the team per quarter : nominated by the team to increase productive 
   * OKRs are everything
     * OKRs = origin of all work and all organization
 
-![](../../../.gitbook/assets/image%20%28596%29.png)
+![](<../../../.gitbook/assets/image (602).png>)
 
 * OKRs everywhere
   * "Will this contribute to achieve the OKR?"
@@ -288,13 +289,13 @@ One OKR for the team per quarter : nominated by the team to increase productive 
 
 #### Traffic lights and status
 
-| Color | Status | Meaning |
-| :--- | :--- | :--- |
-| White | Not started |  |
-| Yellow | On course |  |
-| Green | Achieved | No more work needed |
-| Red | Troubled | Problems encounter |
-| Purple | Abandoned | Team has accepted the goal will not be achieved |
+| Color  | Status      | Meaning                                         |
+| ------ | ----------- | ----------------------------------------------- |
+| White  | Not started |                                                 |
+| Yellow | On course   |                                                 |
+| Green  | Achieved    | No more work needed                             |
+| Red    | Troubled    | Problems encounter                              |
+| Purple | Abandoned   | Team has accepted the goal will not be achieved |
 
 ### OKRs and backlog
 
@@ -322,7 +323,7 @@ One OKR for the team per quarter : nominated by the team to increase productive 
     * More efficient with better quality
 * Option 4 : Objective 0
   * BAU in the OKRs
-  * Objective 0 -&gt; keep the existing system operation within the historic range
+  * Objective 0 -> keep the existing system operation within the historic range
   * Add a 4th OKR for BAU here
 
 ### Beyond the quarter
@@ -343,7 +344,7 @@ OKRs form a link between the big and possibly nebulous strategy and the specific
   * Technical excellence and consistently high quality = key strategy for agile teams
   * **Technical liabilities** over technical debt
     * Better metaphor
-      * Debt has a good side \(buy houses, ...\)
+      * Debt has a good side (buy houses, ...)
 
 ### Leaders
 
@@ -367,7 +368,7 @@ OKRs form a link between the big and possibly nebulous strategy and the specific
 
 * Utility mode vs aspirational mode
 
-![](../../../.gitbook/assets/image%20%28601%29.png)
+![](<../../../.gitbook/assets/image (603).png>)
 
 ### Warnings
 
@@ -382,5 +383,4 @@ Don't link remuneration to OKR outcomes
   * What behaviors would you like from your team members ?
   * What kind of behavior makes work go more smoothly ?
 
-> As with agile, you need to find you own way to OKRs \[...\] be prepared to experiment.
-
+> As with agile, you need to find you own way to OKRs \[...] be prepared to experiment.

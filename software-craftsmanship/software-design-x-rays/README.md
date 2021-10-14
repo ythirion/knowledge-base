@@ -10,13 +10,15 @@ Are you working on a codebase where cost overruns, death marches, and heroic fig
 
 Use statistics and data science to uncover both problematic code and the behavioral patterns of the developers who build your software. This combination gives you insights you can’t get from the code alone. Use these insights to prioritize refactoring needs, measure their effect, find implicit dependencies between different modules, and automatically create knowledge maps of your system based on actual code contributions.
 
-![](../../.gitbook/assets/image%20%28592%29.png)
+![](<../../.gitbook/assets/image (569).png>)
 
 ## Infographic
 
-![Home made infographic from the book](../../.gitbook/assets/software-design-x-rays%20%281%29.png)
+![Home made infographic from the book](<../../.gitbook/assets/Software-Design X-Rays (1).png>)
 
-{% file src="../../.gitbook/assets/software-design-x-rays \(1\).pdf" caption="Hi-resolution infographic" %}
+{% file src="../../.gitbook/assets/Software-Design X-Rays (1).pdf" %}
+Hi-resolution infographic
+{% endfile %}
 
 ## Part I — Prioritize and React to Technical Debt
 
@@ -32,7 +34,7 @@ Technical debt is a metaphor that lets developers explain the need for refactori
 * Technical debt is a strategic business decision rather than a technical one
 
 {% hint style="info" %}
-**Keep a decision log :** 
+**Keep a decision log : **
 
 * Human memory is fragile
 * Cognitive biases are real
@@ -94,7 +96,7 @@ Practices like peer reviews and coding standards help you mitigate the problems 
 
 Sometimes most development activity is focused on a relatively small part of the codebase
 
-![](../../.gitbook/assets/image%20%28591%29.png)
+![](<../../.gitbook/assets/image (572).png>)
 
 * **Change Frequency = a proxy for Interest Rate**
 
@@ -105,7 +107,7 @@ Sometimes most development activity is focused on a relatively small part of the
   * Calculating the change frequency of each file as a proxy for interest rate
   * Using the lines of code as a simple measure of code complexity
 
-![](../../.gitbook/assets/image%20%28570%29.png)
+![](<../../.gitbook/assets/image (574).png>)
 
 #### Use Hotspots to Improve, Not Judge
 
@@ -122,7 +124,7 @@ We can find out how severe a potential problem is via a **complexity trend analy
 
 The trend is calculated by fetching each historic version of a hotspot and calculating the code complexity of each historic revision.
 
-![](../../.gitbook/assets/image%20%28568%29.png)
+![](<../../.gitbook/assets/image (575).png>)
 
 #### What Is Complexity, Anyway?
 
@@ -132,13 +134,13 @@ The trend is calculated by fetching each historic version of a hotspot and calcu
 * The _**indentation-based complexity**_ metric provides one such approach
   * Simple metric that has the advantage of being **language neutral**
 
-![](../../.gitbook/assets/image%20%28576%29.png)
+![](<../../.gitbook/assets/image (576).png>)
 
 #### Use X-Rays to Get Deep Insights into Code
 
 X-Ray gives you a prioritized list of the methods to inspect and, possibly, refactor :
 
-![](../../.gitbook/assets/image%20%28572%29.png)
+![](<../../.gitbook/assets/image (577).png>)
 
 ### Coupling in Time: A Heuristic for the Concept of Surprise
 
@@ -158,10 +160,12 @@ _**Change coupling can helps us design better software as we uncover expensive c
 * Change coupling is different from how we programmers typically talk about coupling.
   * Change coupling is invisible in the code itself
     * We mine it from our code’s history and evolution
-  * Change coupling means that two \(or more\) files change together over time
-    * First coupling criterion : when files are changed within the same commit
+  * Change coupling means that two (or more) files change together over time
+    *   First coupling criterion : when files are changed within the same commit
 
-![](../../.gitbook/assets/image%20%28583%29.png)
+
+
+![](<../../.gitbook/assets/image (578).png>)
 
 > _Change Coupling Both Is and Isn’t Temporal Coupling_
 
@@ -179,10 +183,10 @@ Look for surprising patterns when investigating change coupling
     * Copy-pasted code
     * or—as is often the case—both
 
-![](../../.gitbook/assets/image%20%28584%29.png)
+![](<../../.gitbook/assets/image (579).png>)
 
 {% hint style="success" %}
-**Calculate Change Coupling from the Command Line by using** [**code-maat**](https://github.com/adamtornhill/code-maat)\*\*\*\*
+**Calculate Change Coupling from the Command Line by using **[**code-maat**](https://github.com/adamtornhill/code-maat)****
 {% endhint %}
 
 #### Minimize Your Investigative Efforts
@@ -194,7 +198,7 @@ Change coupling analysis gives us information on how our code grows, which lets 
     * Test Data: We need to model the domain of our tests and express the concept of test data
     * Assertions: We need a specialized assertion statement that encapsulates our test criteria
 
-![](../../.gitbook/assets/image%20%28569%29.png)
+![](<../../.gitbook/assets/image (580).png>)
 
 #### The Power of Language-Neutral Analyses
 
@@ -211,18 +215,18 @@ Refactoring code that’s under heavy development, perhaps even shared between m
 * Proximity focuses on 
   * How well organized your code is with respect to 
     * Readability and change
-* Proximity implies that _**functions that are changed together**_ are _**moved closer together**_. Proximity is both a design principle
+* Proximity implies that _**functions that are changed together **_are _**moved closer together**_. Proximity is both a design principle
 * Proximity principle is a refactoring technique that uses feedback from how our code evolves :
   * By ordering our functions and methods according to our change patterns 
   * _**We communicate information that isn’t expressible in programming-language syntax**_
 
-![](../../.gitbook/assets/image%20%28582%29.png)
+![](<../../.gitbook/assets/image (581).png>)
 
 #### Automate Proximity Recommendations
 
 A proximity refactoring serves as a mental note that the two functions belong together.
 
-![](../../.gitbook/assets/image%20%28585%29.png)
+![](<../../.gitbook/assets/image (582).png>)
 
 ### Refactor Congested Code with the Splinter Pattern
 
@@ -250,7 +254,7 @@ Keep the original method signatures and replace the method bodies with a simple 
 Steps behind an iterative splinter refactoring :
 
 1. _Ensure your tests cover the splinter candidate_ : have an adequate test suite
-2. _Identify the behaviors inside your hotspot :_  look at the names of the methods inside the hotspot / identify code that forms groups of behaviors
+2. _Identify the behaviors inside your hotspot : _ look at the names of the methods inside the hotspot / identify code that forms groups of behaviors
 3. _Refactor for proximity :_ form groups of functions with related behavior inside the larger file, based on the behaviors you identified earlier
 4. _Extract a new module for the behavior with the most development activity_ : use X-Ray
 5. _Delegate to the new module_. Replace the body of the original methods with delegations to your new module
@@ -275,8 +279,8 @@ Stabilize Code by Age :
 
 #### Related advantages
 
-* _Promotes long-term memory models of code_ : Stable packages serve as chunks that remain valid over time, which means our expectations of a piece of code won’t be broken
-* _Lessens cognitive load since there’s less active code_ : The more code you manage to stabilize, the less knowledge you need to keep in your head
+* _Promotes long-term memory models of code _: Stable packages serve as chunks that remain valid over time, which means our expectations of a piece of code won’t be broken
+* _Lessens cognitive load since there’s less active code _: The more code you manage to stabilize, the less knowledge you need to keep in your head
 * _Prioritizes test suites to shorten lead times_ : Identify which parts of the software you can safely skip test runs
 
 #### 3 generations of code
@@ -291,11 +295,11 @@ Dan North claims that we want our code to be either :
 
 **To retain** the information we **need to repeat it**, and with each repetition we’re able to improve our performance by remembering more.
 
-![](../../.gitbook/assets/image%20%28575%29.png)
+![](<../../.gitbook/assets/image (583).png>)
 
 > Each time we revisit mid-aged code we need to relearn its inner workings, which comes at a cost of both time and effort.
 
-![](../../.gitbook/assets/image%20%28577%29.png)
+![](<../../.gitbook/assets/image (584).png>)
 
 ## Part II - Work with Large Codebases and Organizations
 
@@ -316,7 +320,7 @@ T_he scale of a codebase has to be reflected in both the organization of people 
 
 ### Divide and Conquer with Architectural Hotspots
 
-1. _Identify your architectural boundaries:_ 
+1. _Identify your architectural boundaries: _
    * Sometimes those boundaries are documented 
    * If not, you need to reverse-engineer those boundaries, and a good starting point is to _**base them on the folder structure of the codebase**_.
 2. _Run a hotspot analysis on an architectural level :_ 
@@ -326,17 +330,17 @@ T_he scale of a codebase has to be reflected in both the organization of people 
    * Focus on individual files
    * Our analysis scope is smaller since we focus on one subsystem at a time
 
-![](../../.gitbook/assets/image%20%28579%29.png)
+![](<../../.gitbook/assets/image (585).png>)
 
 {% hint style="success" %}
-_Always remember that just because some code is a hotspot, that doesn’t necessarily mean it’s a problem._ 
+_Always remember that just because some code is a hotspot, that doesn’t necessarily mean it’s a problem. _
 {% endhint %}
 
 * A hotspot means 
   * We’ve identified a part of the code that requires our attention 
   * Since it attracts many changes
 * **The more often something is changed**
-  * **The more important it is that the corresponding code is of** 
+  * **The more important it is that the corresponding code is of **
     * High quality so 
     * all those changes are simple and low risk
 
@@ -351,14 +355,14 @@ _Always remember that just because some code is a hotspot, that doesn’t necess
 * Launch X-Ray on
   * Have a prioritized list of refactoring candidates
 
-![](../../.gitbook/assets/image%20%28587%29.png)
+![](<../../.gitbook/assets/image (586).png>)
 
 > There are no hard rules, but with a heuristic you want to inspect the top 10 hotspots in your subsystem.
 
 ### Fight the Normalization of Deviance
 
 {% hint style="success" %}
-_Each time you accept a risk, the deviations become the new normal_. \(see Challenger Launch study by sociologist Diane Vaughan\)
+_Each time you accept a risk, the deviations become the new normal_. (see Challenger Launch study by sociologist Diane Vaughan)
 {% endhint %}
 
 * We have plenty of normalization of deviance in software development :
@@ -382,22 +386,22 @@ _**Complexity trends serve as excellent whistleblowers**_ by giving us an _**unb
   * 10 to 15 percent is common
   * To show your managers how important that code is for your ability to support new features and innovations
 * Follow up with the corresponding complexity trends to explain that the code gets worse over time, which will slow you down
-* Add the people side to your presentation to highlight that the _**hotspots are coordination bottlenecks**_ too.
+* Add the people side to your presentation to highlight that the _**hotspots are coordination bottlenecks **_too.
 
-> Later you can visualize the effects of a refactoring with a steep downward trend of your prioritized hotspot.
+> Later you can visualize the effects of a refactoring with a steep downward trend of your prioritized hotspot. 
 
 ### Beyond Conway’s Law
 
 Interteam communication is an inevitable aspect of building large systems, and thus ease of communication should be a key nonfunctional requirement of any architecture :
 
-![](../../.gitbook/assets/image%20%28588%29.png)
+![](<../../.gitbook/assets/image (587).png>)
 
 * Development productivity increases with better socio-technical congruence
 * Excess coordination needs correlate directly to increased lead times
 
 > The number of authors behind each component provides a shallow indication of coordination needs, and is just a starting point.
 
-![](../../.gitbook/assets/image%20%28578%29.png)
+![](<../../.gitbook/assets/image (588).png>)
 
 #### Rank Code by Diffusion
 
@@ -408,7 +412,7 @@ Interteam communication is an inevitable aspect of building large systems, and t
   * 0 : Single author
   * 1 : the more contributors there are
 
-![](../../.gitbook/assets/image%20%28586%29.png)
+![](<../../.gitbook/assets/image (589).png>)
 
 #### React to Developer Fragmentation
 
@@ -438,7 +442,7 @@ Use the fractal values to :
 
 #### Provide Broad Knowledge Boundaries
 
-![](../../.gitbook/assets/image%20%28573%29.png)
+![](<../../.gitbook/assets/image (590).png>)
 
 Several techniques for it :
 
@@ -450,18 +454,18 @@ The key to finding the right boundaries is to make it a deliberate rather than a
 
 #### Motivation Losses in Teams
 
-> Social loafing is a type of motivation loss that may occur when we feel that the success of our team depends little on our actual effort.
+> Social loafing is a type of motivation loss that may occur when we feel that the success of our team depends little on our actual effort. 
 
 We pretend to do our part of the work, when in reality we just try to look busy and hope our peers keep up the effort.
 
 Several factors can minimize the risk of **social loafing**:
 
 * _Small groups_
-* _Evaluation_ : Code reviews done right have positive motivational effects the _**reviews show that someone else cares about your contribution**_
-* _Leadership by example_ : need to model the behaviors you want to see in others
+* _Evaluation _: Code reviews done right have positive motivational effects the _**reviews show that someone else cares about your contribution**_
+* _Leadership by example _: need to model the behaviors you want to see in others
 * _Visibility_: Recognize each person’s contributions by presenting knowledge maps that show the main contributors behind each module
 
-![](../../.gitbook/assets/image%20%28571%29.png)
+![](<../../.gitbook/assets/image (591).png>)
 
 ### Guide On- and Off-boarding with Social Data
 
@@ -477,13 +481,13 @@ This analysis uses the same data as the knowledge maps; the only difference is t
 * One for people who actively work on the codebase
 * One for people who are about to leave
 
-![](../../.gitbook/assets/image%20%28589%29.png)
+![](<../../.gitbook/assets/image (592).png>)
 
 #### React to Knowledge Loss
 
 When a developer resigns and has a notice period to work out, run this analysis to identify the parts of the system where your organization needs to focus to maintain knowledge.
 
-![](../../.gitbook/assets/image%20%28581%29.png)
+![](<../../.gitbook/assets/image (593).png>)
 
 ### Know the Biases and Workarounds for Behavioral Code Analysis
 
@@ -497,4 +501,3 @@ When a developer resigns and has a notice period to work out, run this analysis 
     * The resulting history erases both 
       * Social information 
       * Change coupling data.
-

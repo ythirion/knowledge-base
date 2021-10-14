@@ -12,17 +12,19 @@ Samman Technical Coaching is **a kind of Agile Coaching that specializes in tech
 
 _The first part of the method is working in an ensemble with development teams, programming in their production codebase. To complement this hands-on mentoring, the second part of the method is short daily "learning hour" sessions to practice particular techniques_. In this book you will learn about the Samman coaching method and how to do it in practice. From the details of daily coaching work to marketing your services and how to find a suitable assignment. It is a practical handbook for an aspiring coach and contains fresh ideas for an experienced coach looking for new ways of working.
 
-![](../.gitbook/assets/image%20%28464%29.png)
+![](<../.gitbook/assets/image (465).png>)
 
 ## Infographic
 
-![Home infographic from the book](../.gitbook/assets/image%20%28471%29.png)
+![Home infographic from the book](<../.gitbook/assets/image (470).png>)
 
-{% file src="../.gitbook/assets/samman-technical-coaching.pdf" caption="Hi-resolution infographic" %}
+{% file src="../.gitbook/assets/Samman Technical Coaching.pdf" %}
+Hi-resolution infographic
+{% endfile %}
 
 ## Foreword by Kent Beck
 
-* "Software development is best seen as a learning process where running programs are the proof of ****learning, rather than a factory or production process. That’s the first idea I found in Samman."
+* "Software development is best seen as a learning process where running programs are the proof of** **learning, rather than a factory or production process. That’s the first idea I found in Samman."
 * "Walking a new path together along with an experienced guide reduces time spent not learning because of fear. That’s the second idea."
 
 ## Introduction
@@ -33,18 +35,18 @@ _The first part of the method is working in an ensemble with development teams, 
 * **Focus ?**
   * Specifically on technical practices 
   * How people write code
-* **Foundation / prerequisite ?** 
+* **Foundation / prerequisite ? **
   * Cultivate good relationships with the people you work with
   * The rest is about effective ways to learn from one another and to change behaviours for the long term.
 * **2 main parts to the method :**
-  * **Learning Hour** : ****the coach uses exercises and active learning techniques to teach the theory and practice of skills like Test-Driven Development and Refactoring
+  * **Learning Hour **:** **the coach uses exercises and active learning techniques to teach the theory and practice of skills like Test-Driven Development and Refactoring
   * **Ensemble Working** : In the Ensemble sessions 
     * Whole team collaborates together with the coach in applying agile development techniques in their usual production codebase
 * **Samman and Ensemble ?**
   * ‘Samman’ word describes this coaching method
     * “Samman” is a Swedish word that means “together”
   * “Ensemble” is a French word meaning “together”
-* Why use those words ? \(no Mob for instance\)
+* Why use those words ? (no Mob for instance)
   * to distinguish this method from other ways to do coaching and make it easier to search for on the internet
 
 ### **Why would an organization engage in Samman Technical Coaching ?**
@@ -53,15 +55,14 @@ _The first part of the method is working in an ensemble with development teams, 
 _To increase business agility and success if a company is building a software product, then the way people write code actually matters quite a lot._
 {% endhint %}
 
-* **Good technical practices** : mean the organization can build new features with a shorter lead
+*   **Good technical practices** : mean the organization can build new features with a shorter lead
 
-  time and higher quality
+    time and higher quality
 
-  * Meeting deadlines 
-  * Deliver reliable software.
+    * Meeting deadlines 
+    * Deliver reliable software.
 
-  _**This brings happier customers and a successful business.**_
-
+    _**This brings happier customers and a successful business.**_
 * Skilled developers will want to work for an organization with high quality code, effective development practices and a healthy culture.
 * The company needs to avoid drowning in technical debt. 
   * If it piles up too much developers will ultimately be unable to deliver any new features in a timely or cost effective manner. 
@@ -77,7 +78,7 @@ The Samman coaching method is also on-the-job, together with developers in their
 
 ### Day in the life of a Samman Technical Coach
 
-![Sample agenda when coaching 2 teams](../.gitbook/assets/image%20%28467%29.png)
+![Sample agenda when coaching 2 teams](<../.gitbook/assets/image (466).png>)
 
 ### Development techniques 
 
@@ -147,7 +148,7 @@ _**Software development these days is a team sport and it doesn’t work to only
   * The word “ensemble” implies
     * Friendly people collaborating
     * Like a group of musicians
-  * Much better describe what this activity is actually like in practice than the word “mob” \(affiliated to gangsters\)
+  * Much better describe what this activity is actually like in practice than the word “mob” (affiliated to gangsters)
 * “typist” instead of “driver”
   * Make it clear the person with the keyboard is not in charge of the direction the group takes
 
@@ -213,7 +214,7 @@ As the ensemble gains experience the facilitator may need to intervene less ofte
 
 #### Other ensemble roles
 
-_As well as typist and navigator, there are other roles that people can take as the need arises._ 
+_As well as typist and navigator, there are other roles that people can take as the need arises. _
 
 * Common one is “_**Researcher**_” : 
   * If the ensemble gets stuck because no-one remembers the exact syntax or library function to use
@@ -301,7 +302,7 @@ Adopt this golden rule : _**We treat everyone with kindness, consideration and r
   * Say ‘Yes, and’ to whatever your colleagues give you.
 * Too much thinking at the keyboard
   * Design should be spoken by the navigator before it is coded by the typist
-* **I think &lt;name&gt; has a good idea we should listen to**
+* **I think \<name> has a good idea we should listen to**
   * Listen to Everyone 
   * Sometimes you get good ideas being spoken but no-one pays attention
 * Consideration means **paying attention**
@@ -348,7 +349,7 @@ Adopt this golden rule : _**We treat everyone with kindness, consideration and r
     * Better designs and ways of working being invented
   * To remain competitive in a fast-moving world, **where you are being paid for knowledge-intensive**, skilled work
     * You must keep learning to stay relevant and useful
-* **Who should come to the Learning Hour?** 
+* **Who should come to the Learning Hour? **
   * In the first place, invite the teams who you are coaching
   * Can have joint sessions depending on teams interests
 
@@ -360,7 +361,7 @@ Adopt this golden rule : _**We treat everyone with kindness, consideration and r
   * Is actually what happens afterwards
   * When people return to their desk
   * Will they be able to apply what they’ve learnt in a useful way?
-  * **Start with the end in mind.** 
+  * **Start with the end in mind. **
   * **What is the outcome you’re hoping to achieve?**
 
 #### Bloom’s taxonomy
@@ -381,14 +382,14 @@ Check Sharon Bowman’s ‘4C’ learning model and her book ‘Training from th
 
 * People are active participants
   * With their own goals and motivations to learn things
-* When you plan a learning hour, you include activities for each of
+*   When you plan a learning hour, you include activities for each of
 
-  the 4C’s:
+    the 4C’s:
 
-  * **Connect**: Get people in the right head-space for learning about the topic together.
-  * **Concept**: Introduce the new skills or ideas or information you want the participants to learn.
-  * **Concrete**: Hands-on exercises to practice skills or figure out how things work.
-  * **Conclusions**: An opportunity for people to consolidate and internalize what they’ve learnt.
+    * **Connect**: Get people in the right head-space for learning about the topic together.
+    * **Concept**: Introduce the new skills or ideas or information you want the participants to learn.
+    * **Concrete**: Hands-on exercises to practice skills or figure out how things work.
+    * **Conclusions**: An opportunity for people to consolidate and internalize what they’ve learnt.
 
 #### Design learning experiences that fit with how the brain works
 
@@ -398,7 +399,7 @@ Check Sharon Bowman’s ‘4C’ learning model and her book ‘Training from th
   * Stores
   * Retrieves and Uses information
 * Some neuroscience learnings :
-  * What you pay attention to is strongly affected by subconscious processes. \(ie out of your conscious control\)
+  * What you pay attention to is strongly affected by subconscious processes. (ie out of your conscious control)
   * What you learn is **filtered through emotions**
     * Stronger emotions are more likely to cause longterm memories to form. 
     * Content that evokes no emotion is less likely to be remembered.
@@ -406,7 +407,7 @@ Check Sharon Bowman’s ‘4C’ learning model and her book ‘Training from th
 
 ### Six ‘trumps’ to help remember useful rules about how the brain works
 
-![](../.gitbook/assets/image%20%28468%29.png)
+![](<../.gitbook/assets/image (468).png>)
 
 * Movement trumps Sitting
   * Learn more when you’re feeling awake
@@ -481,7 +482,7 @@ Each coach has their own perspective and background. Use what you know and put t
 
 ### **Sales Pitch**
 
-![](../.gitbook/assets/image%20%28469%29.png)
+![](<../.gitbook/assets/image (469).png>)
 
 ### Beginning Coaching with a New Organization
 
@@ -500,19 +501,19 @@ Each coach has their own perspective and background. Use what you know and put t
 
 **Kick- of agenda :**
 
-* Team introduction round \(10 minutes\)
-* Architecture overview \(15 minutes\)
+* Team introduction round (10 minutes)
+* Architecture overview (15 minutes)
   * Asked people to sketch the architecture on a piece of paper or a whiteboard.
-* Issues in the codebase \(45 minutes\)
+* Issues in the codebase (45 minutes)
   * Ask them to show a :
-    * Typical unit test \(if there are any\)
-    * Typical automated system or functional test \(if there are any\)
+    * Typical unit test (if there are any)
+    * Typical automated system or functional test (if there are any)
     * Any class or function that you feel is well designed and would like to see more like that
     * A class or function that doesn’t have any unit tests, which you would like to have tests for
     * Any class or function that is notorious for having bugs in.
     * Any code that you’ve been working with recently that represents your current design thinking.
-* Structured discussion \(30-40 minutes\)
-* Takeaways \(5 minutes\)
+* Structured discussion (30-40 minutes)
+* Takeaways (5 minutes)
 
 #### Takeaways
 
@@ -530,7 +531,7 @@ Tip: organize your notes by team.
 * Core skills :
   * Test-Driven Development and Refactoring
   * Software Design with loose coupling and high cohesion
-  * Continuous Integration \(commit and sync many times a day\)
+  * Continuous Integration (commit and sync many times a day)
   * Pair programming, including strong-style pairing and pairing with a more junior developer
   * Designing test cases both at unit level and larger
   * Standing in front of a group and presenting about a topic you care about
@@ -548,5 +549,4 @@ Tip: organize your notes by team.
 
 ### Resources for Samman coaching
 
-[https://sammancoaching.org/](https://sammancoaching.org/)
-
+[https://sammancoaching.org/](https://sammancoaching.org)

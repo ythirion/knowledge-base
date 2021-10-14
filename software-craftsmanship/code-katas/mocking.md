@@ -9,7 +9,7 @@
 
 In groups of 3 answer to this question : in which cases do you use a Mock ?
 
-![](../../.gitbook/assets/image%20%28515%29.png)
+![](<../../.gitbook/assets/image (521).png>)
 
 ## Concepts - 5'
 
@@ -37,7 +37,7 @@ When using mocks you need to always ask yourselves what are your test boundaries
 
 ### How does it work ?
 
-![](../../.gitbook/assets/image%20%28523%29.png)
+![](<../../.gitbook/assets/image (523).png>)
 
 ## Concrete Practice - 45'
 
@@ -45,7 +45,7 @@ We would like to test a system which convert an amount in a specific currency to
 
 _**Some rules are checked during treatment :**_
 
-```text
+```
 - The amount must be equal or greater than zero
 - Service checks if currencies exist
 - The service could throw other types of exception following the context
@@ -53,7 +53,7 @@ _**Some rules are checked during treatment :**_
 - The result must be between 0 and the maximum value
 ```
 
-In our Unit Tests methods the service is not accessible -&gt; we need to “mock” it
+In our Unit Tests methods the service is not accessible -> we need to “mock” it
 
 ### How to ?
 
@@ -77,7 +77,7 @@ In our Unit Tests methods the service is not accessible -&gt; we need to “mock
 ```
 {% endcode %}
 
-* This annotation allows us to use the @Mock annotation \(inject Mocks\)
+* This annotation allows us to use the @Mock annotation (inject Mocks)
   * Learn more about it [here](https://www.baeldung.com/mockito-junit-5-extension)
 
 ```java
@@ -92,7 +92,7 @@ In our Unit Tests methods the service is not accessible -&gt; we need to “mock
 
 When working with existing code and adding test on it : _**use your Code Coverage**_
 
-![](../../.gitbook/assets/image%20%28520%29.png)
+![](<../../.gitbook/assets/image (524).png>)
 
 ### Debrief the exercise - 10'
 
@@ -104,4 +104,3 @@ When working with existing code and adding test on it : _**use your Code Coverag
 * Think about what we did today. 
   * If you had to explain the main idea of mocking to someone else, what would you say?
 * Write your explanation in a sentence or two on a post-it
-

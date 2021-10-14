@@ -15,7 +15,7 @@ Si comme nous vous vous êtes déja posé l’une de ces questions :
 * Comment puis-je avoir des discussions d’égal à égal ?
 * Comment puis-je jauger techniquement mais également humainement un candidat ?
 
-## Le contexte <a id="7f01"></a>
+## Le contexte <a href="7f01" id="7f01"></a>
 
 Nous avons tous, ou presque, dû passer des entretiens d’embauche dans notre vie. En général ce n’est pas un moment très agréable: on nous pose des questions auxquelles nous ne savons pas forcément quoi répondre, comme:
 
@@ -27,7 +27,7 @@ Nous avons tous, ou presque, dû passer des entretiens d’embauche dans notre v
 
 En général voilà comment les candidats réagissent à ce genre de questions :
 
-![](../.gitbook/assets/image%20%28261%29.png)
+![](<../.gitbook/assets/image (274).png>)
 
 Et voici ce que cela provoque comme raisonnement chez le candidat :
 
@@ -38,15 +38,15 @@ Et voici ce que cela provoque comme raisonnement chez le candidat :
 
 Dans ce genre d’entretien, candidat et recruteur sont finalement enfermés dans une lose-lose situation.
 
-### Pour le recruteur <a id="e9ff"></a>
+### Pour le recruteur <a href="e9ff" id="e9ff"></a>
 
 C’est vraiment difficile de démêler le vrai du faux dans le discours du candidat et de découvrir la « vraie » personne.
 
-### Pour le candidat <a id="95e3"></a>
+### Pour le candidat <a href="95e3" id="95e3"></a>
 
-C’est un moment en général désagréable à passer, durant lequel il se sent scruté et extrêmement stressé. Il en ressort en général frustré et plein d’incertitudes \(“est-ce que j’ai réussi ou non ?”\).
+C’est un moment en général désagréable à passer, durant lequel il se sent scruté et extrêmement stressé. Il en ressort en général frustré et plein d’incertitudes (“est-ce que j’ai réussi ou non ?”).
 
-## Qu’en est t il des entretiens techniques ? <a id="5545"></a>
+## Qu’en est t il des entretiens techniques ? <a href="5545" id="5545"></a>
 
 Dans le monde du développement, les entretiens techniques avec les développeurs ressemblent fortement aux entretiens décris ci-dessus : un maximum de questions et un maximum de stress.
 
@@ -64,15 +64,15 @@ Les questions techniques dans le monde du développement ressemblent souvent à 
 * H.T.T.P ?
 * …
 
-![](../.gitbook/assets/image%20%28250%29.png)
+![](<../.gitbook/assets/image (275).png>)
 
-## La gamification au secours des entretiens d’embauche <a id="4c2d"></a>
+## La gamification au secours des entretiens d’embauche <a href="4c2d" id="4c2d"></a>
 
-Avec des collègues nous nous sommes posé de nombreuses questions en nous basant sur nos expériences lors de nos entretiens \(en tant que candidat et/ou recruteur\) :
+Avec des collègues nous nous sommes posé de nombreuses questions en nous basant sur nos expériences lors de nos entretiens (en tant que candidat et/ou recruteur) :
 
-* Comment mettre un candidat **à l’aise** ?
-* Comment avoir des discussions **d’égal à égal** ?
-* Comment jauger **techniquement et également humainement** un candidat ?
+* Comment mettre un candidat** à l’aise **?
+* Comment avoir des discussions** d’égal à égal** ?
+* Comment jauger **techniquement et également humainement **un candidat ?
 
 Nous avons alors pensé à ce que nous utilisions dans nos formations et dans notre coaching quotidien pour répondre à ces questions: la **gamification.**
 
@@ -87,31 +87,31 @@ _Les bénéfices espérés étaient les suivants :_
 * Pas un interviewer mais un maître du jeu / facilitateur en face d’un candidat
 * Libérer les énergies du candidat
 
-## Craftsminator <a id="271d"></a>
+## Craftsminator <a href="271d" id="271d"></a>
 
 {% hint style="success" %}
 En nous inspirant des escape games à base de cartes nous avons créé le jeu “**Craftsminator**” qui permet de tester nos candidats dans un environnement sécurisé.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28244%29.png)
+![](<../.gitbook/assets/image (276).png>)
 
 Le candidat dispose d’une heure pour résoudre les différentes énigmes qui lui sont posées à travers des cartes.
 
-![Exemple de cartes](../.gitbook/assets/image%20%28249%29.png)
+![Exemple de cartes](<../.gitbook/assets/image (280).png>)
 
-Les différentes énigmes ont été conçues afin de mettre en avant l’**appétence** à **l’agilité** et aux bonnes pratiques de développement \(**Software craftsmanship**\). Les **soft skills** des candidats ainsi que leur rapport au ludique sont également testés.
+Les différentes énigmes ont été conçues afin de mettre en avant l’**appétence** à **l’agilité** et aux bonnes pratiques de développement (**Software craftsmanship**). Les **soft skills** des candidats ainsi que leur rapport au ludique sont également testés.
 
-![Craftsminator flow](../.gitbook/assets/image%20%28268%29.png)
+![Craftsminator flow](<../.gitbook/assets/image (279).png>)
 
 Au milieu de l’aventure, les candidats sont amenés à “corriger” un bug et donc faire du **live coding**, ce qui nous permet de comprendre comment ils appréhendent une nouvelle base de code.
 
 Ce format facilite la compréhension des comportements et des schémas de pensée des candidats.
 
-## Nos apprentissages <a id="8576"></a>
+## Nos apprentissages <a href="8576" id="8576"></a>
 
 Après 1 an d’utilisation, voici ce que nous avons appris :
 
-### Le feedback des candidats <a id="79b9"></a>
+### Le feedback des candidats <a href="79b9" id="79b9"></a>
 
 * C’est disruptif
 * Beaucoup plus vivant qu’un entretien classique
@@ -122,9 +122,9 @@ Après 1 an d’utilisation, voici ce que nous avons appris :
 
 En revanche, pour certains “c’est frustrant de ne pas finir”
 
-![](../.gitbook/assets/image%20%28267%29.png)
+![](<../.gitbook/assets/image (278).png>)
 
-### Notre feedback en tant que recruteurs <a id="6a10"></a>
+### Notre feedback en tant que recruteurs <a href="6a10" id="6a10"></a>
 
 On a eu de bien meilleures interactions avec nos candidats :
 
@@ -133,7 +133,7 @@ On a eu de bien meilleures interactions avec nos candidats :
 
 > C’est vraiment plus facile de dé-stresser le candidat via le jeu et c’est donc plus facile pour nous de créer un lien avec lui. Le jeu facilite la création d’un cadre de confiance mais cela requiert de la bienveillance et nécessite l’introduction du droit à l’erreur.
 
-En revanche ce genre d’entretien n’est pas fait pour tout le monde \(certains sont insensibles au jeu par exemple\) c’est pourquoi il est primordial en entretien de demander l’autorisation avant de lancer ce genre d’atelier.
+En revanche ce genre d’entretien n’est pas fait pour tout le monde (certains sont insensibles au jeu par exemple) c’est pourquoi il est primordial en entretien de demander l’autorisation avant de lancer ce genre d’atelier.
 
 Si le candidat n’est pas partant pour ce genre d’approches, il est important d’avoir une boite à outils bien remplie afin d’être capable de rebondir.
 
@@ -146,7 +146,6 @@ Si vous voulez **tester Craftsminator**, vous pouvez télécharger :
 
 {% embed url="https://speakerdeck.com/thirion/craftsminator-liberez-vos-entretiens-dembauche-1fbb2345-9b27-4235-947f-d5e6a82b89bf" %}
 
-\*\*\*\*
+****
 
-\*\*\*\*
-
+****

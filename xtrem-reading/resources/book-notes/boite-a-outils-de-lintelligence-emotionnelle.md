@@ -2,15 +2,15 @@
 
 ## Pitch
 
-Qu’est-ce qui distingue les émotions les unes des autres  ? Pourquoi exprimer ses émotions peut-il avoir un impact positif sur son interlocuteur  ? Comment gérer les manifestations d’émotions sur le lieu de travail  ? Comment apaiser les tensions entre collègues  ? Quelles sont les meilleures façons de prendre soin de soi afin de maintenir son équilibre émotionnel  ? Quelles actions favorisent la confiance  ?  
-   
-Découvrez **58 outils** **indispensables** **pour mieux gérer ses émotions** dans ses relations professionnelles ou personnelles, **favoriser son épanouissement personnel** et **renforcer son efficacité au quotidien**.  
-   
-Chaque outil est traité de façon visuelle sur **2 ou 4 pages** avec illustration, l’essentiel, les objectifs, le contexte d’utilisation, des conseils méthodologiques, les avantages et les précautions à prendre.  
-   
+Qu’est-ce qui distingue les émotions les unes des autres  ? Pourquoi exprimer ses émotions peut-il avoir un impact positif sur son interlocuteur  ? Comment gérer les manifestations d’émotions sur le lieu de travail  ? Comment apaiser les tensions entre collègues  ? Quelles sont les meilleures façons de prendre soin de soi afin de maintenir son équilibre émotionnel  ? Quelles actions favorisent la confiance  ?\
+ \
+Découvrez **58 outils** **indispensables** **pour mieux gérer ses émotions** dans ses relations professionnelles ou personnelles, **favoriser son épanouissement personnel** et **renforcer son efficacité au quotidien**.\
+ \
+Chaque outil est traité de façon visuelle sur **2 ou 4 pages** avec illustration, l’essentiel, les objectifs, le contexte d’utilisation, des conseils méthodologiques, les avantages et les précautions à prendre.\
+ \
 **Des études de cas, quiz et auto-évaluations viennent compléter et approfondir certains outils**.
 
-![](../../../.gitbook/assets/image%20%28127%29.png)
+![](<../../../.gitbook/assets/image (120).png>)
 
 ## Notes
 
@@ -50,5 +50,4 @@ Chaque outil est traité de façon visuelle sur **2 ou 4 pages** avec illustrati
 
 ## Mind map
 
-![](../../../.gitbook/assets/image%20%28134%29.png)
-
+![](<../../../.gitbook/assets/image (121).png>)

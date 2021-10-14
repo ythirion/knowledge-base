@@ -9,7 +9,7 @@ Before talking about PBT, let’s talk about the different test technics we use 
 * Input scope covered: Do we cover the full scope of possible inputs ?
 * Feature compliance: Does the developed feature is compliant with what is expected ?
 
-![](https://miro.medium.com/max/270/1*9v9aKPnhlNU0rUJiimv6NQ.png)
+![](https://miro.medium.com/max/270/1\*9v9aKPnhlNU0rUJiimv6NQ.png)
 
 When we write Unit tests, we often focus on examples especially when using approaches like Specification by examples. 
 
@@ -25,7 +25,7 @@ The limitation of this approach is that we will only focus on the input scope we
 
 Imagine an approach as powerful as Example based testing in terms of feature compliance checking but covering also a much more important numbers of inputs. That’s the promise of PBT.
 
-## What is Property-based testing \(PBT\) ? <a id="364c"></a>
+## What is Property-based testing (PBT) ? <a href="364c" id="364c"></a>
 
 Property-based testing is generative testing. You do not supply specific example inputs with expected outputs.
 
@@ -43,9 +43,9 @@ such that property (x, y, ...)
 is satisfied
 ```
 
-It’s used a lot in the functional world where we favor the writing of pure functions \(same output for a given output without side effects\).
+It’s used a lot in the functional world where we favor the writing of pure functions (same output for a given output without side effects).
 
-### Let’s take an example <a id="5ac5"></a>
+### Let’s take an example <a href="5ac5" id="5ac5"></a>
 
 Imagine we write an addition function that add 2 integers together. 
 
@@ -57,7 +57,7 @@ When I add them
 Then I expect 4
 ```
 
-![](https://miro.medium.com/max/1654/1*1eCbpT78yrAfKMkxacVMyw.png)
+![](https://miro.medium.com/max/1654/1\*1eCbpT78yrAfKMkxacVMyw.png)
 
 With this test we cover 100% of the code but what about edge cases ? Add negative numbers together for example.
 
@@ -86,22 +86,22 @@ such that (add(x, 0) equals x) is satisfied
 
 If we check those properties to all inputs we are confident the implementation is correct. We do not check specific values in output anymore we check the properties.
 
-## A word on QuickCheck <a id="b63c"></a>
+## A word on QuickCheck <a href="b63c" id="b63c"></a>
 
-The first tool used to do PBT was QuickCheck \(in Haskell\) and in this hands-on I will talk only for the behavior of QuickCheck. How does a PBT tool work ?
+The first tool used to do PBT was QuickCheck (in Haskell) and in this hands-on I will talk only for the behavior of QuickCheck. How does a PBT tool work ?
 
 * You define a Property : a function that returns a boolean
-* You pass it to a checker that will generate random inputs \(through the generator in QuickCheck\)
+* You pass it to a checker that will generate random inputs (through the generator in QuickCheck)
 * A shrinker will attempt to shrink the input sequence to the smallest possible that will reproduce the error. The smaller the input, the easier it is to reproduce and fix.
-* The Runner will use the whole to run your predicate \(Property\) with the generated
+* The Runner will use the whole to run your predicate (Property) with the generated
 
-![](https://miro.medium.com/max/554/1*zV-jkgfTSJk1SubHLFVhrQ.png)
+![](https://miro.medium.com/max/554/1\*zV-jkgfTSJk1SubHLFVhrQ.png)
 
 {% hint style="success" %}
 _As soon as there is one value which yields false, the property is said to be falsified, and checking is aborted._
 {% endhint %}
 
-## How to implement PBT in Java ? <a id="a664"></a>
+## How to implement PBT in Java ? <a href="a664" id="a664"></a>
 
 An implementation of QuickCheck is available for Java : [junit-quickcheck](https://pholser.github.io/junit-quickcheck/site/0.9.1/)
 
@@ -130,7 +130,7 @@ An implementation of QuickCheck is available for Java : [junit-quickcheck](https
 
 * Define your properties
 
-{% code title="Addition\_properties.java " %}
+{% code title="Addition_properties.java " %}
 ```java
 import com.pholser.junit.quickcheck.Property;
 import com.pholser.junit.quickcheck.runner.JUnitQuickcheck;
@@ -171,35 +171,35 @@ public class Addition_properties {
 
 Here it is we just have created our first PBT class to test our Calculator.add function.
 
-## Junit-quickcheck <a id="0559"></a>
+## Junit-quickcheck <a href="0559" id="0559"></a>
 
 It supports a lot of types by default :
 
-![](https://miro.medium.com/max/2119/1*oPmm5N0SBvjyyex-1Sn7WQ.png)
+![](https://miro.medium.com/max/2119/1\*oPmm5N0SBvjyyex-1Sn7WQ.png)
 
-### Configure generator <a id="7fc1"></a>
+### Configure generator <a href="7fc1" id="7fc1"></a>
 
 You can specify ranges for your inputs with @Range :
 
-![](https://miro.medium.com/max/2119/1*ZYlNrZlaw6PR75nBMN9uww.png)
+![](https://miro.medium.com/max/2119/1\*ZYlNrZlaw6PR75nBMN9uww.png)
 
 Or you can use assumptions to restrain those values :
 
-![](https://miro.medium.com/max/1100/1*3GbPwLoU7IH8GIkkQTRYUA.png)
+![](https://miro.medium.com/max/1100/1\*3GbPwLoU7IH8GIkkQTRYUA.png)
 
-### Generate complex inputs : <a id="a378"></a>
+### Generate complex inputs : <a href="a378" id="a378"></a>
 
-To instantiate complex objects in input of your functions, you can simply create custom Generators :![](https://miro.medium.com/max/27/1*Vf-otIfhTa9_4JNQKhkNZA.png?q=20)
+To instantiate complex objects in input of your functions, you can simply create custom Generators :![](https://miro.medium.com/max/27/1\*Vf-otIfhTa9\_4JNQKhkNZA.png?q=20)
 
-![](https://miro.medium.com/max/2131/1*Vf-otIfhTa9_4JNQKhkNZA.png)
+![](https://miro.medium.com/max/2131/1\*Vf-otIfhTa9\_4JNQKhkNZA.png)
 
-### Default behaviors : <a id="45f0"></a>
+### Default behaviors : <a href="45f0" id="45f0"></a>
 
 By default it will verify a property in “sampling” mode, it generates 100 tuples of random values for the parameter list of a property, and verifies the property against each of the tuples.
 
 To change the number of generated values, use the trials attribute of the @Property annotation.
 
-## PBT in real life <a id="602c"></a>
+## PBT in real life <a href="602c" id="602c"></a>
 
 Imagine we have an Account class which defines the behavior of a withdraw.
 
@@ -248,9 +248,9 @@ We would like to test the feature compliance. To do so we identify the propertie
 * The account balance should be decremented of the withdrawal amount when _the account balance is sufficient or the overdraft is authorized_
 * The client must not be allowed to withdraw when _the withdraw amount is over the max withdrawal amount of the account OR the account balance is insufficient and overdraft is not authorized for the account_
 
-### Create custom generators <a id="f11c"></a>
+### Create custom generators <a href="f11c" id="f11c"></a>
 
-To write PBTs we need to be able to generate random Inputs \(withdraw\) and random accounts for a given property. To do so we simply create 2 generators :
+To write PBTs we need to be able to generate random Inputs (withdraw) and random accounts for a given property. To do so we simply create 2 generators :
 
 {% code title="Generators.java" %}
 ```java
@@ -283,9 +283,9 @@ public class AccountGenerator extends Generator<Account> {
 
 Those generators are really dumb, we just want them to generate complex data structure by using random values in the constructors.
 
-### Use the generators and assumptions <a id="8f4d"></a>
+### Use the generators and assumptions <a href="8f4d" id="8f4d"></a>
 
-{% code title="account\_properties.java" %}
+{% code title="account_properties.java" %}
 ```java
 @RunWith(JUnitQuickcheck.class)
 public class Account_properties {
@@ -375,13 +375,13 @@ To use a custom generator you can pass it through the @From annotation. We need 
 
 I encapsulate those assumptions in small functions to understand quickly what are the conditions for the properties.
 
-## Another lib — vavr-test <a id="c019"></a>
+## Another lib — vavr-test <a href="c019" id="c019"></a>
 
 You can use another java lib to write PBTs : [vavr-test](https://github.com/vavr-io/vavr-test)
 
 It allows you to write PBT in more functional way. If we write the same properties for the addition it would look like this :
 
-{% code title="Addition\_properties\_with\_vavr\_test.java" %}
+{% code title="Addition_properties_with_vavr_test.java" %}
 ```java
 public class Addition_properties_with_vavr_test {
 
@@ -419,30 +419,29 @@ public class Addition_properties_with_vavr_test {
 
 With vavr-test you don’t need to specify a given Runner nor Property annotation. You specify Property in your test.
 
-## Quickcheck in your favorite language <a id="0194"></a>
+## Quickcheck in your favorite language <a href="0194" id="0194"></a>
 
-![](https://miro.medium.com/max/1240/1*Ff_2n41L0uSrVWw3gbgMQQ.png)
+![](https://miro.medium.com/max/1240/1\*Ff\_2n41L0uSrVWw3gbgMQQ.png)
 
 Source : [https://hypothesis.works/articles/quickcheck-in-every-language/](https://hypothesis.works/articles/quickcheck-in-every-language/)
 
-## Benefits of PBT <a id="c7ad"></a>
+## Benefits of PBT <a href="c7ad" id="c7ad"></a>
 
-![](https://miro.medium.com/max/2068/1*gBIuM0W6rSnspKdSJvE76g.png)
+![](https://miro.medium.com/max/2068/1\*gBIuM0W6rSnspKdSJvE76g.png)
 
-* PBTs are **more general than Example based testing :** 1 PBT can replace many example-based tests
-* PBTs can **reveal edge cases** : through the usage of random values \(Nulls, negative numbers, weird strings,…\)
-* PBTs **ensures deep understanding** of the business : to be able to identify properties we must deeply understand business invariants
+* PBTs are **more general than Example based testing : **1 PBT can replace many example-based tests
+* PBTs can **reveal edge cases** : through the usage of random values (Nulls, negative numbers, weird strings,…)
+* PBTs **ensures deep understanding **of the business : to be able to identify properties we must deeply understand business invariants
 
-## Resources <a id="ba0f"></a>
+## Resources <a href="ba0f" id="ba0f"></a>
 
 If you want to go further I highly recommend you to read and watch those resources :
 
 * [An introduction to property based testing ](https://fr.slideshare.net/ScottWlaschin/an-introduction-to-property-based-testing)_— Scott Wlaschin_
-* [Property-Based Testing for everyone ](https://www.youtube.com/watch?v=5pwv3cuo3Qk)_— Romeu Moura \(Video\)_
-* \_\_[Property-based testing in Java with JUnit-Quickcheck](https://baasie.com/2017/05/03/property-based-testing-in-java-with-junit-quickcheck-part-1-the-basics/) _— Kenny Baas-Schwegler_
-* \_\_[Property Testing with vavr](https://www.baeldung.com/vavr-property-testing)
+* [Property-Based Testing for everyone ](https://www.youtube.com/watch?v=5pwv3cuo3Qk)_— Romeu Moura (Video)_
+* __[Property-based testing in Java with JUnit-Quickcheck](https://baasie.com/2017/05/03/property-based-testing-in-java-with-junit-quickcheck-part-1-the-basics/) _— Kenny Baas-Schwegler_
+* __[Property Testing with vavr](https://www.baeldung.com/vavr-property-testing)
 * [junit-quickcheck documentation](https://github.com/pholser/junit-quickcheck)
 * [https://johanneslink.net/how-to-specify-it/](https://johanneslink.net/how-to-specify-it/)
 
 The source code used in this article is available on github [here](https://github.com/ythirion/pbt-kata).
-

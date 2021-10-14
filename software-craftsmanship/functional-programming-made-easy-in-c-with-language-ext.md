@@ -4,13 +4,13 @@ description: >-
   understand why and how to start using FP paradigms in C#.
 ---
 
-# Functional Programming made easy in C\# with Language-ext
+# Functional Programming made easy in C# with Language-ext
 
-In the title I have written FP and C\# but the question you probably wonder is :
+In the title I have written FP and C# but the question you probably wonder is :
 
-> What the hell should we want to use FP paradigms in an OO language like C\# ?
+> What the hell should we want to use FP paradigms in an OO language like C# ?
 
-Here are some arguments to answer this question \(from my POV\) :
+Here are some arguments to answer this question (from my POV) :
 
 {% hint style="success" %}
 * Write less code and more meaningful one : improved code clarity
@@ -20,33 +20,33 @@ Here are some arguments to answer this question \(from my POV\) :
 * Funnier to write
 {% endhint %}
 
-![](https://miro.medium.com/max/1440/0*P33ZZhUjLG5IPM6t.png)
+![](https://miro.medium.com/max/1440/0\*P33ZZhUjLG5IPM6t.png)
 
-## OK but why don’t we use a FP language instead of C\# ?
+## OK but why don’t we use a FP language instead of C# ?
 
 In companies it’s really hard to change the habits. We don’t all work in the Sillicon Valley and in my reality the latest versions in the production environments are : Java 8, .NET Framework 4, NodeWhat ?, …
 
-In my world organizations are not yet ready to invest in pure FP languages like F\#, Kotlin, Clojure or whatever. They are stuck in legacy code…
+In my world organizations are not yet ready to invest in pure FP languages like F#, Kotlin, Clojure or whatever. They are stuck in legacy code…
 
 To go further on this topic I invite you to watch this video on _**Functional Core, Imperative Shell**_ : [https://discventionstech.wordpress.com/2017/06/30/functional-core-and-imperative-shell/](https://discventionstech.wordpress.com/2017/06/30/functional-core-and-imperative-shell/)
 
-![](../.gitbook/assets/image%20%28364%29.png)
+![](<../.gitbook/assets/image (356).png>)
 
 It’s a pattern that could be really useful to every developers on earth I think.
 
-* **Functional core \(declarative\)** composed of pure functions \(in / out\) and easy to test without any mocks.
-* **Imperative shell or reactive** container the ****service logic that you can test with integration tests
+* **Functional core (declarative) **composed of pure functions (in / out) and easy to test without any mocks.
+* **Imperative shell or reactive **container the** **service logic that you can test with integration tests
 
 Now I have proved the interest of FP in OO language let’s go for a quick lesson.
 
-## Let’s demystify Functional Programming \(FP\) <a id="9146"></a>
+## Let’s demystify Functional Programming (FP) <a href="9146" id="9146"></a>
 
 > “In computer science, **functional programming** is a **programming** paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.” —[ wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 
 Basically FP is all about **functions and immutability :**
 
 * Pure functions
-* Lambda functions \(anonymous\)
+* Lambda functions (anonymous)
 * High order functions
 * Composition
 * Closures
@@ -57,21 +57,21 @@ _If you have already looked at it, you have probably read other words like funct
 
 Let’s start by explaining 3 concepts :
 
-### Immutability <a id="662a"></a>
+### Immutability <a href="662a" id="662a"></a>
 
-We **never** want to **mutate an object in FP we want to avoid side effects so we prefer** creating a new one. ****If we have mutable objects it could be possible for another function to mutate the object we were working on concurrently.
+We **never** want to **mutate an object in FP we want to avoid side effects so we prefer** creating a new one.** **If we have mutable objects it could be possible for another function to mutate the object we were working on concurrently.
 
 {% hint style="success" %}
 Immutability ensures a function remains pure, it makes concurrency much more easy to handle and makes our dev life easier.
 {% endhint %}
 
-### Pure Functions <a id="92b0"></a>
+### Pure Functions <a href="92b0" id="92b0"></a>
 
-A pure function don’t refer to any global state. The same inputs will always get the same output.![Image for post](https://miro.medium.com/max/1148/1*wr5pNa2qjdVvxrD_wUfBjA.png)
+A pure function don’t refer to any global state. The same inputs will always get the same output.![Image for post](https://miro.medium.com/max/1148/1\*wr5pNa2qjdVvxrD_wUfBjA.png)
 
-Combined with **immutable data** types mean you can be sure the same inputs will give the same outputs.
+Combined with **immutable data **types mean you can be sure the same inputs will give the same outputs.
 
-### Higher order function <a id="69d2"></a>
+### Higher order function <a href="69d2" id="69d2"></a>
 
 A function that does at least one of the following:
 
@@ -80,35 +80,35 @@ A function that does at least one of the following:
 
 A higher order function that takes 2 functions as arguments
 
-![](https://miro.medium.com/max/1674/1*cruiC2X46yWBxq6QyFO_rw.png)
+![](https://miro.medium.com/max/1674/1\*cruiC2X46yWBxq6QyFO_rw.png)
 
-Before demonstrating code I highly recommend you to read this great article about FP concepts \(I won’t do better for sure\) :
+Before demonstrating code I highly recommend you to read this great article about FP concepts (I won’t do better for sure) :
 
-[http://adit.io/posts/2013-04-17-functors,\_applicatives,\_and\_monads\_in\_pictures.html\#just-what-is-a-functor,-really?](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+[http://adit.io/posts/2013-04-17-functors,\_applicatives,\_and_monads_in_pictures.html#just-what-is-a-functor,-really?](http://adit.io/posts/2013-04-17-functors,\_applicatives,\_and_monads_in_pictures.html)
 
 Now you know the basics behind FP we can start deep diving into Language-ext.
 
-## What is Language-ext ? <a id="2a7c"></a>
+## What is Language-ext ? <a href="2a7c" id="2a7c"></a>
 
-According to the creator of the lib [**Paul Louth**](https://twitter.com/paullouth) ****: It’s a library that uses and abuses the features of C\# to provide a functional-programming ‘base class library’ that, if you squint, can look like extensions to the language itself.
+According to the creator of the lib [**Paul Louth**](https://twitter.com/paullouth)** **: It’s a library that uses and abuses the features of C# to provide a functional-programming ‘base class library’ that, if you squint, can look like extensions to the language itself.
 
-His desire here is to make programming in C\# much more reliable and to make the engineer’s inertia flow in the direction of declarative and functional code rather than imperative.
+His desire here is to make programming in C# much more reliable and to make the engineer’s inertia flow in the direction of declarative and functional code rather than imperative.
 
 It’s basically “**one lib to rule them all**” : [https://github.com/louthy/language-ext](https://github.com/louthy/language-ext)
 
-![](../.gitbook/assets/image%20%28378%29.png)
+![](<../.gitbook/assets/image (357).png>)
 
-### Language-ext vs LinQ <a id="7536"></a>
+### Language-ext vs LinQ <a href="7536" id="7536"></a>
 
-Yes FP paradigms in C\# exist since the introduction of LinQ. Here is a mapping between some language-ext functionalities and their equivalence in LinQ :
+Yes FP paradigms in C# exist since the introduction of LinQ. Here is a mapping between some language-ext functionalities and their equivalence in LinQ :
 
-![](../.gitbook/assets/image%20%28356%29.png)
+![](<../.gitbook/assets/image (358).png>)
 
 ### **Easy immutable record types**
 
-Implementing immutable data structures is a nightmare in OO languages \(Equals, GetHashCode, IEquatable&lt;A&gt;, IComparer&lt;A&gt;, implementing operators: ==, !=, &lt;, &lt;=, &gt;, &gt;=\).
+Implementing immutable data structures is a nightmare in OO languages (Equals, GetHashCode, IEquatable\<A>, IComparer\<A>, implementing operators: ==, !=, <, <=, >, >=).
 
-That’s why there is a **Record** class in language-ext :
+That’s why there is a **Record **class in language-ext :
 
 ```csharp
 public class User
@@ -159,19 +159,19 @@ public void record_types()
 
 ### **No more out parameters**
 
-Yes in C\# we have out parameters on TryParse for example now it’s finished :
+Yes in C# we have out parameters on TryParse for example now it’s finished :
 
-![](../.gitbook/assets/image%20%28361%29.png)
+![](<../.gitbook/assets/image (359).png>)
 
-### Option <a id="6be8"></a>
+### Option <a href="6be8" id="6be8"></a>
 
-Many functional languages disallow null values, as null-references can introduce hard to find bugs. Option is a type safe alternative to null values. \(it also exists in F\#\).
+Many functional languages disallow null values, as null-references can introduce hard to find bugs. Option is a type safe alternative to null values. (it also exists in F#).
 
 > **Avoid nulls by using an Option**
 
-An Option&lt;T&gt; can be in one of two states :  
-**some** =&gt; the presence of a value  
-**none** =&gt; lack of a value
+An Option\<T> can be in one of two states :\
+**some **=> the presence of a value\
+**none **=> lack of a value
 
 ```csharp
 Option<int> aValue = 2;
@@ -191,13 +191,13 @@ int noneValue = none.IfNone(42); // 42
 
 _**Match**_ : match down to primitive type
 
-_**Map**_ : We can match down to a primitive type, or can stay in the elevated types and do logic using map.
+_**Map** _: We can match down to a primitive type, or can stay in the elevated types and do logic using map.
 
 * Lambda inside map won’t be invoked if Option is in None state
 * Option is a replacement for if statements ie if obj == null
 * Working in elevated context to do logic
 
-### Lists are functors <a id="a157"></a>
+### Lists are functors <a href="a157" id="a157"></a>
 
 We can map them :
 
@@ -208,7 +208,7 @@ new List<int> { 2, 4, 6 }.Map(x => x + 3); // 5,7,9
 List(2, 4, 6).Map(x => x + 3); // 5,7,9
 ```
 
-### Function composition <a id="cf4c"></a>
+### Function composition <a href="cf4c" id="cf4c"></a>
 
 What happens when you apply a function to another function? When you use **map on a function**, you’re just doing **function composition :**
 
@@ -219,17 +219,17 @@ static Func<int, int> Add3 = x => x + 3;
 static int Add5(int x) => Add2.Compose(Add3)(x);
 ```
 
-### Bind <a id="258f"></a>
+### Bind <a href="258f" id="258f"></a>
 
 Monads apply a function that **returns a wrapped value to a wrapped value**. Monads have a function “bind” to do this.
 
 Suppose **half** is a function that only **works on even numbers.**
 
-![](../.gitbook/assets/image%20%28375%29.png)
+![](<../.gitbook/assets/image (360).png>)
 
-What if we feed it a wrapped value? This is where **bind** comes in!
+What if we feed it a wrapped value? This is where **bind **comes in!
 
-![](../.gitbook/assets/image%20%28388%29.png)
+![](<../.gitbook/assets/image (361).png>)
 
 ```csharp
 static Option<double> Half(double x)
@@ -252,7 +252,7 @@ public void chain_bind_monad()
 }
 ```
 
-### Try <a id="fab7"></a>
+### Try <a href="fab7" id="fab7"></a>
 
 Exception handling made easier the use of try. No more needs of ugly try/catch that pollutes the flow of your code you can describe your pipeline in a really readable way.
 
@@ -281,9 +281,9 @@ static Try<bool> PrintStrln(string line)
 }
 ```
 
-Here if something fails, you have the exception in the failure match part. The better part is that **Try** has a brother called **TryAsync** that is demonstrated in the real life example.
+Here if something fails, you have the exception in the failure match part. The better part is that **Try **has a brother called **TryAsync **that is demonstrated in the real life example.
 
-### **Memoization** <a id="5cd6"></a>
+### **Memoization** <a href="5cd6" id="5cd6"></a>
 
 Memoization is some kind of caching, if you memoize a function, it will be only executed once for a specific input.
 
@@ -300,7 +300,7 @@ public void memoization_example()
 }
 ```
 
-### **Partial application** <a id="8c7d"></a>
+### **Partial application** <a href="8c7d" id="8c7d"></a>
 
 Partial application allows you to **create new function from an existing one by setting some arguments.**
 
@@ -316,9 +316,9 @@ public void partial_app_example()
 }
 ```
 
-### **Either** <a id="9015"></a>
+### **Either** <a href="9015" id="9015"></a>
 
-**Either** represents a value of two types, it is either **a left or a right** by convention **left** is the **failure case**, and **right** the **success case.**
+**Either** represents a value of two types, it is either **a left or a right **by convention **left** is the **failure case**, and **right** the **success case.**
 
 ```csharp
 public static Either<Exception, string> GetHtml(string url)
@@ -348,12 +348,12 @@ public void either_example()
 }
 ```
 
-### **Fold vs Reduce \(Aggregate in LinQ\)** <a id="a499"></a>
+### **Fold vs Reduce (Aggregate in LinQ)** <a href="a499" id="a499"></a>
 
-* **Fold** takes an explicit initial value for the accumulator. The accumulator and result type can differ as the accumulator is provided separately.
-* **Reduce** uses the first element of the input list as the initial accumulator value \(just like the Aggregate function\). The accumulator and therefore result type must match the list element type.
+* **Fold **takes an explicit initial value for the accumulator. The accumulator and result type can differ as the accumulator is provided separately.
+* **Reduce **uses the first element of the input list as the initial accumulator value (just like the Aggregate function). The accumulator and therefore result type must match the list element type.
 
-![](../.gitbook/assets/image%20%28374%29.png)
+![](<../.gitbook/assets/image (363).png>)
 
 ```csharp
 [Fact]
@@ -373,7 +373,7 @@ public void fold_vs_reduce()
 }
 ```
 
-### Real life example <a id="2693"></a>
+### Real life example <a href="2693" id="2693"></a>
 
 This example demonstrates the kind of usage you could have of language-ext in application services : **chaining operations / pipelining, improve error handling, no more redundant checks, …**
 
@@ -436,13 +436,13 @@ namespace language_ext.kata.Account
 }
 ```
 
-## Conclusion <a id="d278"></a>
+## Conclusion <a href="d278" id="d278"></a>
 
 > Start using language-ext in your projects is a really good idea. This lib can make your life much more easier.
 >
-> You can see it at your first step to go into the FP world, before one day be able to use a language like Clojure or F\#.
+> You can see it at your first step to go into the FP world, before one day be able to use a language like Clojure or F#.
 
-## Resources <a id="4870"></a>
+## Resources <a href="4870" id="4870"></a>
 
 All the source code is available in my github repository : [https://github.com/ythirion/fp-in-csharp-sandbox](https://github.com/ythirion/fp-in-csharp-sandbox).
 
@@ -450,10 +450,9 @@ All the source code is available in my github repository : [https://github.com/y
 
 If you want to go further :
 
-* _FP in pictures_ : [http://adit.io/posts/2013-04-17-functors,\_applicatives,\_and\_monads\_in\_pictures.html\#just-what-is-a-functor,-really?](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+* _FP in pictures_ : [http://adit.io/posts/2013-04-17-functors,\_applicatives,\_and_monads_in_pictures.html#just-what-is-a-functor,-really?](http://adit.io/posts/2013-04-17-functors,\_applicatives,\_and_monads_in_pictures.html)
 * _Gitter on language-ext_ : [https://gitter.im/louthy/language-ext](https://gitter.im/louthy/language-ext)
 * _Doc and examples_ : [https://github.com/louthy/language-ext/issues](https://github.com/louthy/language-ext/issues)
-* _What’s new in C\# 8_ : [https://medium.com/swlh/how-c-8-helps-software-quality-cfa81a18907f](https://medium.com/swlh/how-c-8-helps-software-quality-cfa81a18907f)
+* _What’s new in C# 8 _: [https://medium.com/swlh/how-c-8-helps-software-quality-cfa81a18907f](https://medium.com/swlh/how-c-8-helps-software-quality-cfa81a18907f)
 * _“functional core, imperative shell” video_ : [https://discventionstech.wordpress.com/2017/06/30/functional-core-and-imperative-shell/](https://discventionstech.wordpress.com/2017/06/30/functional-core-and-imperative-shell/)
-* _**Domain modeling made functional book from Scott Wlaschin**_ : [https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549/ref=sr\_1\_1?crid=FXE4W7BCGETO&keywords=domain+modeling+f%23&qid=1576686914&sprefix=design+thin%2Caps%2C330&sr=8-1](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549/ref=sr_1_1?crid=FXE4W7BCGETO&keywords=domain+modeling+f%23&qid=1576686914&sprefix=design+thin%2Caps%2C330&sr=8-1)
-
+* _**Domain modeling made functional book from Scott Wlaschin**_ : [https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549/ref=sr\_1\_1?crid=FXE4W7BCGETO\&keywords=domain+modeling+f%23\&qid=1576686914\&sprefix=design+thin%2Caps%2C330\&sr=8-1](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549/ref=sr\_1\_1?crid=FXE4W7BCGETO\&keywords=domain+modeling+f%23\&qid=1576686914\&sprefix=design+thin%2Caps%2C330\&sr=8-1)

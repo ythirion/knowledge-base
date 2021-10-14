@@ -6,9 +6,9 @@ description: from Lisa Crispin & Janet Gregory
 
 ## Pitch
 
-Two of the industry’s most experienced agile testing practitioners and consultants, Lisa Crispin and Janet Gregory, have teamed up to bring you the definitive answers to these questions and many others. In **Agile Testing,** Crispin and Gregory define agile testing and illustrate the tester’s role with examples from real agile teams. They teach you how to use the agile testing quadrants to identify what testing is needed, who should do it, and what tools might help. The book chronicles an agile software development iteration from the viewpoint of a tester and explains the seven key success factors  
-of agile testing.  
-  
+Two of the industry’s most experienced agile testing practitioners and consultants, Lisa Crispin and Janet Gregory, have teamed up to bring you the definitive answers to these questions and many others. In **Agile Testing,** Crispin and Gregory define agile testing and illustrate the tester’s role with examples from real agile teams. They teach you how to use the agile testing quadrants to identify what testing is needed, who should do it, and what tools might help. The book chronicles an agile software development iteration from the viewpoint of a tester and explains the seven key success factors\
+of agile testing.\
+\
 Readers will come away from this book understanding
 
 * How to get testers engaged in agile development
@@ -21,7 +21,7 @@ Readers will come away from this book understanding
 
 This book is a must for agile testers, agile teams, their managers, and their customers.
 
-![](../../../.gitbook/assets/image%20%28109%29.png)
+![](<../../../.gitbook/assets/image (64).png>)
 
 ## Notes
 
@@ -67,11 +67,11 @@ This book is a must for agile testers, agile teams, their managers, and their cu
 
 #### Transitioning 
 
-* Audit existing processes \(tools, frameworks, standards,...\)
+* Audit existing processes (tools, frameworks, standards,...)
 * Metrics
   * Starting and ending metrics
   * Daily build results
-  * Defect Tracking System \(DTS\)
+  * Defect Tracking System (DTS)
     * Large and distributed teams
     * Customer support
     * Traceability
@@ -83,7 +83,7 @@ This book is a must for agile testers, agile teams, their managers, and their cu
 
 ### Agile testing quadrants
 
-![](../../../.gitbook/assets/image%20%28106%29.png)
+![](<../../../.gitbook/assets/image (65).png>)
 
 #### 4 parts
 
@@ -172,5 +172,4 @@ This book is a must for agile testers, agile teams, their managers, and their cu
 
 ## Mind map
 
-![](../../../.gitbook/assets/image%20%2837%29.png)
-
+![](<../../../.gitbook/assets/image (66).png>)

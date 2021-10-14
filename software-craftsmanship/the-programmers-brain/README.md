@@ -6,8 +6,8 @@ description: by Felienne Hermans
 
 ## Pitch
 
-**Your brain responds in a predictable way when it encounters new or difficult tasks. This unique book teaches you concrete techniques rooted in cognitive science that will improve the way you learn and think about code.**  
-  
+**Your brain responds in a predictable way when it encounters new or difficult tasks. This unique book teaches you concrete techniques rooted in cognitive science that will improve the way you learn and think about code.**\
+\
 In The Programmer’s Brain: What every programmer needs to know about cognition you will learn:
 
 * Fast and effective ways to master new programming languages
@@ -21,13 +21,15 @@ In The Programmer’s Brain: What every programmer needs to know about cognition
 
 Learn how to optimize your brain’s natural cognitive processes to read code more easily, write code faster, and pick up new languages in much less time. This book will help you through the confusion you feel when faced with strange and complex code, and explain a codebase in ways that can make a new team member productive in days!
 
-![](../../.gitbook/assets/image%20%28658%29.png)
+![](<../../.gitbook/assets/image (655).png>)
 
 ## **Infographic**
 
-![Programmer&apos;s brain infographic by Yoan Thirion](../../.gitbook/assets/programmers-brain%20%281%29.png)
+![Programmer's brain infographic by Yoan Thirion](<../../.gitbook/assets/Programmers brain (1).png>)
 
-{% file src="../../.gitbook/assets/programmers-brain \(1\).pdf" caption="Programmer\'s brain infographic \(Hi resolution\)" %}
+{% file src="../../.gitbook/assets/Programmers brain (2).pdf" %}
+Programmer's brain infographic (Hi resolution)
+{% endfile %}
 
 ## **Part 1. On Reading Code Better**
 
@@ -41,10 +43,10 @@ Learn how to optimize your brain’s natural cognitive processes to read code mo
 * 3 types of confusion in code
   * Lack of knowledge
 
-![](../../.gitbook/assets/image%20%28656%29.png)
+![](<../../.gitbook/assets/image (656).png>)
 
 * Lack of easy-to-access information
-  * The information about exactly how _toBinaryString\(\)_ works is not readily available
+  * The information about exactly how _toBinaryString()_ works is not readily available
   * Needs to be found somewhere else in the code
 
 ```java
@@ -59,32 +61,32 @@ public class BinaryCalculator {
   * You cannot oversee all the small steps that are being executed
   * If you need to understand all the steps, you may likely use a memory aid like intermediate values of variables shown here
 
-![](../../.gitbook/assets/image%20%28657%29.png)
+![](<../../.gitbook/assets/image (657).png>)
 
 #### Different cognitive processes that affect coding
 
-![](../../.gitbook/assets/image%20%28659%29.png)
+![](<../../.gitbook/assets/image (658).png>)
 
 An overview of the three cognitive processes that this book covers: STM, LTM, and working memory.
 
 1. Information coming into your brain. 
 2. Information that proceeds into your STM
-3. Information traveling from the STM into the working memory, where it’s combined with information from the LTM \(arrow 4\).
+3.  Information traveling from the STM into the working memory, where it’s combined with information from the LTM (arrow 4).
 
-   > _Working memory is where the information is processed while you think about it._
+    > _Working memory is where the information is processed while you think about it._
 
 #### Mapping between confusion and cognitive processes
 
-* Lack of knowledge -&gt; Issue in long-term memory 
-* Lack of information -&gt; Issue in short-term memory 
-* Lack of processing power -&gt; Issue in working memory
+* Lack of knowledge -> Issue in long-term memory 
+* Lack of information -> Issue in short-term memory 
+* Lack of processing power -> Issue in working memory
 
 #### Cognitive processes and programming
 
 * Long-term memory
   * First cognitive process that is used while programming is long-term memory
   * This can store your memories for a very long time
-  * Like the **hard drive** of your brain
+  * Like the** hard drive** of your brain
 * Short-term memory
   * Short-term memory is used to briefly hold incoming information
   * The estimates differ, but most scientists agree that just a few items fit in short-term memory, and certainly _**not more than a dozen**_
@@ -105,10 +107,10 @@ An overview of the three cognitive processes that this book covers: STM, LTM, an
 ### 2. Speed Reading for code
 
 {% hint style="info" %}
-Research indicates that almost **60% of programmers’ time** is spent understanding code, rather than writing code.\[[1](https://ieeexplore.ieee.org/abstract/document/7997917)\] Thus, improving how quickly you can read code, without losing accuracy, **can help you improve your programming skills substantially**.
+Research indicates that almost **60% of programmers’ time** is spent understanding code, rather than writing code.\[[1](https://ieeexplore.ieee.org/abstract/document/7997917)] Thus, improving how quickly you can read code, without losing accuracy, **can help you improve your programming skills substantially**.
 {% endhint %}
 
-> "Programs must be written for people to read and only incidentally for machines to execute.” - Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, and Julie Sussman \(MIT Press, 1996\)
+> "Programs must be written for people to read and only incidentally for machines to execute.” - Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, and Julie Sussman (MIT Press, 1996) 
 
 * Reading code is done for a variety of reasons: 
   * to add a feature
@@ -131,10 +133,10 @@ Limited capacity of your short-term memory :
   * De groot chess experiment
     * When comparing the performance of average players with chess master
     * He found that expert players were much better at recreating the chess setups than average players if not random
-    * Experts grouped info in logical ways -&gt; chunks
+    * Experts grouped info in logical ways -> chunks
     * He considered “Sicilian opening,” for example, as one chunk,
       * Which can fit into one slot in short-term memory. 
-  * The theory of chunks also adequately explains why both types of players performed equally in experiment 2 \(random setup\)
+  * The theory of chunks also adequately explains why both types of players performed equally in experiment 2 (random setup)
 
 #### Chunking in code
 
@@ -142,9 +144,9 @@ Limited capacity of your short-term memory :
 The more information you have stored about a specific topic, the easier it is to effectively divide information into chunks.
 {% endhint %}
 
-In 1981 [Katherine McKeithen](https://www.researchgate.net/publication/222462455_Knowledge_Organization_and_Skill_Differences_in_Computer_Programmers), a researcher at Bell Labs, tried to repeat de Groot’s experiments on programmers :
+In 1981 [Katherine McKeithen](https://www.researchgate.net/publication/222462455\_Knowledge_Organization_and_Skill_Differences_in_Computer_Programmers), a researcher at Bell Labs, tried to repeat de Groot’s experiments on programmers :
 
-![](../../.gitbook/assets/image%20%28655%29.png)
+![](<../../.gitbook/assets/image (659).png>)
 
 Main takeaway : _**beginners will be able to process a lot less code than experts**_
 
@@ -162,7 +164,7 @@ Main takeaway : _**beginners will be able to process a lot less code than expert
       * In fact, this is a sign that comments are being read when programmers read code
   * High-level comments like “this function prints a given binary tree in order” 
     * can help programmers to chunk larger pieces of code
-  * Low-level comments such as “increment i \(by one\)” after a line that reads i++;
+  * Low-level comments such as “increment i (by one)” after a line that reads i++;
     * can create a burden on the chunking process
 * **Leave Beacons**
   * Beacons are parts of a program that help a programmer to understand what the code does like a line of code even part of a line of code, that your eye falls on which "Now I see"
@@ -170,7 +172,7 @@ Main takeaway : _**beginners will be able to process a lot less code than expert
     * They often act as a trigger for programmers to confirm or refute hypotheses about the source
   * 2 types
     * Simple beacons :
-      * Self-explaining syntactic code elements : meaningful variable names, operators such as +, &gt;, and && and structural statements such as if, else, and so on can be considered simple beacons too
+      * Self-explaining syntactic code elements : meaningful variable names, operators such as +, >, and && and structural statements such as if, else, and so on can be considered simple beacons too
     * Compound beacons : larger code structures comprised of simple beacons. Compound beacons provide semantic meaning for
 
 {% code title="Beacons example" %}
@@ -226,12 +228,12 @@ _**4 Techniques** that will help you memorize programming concepts better and mo
   * One side has a prompt on it—the thing that you want to learn
   * The other side has the corresponding knowledge on it
 
-![example of flashcards on Brainscape](../../.gitbook/assets/image%20%28661%29.png)
+![example of flashcards on Brainscape](<../../.gitbook/assets/image (660).png>)
 
 _**When to use them ?**_
 
 * Use them often to practice
-* Use Apps like [**Brainscape**](https://www.brainscape.com/), Anki, Quizlet, that allow you to create your own digital flashcards
+* Use Apps like [**Brainscape**](https://www.brainscape.com), Anki, Quizlet, that allow you to create your own digital flashcards
   * They will remind you when to practice again
 * After a few weeks your syntactic vocabulary will have increased
 
@@ -249,7 +251,7 @@ _**Thinning the set of Flashcards**_
   * You can keep a little tally on each card of your right and wrong answers
   * Demonstrate what knowledge is already reliably stored in your long-term memory
 
-![Tally on flashcards](../../.gitbook/assets/image%20%28662%29.png)
+![Tally on flashcards](<../../.gitbook/assets/image (661).png>)
 
 #### How to not forget things
 
@@ -258,7 +260,7 @@ _**Thinning the set of Flashcards**_
   * But it is still a lot shorter than you might think
   * `After 2 days, just 25% of the knowledge remains in your LTM`
 
-![Forgetting curve](../../.gitbook/assets/image%20%28660%29.png)
+![Forgetting curve](<../../.gitbook/assets/image (662).png>)
 
 #### Why do we forget memories?
 
@@ -267,7 +269,7 @@ _**Thinning the set of Flashcards**_
 * Memories in the brain are organized in a network structure
   * Because facts are connected to large numbers of other facts
 
-![on the left, a hierarchical filesystem; on the right, memories organized as a network](../../.gitbook/assets/image%20%28663%29.png)
+![on the left, a hierarchical filesystem; on the right, memories organized as a network](<../../.gitbook/assets/image (663).png>)
 
 * Memories are stored with associations, or relationships to each other
 
@@ -279,7 +281,7 @@ _**Thinning the set of Flashcards**_
   * Will be enough to help your memory in the long run, and it’s also relatively doable!
 
 {% hint style="success" %}
-The biggest takeaway from this section is that the best way that science knows to prevent forgetting is to practice regularly. _****_Each repetition strengthens your memory. 
+The biggest takeaway from this section is that the best way that science knows to prevent forgetting is to practice regularly._** **_Each repetition strengthens your memory. 
 
 After several repetitions spaced out over a long period, the knowledge should remain in your long-term memory forever.
 {% endhint %}
@@ -300,7 +302,7 @@ After several repetitions spaced out over a long period, the knowledge should re
     * Until it becomes virtually impossible to ever forget it
   * _**Retrieval strength**_ : indicates how easy it is to remember something
     * Have you already have the feeling where you’re sure you know something 
-      * a name, a song, a phone number, the syntax of the filter\(\) function in JavaScript
+      * a name, a song, a phone number, the syntax of the filter() function in JavaScript
       * But you can’t quite recall it; the answer is on the tip of your tongue
       * > Information for which the storage strength is high— and retrieval strength is low
 
@@ -334,25 +336,25 @@ _The process of thinking about information that you have just learned is called 
 * What’s the difference between working memory and short-term memory?
   * **Working memory = the short-term memory applied to a problem**
   * **Example :**
-    * Remember a phone number -&gt; use your STM
-    * Add integers -&gt; use your working memory
+    * Remember a phone number -> use your STM
+    * Add integers -> use your working memory
 * What happens in the working memory when you read code?
   * Like the short-term memory, the working memory is only capable of processing between 2 and 6 things at a time
   * In the context of working memory, this capacity is known as the _**cognitive load**_.
 
 Different types of cognitive load :
 
-| Load Type | Description |
-| :--- | :--- |
-| Intrinsic load | How complex the problem is in itself |
-| Extraneous load | What outside distractions add to the problem |
-| Germane load | Cognitive load created by having to store your thought to LTM |
+| Load Type       | Description                                                   |
+| --------------- | ------------------------------------------------------------- |
+| Intrinsic load  | How complex the problem is in itself                          |
+| Extraneous load | What outside distractions add to the problem                  |
+| Germane load    | Cognitive load created by having to store your thought to LTM |
 
 #### Intrinsic cognitive load when reading code
 
 Intrinsic cognitive load is cognitive load caused by features of a problem that the problem contains by nature
 
-Example : A geometry problem in which the lengths of two sides of a triangle are given and the third one needs to be calculated. This can be a problem that is hard to solve, depending on your prior knowledge. However, _**the problem itself cannot be made any simpler without changing it.**_ 
+Example : A geometry problem in which the lengths of two sides of a triangle are given and the third one needs to be calculated. This can be a problem that is hard to solve, depending on your prior knowledge. However, _**the problem itself cannot be made any simpler without changing it. **_
 
 #### Extraneous cognitive load
 
@@ -415,7 +417,7 @@ Optional<Product> product = productList.stream().
   * There is no shame in helping yourself understand code by translating it to a more familiar form
 
 {% hint style="success" %}
-**CODE SYNONYMS ARE GREAT ADDITIONS TO A FLASHCARD DECK** 
+**CODE SYNONYMS ARE GREAT ADDITIONS TO A FLASHCARD DECK **
 
 While there’s no shame in changing code temporarily to aid comprehension, this does point to a limitation in your understanding.
 {% endhint %}
@@ -441,13 +443,13 @@ When you reach the limits of your working memory, you can **use a memory aid** t
 * Open it on a tablet so you can make annotations digitally
 * Circle all the variables
 
-![](../../.gitbook/assets/image%20%28673%29.png)
+![](<../../.gitbook/assets/image (664).png>)
 
 * Link similar variables
   * draw lines between occurrences of the same variable
   * helps you to understand where data is used in the program
 
-![](../../.gitbook/assets/image%20%28672%29.png)
+![](<../../.gitbook/assets/image (665).png>)
 
 * Circle all method/function calls
 * Link methods/functions to their definitions
@@ -473,12 +475,12 @@ A state table focuses on the values of variables rather than the structure of th
    * Rows in the state table represent separate parts of the dependencies
 4. Execute each part of the code and write down the value each variable has afterward in the correct row and column. 
 
-![](../../.gitbook/assets/image%20%28670%29.png)
+![](<../../.gitbook/assets/image (666).png>)
 
-  
+\
 Once you’ve prepared the table, work your way through the code and calculate the new value of each variable for each row in the state table. 
 
-> The process of mentally executing code is called _**tracing or cognitive compiling.**_
+> The process of mentally executing code is called _**tracing or cognitive compiling.**_ 
 
 #### Combining state tables and dependency graphs
 
@@ -491,7 +493,7 @@ These techniques focus on different parts of the code :
 
 ### 5. Reaching a deeper understanding of code
 
-#### Roles of variables \(play a central role\)
+#### Roles of variables (play a central role)
 
 {% hint style="success" %}
 Understanding what types of information variables hold is key to being able to reason about and make changes to code.
@@ -499,131 +501,36 @@ Understanding what types of information variables hold is key to being able to r
 
 The reason that variables are hard to understand is that most programmers do not have a good schema in their long-term memory to relate variables.
 
-With just **11 roles**, you can describe almost all variables : \(distinguished by Sajaniemi\)
+With just **11 roles**, you can describe almost all variables : (distinguished by Sajaniemi)
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Role</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Examples</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Fixed value</td>
-      <td style="text-align:left">Variable whose value does not change after initialization plays the role
-        of a fixed value.</td>
-      <td style="text-align:left">
-        <ul>
-          <li>pi</li>
-          <li>data read from a file</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Stepper</td>
-      <td style="text-align:left">When iterating in a loop : always a variable that is stepping through
-        a list of values</td>
-      <td style="text-align:left">i in for loop</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Flag</td>
-      <td style="text-align:left">A variable used to indicate that something has happened or is the case</td>
-      <td
-      style="text-align:left">
-        <ul>
-          <li>are is_set</li>
-          <li>is_available</li>
-          <li>is_error</li>
-        </ul>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Walker</td>
-      <td style="text-align:left">A walker is a variable that traverses a data structure in a way that is
-        unknown before the loop starts.</td>
-      <td style="text-align:left">a search index in a binary tree</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Most-recent holder</td>
-      <td style="text-align:left">A variable that holds the latest value encountered in going through a
-        series of values.</td>
-      <td style="text-align:left">store the latest line read from a file : line = file.readline()</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Most-wanted holder</td>
-      <td style="text-align:left">Often when you are iterating over a list of values, you are doing that
-        to search for a certain value. The variable that holds that value, or the
-        best value found so far, is what we call a most-wanted holder.</td>
-      <td
-      style="text-align:left">
-        <ul>
-          <li>minimum value</li>
-          <li>maximum value</li>
-          <li>the first value meeting a certain condition</li>
-        </ul>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Gatherer</td>
-      <td style="text-align:left">A variable that collects data and aggregates it into one value.</td>
-      <td
-      style="text-align:left">sum = 0 that uses in a loop</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Container</td>
-      <td style="text-align:left">Any data structure that holds multiple elements that can be added and
-        removed.</td>
-      <td style="text-align:left">
-        <ul>
-          <li>lists</li>
-          <li>arrays</li>
-          <li>trees</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Follower</td>
-      <td style="text-align:left">Some algorithms require you to keep track of a previous or subsequent
-        value. A variable in this role is called a follower, and <em>is always coupled to another variable</em>.</td>
-      <td
-      style="text-align:left">A pointer that points to a previous element in a linked list</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Organizer</td>
-      <td style="text-align:left">
-        <p>Sometimes a variable has to be transformed in some way for further processing.</p>
-        <p>Often, they are temporary variables</p>
-      </td>
-      <td style="text-align:left">Store a sorted version of a given list</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Temporary</td>
-      <td style="text-align:left">
-        <p>Variables that are used only briefly.</p>
-        <p>Used to swap data, or to store the result of a computation that is used
-          multiple times.</p>
-      </td>
-      <td style="text-align:left">often called temp or t</td>
-    </tr>
-  </tbody>
-</table>
+| Role               | Description                                                                                                                                                                                                     | Examples                                                                                                  |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Fixed value        | Variable whose value does not change after initialization plays the role of a fixed value.                                                                                                                      | <ul><li>pi </li><li>data read from a file</li></ul>                                                       |
+| Stepper            | When iterating in a loop : always a variable that is stepping through a list of values                                                                                                                          | i in for loop                                                                                             |
+| Flag               | A variable used to indicate that something has happened or is the case                                                                                                                                          | <ul><li>are is_set</li><li>is_available</li><li>is_error</li></ul>                                        |
+| Walker             | A walker is a variable that traverses a data structure in a way that is unknown before the loop starts.                                                                                                         | a search index in a binary tree                                                                           |
+| Most-recent holder | A variable that holds the latest value encountered in going through a series of values.                                                                                                                         | store the latest line read from a file : line = file.readline()                                           |
+| Most-wanted holder | Often when you are iterating over a list of values, you are doing that to search for a certain value. The variable that holds that value, or the best value found so far, is what we call a most-wanted holder. | <ul><li>minimum value</li><li>maximum value</li><li>the first value meeting a certain condition</li></ul> |
+| Gatherer           | A variable that collects data and aggregates it into one value.                                                                                                                                                 | sum = 0 that uses in a loop                                                                               |
+| Container          | Any data structure that holds multiple elements that can be added and removed.                                                                                                                                  | <ul><li>lists</li><li>arrays</li><li>trees</li></ul>                                                      |
+| Follower           | Some algorithms require you to keep track of a previous or subsequent value. A variable in this role is called a follower, and _is always coupled to another variable_.                                         | A pointer that points to a previous element in a linked list                                              |
+| Organizer          | <p>Sometimes a variable has to be transformed in some way for further processing. </p><p>Often, they are temporary variables </p>                                                                               | Store a sorted version of a given list                                                                    |
+| Temporary          | <p>Variables that are used only briefly. </p><p>Used to swap data, or to store the result of a computation that is used multiple times.</p>                                                                     | often called temp or t                                                                                    |
 
-![Variable roles cheat sheet](../../.gitbook/assets/image%20%28669%29.png)
+![Variable roles cheat sheet](<../../.gitbook/assets/image (667).png>)
 
 
 
 For most professional programmers :
 
-* The roles in Sajaniemi’s framework will be somewhat familiar \(maybe by other names\)
+* The roles in Sajaniemi’s framework will be somewhat familiar (maybe by other names)
 * Rather than introducing new concepts, the purpose of this list is to **give you a new vocabulary to use when discussing variables**.
 
 You can create a set of icons corresponding to the 11 roles that a variable can play according to Sajaniemi’s framework, and use them to mark the roles of variables in unfamiliar code.
 
-![Felienne&apos;s variable roles icons](../../.gitbook/assets/image%20%28676%29.png)
+![Felienne's variable roles icons](<../../.gitbook/assets/image (668).png>)
 
-![](../../.gitbook/assets/image%20%28671%29.png)
+![](<../../.gitbook/assets/image (669).png>)
 
 #### Gaining a deeper knowledge of programs
 
@@ -633,10 +540,10 @@ You can create a set of icons corresponding to the 11 roles that a variable can 
 * 4 steps commonly taken when moving from superficial knowledge of a program to deeper understanding are: 
   1. Find a focal point
      * Start your exploration of the code at a certain focal point. 
-     * It may be the main\(\) method 
+     * It may be the main() method 
   2. Expand knowledge from the focal point.
      * Look for relationships in the code. 
-     * Starting at the focal point, circle all the relevant entities \(variables, methods, and classes\) that play a role 
+     * Starting at the focal point, circle all the relevant entities (variables, methods, and classes) that play a role 
   3. Understand a concept from a set of related entities. 
      * There are several lessons from the lines highlighted
        * Is there a method that is called in several places within the slice you’ve highlighted? 
@@ -655,7 +562,7 @@ Evidence from fMRI about what code does in the brain
 * The regions are BA6, BA21, BA40, BA44, and BA47
   * BA21, BA44, and BA47 are related to natural languages
 
-![](../../.gitbook/assets/image%20%28665%29.png)
+![](<../../.gitbook/assets/image (671).png>)
 
 {% hint style="success" %}
 There are many similarities between reading code and reading natural language, and your ability to learn a natural language can be a predictor of your ability to learn to program.
@@ -673,7 +580,7 @@ There has been a lot of research into effective reading strategies and how to le
 * _**Monitoring**_—Keeping track of your understanding of a text
   * When reading code, it is important to keep track of what you are reading and whether or not you understand it
 
-![](../../.gitbook/assets/image%20%28674%29.png)
+![](<../../.gitbook/assets/image (672).png>)
 
 * _**Determining importance**_—Deciding what parts of a text are most relevant
   * What matters is that you think about which parts of the code are likely to have the most influence on the program’s execution.
@@ -683,11 +590,11 @@ There has been a lot of research into effective reading strategies and how to le
   * One technique that can be helpful for very complex code of which a deeper understanding is needed is to list all operations in which variables are involved.
 * _**Questioning**_—Asking questions about the text at hand 
   * Asking yourself questions while reading code will help you understand the code’s goals and functionality.
-  * Ex : What are the five most central concepts of the code? \(identifier names, themes, classes, or information found in comments\), what strategies did you use to identify the central concepts?
+  * Ex : What are the five most central concepts of the code? (identifier names, themes, classes, or information found in comments), what strategies did you use to identify the central concepts?
 * _**Summarizing**_—Creating a short summary of a text
   * Writing a summary of code in natural language will help you gain a deeper understanding of what’s happening in that code
 
-![](../../.gitbook/assets/image%20%28664%29.png)
+![](<../../.gitbook/assets/image (673).png>)
 
 ### 6. Getting better at solving programming problems
 
@@ -713,7 +620,7 @@ There has been a lot of research into effective reading strategies and how to le
 * When you activate your working memory by thinking about a new programming concept
   * The LTM is also activated and starts a search for relevant information.
 
-![](../../.gitbook/assets/image%20%28668%29.png)
+![](<../../.gitbook/assets/image (674).png>)
 
 _**Transfer of learning**_ happens when you can apply things that you already know in entirely unfamiliar situations. When people are talking about cognitive science and use the term transfer, they almost always mean transfer of learning.
 
@@ -728,24 +635,24 @@ _**Transfer of learning**_ happens when you can apply things that you already kn
 * Near and far transfer :
   * Near transfer happens when knowledge transfers from domains that are seen as close to each other :
     * like calculus and algebra
-    * C\# and Java 
+    * C# and Java 
   * Far transfer when skills transfer between very different domains
     * like Latin and logic
     * Java and Prolog
 
-> Sometimes existing knowledge helps you learn faster or perform new tasks better. This is called **positive transfer**.
+> Sometimes existing knowledge helps you learn faster or perform new tasks better. This is called **positive transfer**. 
 
 #### Misconceptions: bugs in thinking 
 
 * When existing knowledge prevents you from learning something new, we call this **negative transfer**.
   * Wrong assumptions based on previous leraning
-  * _**Ex**_ : Exception in java vs C\#
+  * _**Ex**_ : Exception in java vs C#
     * Similar languages but not identical
-    * Checked Exceptions in java \(exceptions checked at compile-time\)
-      * No try / catch -&gt; will not compile
-    * People from C\# won't realize these exceptions from what the are used to
+    * Checked Exceptions in java (exceptions checked at compile-time)
+      * No try / catch -> will not compile
+    * People from C# won't realize these exceptions from what the are used to
     * Those people have the wrong mental model, but they think they have the right one! 
-* You can use positive transfer to learn new things more effectively by **actively searching for related information in your long-term memory** \(for example, by elaboration, as covered earlier in the book\).
+* You can use positive transfer to learn new things more effectively by **actively searching for related information in your long-term memory** (for example, by elaboration, as covered earlier in the book).
 * You may hold misconceptions, which occur when you are sure you are right but are actually wrong
 * Misconceptions are not always addressed by simply realizing or being told that you are wrong. 
   * For misconceptions to be fixed, you need a new mental model to replace the old, wrong model.
@@ -773,106 +680,26 @@ _**Transfer of learning**_ happens when you can apply things that you already kn
     * Help readers make sense of code
 * Choosing a good name is important
   * Many different researchers have tried to define what makes a variable name good or bad
-  * **Different perspectives** on this question
+  * **Different perspectives **on this question
 
 #### Perspective 1 :  A good name can be defined syntactically
 
 Simon Butler, associate Senior Lecturer at the Open University in the UK, created a list of issues with variable names 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Name</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Example of a bad name</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Capitalization Anomaly</td>
-      <td style="text-align:left">Identifiers should use proper capitalization.</td>
-      <td style="text-align:left">page counter</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Consecutive underscores</td>
-      <td style="text-align:left">Identifiers should not contain multiple consecutive underscores.</td>
-      <td
-      style="text-align:left">page__counter</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Dictionary words</td>
-      <td style="text-align:left">Identifiers should consist of words, and only use abbreviations when they
-        are more commonly used than the full words.</td>
-      <td style="text-align:left">pag_countr</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Number of Words</td>
-      <td style="text-align:left">Identifiers should be composed of between two and four words.</td>
-      <td
-      style="text-align:left">
-        <p>page_counter_</p>
-        <p>converted_and_</p>
-        <p>normalized_value</p>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Excessive words</td>
-      <td style="text-align:left">Identifiers should not be composed out of more than four words.</td>
-      <td
-      style="text-align:left">
-        <p>page_counter_</p>
-        <p>converted_and_</p>
-        <p>normalized_value</p>
-        </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Short Identifier Name</td>
-      <td style="text-align:left">Identifiers should not consist of fewer than eight characters, except
-        for c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z.</td>
-      <td style="text-align:left">P, page</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Enumeration Identifier Declaration Order</td>
-      <td style="text-align:left">Unless there are clear reasons to do so, enumeration types should be declared
-        in alphabetical order.</td>
-      <td style="text-align:left">CardValue = {ACE, EIGHT, FIVE, FOUR, JACK, KING...}</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">External Underscores</td>
-      <td style="text-align:left">Identifiers should not begin or end in an underscore.</td>
-      <td style="text-align:left">__page_counter_</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Identifier Encoding</td>
-      <td style="text-align:left">Type information should not be encoded in identifier names using Hungarian
-        notation or similar.</td>
-      <td style="text-align:left">int_page_counter</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Long Identifier Name</td>
-      <td style="text-align:left">Long identifier names should be avoided where possible.</td>
-      <td style="text-align:left">
-        <p>page_counter_</p>
-        <p>converted_and_</p>
-        <p>normalized_value</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Naming Convention Anomaly</td>
-      <td style="text-align:left">Identifiers should not combine uppercase and lowercase characters in non-standard
-        ways.</td>
-      <td style="text-align:left">Page_counter</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Numeric Identifier Name</td>
-      <td style="text-align:left">
-        <p>Identifiers should not be composed entirely of</p>
-        <p>numeric words or numbers.</p>
-      </td>
-      <td style="text-align:left">FIFTY</td>
-    </tr>
-  </tbody>
-</table>
+| Name                                      | Description                                                                                                                          | Example of a bad name                                               |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| Capitalization Anomaly                    | Identifiers should use proper capitalization.                                                                                        | page counter                                                        |
+| Consecutive underscores                   | Identifiers should not contain multiple consecutive underscores.                                                                     | page\_\_counter                                                     |
+| Dictionary words                          | Identifiers should consist of words, and only use abbreviations when they are more commonly used than the full words.                | pag_countr                                                          |
+| Number of Words                           | Identifiers should be composed of between two and four words.                                                                        | <p>page_counter_ </p><p>converted_and_ </p><p>normalized_value </p> |
+| Excessive words                           | Identifiers should not be composed out of more than four words.                                                                      | <p>page_counter_ </p><p>converted_and_ </p><p>normalized_value </p> |
+| Short Identifier Name                     | Identifiers should not consist of fewer than eight characters, except for c, d, e, g, i, in, inOut, j, k, m, n, o, out, t, x, y, z.  | P, page                                                             |
+| Enumeration Identifier Declaration Order  | Unless there are clear reasons to do so, enumeration types should be declared in alphabetical order.                                 | CardValue = {ACE, EIGHT, FIVE, FOUR, JACK, KING...}                 |
+| External Underscores                      | Identifiers should not begin or end in an underscore.                                                                                | \__page_counter\_                                                   |
+| Identifier Encoding                       | Type information should not be encoded in identifier names using Hungarian notation or similar.                                      | int_page_counter                                                    |
+| Long Identifier Name                      | Long identifier names should be avoided where possible.                                                                              | <p>page_counter_ </p><p>converted_and_ </p><p>normalized_value </p> |
+| Naming Convention Anomaly                 | Identifiers should not combine uppercase and lowercase characters in non-standard ways.                                              | Page_counter                                                        |
+| Numeric Identifier Name                   | <p>Identifiers should not be composed entirely of </p><p>numeric words or numbers. </p>                                              | FIFTY                                                               |
 
 #### Perspective 2 :  Names should be consistent in a codebase
 
@@ -884,14 +711,14 @@ Simon Butler, associate Senior Lecturer at the Open University in the UK, create
 
 It helps make sense of the names you are reading
 
-| Researcher  | Perspective  | Fits cognition because  |
-| :--- | :--- | :--- |
-| Allamanis  | Names should be consistent across a codebase  | Supports chunking  |
-| Butler  | Syntactically similar names  | Lower cognitive load while processing names  |
+| Researcher  | Perspective                                   | Fits cognition because                       |
+| ----------- | --------------------------------------------- | -------------------------------------------- |
+| Allamanis   | Names should be consistent across a codebase  | Supports chunking                            |
+| Butler      | Syntactically similar names                   | Lower cognitive load while processing names  |
 
 #### Clear names help your LTM
 
-![](../../.gitbook/assets/image%20%28666%29.png)
+![](<../../.gitbook/assets/image (675).png>)
 
 * When you read a name, the name firstly will be broken up into separate chunks
 * The name is then sent to the working memory
@@ -900,7 +727,7 @@ It helps make sense of the names you are reading
 
 #### Variable names can contain different types of information to help you understand them
 
-![](../../.gitbook/assets/image%20%28675%29.png)
+![](<../../.gitbook/assets/image (676).png>)
 
 Names can support your thinking about :
 
@@ -916,31 +743,30 @@ Names can support your thinking about :
 
 #### To abbreviate or not to abbreviate ?
 
-Hofmeister \(researcher at the University of Passau\)
+Hofmeister (researcher at the University of Passau)
 
-* 72 professional C\# developers
+* 72 professional C# developers
 * Found that participants found on average **19% more defects per minute** when reading programs in which the identifiers were words
   * Compared to letters and abbreviations.
 
 #### Snake case or camel Case ?
 
-Study investigating the differences in comprehension between variables written in camelCase and those written in snake\_case : [https://ieeexplore.ieee.org/abstract/document/5090039](https://ieeexplore.ieee.org/abstract/document/5090039) :
+Study investigating the differences in comprehension between variables written in camelCase and those written in snake_case : [https://ieeexplore.ieee.org/abstract/document/5090039](https://ieeexplore.ieee.org/abstract/document/5090039) :
 
 * Show that the use of camelCase leads to higher accuracy among both programmers and non-programmers
 * There is a 51.5% higher chance of selecting the right option for identifiers written in the camelCase style.
 
 #### Code with bad names has more bugs
 
-Study available here : [http://oro.open.ac.uk/17007/1/butler09wcreshort\_latest.pdf](http://oro.open.ac.uk/17007/1/butler09wcreshort_latest.pdf)
+Study available here : [http://oro.open.ac.uk/17007/1/butler09wcreshort_latest.pdf](http://oro.open.ac.uk/17007/1/butler09wcreshort_latest.pdf)
 
 #### Feitelson’s three-step model for better variable names
 
 1. Select the concepts to include in the name
    * Domain-specific
-   * Intent of the name : should represent what information the object
+   *   Intent of the name : should represent what information the object
 
-     holds and what it is used for
-
+       holds and what it is used for
    * When you feel the need to write a comment to explain the name
      * wording from the comment should probably be included in the variable name
 2. Choose the words to represent each concept
@@ -954,30 +780,30 @@ Study available here : [http://oro.open.ac.uk/17007/1/butler09wcreshort\_latest.
 
 #### Why code with code smells creates a lot of cognitive load
 
-| Code Smell  | Explanation  | Level  |
-| :--- | :--- | :--- |
-| Long method  | A method consists of many lines of code, performing different calculations.  | Method level  |
-| Long parameter list  | A method has many parameters  | Method level  |
-| Switch statements  | Code contains large switch statements, while polymorphism could also be used to ease the code  | Method level  |
-| Alternative classes with different interfaces  | Two different classes seem different at first glance but have similar fields and methods  | Class level  |
-| Primitive obsession  | Overuse of primitive types in a class  | Class level  |
-| Incomplete library class  | Methods are added to ‘random’ classed instead of to a library class  | Class level  |
-| Large class  | A class has too many methods and fields, and it is not clear what abstraction the class provides.  | Class level  |
-| Lazy class  | A class is doing too little to justify its existence  | Class level  |
-| Data class  | Classes should not contain just data, they should contain methods as well  | Class level  |
-| Temporary field  | Classes should not contain unnecessary temporary fields  | Class level  |
-| Data clumps  | Data are often used in combination belong together and should be stored together in a class or structure  | Class level  |
-| Divergent change  | Code changes should in general be local, preferably to one class. If you have to make many different changes in different places, that indicates a poor structure in the code  | Codebase level  |
-| Feature Envy  | When methods on class A are references a lot from class B, they belong in B and should be moved there.  | Codebase level  |
-| Inappropriate intimacy  | Classes should not be connected to other classes extensively  | Codebase level  |
-| Duplicated code or code clones  | The same or very similar code occurs in multiple different places in a codebase  | Codebase level  |
-| Comments  | Comments should describe why the code is there not what it does  | Codebase level  |
-| Message chains  | Long chains of message calls, where methods call methods call methods, etc | Codebase level  |
-| Middle Man | If a class is delegating too much responsibility, should it exist? | Codebase level |
-| Parallel inheritance | When you make a subclass of one class, you need to make a subclass of another. This indicates that the functionality of both classes might belong in one class. | Codebase level |
-| Refused bequest | When classed inherit behavior that they do not use, the inheritance might not be necessary. | Codebase level |
-| Shotgun surgery | Code changes should in general be local to one class. If you have to make many different changes in different places, that indicates a poor structure in the code | Codebase level |
-| Speculative generality | Do not add code to a codebase “just in case”, only add features that are needed. | Codebase level |
+| Code Smell                                     | Explanation                                                                                                                                                                    | Level           |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| Long method                                    | A method consists of many lines of code, performing different calculations.                                                                                                    | Method level    |
+| Long parameter list                            | A method has many parameters                                                                                                                                                   | Method level    |
+| Switch statements                              | Code contains large switch statements, while polymorphism could also be used to ease the code                                                                                  | Method level    |
+| Alternative classes with different interfaces  | Two different classes seem different at first glance but have similar fields and methods                                                                                       | Class level     |
+| Primitive obsession                            | Overuse of primitive types in a class                                                                                                                                          | Class level     |
+| Incomplete library class                       | Methods are added to ‘random’ classed instead of to a library class                                                                                                            | Class level     |
+| Large class                                    | A class has too many methods and fields, and it is not clear what abstraction the class provides.                                                                              | Class level     |
+| Lazy class                                     | A class is doing too little to justify its existence                                                                                                                           | Class level     |
+| Data class                                     | Classes should not contain just data, they should contain methods as well                                                                                                      | Class level     |
+| Temporary field                                | Classes should not contain unnecessary temporary fields                                                                                                                        | Class level     |
+| Data clumps                                    | Data are often used in combination belong together and should be stored together in a class or structure                                                                       | Class level     |
+| Divergent change                               | Code changes should in general be local, preferably to one class. If you have to make many different changes in different places, that indicates a poor structure in the code  | Codebase level  |
+| Feature Envy                                   | When methods on class A are references a lot from class B, they belong in B and should be moved there.                                                                         | Codebase level  |
+| Inappropriate intimacy                         | Classes should not be connected to other classes extensively                                                                                                                   | Codebase level  |
+| Duplicated code or code clones                 | The same or very similar code occurs in multiple different places in a codebase                                                                                                | Codebase level  |
+| Comments                                       | Comments should describe why the code is there not what it does                                                                                                                | Codebase level  |
+| Message chains                                 | Long chains of message calls, where methods call methods call methods, etc                                                                                                     | Codebase level  |
+| Middle Man                                     | If a class is delegating too much responsibility, should it exist?                                                                                                             | Codebase level  |
+| Parallel inheritance                           | When you make a subclass of one class, you need to make a subclass of another. This indicates that the functionality of both classes might belong in one class.                | Codebase level  |
+| Refused bequest                                | When classed inherit behavior that they do not use, the inheritance might not be necessary.                                                                                    | Codebase level  |
+| Shotgun surgery                                | Code changes should in general be local to one class. If you have to make many different changes in different places, that indicates a poor structure in the code              | Codebase level  |
+| Speculative generality                         | Do not add code to a codebase “just in case”, only add features that are needed.                                                                                               | Codebase level  |
 
 #### How code smells harm cognition
 
@@ -1015,11 +841,11 @@ She studied their occurrence in 7 open-source projects :
 
 * Cognitive load = the overloading of the working memory
 * How to measure it ?
-  * PAAS scale : participants are asked to self-rate the cognitive load on this nine-point scale \( from "very, very low mental effort" to "very high mental effort"\)
+  * PAAS scale : participants are asked to self-rate the cognitive load on this nine-point scale ( from "very, very low mental effort" to "very high mental effort")
   * Skin based measurement : skin temperature / sweat
   * Brain based measurement : fMRI scanner
   * Electroencephalogram
-  * Functional near infra-read spectroscopy \(FNIRS\)
+  * Functional near infra-read spectroscopy (FNIRS)
 * Results from the fNIRS device :
   * Presence of linguistic anti-patterns in the source code significantly increases the average oxygenated blood flow that a participant experiences
   * aka cognitive load that is induced by the snippet is higher
@@ -1028,7 +854,7 @@ She studied their occurrence in 7 open-source projects :
 
 * When reading a conflicting name
   * The wrong information will be presented to you
-  * Ex : reading a function name retrieveElements\(\) 
+  * Ex : reading a function name retrieveElements() 
     * Think of information on functions returning a list of things
     * Gives you the idea you could sort, filter, or slice the returning element
     * While that is not true for a single element
@@ -1054,18 +880,18 @@ How to ?
 #### Types of memories that play a role in problem solving
 
 * LTM can store different types of memory :
-  * **Procedural** \(or implicit\) memory showcases 
+  * **Procedural** (or implicit) memory showcases 
     * **How to do something**
-    * **Ex :** How to run a bike
-  * **Declarative** \(explicit\) memory consists of memories we are **explicitly aware of \(facts you can remember\)**, divided into things :
+    * **Ex : **How to run a bike
+  * **Declarative** (explicit) memory consists of memories we are **explicitly aware of (facts you can remember)**, divided into things :
     * You have experienced and that are stored in **episodic** memory
       * memories of experiences
-      * **Ex** :  -&gt; meeting your spouse
+      * **Ex** :  -> meeting your spouse
     * Facts you know that are stored in **semantic** memory
       * Memory for meanings, concepts, facts
       * **Ex** : 5 x 7 = 35
 
-![](../../.gitbook/assets/image%20%28677%29.png)
+![](<../../.gitbook/assets/image (677).png>)
 
 #### What types of memories play a role when you solve problems ?
 
@@ -1073,15 +899,15 @@ How to ?
 Research shows that especially **experts** **heavily rely on episodic memory** when solving problems : instead of finding a new solution, they rely on solutions that have previously worked for similar problems.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28681%29.png)
+![](<../../.gitbook/assets/image (678).png>)
 
 * Unlearning :
   * Having a lot of implicit memory can harm your flexibility
     * Ex : once you have learned how to touch type on a Qwerty keyboard, learning to use a Dvorak keyboard will be harder than if you had never learned Qwerty
-  * Unlearning implicit memory &gt; learned a second programming language with a syntax quite different from the first programming language that you learned
-    * Moving from C\# to Java
+  * Unlearning implicit memory > learned a second programming language with a syntax quite different from the first programming language that you learned
+    * Moving from C# to Java
 
-#### Technique 1 : Automatization \(creating implicit memories\)
+#### Technique 1 : Automatization (creating implicit memories)
 
 {% hint style="success" %}
 Once you have **practiced a skill so many times** that you can do it without thinking about it, like walking, reading, or tying your shoelaces, we say that you have **automatized this skill**.
@@ -1098,15 +924,15 @@ Automatization of programming skills is _**key to being able to solve larger and
     * That is why it is called the cognitive phase. 
   * **Associative phase** : you need to actively repeat the new information until patterns of response emerge. 
     * You see an opening bracket and you get nervous if you do not see the closing one 
-  * **Autonomous phase** : In the autonomous phase \(also called the procedural phase\) the skill is perfected. 
+  * **Autonomous phase **: In the autonomous phase (also called the procedural phase) the skill is perfected. 
     * **Ex** : you have reached the autonomous phase when you index into a list and you always do it correctly, no matter the context, the data type or the operations on the list.
     * Here you have automatized the skill 
 
-![](../../.gitbook/assets/image%20%28678%29.png)
+![](<../../.gitbook/assets/image (679).png>)
 
-**Automatization will make you program quicker** 
+**Automatization will make you program quicker **
 
-* By creating a large repository of techniques \(skeptics might call them “tricks”\) 
+* By creating a large repository of techniques (skeptics might call them “tricks”) 
   * we can create an ever-growing toolbox of new techniques 
 * Gordon Logan, an American psychologist
   * Automatization is done by retrieving memories _from the episodic part of the long-term memory_
@@ -1143,7 +969,7 @@ Automatization of programming skills is _**key to being able to solve larger and
       * Children in Group 2 also performed better on different problems
       * For which calculations rules could be used which were present in the recipe, like subtracting the same value from both sides of an equation or dividing both sides of the equation by the same
 
-![](../../.gitbook/assets/image%20%28680%29.png)
+![](<../../.gitbook/assets/image (680).png>)
 
 #### Using worked examples in your working life
 
@@ -1166,28 +992,28 @@ We have seen that explicitly studying code, plus studying the process of how it 
   * CDN describes 5 activities
     * **Searching** : looking through a code base, searching for a specific piece of information
       * Location of a bug
-      * Calls of a certain method or the location of something \(variables, ...\)
+      * Calls of a certain method or the location of something (variables, ...)
       * Mainly hard on your short-term memory
       * _**Best supported by making notes to offload some of the memories to paper, or to a separate document on your code**_
-    * **Comprehension** : reading and executing code to gain an understanding of its functionality
+    * **Comprehension **: reading and executing code to gain an understanding of its functionality
       * Running test code as complement
     * **Transcription** : the activity where you are “just coding”. 
       * You have a concrete plan of what you want to add or change to the code base, and you are going to do just that.
-    * **Incrementation** : mix of all of the above
+    * **Incrementation **: mix of all of the above
       * adding a new feature
         * Likely to include both :
-          * searching for the location\(s\) to add code
+          * searching for the location(s) to add code
           * comprehending the existing code to understand where to add code and how to do that
       * if you know the code base very well, your working memory and short-term memory might not be impacted by searching and comprehending the code
     * **Exploration** : you are in essence sketching with code. 
       * Have a vague idea of where you want to go
       * But by the act of programming you are gaining clarity about the domain of the problem and about the programming constructs that you will need to use
 
-![activities and the memory systems they use most](../../.gitbook/assets/image%20%28682%29.png)
+![activities and the memory systems they use most](<../../.gitbook/assets/image (681).png>)
 
 #### Programmer, interrupted
 
-* About 20 percent of a developer’s time is spent on interrupts \(Van Solingen study\)
+* About 20 percent of a developer’s time is spent on interrupts (Van Solingen study)
 * According to [Parnin’s study](ttps://ieeexplore.ieee.org/document/5090030) :
   * The average programmer will have just one uninterrupted two-hour session in a day
 
@@ -1203,7 +1029,7 @@ When interrupted during an edit of a method, only 10% of times programmers could
 
 3 techniques :
 
-* **Store your mental model** :
+* **Store your mental model **:
   * Nakagawa’s results showed a warm-up period in comprehension activities :
     * Spent on building a mental model of the code at hand
     * If parts of the model are stored apart from the code, that can help quickly regain your mental model.
@@ -1220,7 +1046,7 @@ When interrupted during an edit of a method, only 10% of times programmers could
 * **Label subgoals** 
   * explicitly write down into what small steps a problem can be divided.
 
-![](../../.gitbook/assets/image%20%28683%29.png)
+![](<../../.gitbook/assets/image (682).png>)
 
 #### When to interrupt a programmer?
 
@@ -1236,93 +1062,21 @@ Be interrupted at more convenient times with FlowLight :
 
 Cognitive Dimensions of Notations :
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Dimension</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Error-proneness</td>
-      <td style="text-align:left">In some programming languages it is easier to make a mistake than in other
-        languages (dynamic languages like JS). inconsistent conventions, a lack
-        of documentation or vague names.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Consistency</td>
-      <td style="text-align:left">Another way to examine how people will interact with a programming language
-        or codebase is consistency: how similar are similar things?</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Diffuseness</td>
-      <td style="text-align:left">How much room or space a programming construct takes, not only concern
-        the number of lines of code, you could also consider how many chunks the
-        code consists of</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Hidden dependencies</td>
-      <td style="text-align:left">
-        <p>indicates to what extent dependencies are visible to the user.</p>
-        <p>Ex : HTML page with a button controlled by JavaScript, which is stored
-          in a different file.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Provisionality</td>
-      <td style="text-align:left">How easy it is to &apos;think using the tool&apos;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Viscosity</td>
-      <td style="text-align:left">
-        <p>how hard it is to make changes in a certain system.</p>
-        <p>Typically, codebases written in dynamically typed languages are a bit
-          easier to change.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Progressive evaluation</td>
-      <td style="text-align:left">how easy it is in a given system to check or execute partial work.Some
-        programming systems allow programmers to do live programming</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Role expressiveness</td>
-      <td style="text-align:left">how easy it is to set the role of different code parts in a program. Brackets
-        at the end of a function are an example of role expressiveness.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Closeness of mapping</td>
-      <td style="text-align:left">how close the programming language or the code is to the domain in which
-        problems are solved</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Hard mental operations</td>
-      <td style="text-align:left">Some systems require a user to think very hard, to perform hard mental
-        operations, outside of the system. For example, asking users to memorize
-        a large number of parameters to call in the right order is a hard mental
-        operation</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Secondary notation</td>
-      <td style="text-align:left">indicates the possibility for the programmer to add extra meaning to code,
-        which is not in the formal specification.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Abstraction</td>
-      <td style="text-align:left">describes whether a user of your system can create their own abstractions
-        that are as powerful as the build-in abstractions.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Visibility</td>
-      <td style="text-align:left">
-        <p>how easy it is to see different parts of a system.</p>
-        <p>In a codebase, it can be hard to see what classes the codebase consists
-          of, especially if code is divided over different files.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Dimension              | Description                                                                                                                                                                                                                        |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Error-proneness        | In some programming languages it is easier to make a mistake than in other languages (dynamic languages like JS). inconsistent conventions, a lack of documentation or vague names.                                                |
+| Consistency            | Another way to examine how people will interact with a programming language or codebase is consistency: how similar are similar things?                                                                                            |
+| Diffuseness            | How much room or space a programming construct takes, not only concern the number of lines of code, you could also consider how many chunks the code consists of                                                                   |
+| Hidden dependencies    | <p>indicates to what extent dependencies are visible to the user. </p><p>Ex : HTML page with a button controlled by JavaScript, which is stored in a different file.</p>                                                           |
+| Provisionality         | How easy it is to 'think using the tool'                                                                                                                                                                                           |
+| Viscosity              | <p>how hard it is to make changes in a certain system. </p><p>Typically, codebases written in dynamically typed languages are a bit easier to change.</p>                                                                          |
+| Progressive evaluation | how easy it is in a given system to check or execute partial work.Some programming systems allow programmers to do live programming                                                                                                |
+| Role expressiveness    | how easy it is to set the role of different code parts in a program. Brackets at the end of a function are an example of role expressiveness.                                                                                      |
+| Closeness of mapping   | how close the programming language or the code is to the domain in which problems are solved                                                                                                                                       |
+| Hard mental operations | Some systems require a user to think very hard, to perform hard mental operations, outside of the system. For example, asking users to memorize a large number of parameters to call in the right order is a hard mental operation |
+| Secondary notation     | indicates the possibility for the programmer to add extra meaning to code, which is not in the formal specification.                                                                                                               |
+| Abstraction            | describes whether a user of your system can create their own abstractions that are as powerful as the build-in abstractions.                                                                                                       |
+| Visibility             | <p>how easy it is to see different parts of a system. </p><p>In a codebase, it can be hard to see what classes the codebase consists of, especially if code is divided over different files.</p>                                   |
 
 #### Using CDN to improve your codebase
 
@@ -1341,21 +1095,21 @@ _**Examples**_ :
 
 #### Dimensions and activities
 
-| Dimension  | Helps  | Harms  |
-| :--- | :--- | :--- |
-| Error-Proneness  | Incrementation  |  |
-| Consistency  | Searching, Comprehension  | Transcription  |
-| Diffuseness  | Searching  |  |
-| Hidden Dependencies  | Searching  |  |
-| Provisionality  | Exploration  |  |
-| Viscosity  | Transcription, Incrementation  |  |
-| Progressive evaluation  | Exploration  |  |
-| Role expressiveness  | Comprehension  |  |
-| Closeness of mapping  | Incrementation  |  |
-| Hard mental operations  | Transcription, Incrementation, Exploration  |  |
-| Secondary Notation  | Searching  |  |
-| Abstraction  | Comprehension  | Exploration  |
-| Visibility  | Comprehension  |  |
+| Dimension               | Helps                                       | Harms          |
+| ----------------------- | ------------------------------------------- | -------------- |
+| Error-Proneness         | Incrementation                              |                |
+| Consistency             | Searching, Comprehension                    | Transcription  |
+| Diffuseness             | Searching                                   |                |
+| Hidden Dependencies     | Searching                                   |                |
+| Provisionality          | Exploration                                 |                |
+| Viscosity               | Transcription, Incrementation               |                |
+| Progressive evaluation  | Exploration                                 |                |
+| Role expressiveness     | Comprehension                               |                |
+| Closeness of mapping    | Incrementation                              |                |
+| Hard mental operations  | Transcription, Incrementation, Exploration  |                |
+| Secondary Notation      | Searching                                   |                |
+| Abstraction             | Comprehension                               | Exploration    |
+| Visibility              | Comprehension                               |                |
 
 ### 13. How to onboard new developers 
 
@@ -1384,13 +1138,13 @@ One of the reasons that more senior people often struggle with effectively teach
   * Incrementing the codebase with a new feature
 * During an onboarding process, it is best to specifically choose activities in each of the five categories, and have newcomers **do them one by one**.
 
-| Activity  | Example use to support onboardees  |
-| :--- | :--- |
-| Exploration  | Browsing the codebase to get a general sense of the codebase  |
-| Searching  | Find a class that implements a certain interface  |
-| Transcription  | Give the newcomer a clear plan to implement a certain method which has to be implemented  |
-| Comprehension  | Understand aspects of the code, for example summarize a specific method in natural language  |
-| Incrementation  | Add a feature to an existing class, including the creation of the plan for the feature.  |
+| Activity        | Example use to support onboardees                                                            |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| Exploration     | Browsing the codebase to get a general sense of the codebase                                 |
+| Searching       | Find a class that implements a certain interface                                             |
+| Transcription   | Give the newcomer a clear plan to implement a certain method which has to be implemented     |
+| Comprehension   | Understand aspects of the code, for example summarize a specific method in natural language  |
+| Incrementation  | Add a feature to an existing class, including the creation of the plan for the feature.      |
 
 **Support the memory of the onboardee**
 
@@ -1398,13 +1152,13 @@ One of the reasons that more senior people often struggle with effectively teach
   * Prepare the onboarding process for newcomers by deeply understanding the relevant information that plays a role when working with the codebase
   * Separate domain learning from exploring code
 
-![](../../.gitbook/assets/image%20%28679%29.png)
+![](<../../.gitbook/assets/image (683).png>)
 
 #### Understanding is a better welcome task than building
 
 If you want a newcomer to understand a certain piece of the code, ask them to understand a piece rather than giving them an implementation task. 
 
-For example, ask them to write a summary of an existing class or write down all classes involved in executing a certain feature.   
+For example, ask them to write a summary of an existing class or write down all classes involved in executing a certain feature. \
 
 
 #### Support the WTM : draw diagrams
@@ -1420,4 +1174,3 @@ Another technique you can use to onboard newcomers is to read code as a team col
 * **Visualizing.** Drawing diagrams of the read text to deepen understanding. 
 * **Questioning.** Asking questions about the text at hand. 
 * **Summarizing.** Creating a short summary of text. 
-

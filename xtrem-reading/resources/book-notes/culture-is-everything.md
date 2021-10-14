@@ -10,19 +10,21 @@ How One Company Is Redefining The Meaning Of Going To Work
 
 Tristan White’s story started like many others. He had a dream to work in a job that inspired him. He didn’t find that job, so he created it. 
 
-In 2004, The Physio Co \(TPC\) was born with one team member: Tristan White. In the thirteen years since, TPC has become a remarkable healthcare success story based upon fast growth and a thriving, systemized company culture. 
+In 2004, The Physio Co (TPC) was born with one team member: Tristan White. In the thirteen years since, TPC has become a remarkable healthcare success story based upon fast growth and a thriving, systemized company culture. 
 
 Tristan’s obsession with creating an inspiring place to work for himself and others has resulted in more than a decade of learning, testing and refining. If you’ve ever wondered how to build and sustain a thriving company culture, the Culture Is Everything system developed by Tristan White and The Physio Co team is your answer. 
 
 The Physio Co story and Culture Is Everything system explained in this book will give you the confidence and knowledge to create a strong culture in your very own business or team.
 
-![](../../../.gitbook/assets/image%20%28446%29.png)
+![](<../../../.gitbook/assets/image (445).png>)
 
 ## Infographic
 
-![](../../../.gitbook/assets/culture-is-everything.jpg)
+![](<../../../.gitbook/assets/Culture is everything.jpg>)
 
-{% file src="../../../.gitbook/assets/culture-is-everything \(1\).pdf" caption="High resolution infographic" %}
+{% file src="../../../.gitbook/assets/Culture is everything (1).pdf" %}
+High resolution infographic
+{% endfile %}
 
 ## Notes
 
@@ -36,11 +38,11 @@ I believe :
 * We enjoy work when there are defined boundaries around what we should be doing and we have some freedom around how to do it. 
 * Every team, business and organisation can create this ‘freedom within boundaries’ environment that is
 
-### 1\) Discover the Core
+### 1) Discover the Core
 
 #### Core purpose
 
-> _**A core purpose is the reason an organisation exists**_
+> _**A core purpose is the reason an organisation exists **_
 
 * Ref "Good to Great", by Jim Collins 
 * How to ? 
@@ -48,7 +50,7 @@ I believe :
   * It has to be something that could be as valid a hundred years from now as it is today. 
   * It should help you think expansively about what you could do but aren't doing. 
   * It should help you decide what not to do. 
-  * It has to be truly authentic to your company. \(Teams that fail on this important point are often the ones that really don’t stand for anything and never will.\) 
+  * It has to be truly authentic to your company. (Teams that fail on this important point are often the ones that really don’t stand for anything and never will.) 
 * At Physio CO : _**"to help seniors stay mobile, safe and happy"**_
 
 #### 3 to 5 core values
@@ -82,18 +84,18 @@ I believe :
 * A values-based business, results in a commitment that core values become the basis of everything.
 
 {% hint style="success" %}
-**The importance of catching people doing something right \(not only notice them when something wrong\) - One Minute Manager**
+**The importance of catching people doing something right (not only notice them when something wrong) - One Minute Manager**
 {% endhint %}
 
-* **How to ?** 
+* **How to ? **
   * MVP Program
   * Sharing stories of team members living core values and then celebrating their successes
     * Consistent language 
     * To reward, recognize and reeducate others in their efforts to be an aligned team
 
-![](../../../.gitbook/assets/image%20%28449%29.png)
+![](<../../../.gitbook/assets/image (446).png>)
 
-### 2\) Document the future
+### 2) Document the future
 
 * A TEN-YEAR OBSESSION THAT ACTS AS YOUR NORTH STAR
 * Create a 10 year obssession 
@@ -113,24 +115,24 @@ I believe :
     * **5. Obsess over it** : Talk about your vision coming to life at least once every day. 
     * **6. Make it fun** : The Physio Co has a basketball ring in our office with our goals painted on it!
 
-### 3\) Execute relentlessly
+### 3) Execute relentlessly
 
 * Have an energetic daily huddle that aligns everyone to the Painted Picture vision of your culture’s future 
   * 12' per day 
   * Stand-up
 * A Robust recruitment process
-  * _**A STRONG CULTURE NEEDS every team member aligned to the same vision and living the same values.**_ 
+  * _**A STRONG CULTURE NEEDS every team member aligned to the same vision and living the same values. **_
   * Criteria to hire
-    * **1. Culture Fit** : An ability to effortlessly live The Physio Co values is our definition of culture fit. 
-      * _**From the start of the process, we want applicants to be able to provide plenty of examples of how they live \(and have lived\) our core values in other parts of their life.**_ 
+    * **1. Culture Fit **: An ability to effortlessly live The Physio Co values is our definition of culture fit. 
+      * _**From the start of the process, we want applicants to be able to provide plenty of examples of how they live (and have lived) our core values in other parts of their life. **_
     * **2. Passion for Seniors :** Real passion for this kind of work 
-    * **3. Passion for The Physio Co  :** We expect people to prepare and do their research when applying to join 
+    * **3. Passion for The Physio Co  : **We expect people to prepare and do their research when applying to join 
     * **4. Key Skills**
 * WHY ‘MAYBE’ MUST ALWAYS BE ‘NO’ FOR CULTURAL FIT 
   * At Zappos, people who don’t fit their culture are referred to as ‘polluters’. 
   * **You Don't want them**
 
-### 4\) Show more love
+### 4) Show more love
 
 * WHY DON’T MY EMPLOYEES work harder?
   * Why would they ? 
@@ -166,17 +168,16 @@ I believe :
     * Attracting people who fit our culture and our values
   * Example of Culture book : [https://www.tristanwhite.com.au/tpc-culture/culture-book-2016-inside-one-of-australias-best-places-to-work/](https://www.tristanwhite.com.au/tpc-culture/culture-book-2016-inside-one-of-australias-best-places-to-work/)
 
-![](../../../.gitbook/assets/image%20%28447%29.png)
+![](<../../../.gitbook/assets/image (449).png>)
 
 {% hint style="success" %}
-_**Culture is the CEO's responsibility \(too important to delegate\)**_
+_**Culture is the CEO's responsibility (too important to delegate)**_
 {% endhint %}
 
 ## **19 steps to Building a great place to work**
 
-![](../../../.gitbook/assets/image%20%28445%29.png)
+![](<../../../.gitbook/assets/image (448).png>)
 
 ## Mind map
 
-![](../../../.gitbook/assets/image%20%28448%29.png)
-
+![](<../../../.gitbook/assets/image (447).png>)

@@ -12,7 +12,7 @@ description: >-
 
 * [Dixit cards](https://www.libellud.com/dixit-2/)
 
-![](../../.gitbook/assets/image%20%28292%29.png)
+![](<../../.gitbook/assets/image (296).png>)
 
 ### Dixit problem solving
 
@@ -22,7 +22,7 @@ Ask to the volunteer :
 
 * Draw a random card
   * Ask this question : "_**How this card represents the situation you encountered ?**_"
-    * Ask for details on the card \(only open questions\)
+    * Ask for details on the card (only open questions)
     * Example : "What about this color ?"
     * The others are invited to ask questions as well
 * Once everyone understood the problem, the volunteer is invited to draw a second card
@@ -40,7 +40,9 @@ Ask to the volunteer :
 
 ## Concepts
 
-{% page-ref page="decision-making-principles-and-practices.md" %}
+{% content-ref url="decision-making-principles-and-practices.md" %}
+[decision-making-principles-and-practices.md](decision-making-principles-and-practices.md)
+{% endcontent-ref %}
 
 ## Concrete Practice
 
@@ -48,9 +50,9 @@ Ask to the volunteer :
 
 The "feedforward" consists to formulate requests or propose future-oriented options or solutions, as opposed to the feedback technique, which looks back on a past situation.
 
-_**Example**_ : _**For your next**_ report, I suggest that you divide the summary of your activities by date or by function \(budget, planning, operations management, ...\). _**So that**_ it will be easier to read it, to find the information I need and to refer to it later.
+_**Example**_ : _**For your next**_ report, I suggest that you divide the summary of your activities by date or by function (budget, planning, operations management, ...). _**So that**_ it will be easier to read it, to find the information I need and to refer to it later.
 
-![](../../.gitbook/assets/image%20%28313%29.png)
+![](<../../.gitbook/assets/image (323).png>)
 
 * Regarding decision making formulate a _FeedForward_ to yourself : _**For your next ... I invite you to .... so that...**_
 * If you are OK, share it with the rest of the attendees
@@ -59,7 +61,5 @@ _**Example**_ : _**For your next**_ report, I suggest that you divide the summar
 
 A simple ROTI :
 
-![](../../.gitbook/assets/image%20%28323%29.png)
-
-
+![](<../../.gitbook/assets/image (324).png>)
 

@@ -18,13 +18,15 @@ In Team Topologies, IT consultants Matthew Skelton and Manuel Pais share secrets
 
 Team Topologies is a major step forward in organizational design for software, presenting a well-defined way for teams to interact and interrelate that helps make the resulting software architecture clearer and more sustainable, turning inter-team problems into valuable signals for the self-steering organization.
 
-![](../../../.gitbook/assets/image%20%28608%29.png)
+![](<../../../.gitbook/assets/image (609).png>)
 
 ## Infographic
 
-![Team Topologies infographic](../../../.gitbook/assets/team-topologies.png)
+![Team Topologies infographic](<../../../.gitbook/assets/Team Topologies.png>)
 
-{% file src="../../../.gitbook/assets/team-topologies.pdf" caption="High Resolution Infographic" %}
+{% file src="../../../.gitbook/assets/Team Topologies.pdf" %}
+High Resolution Infographic
+{% endfile %}
 
 ## Preface
 
@@ -40,7 +42,7 @@ Team Topologies is a major step forward in organizational design for software, p
   * How to use the Team Topologies approach to create a sensing organization that responds to the market and user demands,
   * And accounts for the implications this has for hiring and skills
 
-![](../../../.gitbook/assets/image%20%28610%29.png)
+![](<../../../.gitbook/assets/image (610).png>)
 
 ## Part 1 - Team As The Means of Delivery
 
@@ -53,7 +55,7 @@ Team Topologies is a major step forward in organizational design for software, p
   * interaction modes that can help teams adapt quickly to new conditions
 * Org chart is always out os sync with reality
 
-![](../../../.gitbook/assets/image%20%28612%29.png)
+![](<../../../.gitbook/assets/image (611).png>)
 
 * By empowering teams, and treating them as fundamental building blocks
   * Individuals inside those teams move closer together to act as a team rather than just a group of people
@@ -70,7 +72,7 @@ _**Team structures must match the required software architecture or risk produci
 _When cognitive load isn’t considered, teams are spread thin trying to cover an excessive amount of responsibilities and domains. Such a team lacks bandwidth to pursue mastery of their trade and struggles with the costs of switching contexts.”_
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28609%29.png)
+![](<../../../.gitbook/assets/image (612).png>)
 
 ### Conway's law
 
@@ -130,7 +132,7 @@ Allan Kelly’s view of a software architect’s :
 
 * “team” = stable grouping of five to nine people who work toward a shared goal as a unit
 * > _An organization should never assign work to individuals; only to teams_
-* Allowing teams to grow beyond the _**magic seven-to-nine size**_ imperils the viability of the software being built by that team \(Dunbar’s number\)
+* Allowing teams to grow beyond the _**magic seven-to-nine size**_ imperils the viability of the software being built by that team (Dunbar’s number)
   * Trust will begin to break down
   * Unsuitable decisions might ensue
 * Organizations need to maximize **trust between people on a team**
@@ -168,7 +170,7 @@ Allan Kelly’s view of a software architect’s :
 
 * Organizations need to _**ensure**_ that the _**cognitive load on a team is not too high**_
 * Restrict Team Responsibilities to Match Team Cognitive Load
-* **Cognitive load** 
+* **Cognitive load **
   * Characterized in 1988 
   * By psychologist John Sweller 
   * “_**the total amount of mental effort being used in the working memory.**_”
@@ -220,7 +222,7 @@ _**With a team-first approach, the team’s responsibilities are matched to the 
 
 ## Part 2 - Team Topologies that Work for Flow
 
-![](../../../.gitbook/assets/image%20%28611%29.png)
+![](<../../../.gitbook/assets/image (613).png>)
 
 ### Stream-Aligned teams
 
@@ -248,7 +250,7 @@ _**Purpose of the other fundamental team topologies is to reduce the burden on t
 * Infrastructure and operability 
 * Metrics and monitoring 
 * Product management and ownership 
-* Testing and quality assurance User experience \(UX\)
+* Testing and quality assurance User experience (UX)
 
 > critical not to assume each capability maps to an individual role in the team
 
@@ -262,16 +264,16 @@ _**Purpose of the other fundamental team topologies is to reduce the burden on t
 * Correct based on feedback from the latest changes
 * Uses an experimental approach to product evolution
   * Expecting to constantly learn and adapt
-* Team has minimal \(ideally zero\) hand-offs of work to other teams
-* Must have time and space to address code quality changes \(sometimes called “tech debt”\) to ensure that changing the code remains safe and easy to do. 
-* Proactively and regularly reaches out to the supporting fundamental-topologies teams \(complicated subsystem, enabling, and platform\)
+* Team has minimal (ideally zero) hand-offs of work to other teams
+* Must have time and space to address code quality changes (sometimes called “tech debt”) to ensure that changing the code remains safe and easy to do. 
+* Proactively and regularly reaches out to the supporting fundamental-topologies teams (complicated subsystem, enabling, and platform)
 * Feel they have achieved or are in the path to achieving “autonomy, mastery, and purpose,” the three key components of engaged knowledge workers, according to Daniel Pink
 
 ### **Enabling Teams**
 
 * In Accelerate High-performing teams are continuously improving their capabilities in order to stay ahead
   * But how can a stream-aligned team with end-to-end ownership find the space for researching, reading about, learning, and practicing new skills?”
-* Enabling team is composed of specialists in a given technical \(or product\) domain
+* Enabling team is composed of specialists in a given technical (or product) domain
   * They help bridge this capability gap
 * Have a strongly collaborative nature
 * Avoid becoming “ivory towers” of knowledge
@@ -290,7 +292,7 @@ _The mission of enabling teams is to help stream-aligned teams acquire missing c
   * Establishing regular checkpoints
   * Jointly agreeing when more collaboration is needed
 * Stays ahead of the curve in keeping abreast of new approaches, tooling, and practices in their area of expertise
-* Act as a proxy for external \(or internal\) services that are currently too difficult for stream-aligned teams to use directly
+* Act as a proxy for external (or internal) services that are currently too difficult for stream-aligned teams to use directly
 * Promotes **learning** not only inside the enabling team but across stream-aligned teams
   * Acting as a curator that facilitates appropriate knowledge sharing inside the organization
 
@@ -328,7 +330,7 @@ _**Enabling teams do not exist to fix problems that arise from poor practices, p
 * Provides internal services to reduce the cognitive load that would be required from stream-aligned teams to develop these underlying services
 
 {% hint style="info" %}
-_A digital platform is a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product._ 
+_A digital platform is a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product. _
 {% endhint %}
 
 * Treat the services they offer as products
@@ -353,9 +355,9 @@ _A digital platform is a foundation of self-service APIs, tools, services, knowl
     * Treating the platform as a product
     * Regularly assesses if the services are still fit for purpose and usable
 * Leads by example
-  * Using the services they provide internally \(when applicable\)
+  * Using the services they provide internally (when applicable)
   * Partnering with stream-aligned teams and enabling teams
-  * Consuming lower level platforms \(owned by other platform teams\) whenever possible
+  * Consuming lower level platforms (owned by other platform teams) whenever possible
 * Understands that adoption of internal new services, like new technologies, is not immediate, but instead evolves along an adoption curve
 
 #### A Good Platform Is “Just Big Enough”
@@ -378,7 +380,7 @@ _"Most organizations would see major gains in effectiveness by mapping each of t
   * Platform is managed as a product using proven software development techniques
     * May be quite unfamiliar to infrastructure people
 * Component teams to Platform or Other Team Types
-  * DBA teams -&gt; enabling teams
+  * DBA teams -> enabling teams
     * Focus on spreading awareness of DB Perf, monitoring, ...
 * Tooling Teams to Enabling Teams or Part of the Platform
 * Converting Architecture and Architects
@@ -395,7 +397,7 @@ _A fracture plane is a natural seam in the software system that allows the syste
   * To find the natural split points that lead to software boundaries
 * **Fracture Plane: Business Domain Bounded Context**
   * A bounded context :
-    * A unit for partitioning a larger domain \(or system\) model into smaller parts
+    * A unit for partitioning a larger domain (or system) model into smaller parts
     * Each of which represents an internally consistent business domain area
   * Identifying bounded contexts :
     * Requires a fair amount of business knowledge and technical expertise
@@ -425,9 +427,9 @@ _A fracture plane is a natural seam in the software system that allows the syste
 * 3 core team interaction modes that **simplify and clarify the essential interactions needed between teams building software systems**
   * **Collaboration** : two teams work together on a shared goal, particularly during discovery of new technology or approaches.
     * The overhead is valuable due to the rapid pace of learning
-  * **X-as-a-Service** : one team consumes something provided by another team \(such as an API, a tool, or a full software product\). 
+  * **X-as-a-Service** : one team consumes something provided by another team (such as an API, a tool, or a full software product). 
     * Collaboration is minimal
-  * **Facilitating** : one team \(usually an enabling team\) facilitates another team in learning or adopting a new approach.
+  * **Facilitating **: one team (usually an enabling team) facilitates another team in learning or adopting a new approach.
 
 #### Well-Defined Interactions Are Key to Effective Teams
 
@@ -435,7 +437,7 @@ _A fracture plane is a natural seam in the software system that allows the syste
 “poorly defined team interactions and responsibilities are a source of friction and ineffectiveness"
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28614%29.png)
+![](<../../../.gitbook/assets/image (615).png>)
 
 * Teams should ask: 
   * What kind of interaction should we have with this other team? 
@@ -443,24 +445,24 @@ _A fracture plane is a natural seam in the software system that allows the syste
   * Should we be expecting or providing a service? 
   * Or should we be expecting or providing facilitation?
 
-![](../../../.gitbook/assets/image%20%28616%29.png)
+![](<../../../.gitbook/assets/image (616).png>)
 
-* The team on the right is providing something “as a service” to the team on the left \(perhaps an API, some developer tooling, or even an entire platform\).
+* The team on the right is providing something “as a service” to the team on the left (perhaps an API, some developer tooling, or even an entire platform).
 
 ### Choose suitable Team interaction modes
 
-![](../../../.gitbook/assets/image%20%28617%29.png)
+![](<../../../.gitbook/assets/image (617).png>)
 
-|  | Collaboration | X-as-a-Service | Facilitating |
-| :--- | :--- | :--- | :--- |
-| **Stream-aligned** | Typical | Typical | Occasional |
-| **Enabling** | Occasional |  | Typical |
-| **Complicated-subsystem** | Occasional | Typical |  |
-| **Platform** | Occasional | Typical |  |
+|                           | Collaboration | X-as-a-Service | Facilitating |
+| ------------------------- | ------------- | -------------- | ------------ |
+| **Stream-aligned**        | Typical       | Typical        | Occasional   |
+| **Enabling**              | Occasional    |                | Typical      |
+| **Complicated-subsystem** | Occasional    | Typical        |              |
+| **Platform**              | Occasional    | Typical        |              |
 
 ### Constant Evolution of Team Topologies
 
-![](../../../.gitbook/assets/image%20%28613%29.png)
+![](<../../../.gitbook/assets/image (618).png>)
 
 ### Triggers for Evolution of Team Topologies
 
@@ -470,7 +472,7 @@ _it's often difficult to have the required organizational self-awareness to dete
 
 * **Trigger: Software Has Grown Too Large for One Team**
   * Symptoms :
-    * A startup company grows beyond fifteen people \(Dunbar’s number\)
+    * A startup company grows beyond fifteen people (Dunbar’s number)
     * Other teams spend lots of time waiting on a single team 
     * Changes to certain components or workflows in the system routinely get assigned to the same people, even when they’re already busy or away
     * Team members complain about lack of system documentation
@@ -484,22 +486,22 @@ _it's often difficult to have the required organizational self-awareness to dete
 
 Team Topologies alone will not produce an effective software-delivery and operations organization. Beyond the structures and dynamics suggested in this book, important additional ingredients of success include :
 
-* **A healthy organizational culture** : 
+* **A healthy organizational culture **: 
   * an environment that supports the professional development of individuals and teams
   * which people feel empowered
     * Safe to speak 
     * The organization expects to learn continuously
-* **Good engineering practices** : 
+* **Good engineering practices **: 
   * Test-first design and development of all aspects of the systems
   * a focus on continuous delivery and operability practices
   * pairing and mobbing for code review
   * avoiding the search for a single “root cause” for incidents
   * designing for testability, and so on
-* **Healthy funding and financial practices** :
+* **Healthy funding and financial practices **:
   * Avoiding the pernicious effects of a CapEx/OpEx 
   * Avoiding project-driven deadlines and large-batch budgeting wherever possible
   * Allocating training budgets to teams or groups rather than individuals
-* **Clarity of business vision** : 
+* **Clarity of business vision **: 
   * Executive or leadership provides a clear vision and direction
     * with horizons at human-relevant timescales
     * clear reasoning behind the priorities
@@ -514,11 +516,10 @@ Team Topologies alone will not produce an effective software-delivery and operat
      * Reduce unnecessary cognitive load? 
      * Consume and provide software and information to other teams?
 2. **Identify Suitable Streams of Change**
-3. **Identify a Thinnest Viable Platform \(TVP\)**
+3. **Identify a Thinnest Viable Platform (TVP)**
    * Identify the services needed to support a reliable, swift flow of change in those streams
 4. **Identify Capability Gaps** in Team Coaching, Mentoring, Service Management, and Documentation
    * Ensure that your teams are populated not just with technologists 
      * BUT also with people who have other skills
      * Examples : Team coaching, Mentoring, Well written documentation
 5. **Share and Practice Different Interaction Modes and Explain Principles behind New Ways of Working**
-
