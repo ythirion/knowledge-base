@@ -27,7 +27,7 @@
 * Everyone code can be reviewed
   * Any Dev can review
   * The code of the most senior is also reviewed
-* The reviewer 
+* The reviewer&#x20;
   * should be :
     * Humble
     * Give feedback
@@ -60,7 +60,7 @@
   * You will take the time to properly :
     * Name identifiers
     * Write tests
-    * Introduce well-fitted abstractions 
+    * Introduce well-fitted abstractions&#x20;
     * Use carefully the enterprise wide patterns
 
 ### Different Workflows
@@ -87,7 +87,7 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
 
 #### Early Design Feedback
 
-* A collaborative and iterative approach to 
+* A collaborative and iterative approach to&#x20;
   * Check the code frequently while it’s being built
   * So design feedback comes at the right time
 
@@ -126,21 +126,21 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
 #### Example
 
 * [ ] **Compliance**
-  * [ ] With internal tech radar (Lombok, MapStruct, ..) 
+  * [ ] With internal tech radar (Lombok, MapStruct, ..)&#x20;
   * [ ] Right version of the libraries (Java 8)
-  * [ ] Pass internal automatic quality gates 
+  * [ ] Pass internal automatic quality gates&#x20;
 * [ ] **Operability**
   * [ ] Exceptions are easily understood
   * [ ] Logging give context for debugging
   * [ ] Configuration is separated from the code
 * [ ] Is the code **readable**
-  * [ ] The names covey **intent** 
+  * [ ] The names covey **intent**&#x20;
   * [ ] APIs are documented
 * [ ] Is the code **SOLID** ?
   * [ ] Team **conventions** are followed
   * [ ] There is **no obsolete code**/function
-  * [ ] There is **no commented out code** or TODOs 
-  * [ ] Use of design patterns when appropriate (modularity, simplicity, ..) 
+  * [ ] There is **no commented out code** or TODOs&#x20;
+  * [ ] Use of design patterns when appropriate (modularity, simplicity, ..)&#x20;
 * [ ] Is the code testable ?
 * [ ] Do the tests
   * [ ] Cover requirements
@@ -151,7 +151,7 @@ The reviewer checks the code and, if everything is OK : the code is merged into 
 
 * Form groups of 3
 * Each team member take :
-  * A role card : _**keep it secret**_ 
+  * A role card : _**keep it secret**_&#x20;
   * A checklist
   * A code sample
 * 5’ in solo :
@@ -183,14 +183,14 @@ Code samples for code reviews
 ![](<../../.gitbook/assets/image (509).png>)
 
 * Judgmental questions :
-  * Avoid to say : Why didn’t you just do \__\_ here?
-  * Try it : What do you think about \__\_, which has the benefit of\_\_\_\_?
+  * Avoid to say : Why didn’t you just do \_\_\_ here?
+  * Try it : What do you think about \_\_\_, which has the benefit of\_\_\_\_?
 * Being sarcastic
   * Avoid to say : Did you even test this code before you checked it in
-  * Try it : This breaks when \__\_. Can you please address this case?
+  * Try it : This breaks when \_\_\_. Can you please address this case?
 * Passing off opinion as fact
-* Avoid to say : This component should be \__\_.
-* Try it : Since this component \__\_, it could be made \__\_. This will improve\_\_\_
+* Avoid to say : This component should be \_\_\_.
+* Try it : Since this component \_\_\_, it could be made \_\_\_. This will improve\_\_\_
 
 ### Lets do a second round
 

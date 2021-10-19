@@ -8,16 +8,16 @@ description: Abstract of a talk of Sandro Mancuso
 
 ### Average company
 
-* Strong boundaries between Technical and Business 
-* Technical debt ? 
-  * Developers 
-    * "We don't have time to improve our system" 
-    * "We are struggling with technical debt" 
+* Strong boundaries between Technical and Business&#x20;
+* Technical debt ?&#x20;
+  * Developers&#x20;
+    * "We don't have time to improve our system"&#x20;
+    * "We are struggling with technical debt"&#x20;
       * Vicious circle
   * Business
     * "We need more features"
 
-### How to avoid that ? 
+### How to avoid that ?&#x20;
 
 * Problem ?
   * **Project mindset**
@@ -40,8 +40,8 @@ _**"There is a tension between the way we manage project and the way we manage p
   * Defined isolated from technology
   * Product backlog created
     * By the business
-  * Only there the Dev team is coming in 
-    * Not part of the product definition 
+  * Only there the Dev team is coming in&#x20;
+    * Not part of the product definition&#x20;
   * So the **result = Reactive design **
     * Do not have time to architect
     * End by begging for time
@@ -51,29 +51,29 @@ _**"There is a tension between the way we manage project and the way we manage p
   * Part of the meeting **to contribute**
     * BUT we don't know exactly HOW
   * We need to have something to add
-    *  Be able to explain Biz value of design
+    * &#x20;Be able to explain Biz value of design
       * Not only to be able to organize our code
       * Can have a huge role
         * Examples
           * Enable different teams to work in parallel
-          * Need to design our code to do so 
+          * Need to design our code to do so&#x20;
           * Be able to automate -> for CD purpose
     * Enable the way that we need to work
 
 ### Different levels of design
 
 * Enterprise Architecture
-  * How your product fits in a larger ecosystem 
+  * How your product fits in a larger ecosystem&#x20;
 * Solutions Architecture
   * Solution of your product
   * How we re gonna do / split
-* Technical Architecture 
+* Technical Architecture&#x20;
   * What technology
   * SLA
-  * ... 
+  * ...&#x20;
 * Macro Design
   * Components
-  * Overall structure 
+  * Overall structure&#x20;
 * Micro Design
   * Classes
   * Functions
@@ -117,7 +117,7 @@ In startup product is part of the company
 
 ### Value Proposition Canvas
 
-* Shape the scope of our product 
+* Shape the scope of our product&#x20;
 * 1 canvas per customer segmentation
 
 ![](<../.gitbook/assets/image (224).png>)
@@ -150,21 +150,21 @@ In startup product is part of the company
 ### Create an architecture
 
 * Define the technology stack
-* Refine what has been done in Tech feasibility 
+* Refine what has been done in Tech feasibility&#x20;
 * Design to support the way of the business
 
 ### Results
 
 {% hint style="success" %}
 * Common understanding of business & technical strategy
-* Technical architecture created to support the business 
-* More realistic & sustainable product roadmap with Biz and tech 
+* Technical architecture created to support the business&#x20;
+* More realistic & sustainable product roadmap with Biz and tech&#x20;
 * High level modularisation makes it easier to plan
 {% endhint %}
 
 ## 3) Planning
 
-* Use the term Minimum Valuable Increment 
+* Use the term Minimum Valuable Increment&#x20;
   * Need to invest in technical things
 
 ![](<../.gitbook/assets/image (228).png>)
@@ -191,7 +191,7 @@ In startup product is part of the company
 ## Results
 
 {% hint style="success" %}
-* Technical effort, risks & dependencies impact prioritization of MVI's 
+* Technical effort, risks & dependencies impact prioritization of MVI's&#x20;
 * Easier to size MVI's when high level technical details are known
 * Helps to distribute work across teams efficiently
 * Technical solution designed to support Continuous Delivery (goal of Agile)
@@ -201,8 +201,8 @@ In startup product is part of the company
 
 ![](<../.gitbook/assets/image (231).png>)
 
-* Design Apis from your mockup 
-  * Outside IN 
+* Design Apis from your mockup&#x20;
+  * Outside IN&#x20;
   * What is the outside world expecting from us
 
 ### Results
@@ -212,8 +212,8 @@ In startup product is part of the company
 * Enables CD
 * Detailed design helps to identify risks, dependencies & unknown
 * Enable safe evolution of the code
-  * Keeping it maintainable 
-* Pro-active & continuous technical improvement aligned with biz value 
+  * Keeping it maintainable&#x20;
+* Pro-active & continuous technical improvement aligned with biz value&#x20;
   * Always improve
 * Prevents accumulation of technical debt
 {% endhint %}
@@ -225,19 +225,19 @@ In startup product is part of the company
 * Often POs
   * They have
     * No good vision
-    * Don't own it 
+    * Don't own it&#x20;
     * Product definition is vague
   * Product roadmap
     * No milestones
     * Create a big plan
-    * Rigid product backlog 
+    * Rigid product backlog&#x20;
   * From High level strategy to Product backlog
 * Architects
   * Architecture are created without biz inputs
   * No connection with dev teams
 * Introduce technical milestones to balance the graph
-* Make sure than each phases are done 
-  * with Biz & technology 
+* Make sure than each phases are done&#x20;
+  * with Biz & technology&#x20;
   * As a single team
 
 {% hint style="success" %}

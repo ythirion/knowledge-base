@@ -2,13 +2,13 @@
 
 ## Set the stage
 
-Votre équipe se retrouve projetée dans un univers post-apocalyptique peuplé de zombies. Votre but est de survivre… ensemble. 
+Votre équipe se retrouve projetée dans un univers post-apocalyptique peuplé de zombies. Votre but est de survivre… ensemble.&#x20;
 
 Vous vous retrouvez au calme dans un bureau après avoir vaillamment survécu durant l’itération…
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAffO8xa1ZWmgZvfeK2%2Fuploads%2FHjMDyvAom0LrR5t0dPoM%2Ffile.png?alt=media)
 
-* Quel est votre niveau d’énergie ? 
+* Quel est votre niveau d’énergie ?&#x20;
   * Dessinez votre avatar et indiquez votre niveau de vie !
 
 {% hint style="info" %}
@@ -36,23 +36,23 @@ Vous vous déplacez dans la salle suivante… La bibliothèque !
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAffO8xa1ZWmgZvfeK2%2Fuploads%2FeeNVtt2hiRfEsmxs5Oy5%2Ffile.png?alt=media)
 
-* Sélectionnez les sujets que vous souhaitez creuser et sur lesquels vous voulez agir. 
-* Dans quels rayons de la bibliothèque iriez-vous chercher de l’information ? 
-  * Technique ? 
-  * Processus ? 
-  * Communication ? 
+* Sélectionnez les sujets que vous souhaitez creuser et sur lesquels vous voulez agir.&#x20;
+* Dans quels rayons de la bibliothèque iriez-vous chercher de l’information ?&#x20;
+  * Technique ?&#x20;
+  * Processus ?&#x20;
+  * Communication ?&#x20;
   * Autres ?
 
 L’équipe positionne les tickets importants, pose des questions, précise les problèmes…Un grand bruit se fait entendre dans le couloir ! Vous sortez en courant de la bibliothèque !
 
 ## Decide what to do
 
-Des zombies cherchent à passer à travers une barricade de fortune ! Vous devez la consolider !  
+Des zombies cherchent à passer à travers une barricade de fortune ! Vous devez la consolider ! &#x20;
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAffO8xa1ZWmgZvfeK2%2Fuploads%2F0Zm3iDdEmrIDOk8PNTRV%2Ffile.png?alt=media)
 
 * Choisissez les actions d’amélioration (quoi, qui, quand) que vous souhaitez réaliser et posez-les sur la barricade !
-*  Les actions de l’itération précédente ont-elles fonctionné ? 
+* &#x20;Les actions de l’itération précédente ont-elles fonctionné ?&#x20;
 * La barricade est-elle suffisamment solide pour tenir une itération ?  Que manque-t-il selon vous ?
 
 Le board d’amélioration continue de l’équipe peut alors être mis à jour.
@@ -69,11 +69,11 @@ Pour poursuivre l’aventure, votre équipe a besoin d’encouragements.
 
 Dites chacun une chose positive à propos de l’équipier de votre choix à l'aide des story cubes.
 
-[![OCTO 
-BIBLIOTHtQUE 
-TECHNIQUE 
-OCTO 
-BARRICADE 
+[![OCTO&#x20;
+BIBLIOTHtQUE&#x20;
+TECHNIQUE&#x20;
+OCTO&#x20;
+BARRICADE&#x20;
 OCTO ](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAffO8xa1ZWmgZvfeK2%2Fuploads%2F45zI8p70dBvK4KwLwcIR%2Ffile.png?alt=media)](https://blog.octo.com/wp-content/uploads/2017/05/posters-retro-dont-vous-etes-le-heros.zip)
 
 ## Lien utile

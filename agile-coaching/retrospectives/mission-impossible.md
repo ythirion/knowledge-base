@@ -2,7 +2,7 @@
 
 ## Plan
 
-![0 0 0 
+![0 0 0&#x20;
 · 00 ](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAffO8xa1ZWmgZvfeK2%2Fuploads%2Fgnh0jwjysbjA72t3goam%2Ffile.png?alt=media)
 
 ### Matériel requis

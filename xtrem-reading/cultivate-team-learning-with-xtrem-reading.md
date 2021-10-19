@@ -122,7 +122,7 @@ The first step is to use simple techniques:
   * You can see a book as a gold mine in which you need to identify the gold nugget—aka, the key chapter
   * Often in a book you have 1 central chapter of a few pages and the rest is built upon it
   * If you find it you will be able to quickly understand the whole concepts behind the book
-*  Read what you want to read
+* &#x20;Read what you want to read
   * Navigate through it
 * Take notes by using Mind mapping for example
 
@@ -187,7 +187,7 @@ Based on these various experiences, here are my discoveries:
 
 _You not only learn from the book but also from each other because you will most likely have read different bits, and you will probably have formed very different opinions about the same book._ – [Nancy Beers (Happy Scrum Master)](https://www.linkedin.com/in/nancybeers/)
 
-*  **No more waiting frustration**:
+* &#x20;**No more waiting frustration**:
   * What’s cool about going to the cinema as a group is the debriefing of the film that takes place right afterward.
     * I like to think that with Xtrem Reading we create this same feeling about books.
   * No more 6 months waiting frustration before being able to talk about a book with someone else
@@ -200,7 +200,7 @@ _Xtrem Reading allows me to meet other colleagues whom I don’t usually meet. F
 
 There are some limitations that you need to be aware of before facilitating a session:
 
-* A comment often made at the end of the session: “You lied to me, I haven’t really read 2 books.” 
+* A comment often made at the end of the session: “You lied to me, I haven’t really read 2 books.”&#x20;
   * Some participants think that without any efforts they would be able to fully read 2 books of 200 pages.
   * To answer this question, you can use the best weapon of the coach: ask open questions.
     * “Which value did you see in today’s exercise?”
@@ -216,7 +216,7 @@ There are some limitations that you need to be aware of before facilitating a se
     * I highly recommend you mix people during those kinds of sessions to manage this bias.
 * Beware the Dunning-Kruger effect:
   * This effect is a type of cognitive bias in which people believe that they are smarter and more capable than they really are. Essentially, low-ability people don’t possess the skills needed to recognize their incompetence.
-  *  I like to remind participants that just because people have spent some time on a book explaining a given concept, doesn’t make them experts on this given concept.
+  * &#x20;I like to remind participants that just because people have spent some time on a book explaining a given concept, doesn’t make them experts on this given concept.
     * It can help to fight this effect.
 
 ![](<../.gitbook/assets/image (653).png>)
@@ -227,7 +227,7 @@ Xtrem reading can be used remotely as well by using different tools. Here are th
 
 * Discord: to communicate and create groups of interests
 * Trello: to list books, select them and appreciate them
-*  OneDrive: to share books
+* &#x20;OneDrive: to share books
 
 Honestly, the first sessions are really chaotic: book file format nightmares, tool usage, access rights on the different tools…
 

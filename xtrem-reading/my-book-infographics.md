@@ -1,5 +1,9 @@
 # My Book Infographics
 
+* __[_Unit Testing Principles, Practices, and Patterns_](https://www.manning.com/books/unit-testing)_ by Vladimir Khorikov - October 2021_
+
+![](broken-reference)
+
 * _****_[_**The programmer's brain**_](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/resources/book-notes/the-programmers-brain)_ by Felienne Hermans - August 2021_
 
 ![](<../.gitbook/assets/Programmers brain (1).png>)
@@ -16,23 +20,23 @@
 
 ![](<../.gitbook/assets/Team Topologies (1).png>)
 
-* _****_[_**Succeeding with OKRs in Agile**_](https://www.goodreads.com/book/show/57019672-succeeding-with-okrs-in-agile?ac=1\&from_search=true\&qid=HgSf8HvSoN\&rank=1)_ by Allan Kelly - March 2021_
+* _****_[_**Succeeding with OKRs in Agile**_](https://www.goodreads.com/book/show/57019672-succeeding-with-okrs-in-agile?ac=1\&from\_search=true\&qid=HgSf8HvSoN\&rank=1)_ by Allan Kelly - March 2021_
 
 ![](<../.gitbook/assets/succeeding with okrs in agile (3).png>)
 
-* _****_[_**Software-Design X-Rays**_](https://www.goodreads.com/book/show/36517037-software-design-x-rays?ac=1\&from_search=true\&qid=X1QZx8XCCs\&rank=1)_** **by Adam Tornhill - February 2021_
+* _****_[_**Software-Design X-Rays**_](https://www.goodreads.com/book/show/36517037-software-design-x-rays?ac=1\&from\_search=true\&qid=X1QZx8XCCs\&rank=1)_** **by Adam Tornhill - February 2021_
 
 ![](<../.gitbook/assets/Software-Design X-Rays (2).png>)
 
-* _****_[_**Leadership Strategy and Tactics: Field Manual**_](https://www.goodreads.com/book/show/51136198-leadership-strategy-and-tactics?ac=1\&from_search=true\&qid=ExRdMvfk8X\&rank=1)_ by Jocko Willink - February 2021_
+* _****_[_**Leadership Strategy and Tactics: Field Manual**_](https://www.goodreads.com/book/show/51136198-leadership-strategy-and-tactics?ac=1\&from\_search=true\&qid=ExRdMvfk8X\&rank=1)_ by Jocko Willink - February 2021_
 
 ![](<../.gitbook/assets/leadership strategy.jpg>)
 
-* [_**Samman Technical Coaching**_](https://www.goodreads.com/book/show/56659570-technical-agile-coaching-with-the-samman-method?ac=1\&from_search=true\&qid=Vsc4qfo3k7\&rank=1)_ by Emily Bache - January 2021_
+* [_**Samman Technical Coaching**_](https://www.goodreads.com/book/show/56659570-technical-agile-coaching-with-the-samman-method?ac=1\&from\_search=true\&qid=Vsc4qfo3k7\&rank=1)_ by Emily Bache - January 2021_
 
 ![](<../.gitbook/assets/Samman Technical Coaching.png>)
 
-* _****_[_**Culture is Everything**_](https://www.goodreads.com/book/show/35080568-culture-is-everything?ac=1\&from_search=true\&qid=G7bsQEDUsD\&rank=1)_ by Tristan White - December 2020_
+* _****_[_**Culture is Everything**_](https://www.goodreads.com/book/show/35080568-culture-is-everything?ac=1\&from\_search=true\&qid=G7bsQEDUsD\&rank=1)_ by Tristan White - December 2020_
 
 ![](<../.gitbook/assets/Culture is everything (1).jpg>)
 
