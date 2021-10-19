@@ -2,7 +2,7 @@
 
 * __[_Unit Testing Principles, Practices, and Patterns_](https://www.manning.com/books/unit-testing)_ by Vladimir Khorikov - October 2021_
 
-![](broken-reference)
+![](<../.gitbook/assets/Unit Testing Principles, Practices, and Patterns.png>)
 
 * _****_[_**The programmer's brain**_](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/resources/book-notes/the-programmers-brain)_ by Felienne Hermans - August 2021_
 
