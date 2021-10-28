@@ -63,12 +63,12 @@ _The climate is like a bathtub that's slowly filling up with water. Even if we s
       * Because of humidity
 * Using data from the Spanish flu of 1918and COVID-19
   * The amount by which a global pandemic increases the global mortality rate : **14 deaths per 100,000 people each year**
-  * By mid-century climate change could represent the same amount than COVID-19 : 
+  * By mid-century climate change could represent the same amount than COVID-19 :&#x20;
     * **14 deaths per 100,000 people each year**
   * By the end of century : could be responsible for** **
     * **75 extra deaths per 100,000 people each year**
     * **By 2100 could be five times as deadly than COVID**
-  * 2 things we can do about it 
+  * 2 things we can do about it&#x20;
     * **Adaptation** : minimize the impact of the changes that are already here and that we know are coming
     * **Mitigation** : stop adding greenhouse gases to the atmosphere
       * Biggest emitters (richest countries) have to get top net-zero emissions by 2050
@@ -156,7 +156,7 @@ We need the premiums to be so low that everyone will be able to decarbonize.
 * Can we turn this around and get all the electricity we'll need without any greenhouse gas emissions ?
 * We can eliminate our emissions with only a modest Green Premium
   * The premium for electricity :
-    * Additional cost of getting all our power from non-emitting sources : 
+    * Additional cost of getting all our power from non-emitting sources :&#x20;
       * wind, solar, nuclear, coal, natural gas fired equipped with devices that capture the carbon they produce
   * Changing America's system to zero carbon
     * Raise retail average rates by between 1.3 and 1.7 cents per kilowatt-hour
@@ -176,7 +176,7 @@ We need the premiums to be so low that everyone will be able to decarbonize.
 
 * **Nuclear fission** : Only carbon-free energy source that can reliably deliver power day and night
   * The process of getting energy by splitting atoms apart
-  * Problems : 
+  * Problems :&#x20;
     * Human error can cause accidents
     * Uranium can be converted for use in weapons
     * Waste is dangerous and hard to store
@@ -265,3 +265,103 @@ We need the premiums to be so low that everyone will be able to decarbonize.
 
 * Gas contains an amazing amount of energy
   * Gasoline is remarkably cheap
+* Transportation is not the biggest cause of emissions worldwide
+  * BUT number one in the United States
+    * 47% : passengers cars
+      * All-electric car ?
+      * To avoid carbon emissions -> only if we generate electricity from 0 carbon-sources
+    * 10% : airplanes
+    * 10% : cargo / cruise ships
+    * 30% : garbage trucks, buses, 18-wheelers
+
+4 ways to cut down on emissions from transportation :&#x20;
+
+* Do less of it : walking, biking, car-pooling
+* Use fewer carbon-intensive materials in making-cars
+* Use fuels more efficiently
+* Switch to electric vehicles / alternative fuels
+
+### Chapter `8` - How we keep cool and stay warm
+
+`7 percent of 51 billion tons a year`
+
+* 90% of American houses have some types of air conditioner
+  * The biggest consumer of electricity you own
+
+### Chapter 9 - Adapting to a warmer world
+
+To get to zero we will need a lot of innovation
+
+`The cruel injustice is that even though the world's poor are doing essentially nothing to cause climate change, they're going to suffer the most from it`
+
+### Chapter 11 - A plan for getting to Zero
+
+Science tells us that in order to avoid a climate catastrophe, rich countries should reach net-zero emissions by 2050.
+
+#### Expand the supply of Innovation
+
+| Technologies needed                                        |                                                    |
+| ---------------------------------------------------------- | -------------------------------------------------- |
+| Hydrogen produced without emitting carbon                  | Nuclear fusion                                     |
+| Grid-scale electricity storage that can last a full season | Carbon capture (both direct air and point capture) |
+| Electrofuels                                               | Underground electricity transmission               |
+| Advanced biofuels                                          | Zero-carbon plastics                               |
+| Zero-carbon cement                                         | Geothermal energy                                  |
+| Zero-carbon steel                                          | Pumped hydro                                       |
+| Plant and cell-based meat and dairy                        | Thermal storage                                    |
+| Zero-carbon fertilizer                                     | Drought and flood-tolerant food crops              |
+| Next-generation nuclear fission                            | Zero-carbon alternatives to palm oil               |
+
+To get these technologies ready soon :&#x20;
+
+1. Quintuple clean energy and climate-related R\&D over the next decade
+2. Make bigger bets on high-risk, high reward R\&D projects
+3. Match R\&D with our greatest needs
+4. Work with the industry from the beginning
+
+#### Accelerate the Demand for Innovation
+
+* Create incentives that lower costs and reduce risk
+  * Tax credits, loan guarantees
+  * Can help reduce the Green Premiums
+* Build the infrastructure that will get new technologies to market
+* Change the rules so new technologies can compete
+* Put a price on carbon
+  * Putting a price on carbon is one of the most important things we can do to eliminate Green Premiums
+* Clean electricity standards
+* Clean fuel standards
+* Clean product standards
+  * Setting standards in procurement programs for example
+
+### Chapter 12 - What each of us can do ?
+
+#### As a citizen
+
+* Personal action is important for the signals
+  * elected officials will adopt specific plans if their voters demand it
+
+So ?
+
+* Make calls, write letters, attend town halls
+* Run for office
+
+#### As a Consumer
+
+The market is ruled by supply and demand -> we can have a huge impact on the demand side
+
+* Sign up for a green pricing program with you electricity utility
+* Reduce your home's emissions
+* Buy an electric car
+* Try a plant-based burger
+
+#### As an Employee or Employer
+
+Push your company to do its part :&#x20;
+
+* Set up an internal carbon tax
+* Prioritize innovation in low-carbon solutions
+* Be an early adopter
+* Engage in the policy-making process
+  * Businesses should be champion getting to zero
+* Connect with government funded research
+* Help early-stage innovators get across the valley of death
