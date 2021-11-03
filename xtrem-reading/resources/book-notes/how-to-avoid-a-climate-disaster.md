@@ -18,6 +18,14 @@ As Bill Gates makes clear, achieving zero emissions will not be simple or easy t
 
 ![](<../../../.gitbook/assets/image (645).png>)
 
+## Infographic
+
+![Infographics by Yoan Thirion](<../../../.gitbook/assets/How to avoid a climate disaster.png>)
+
+{% file src="../../../.gitbook/assets/How to avoid a climate disaster.pdf" %}
+High resolution infographic
+{% endfile %}
+
 ## Book notes
 
 ### Introduction - 51 billion to zero
