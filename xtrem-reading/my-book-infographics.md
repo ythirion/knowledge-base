@@ -1,8 +1,14 @@
 # My Book Infographics
 
+* __[_How to avoid a climate disaster_](https://www.goodreads.com/book/show/52275335-how-to-avoid-a-climate-disaster)_ by Bill Gates - October 2021_
+
+![](<../.gitbook/assets/How to avoid a climate disaster.png>)
+
 * __[_Unit Testing Principles, Practices, and Patterns_](https://www.manning.com/books/unit-testing)_ by Vladimir Khorikov - October 2021_
 
 ![](<../.gitbook/assets/Unit Testing Principles, Practices, and Patterns.png>)
+
+{% file src="../.gitbook/assets/Unit Testing Principles, Practices, and Patterns.pdf" %}
 
 * _****_[_**The programmer's brain**_](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/resources/book-notes/the-programmers-brain)_ by Felienne Hermans - August 2021_
 
