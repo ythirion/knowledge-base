@@ -45,7 +45,7 @@ You can debrief it directly on the Miro board or from the slides :
 
 ![](<../../.gitbook/assets/image (696).png>)
 
-My identification logic and refactoring are explained in this step-by-step guide : 
+My identification logic and refactoring are explained in this step-by-step guide :&#x20;
 
 {% embed url="https://github.com/ythirion/clean-tests/blob/master/java/src/test/java/antipatterns/solution/step-by-step.md" %}
 
@@ -56,9 +56,13 @@ My identification logic and refactoring are explained in this step-by-step guide
 ### Resources
 
 * Repository is available here : [https://github.com/ythirion/clean-tests](https://github.com/ythirion/clean-tests)
-* You can use the miro board here to facilitate this session : [https://miro.com/app/board/o9J_lpq9YGo=/?invite_link_id=764775433309](https://miro.com/app/board/o9J_lpq9YGo=/?invite_link_id=764775433309)
-* Slides are available here on speakerdeck : 
+* You can use the miro board here to facilitate this session : [https://miro.com/app/board/o9J\_lpq9YGo=/?invite\_link\_id=764775433309](https://miro.com/app/board/o9J\_lpq9YGo=/?invite\_link\_id=764775433309)
+* Slides are available here on speakerdeck :&#x20;
 
 {% embed url="https://speakerdeck.com/thirion/clean-tests" %}
 Clean Tests slides
 {% endembed %}
+
+* A lot of stuff from this workshop comes from the book "Unit Testing : Principles, Practices, and Patterns"by [Vladimir Khorikov](https://enterprisecraftsmanship.com)
+
+![](<../../.gitbook/assets/image (699).png>)
