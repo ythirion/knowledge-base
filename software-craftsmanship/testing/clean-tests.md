@@ -43,7 +43,7 @@ You can debrief it directly on the Miro board or from the slides :
 
 ![](<../../.gitbook/assets/image (688).png>)
 
-![](<../../.gitbook/assets/image (696).png>)
+![](<../../.gitbook/assets/image (696) (1).png>)
 
 My identification logic and refactoring are explained in this step-by-step guide :&#x20;
 
