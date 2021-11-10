@@ -4,7 +4,7 @@ description: This article is an abstract of the book DDD Distilled written by Va
 
 # DDD re-distilled
 
-## Conway's law 
+## Conway's law&#x20;
 
 > Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure. - Melvin Conway
 
@@ -16,7 +16,7 @@ It can lead to OUTDATED AND LOWER QUALITY PRODUCTS.
 
 ### How to reverse the conway's law ?
 
-Build teams that look like the architecture you want : 
+Build teams that look like the architecture you want :&#x20;
 
 {% hint style="success" %}
 Cross functional teams organized around business capabilities
@@ -280,7 +280,7 @@ It comes in different flavors, that can be used in different scenarios:
 
 Rules for organizing good sessions :
 
-* Invite the right people 
+* Invite the right people&#x20;
   * Business
   * IT
   * UX
@@ -307,7 +307,7 @@ Find more about the outcomes in this great article from Philippe Bourgau : [http
 
 ### Document your bounded contexts
 
-You can use the Bounded Context Canvas to do so : 
+You can use the Bounded Context Canvas to do so :&#x20;
 
 ![](<../.gitbook/assets/image (44).png>)
 
@@ -323,7 +323,7 @@ Real life example :
 
 ### Entity
 
-An Entity models an **individual thing**. Each Entity has a unique identity in that you can distinguish its individuality from among all other Entities of the same or a different type. 
+An Entity models an **individual thing**. Each Entity has a unique identity in that you can distinguish its individuality from among all other Entities of the same or a different type.&#x20;
 
 Most times, an Entity will be **mutable**; its state will change over time.
 
@@ -419,6 +419,7 @@ Here are great books on DDD :
 * [Legacy Architecture Modernisation With Strategic Domain-Driven Design](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f)
 * [DOMA at Uber](https://eng.uber.com/microservice-architecture/)
 * [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
+* [DDD & Team Topologies for Product-Led organizations](https://miro.com/app/board/o9J\_lkqPni8=/?invite\_link\_id=441833049335)
 
 {% embed url="https://speakerdeck.com/thirion/ddd-re-distilled" %}
 
