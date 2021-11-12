@@ -22,7 +22,11 @@ Et vous allez adorer ça !
 
 ## Infographic
 
-![](../../../.gitbook/assets/Tu-fais-quoi-dans-la-vie.webp)
+![Infographie "Tu fais quoi dans la vie"](../../../.gitbook/assets/Tu-fais-quoi-dans-la-vie.webp)
+
+{% file src="../../../.gitbook/assets/Tu fais quoi dans la vie.pdf" %}
+High resolution infographic
+{% endfile %}
 
 ## Book Notes
 
