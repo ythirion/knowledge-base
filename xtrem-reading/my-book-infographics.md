@@ -1,5 +1,9 @@
 # My Book Infographics
 
+* __[_Tu fais quoi dans la vie_](https://livre.fnac.com/a16126259/Matthieu-Dardaillon-Tu-fais-quoi-dans-la-vie)_ by Joséphine Bouchez et Mathieu Dardaillon - November 2021_
+
+![](../.gitbook/assets/Tu-fais-quoi-dans-la-vie.webp)
+
 * __[_How to avoid a climate disaster_](https://www.goodreads.com/book/show/52275335-how-to-avoid-a-climate-disaster)_ by Bill Gates - October 2021_
 
 ![](<../.gitbook/assets/How to avoid a climate disaster.png>)
