@@ -6,7 +6,7 @@ description: de Matthieu Dardaillon et Joséphine Bouchez
 
 ## Pitch
 
-![](broken-reference)
+![](<../../../.gitbook/assets/image (692).png>)
 
 Les crises sociales, économiques et écologiques se multiplient. Elles menacent nos conditions de vie, ainsi que la perspective d’un avenir meilleur et durable pour les générations futures. Il est urgent de nous demander si notre travail fait partie du problème ou de la solution.
 
@@ -19,6 +19,10 @@ Découvrez des pistes concrètes et de nombreux exemples pour transformer votre 
 Votre travail est probablement l’un des plus grands leviers à votre disposition pour contribuer à changer les choses. Oui, vous pouvez mettre vos talents au service d’un monde plus juste et plus durable !
 
 Et vous allez adorer ça !
+
+## Infographic
+
+![](../../../.gitbook/assets/Tu-fais-quoi-dans-la-vie.webp)
 
 ## Book Notes
 
@@ -35,14 +39,14 @@ Et vous allez adorer ça !
 #### L'urgence écologique et sociale
 
 * Des avancées considérables avec notre modèle de développement
-  * Réduction de l'extrêlme pauvreté
+  * Réduction de l'extrême pauvreté
   * Meilleur accès à l'éducation
   * Progression de l'égalité femmes-hommes
   * Eradications de certaines maladies
 *   `Notre système actuel n'est pas durable`
 
     * Fondé sur l'utilisation croissante de ressources naturelles présentes en quantités limitées
-      * Jour du dépassement : le jour où l'on soncomme plus que ce la Terre est capable de produire en une année
+      * Jour du dépassement : le jour où l'on consomme plus que ce la Terre est capable de produire en une année
         * 1970 : 29/12
         * 1990 : 07/12
         * 2019 : 29/07
@@ -157,5 +161,7 @@ Et vous allez adorer ça !
     * Quelque soit la thématique, trouvez un problème de société urgent, important, qui n'a pas d'alternative satisfaisante
     * Entourez-vous
       * Essentiel de travailler avec les bonnes personnes
-    * Soyez obstinez par votre problème pour trouver la meilleure solution possible
+    * Soyez obstinés par votre problème pour trouver la meilleure solution possible
+
+
 

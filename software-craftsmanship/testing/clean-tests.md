@@ -20,7 +20,7 @@ Debriefing is available in the slide deck
 * Which tests they would write on the giving piece of code ?
 * How they would write it ?
 
-![](<../../.gitbook/assets/image (692).png>)
+![](<../../.gitbook/assets/image (692) (1).png>)
 
 Then explain all those concepts :
 
