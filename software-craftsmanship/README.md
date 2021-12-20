@@ -1,8 +1,8 @@
 # Software craftsmanship
 
-### Useful Resources 
+### Useful Resources&#x20;
 
-* [Mob programming facilitator guide](https://github.com/fhiegel/MobProgramming/blob/master/guide/MobProgrammingFacilitorsGuide_French.md)
+* [Mob programming facilitator guide](https://github.com/fhiegel/MobProgramming/blob/master/guide/MobProgrammingFacilitorsGuide\_French.md)
 * [Mob programming resources ](https://github.com/NazeeHajebi/Talks/blob/master/FacilitatingMobProgramming.md)
 
 #### "How to Read Complex Code" by Dr Felienne Hermans (@felienne)
@@ -13,3 +13,4 @@
 ![](<../.gitbook/assets/Screen Shot 2021-06-18 at 15.56.29.png>)
 
 * [Choosing an HTTP Status Code — Stop Making It Hard](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)
+* [How to measure Software Quality improvement](https://promyze.com/fr/quels-indicateurs-damelioration-de-la-qualite-du-code/)
