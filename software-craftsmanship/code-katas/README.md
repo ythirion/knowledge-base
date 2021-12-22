@@ -34,6 +34,8 @@
 
 ## Testing
 
+
+
 ### TDD
 
 * Fizz Buzz : [https://katalyst.codurance.com/fizzbuzz](https://katalyst.codurance.com/fizzbuzz)
@@ -41,13 +43,14 @@
 * Roman Numerals : [https://katalyst.codurance.com/roman-numerals](https://katalyst.codurance.com/roman-numerals)
   * It's not a mathematical problem
 
-### Outside-in TDD (London approcah / mockist)
+### Outside-in TDD (London approach / mockist)
 
 * Bank kata : [https://katalyst.codurance.com/bank](https://katalyst.codurance.com/bank)
 * Hotel : [https://katalyst.codurance.com/corporate-hotel-booking](https://katalyst.codurance.com/corporate-hotel-booking)
 
 ### Approval Testing (Golden Master)
 
+* Approval Testing by Example (Use Cases in java) : [https://github.com/ythirion/approval-demo](https://github.com/ythirion/approval-demo)
 * Expense Report : [https://github.com/christianhujer/expensereport](https://github.com/christianhujer/expensereport)
 * Lift-kata : [http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/](http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/)
 * EnvironmentControllerKata : [https://github.com/emilybache/EnvironmentalControllerKata](https://github.com/emilybache/EnvironmentalControllerKata)
