@@ -211,6 +211,7 @@ _**“Being the most senior person on the team does not imply that your code doe
 ### Resources
 
 * [Code Review Best Practices by Trisha Gee](https://blog.jetbrains.com/upsource/2018/08/30/code-review-best-practices/)
+* [Async Code Reviews Are Killing Your Company’s Throughput](https://www.slideshare.net/kobac/async-code-reviews-are-killing-your-companys-throughput-248758692)
 * [Code Review Worflows](https://blog.jetbrains.com/upsource/tag/code-review-workflows/)
 * [Code Review Guidelines by Patrick Smacchia](https://blog.ndepend.com/what-is-code-review-guidelines-best-practices/)
 * [Ebook "What to look for in a code review"](http://jb.gg/book/codereview)
