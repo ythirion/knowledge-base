@@ -26,43 +26,43 @@ _**Source**_ : [https://www.goodreads.com/book/show/42774083-leadership-is-langu
 
 ### Santa Fé
 
-* A system over which had little control 
-  * What we could control 
-  * How we talked to each other 
+* A system over which had little control&#x20;
+  * What we could control&#x20;
+  * How we talked to each other&#x20;
     * _**Starting with me**_
 
 {% hint style="success" %}
 Changing the way we communicated, changed the culture
 {% endhint %}
 
-* Changing ours words changed our world 
+* Changing ours words changed our world&#x20;
   * Replaced
-    * Reactive language 
+    * Reactive language&#x20;
       * Convince, coerce, comply, conform
-      * WITH Proactive language of intent & commitment to action 
+      * WITH Proactive language of intent & commitment to action&#x20;
     * A language of "prove & perform"
-      * With a language of "Improve & learn" 
-    * A language of invulnerability & certainty 
+      * With a language of "Improve & learn"&#x20;
+    * A language of invulnerability & certainty&#x20;
       * With a language of vulnerability & curiosity
 
-### Sink of El Faro 
+### Sink of El Faro&#x20;
 
-* Used an old playbook 
-* A real danger to use old thinking in new situations 
-* Language of the captain 
-  * Binary affirmations 
-    * "You know what I'm saying" 
-    * "It's going to be between these 2, right ?" 
-  * Justifying decision 
+* Used an old playbook&#x20;
+* A real danger to use old thinking in new situations&#x20;
+* Language of the captain&#x20;
+  * Binary affirmations&#x20;
+    * "You know what I'm saying"&#x20;
+    * "It's going to be between these 2, right ?"&#x20;
+  * Justifying decision&#x20;
     * "Should work out OK"
   * No vulnerability displayed
-    * Emotions are necessary for decision-making 
-* They were programmed for 
-  * Obeyed the clock when they should have controlled the clock 
-  * The captain coerced the crew into compliance instead of collaboration 
-  * The crew complied instead of having made their own commitment 
-  * They continued to follow a monolithic plan instead of having completed 1 section at a time 
-  * They were in prove mode instead of improve mode 
+    * Emotions are necessary for decision-making&#x20;
+* They were programmed for&#x20;
+  * Obeyed the clock when they should have controlled the clock&#x20;
+  * The captain coerced the crew into compliance instead of collaboration&#x20;
+  * The crew complied instead of having made their own commitment&#x20;
+  * They continued to follow a monolithic plan instead of having completed 1 section at a time&#x20;
+  * They were in prove mode instead of improve mode&#x20;
   * They conformed to their roles instead of connected with each other
 
 ### The new playbook
@@ -70,23 +70,23 @@ Changing the way we communicated, changed the culture
 * 6 new leadership principles :
   * Control the clock instead of obeying the clock
   * Collaborate instead of coercing
-  * Commitment rather than compliance 
-  * Complete defined goals instead of continuing work indefinitely 
-  * Improve outcomes rather than prove ability 
-  * Connect with people instead of conforming to your role 
-* Diverge first 
-  * Allow each member to make his/her guess before being influenced 
-  * Greatest possible diversity of thought 
-  * WISDOM OF THE CROWD 
+  * Commitment rather than compliance&#x20;
+  * Complete defined goals instead of continuing work indefinitely&#x20;
+  * Improve outcomes rather than prove ability&#x20;
+  * Connect with people instead of conforming to your role&#x20;
+* Diverge first&#x20;
+  * Allow each member to make his/her guess before being influenced&#x20;
+  * Greatest possible diversity of thought&#x20;
+  * WISDOM OF THE CROWD&#x20;
 * 2 different kind of work
   * Decision-making (Thinking)
     * Bluework
-      * "How do you see it ?" 
-      * "What can we do better ?" 
-  * Execution (Doing) 
-    * Redwork 
-      * "Get it done!" 
-      * "Make it happen" 
+      * "How do you see it ?"&#x20;
+      * "What can we do better ?"&#x20;
+  * Execution (Doing)&#x20;
+    * Redwork&#x20;
+      * "Get it done!"&#x20;
+      * "Make it happen"&#x20;
 
 {% hint style="success" %}
 We are all both Redworkers and Blueworkers
@@ -112,14 +112,14 @@ The problem is that the language we use is only about doing, not thinking
   * Examples : score 1 to 5
     * _`"We need to make quota today"`_: 1
     * _`"I'll be coming by at twelve to check on you"`_ : 3
-    * _`"I'm a bit nervous about the storm. we are going to start work, but we will revisit this decision at twelve" : 5` _
+    * _`"I'm a bit nervous about the storm. we are going to start work, but we will revisit this decision at twelve" : 5` _&#x20;
 
 #### **2) Give the pause a name**
 
 * "Time-out"
 * "Hands-off"
 * Raise a hand
-*  ...
+* &#x20;...
 
 #### **3) Call a pause**
 
@@ -131,7 +131,7 @@ The problem is that the language we use is only about doing, not thinking
 * Metacognition
   * Thinking about our thinking
 * By preplanning next pause
-  * Knowing that a pause is coming allows teams to focus 100 percent on the work 
+  * Knowing that a pause is coming allows teams to focus 100 percent on the work&#x20;
   * Allow leaders to resist the trap of becoming "good idea fairies"
 
 {% hint style="success" %}
@@ -145,11 +145,11 @@ _**"If you are on the team and see something unexpected, it's your responsibilit
 
 ### 2) Collaborate : into the bluework
 
-Let the doers be the deciders **-> **move from coercion to collaboration
+Let the doers be the deciders **->** move from coercion to collaboration
 
 #### **1) Vote first, Then discuss**
 
-*  Conduct anonymous blind electronic polling
+* &#x20;Conduct anonymous blind electronic polling
 * Ask probabilistic questions instead of binary ones
 * _**Use probability cards**_
   * "How strongly do you believe we should launch on time?"
@@ -177,24 +177,24 @@ Let the doers be the deciders **-> **move from coercion to collaboration
 _"Before I tell you what I think we should do, what would you do if I weren't there_
 {% endhint %}
 
-####  3) Invite dissent rather than drive consensus
+#### &#x20;3) Invite dissent rather than drive consensus
 
 _**Use dissent cards**_
 
 ![](<../.gitbook/assets/image (441).png>)
 
 * In a ratio of five to one if you have a red card
-  * You have to dissent 
+  * You have to dissent&#x20;
   * The card makes it safe and necessary to do so
 * Fear in many organizations
   * Dissent = disharmony
     * Is to be avoided
-  * In organizations that practice dissent 
-    * Where people are dissenting with the best interests fo the organization 
-    * And where people respond to dissenters with curiosity 
+  * In organizations that practice dissent&#x20;
+    * Where people are dissenting with the best interests fo the organization&#x20;
+    * And where people respond to dissenters with curiosity&#x20;
     * _**`Dissent creates a sense of excitement and energy`**_
 * Instead of arguing with dissenter
-  * And explaining why he is wrong 
+  * And explaining why he is wrong&#x20;
   * Ask curious questions
     * "What's behind what you are saying ?"
     * "Can you tell us more about that ?"
@@ -213,11 +213,11 @@ _**A leader's obligation is to listen to the dissenters**_
 
 #### 1) Commit to learn, Not (just) Do
 
- Develop hypothesis to test rather than making decisions to execute
+&#x20;Develop hypothesis to test rather than making decisions to execute
 
 #### 2) Commit actions, not beliefs
 
- Once the decision is made don't try to convince dissenters
+&#x20;Once the decision is made don't try to convince dissenters
 
 #### 3) Chunk it small but do it all
 
@@ -229,7 +229,7 @@ _**A leader's obligation is to listen to the dissenters**_
 
 ### 4) Complete : the end of Redwork
 
-* Completion mark the end of a period of redwork 
+* Completion mark the end of a period of redwork&#x20;
   * It means thinking of work in terms of smaller chunks of production work (redwork)
 * It serves to proactively control the clock
   * Exiting us from redwork Launching us into bluework
@@ -251,8 +251,8 @@ _**At the beginning of a project : shorter redwork periods and more frequent blu
   * Usual sentences :
     * "Good job"
     * "I m so proud of you"
-  * Here : 
-    * Setting myself up as the judge 
+  * Here :&#x20;
+    * Setting myself up as the judge&#x20;
     * `Transference of the reward to us rather than leaving it with the person`
 
 _**To celebrate with (not for)**_
@@ -288,7 +288,7 @@ _**Be conscious about how even positive feedback can have negative consequences 
   * Improvement process (aka learning process) is a stairway not a ramp
 * "Be good" self vs "Get better" self
   * Be good
-    * Wants to feel 
+    * Wants to feel&#x20;
       * Competent
       * Effective
       * Credible
@@ -304,7 +304,7 @@ _**"Employees with the autonomy to decide how to go about solving problems and a
 
 #### 1) Forward, Not Backward
 
- "What do we want to do differently next time ?"
+&#x20;"What do we want to do differently next time ?"
 
 #### 2) Outward, not inward
 
@@ -322,8 +322,8 @@ Improve pits the "get better" self against the "be good"
 ### 6) Connect : enabling play
 
 * Play is about caring
-  * What people think 
-  * Caring how they feel 
+  * What people think&#x20;
+  * Caring how they feel&#x20;
   * Caring for their personal goals
 
 #### 1) Flatten the power gradient
@@ -371,13 +371,13 @@ Never underestimate the power of fear to distort common sense in environments wi
   * Bluework
     * Mindset : improve
 * Within these 2 modes :
-  * Starting in redwork... 
+  * Starting in redwork...&#x20;
   * Transition from redwork to bluework with
     * CONTROL THE CLOCK, not obey the clock
-    * COMPLETE not continue 
+    * COMPLETE not continue&#x20;
   * While in bluework
     * COLLABORATE, not coerce with the goal to : IMPROVE, not prove
-  * Transition from blue work back to redwork with : COMMIT not comply 
+  * Transition from blue work back to redwork with : COMMIT not comply&#x20;
     * And use the enabling play CONNECT not conform
 
 ## Mind map

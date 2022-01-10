@@ -16,7 +16,7 @@ Not really a good indicator : too much subjective.
 
 ### Use code coverage ?
 
-Code coverage is a quantitative metric not a qualitative one. 
+Code coverage is a quantitative metric not a qualitative one.&#x20;
 
 ![](<../../.gitbook/assets/image (95).png>)
 
@@ -38,9 +38,9 @@ But when you take a closer look the tests the assertions are really shitty :
 
 ### What is it ?
 
-> Mutation testing is based on two hypotheses : 
+> Mutation testing is based on two hypotheses :&#x20;
 >
-> The first is the **competent programmer hypothesis**. This hypothesis states that most software faults introduced by experienced programmers are due to **small syntactic errors**. 
+> The first is the **competent programmer hypothesis**. This hypothesis states that most software faults introduced by experienced programmers are due to **small syntactic errors**.&#x20;
 >
 > The second hypothesis is called the coupling effect. The coupling effect asserts that **simple faults can cascade or couple to form other emergent faults.**” - wikipedia
 
@@ -126,11 +126,11 @@ For each mutation PIT will report one of the following outcomes :
 
 * **KILLED** : exactly what we want our tests have failed so detected the mutant
 * **SURVIVED** : our tests have not detected the mutants so we have to improve our assertions
-* **NO COVERAGE** : same as SURVIVED except there were no tests that exercised the line of code where the mutation was created 
+* **NO COVERAGE** : same as SURVIVED except there were no tests that exercised the line of code where the mutation was created&#x20;
 * **TIMED OUT** : a mutation may time out if it causes an infinite loop, such as removing the increment from a counter in a for loop
 * **NON-VIABLE** : mutation that could not be loaded by the JVM as the bytecode was in some way invalid
 * **MEMORY ERROR** : might occur as a result of a mutation that increases the amount of memory used by the system
-* **RUN ERROR **: means something went wrong when trying to test the mutation
+* **RUN ERROR** : means something went wrong when trying to test the mutation
 
 ## Real life feedback
 
@@ -172,10 +172,10 @@ You can integrate it easily in your integration pipelines with SonarQube or [Son
 ```
 
 * Install the "mutation analysis" plugin on Sonar : [https://www.sonarplugins.com/mutationanalysis](https://www.sonarplugins.com/mutationanalysis)
-* Add a stage in your pipeline 
+* Add a stage in your pipeline&#x20;
   * For jenkins for example : `stage('Mutation Test') { mvn "org.pitest:pitest-maven:mutationCoverage" }`
 
-You will now have your pitest report integrated in your Sonar analysis report : 
+You will now have your pitest report integrated in your Sonar analysis report :&#x20;
 
 ![](<../../.gitbook/assets/image (108).png>)
 

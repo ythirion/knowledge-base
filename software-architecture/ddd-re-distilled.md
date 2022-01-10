@@ -87,7 +87,7 @@ There should be :
     This is very high on your organization’s list of projects because it will distinguish it from all competitors. _**The heart of an organization’s business.**_
 * **Supporting domain** : This is a modeling situation that calls for custom development, because an off-the-shelf solution doesn’t exist. This is still an important software model, because _**your Core Domain cannot be successful without it**_.
 
-One of the Bounded Contexts will be the **Core Domain : **Various Subdomains in other Bounded Contexts.
+One of the Bounded Contexts will be the **Core Domain :** Various Subdomains in other Bounded Contexts.
 
 ![](<../.gitbook/assets/image (7).png>)
 
@@ -171,7 +171,7 @@ The conformist slavishly _**adheres to the upstream model**_ :
 * Motivation : simplicity, contracts
 * he team implementing a Conformist is always downstream
 
-_**Example **_: Consider the need to conform to the Amazon.com model when integrating as one of Amazon’s affiliate sellers.
+_**Example**_ : Consider the need to conform to the Amazon.com model when integrating as one of Amazon’s affiliate sellers.
 
 ![](<../.gitbook/assets/image (22).png>)
 

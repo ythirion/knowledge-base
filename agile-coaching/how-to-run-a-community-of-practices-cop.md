@@ -36,9 +36,9 @@ In fact in Community of Practice you can observe 3 types of participants :
 ![src : https://www.lemonade.com/blog/psychology-givers-takers-matchers-2/](<../.gitbook/assets/image (420).png>)
 
 * _**Takers**_ : self-focused and put their own interests ahead of others’ needs. They try to gain as much as possible from their interactions while contributing as little as they can in return.
-* _**Matchers**_ : like to preserve an equal balance of giving and taking. 
+* _**Matchers**_ : like to preserve an equal balance of giving and taking.&#x20;
   * Their mindset is: “If you take from me, I’ll take from you. If you give to me, I’ll give to you.”
-* _**Givers**_ : are others-focused, and tend to provide support to others with no strings attached. 
+* _**Givers**_ : are others-focused, and tend to provide support to others with no strings attached.&#x20;
   * They ask themselves, “How can I add value for this person? What can I contribute?”
 
 ### Communication is key
@@ -54,7 +54,7 @@ In fact in Community of Practice you can observe 3 types of participants :
 * Organize [Brown Bag sessions](https://www.dlgdigital.co.uk/news/what-is-a-brown-bag-session)
   * 1 speaker on a dedicated topic
   * Spread/Share knowledge
-* [Lightning taks](https://en.wikipedia.org/wiki/Lightning_talk)
+* [Lightning taks](https://en.wikipedia.org/wiki/Lightning\_talk)
   * Everyone can share a few minutes on 1 topic
 * [Lean coffees](https://agilecoffee.com/leancoffee/)
   * Solve problems by using Collective Intelligence
@@ -151,7 +151,7 @@ From my experience here are some key success criteria for your COPs :
   * Lead / facilitate a COP takes time
   * It must not be a Nice To Have activity
   * Must be part of the person's job
-* Leader needs to_** be coached**_ at the beginning
+* Leader needs to _**be coached**_ at the beginning
   * Often on the skills
   * How to federate and involve people
 * _**Transparency**_ everywhere on everything
@@ -193,7 +193,7 @@ Download the cards
 
 ## Resources
 
-* [Building Successful Communities of Practice](https://www.amazon.fr/Building-Successful-Communities-Practice-Webber/dp/095749193X) by [Emily Webber](https://www.amazon.fr/Emily-Webber/e/B01BZI7GRU/ref=dp_byline_cont_book\_1)
+* [Building Successful Communities of Practice](https://www.amazon.fr/Building-Successful-Communities-Practice-Webber/dp/095749193X) by [Emily Webber](https://www.amazon.fr/Emily-Webber/e/B01BZI7GRU/ref=dp\_byline\_cont\_book\_1)
 * [Fais survivre ta communauté dans un monde hostile](https://youtu.be/0bxw3mgmSXE)
 * [Self evaluation tools by Jimmy Janlen](https://blog.crisp.se/2019/03/11/jimmyjanlen/health-checks-for-teams-and-leadership)
 * [Lean Change Management - Jason Little](https://leanchange.org)

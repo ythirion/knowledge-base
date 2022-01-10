@@ -8,11 +8,11 @@ description: Vice-amiral Loïc Finaz
 
 ![](<../../../.gitbook/assets/image (634).png>)
 
-Le Président de la République songe à réformer l'ENA sur le modèle de l'École de guerre. Une formation d'un an accueillant sur concours les officiers interarmées qui deviendront les militaires chefs de demain. 
+Le Président de la République songe à réformer l'ENA sur le modèle de l'École de guerre. Une formation d'un an accueillant sur concours les officiers interarmées qui deviendront les militaires chefs de demain.&#x20;
 
 L'art du commandement développé au sein de l'école ne doit rien à Sun Tzu mais beaucoup au maréchal Foch qui en dégagé trois principes : liberté d'action, concentration des efforts et économie des forces.
 
- Il vaut pour l'armée comme pour l'entreprise. Le commandement pour Loïc Finaz est une affaire collective. Dans la Marine, la forme la plus aboutie de la discipline est l'initiative au combat, pas toujours valorisée dans les entreprises, même les plus modernes. 
+&#x20;Il vaut pour l'armée comme pour l'entreprise. Le commandement pour Loïc Finaz est une affaire collective. Dans la Marine, la forme la plus aboutie de la discipline est l'initiative au combat, pas toujours valorisée dans les entreprises, même les plus modernes.&#x20;
 
 > Il appartient au leader de développer l'esprit d'équipage et de faire des choix avant de les faire appliquer. À condition d'avoir au préalable développé les qualités nécessaires à sa mission.
 
@@ -57,7 +57,7 @@ _Rien n'irrigue plus les bonnes pratiques du management que les exigences du com
 * La tactique est par excellence le niveau de l'expression du commandement et du management
 * Leadership / Commandement / Management
   * Pas des concepts individuels
-  * Mais affaire de 
+  * Mais affaire de&#x20;
     * groupes
     * d'équipes
     * de valeurs
@@ -67,7 +67,7 @@ _Rien n'irrigue plus les bonnes pratiques du management que les exigences du com
   * à aborder avec 1 esprit d'association
 
 {% hint style="info" %}
-_Les vertus d'équipage, piliers de notre sagesse constituent **l'esprit d'équipage **: autonomie et solidarité, fonction et responsabilité, hiérarchie et participation, exigence et bienveillance, énergie et culture, intelligence et courage, parole et temps._
+_Les vertus d'équipage, piliers de notre sagesse constituent **l'esprit d'équipage** : autonomie et solidarité, fonction et responsabilité, hiérarchie et participation, exigence et bienveillance, énergie et culture, intelligence et courage, parole et temps._
 {% endhint %}
 
 Cet esprit nous donne notre cohésion sociale, notre efficacité au combat comme dans le quotidien, notre réussite au service de la nation.
@@ -104,12 +104,12 @@ _"Faites de vos équipes, de vos services, un équipage"_
 
 _"La fonction fait l'homme tout autant que l'homme peut faire la fonction"_
 
-* Responsabilité : 
+* Responsabilité :&#x20;
   * créer, susciter le mouvement, fédérer, faire évoluer, s'épanouir
 
 ### Hiérarchie et participation
 
-* Hiérarchie dans les armées : 
+* Hiérarchie dans les armées :&#x20;
   * Important car besoin d'efficacité
     * face à la violence et rapidité du combat
   * Missiles aux fesse : pas le moment pour 1 Comex
@@ -138,7 +138,7 @@ _"La fonction fait l'homme tout autant que l'homme peut faire la fonction"_
   * Exigence : "voilà ce que j'attends de vous pour notre performance collective"
   * Bienveillance : "que puis-je personnellement vous apporter ?"
 * Ce qui en découle
-  * Le vrai souci des autres 
+  * Le vrai souci des autres&#x20;
   * Prise en compte dans la globalité de leurs besoins
 
 {% hint style="info" %}
@@ -173,7 +173,7 @@ Le sens de chacun et du collectif ancre le chef dans la conviction que commander
 ### Parole et temps
 
 * C'est par la parole que l'action du dirigeant existe
-  * C'est par la parole **adressée directement **que le chef suscite espoir et enthousiasme
+  * C'est par la parole **adressée directement** que le chef suscite espoir et enthousiasme
   * Apaiser les craintes
   * Remonter le moral dans la crise ou la défaite
 
@@ -183,7 +183,7 @@ Le sens de chacun et du collectif ancre le chef dans la conviction que commander
   * Il faut penser large
 * Développer une pensée originale
   * Eviter le conformisme et le conservatisme
-* Penser autrement c'est 
+* Penser autrement c'est&#x20;
   * Accepter l'école buissonnière
   * Susciter et développer l'anti-conformisme
     * Pour permettre l'innovation

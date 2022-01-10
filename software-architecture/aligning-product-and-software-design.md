@@ -29,7 +29,7 @@ description: Abstract of a talk of Sandro Mancuso
     * Not a great fit for project
     * Sequence of valuable increment
   * **Should look at**
-    * **Not only cost **
+    * **Not only cost**&#x20;
     * **Continuous investment**
 
 {% hint style="warning" %}
@@ -42,7 +42,7 @@ _**"There is a tension between the way we manage project and the way we manage p
     * By the business
   * Only there the Dev team is coming in&#x20;
     * Not part of the product definition&#x20;
-  * So the **result = Reactive design **
+  * So the **result = Reactive design**&#x20;
     * Do not have time to architect
     * End by begging for time
       * To refactor for example

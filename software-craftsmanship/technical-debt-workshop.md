@@ -4,7 +4,7 @@ description: Understand what is technical debt? and how to deal with it
 
 # Technical debt workshop
 
-This workshop is a 2 hours workshop you can run in your team during a retrospective or ad-hoc to align on  this concept. 
+This workshop is a 2 hours workshop you can run in your team during a retrospective or ad-hoc to align on  this concept.&#x20;
 
 {% hint style="info" %}
 This workshop is designed to be accessible to technical and non technical people as well
@@ -22,7 +22,7 @@ Ask to the participants :
 2. In pair :
    * Share your thoughts
    * Agree on a definition
-3. All together : 
+3. All together :&#x20;
    * Share your thoughts
    * Agree on a definition
 
@@ -62,9 +62,9 @@ One thing we hear the most in teams is the lack of time as an explanation of tec
 
 * **Poor Conception** : No time for architecture and design.
 * **Poor Business understanding** : It is impossible to design something you do not understand...
-* **Poor Scheduling / Underestimating** : No testing effort in estimations. 
+* **Poor Scheduling / Underestimating** : No testing effort in estimations.&#x20;
 * **Bad Development Practices** : Development team needs to have a set of practices and conventions so that there is a little or no significant difference in design and implementation from feature to feature.
-* **Outdated Technology **: As technology evolves, software standards become higher every day : No technology watch, innovation time
+* **Outdated Technology** : As technology evolves, software standards become higher every day : No technology watch, innovation time
 * **No team rules / conventions**
 * Only Michel knows this piece of code, no one else can update it (SPOF
 * …
@@ -77,11 +77,11 @@ Read more about it here : [https://martinfowler.com/bliki/TechnicalDebtQuadrant.
 
 ### Some examples of technical debt
 
-* **Source Code Formatting **
-* **Bad naming** : Source code is not understandable by anyone. 
+* **Source Code Formatting**&#x20;
+* **Bad naming** : Source code is not understandable by anyone.&#x20;
 * **Low/No Test Coverage** : Tests ensure that each part of the code is behaving the intended way.
 * **Code duplication**
-* **Lack of Modularity **: Some code sometimes serves different business logic. The more codes developers write, the more lack of modularity can bottleneck. 
+* **Lack of Modularity** : Some code sometimes serves different business logic. The more codes developers write, the more lack of modularity can bottleneck.&#x20;
 * **Code Complexity** : Complexity can be measured in several different ways, but it measures the dependence and path length to perform an operation. A long path leads to complex code.
 * **No automation** : Deployments and tests are done manually.
 
@@ -162,7 +162,7 @@ At each turn (x 10) , each team must :
 ### You will always face some Technical Debt
 
 * Some amount is to be expected (Unintentional)
-* The amount of technical debt will never be zero 
+* The amount of technical debt will never be zero&#x20;
 
 BUT it has to be **manageable**.
 
@@ -176,7 +176,7 @@ Ask questions to the participants / small technical retrospective :
 
 * Which examples of technical debt do you identify i our code base ?
 * How do you materialize it in the backlog ?
-* How can we improve the management of the technical debt ? 
+* How can we improve the management of the technical debt ?&#x20;
 * How could we reduce it ?
   * A concrete action that we could implement tomorrow
 
@@ -209,7 +209,7 @@ Dedicate time to technical debt reduction and prevention.
 
 **Objectives** : Find technical improvement actions / prioritize technical items.
 
-**Questions during those sessions** : 
+**Questions during those sessions** :&#x20;
 
 * Where are the defects?
 * Where are the 'hard bits' ? What makes them hard ?
@@ -234,7 +234,7 @@ There are a lot of them in [XP](http://www.extremeprogramming.org)
 _“I'm not a great programmer; I'm just a good programmer with great habits.”_ - Kent Beck
 {% endhint %}
 
-Some of those practices : 
+Some of those practices :&#x20;
 
 * Follow Clean Code rules
 * Test Driven Development

@@ -90,7 +90,7 @@ _**Social exclusion, various environmental impacts, ....**_
 * Will things get better or worse?
 * Most of developers don’t ultimately feel it’s their responsibility if unethical products go live.
   * Are they right?
-  * [Milgram experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
+  * [Milgram experiment](https://en.wikipedia.org/wiki/Milgram\_experiment)
 
 #### Who is responsible ?
 
@@ -135,7 +135,7 @@ Business and startups can play a huge role in designing technology that supports
 
 ## Concrete Practice - Create your own oath - 30'
 
-Based on the breaking news : _**create an oath **_to design ethical software
+Based on the breaking news : _**create an oath**_ to design ethical software
 
 1. Think about your current and last projects
    * Did they respect environment, human beings ?
@@ -157,15 +157,15 @@ Maybe different levels : Developer / Product / Client / Society
 
 ### [ACM code of ethics](https://www.acm.org/code-of-ethics)
 
-* **Contribute to society and human well-being**. 
-  * Programmers should work to develop computer systems that can reduce negative consequences to society, such as threats to safety and health, and that can make everyday activities and work easier. 
+* **Contribute to society and human well-being**.&#x20;
+  * Programmers should work to develop computer systems that can reduce negative consequences to society, such as threats to safety and health, and that can make everyday activities and work easier.&#x20;
   * It is “an obligation to develop to high standards”
-* **Avoid harm to others**. 
-  * Computer systems have an indirect impact on third parties. 
-  * They can cause loss of information and resources that might result severely harmful for users, the general public, or employers. 
-  * Therefore, software developers should minimize the risk of harming others due to [coding errors](https://en.wikipedia.org/wiki/Error_code), or security issues, by following standards to design and test systems
-* **Be honest and trustworthy**. 
-  * This principle encourages programmers to be honest and aware of their limitations in knowledge and education when writing computer systems. 
+* **Avoid harm to others**.&#x20;
+  * Computer systems have an indirect impact on third parties.&#x20;
+  * They can cause loss of information and resources that might result severely harmful for users, the general public, or employers.&#x20;
+  * Therefore, software developers should minimize the risk of harming others due to [coding errors](https://en.wikipedia.org/wiki/Error\_code), or security issues, by following standards to design and test systems
+* **Be honest and trustworthy**.&#x20;
+  * This principle encourages programmers to be honest and aware of their limitations in knowledge and education when writing computer systems.&#x20;
   * Also, if a programmer knows there is something wrong with a computer system, he or she should report it immediately to avoid undesirable consequences
 
 ### [The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
@@ -179,7 +179,7 @@ Watch [his video](https://youtu.be/36NgPu9OyRM?list=PLWKjhJtqVAbno-B4RmJHCDO0ZUK
 ### Existing principles
 
 * [5 principles of software ethics](https://thenewstack.io/five-principles-software-ethics/) – Steven Wilmott
-* [Association for Computing Machinery (ACM) code of ethics](https://en.wikipedia.org/wiki/Programming_ethics)
+* [Association for Computing Machinery (ACM) code of ethics](https://en.wikipedia.org/wiki/Programming\_ethics)
 * [The programmer’s Oath ](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)– Uncle Bob
 * [A Code of Ethics for (Agile) Software Developers ](https://medium.com/the-liberators/a-code-of-ethics-for-agile-software-developers-430b9a879be6)? - Christiaan Verwijs
 

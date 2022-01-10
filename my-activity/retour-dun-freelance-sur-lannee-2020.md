@@ -1,8 +1,8 @@
 # Retour sur mon année 2020
 
-A travers cet article je propose de vous partager de manière transparente un bilan de ma première année d'exercice en tant que Freelance. 
+A travers cet article je propose de vous partager de manière transparente un bilan de ma première année d'exercice en tant que Freelance.&#x20;
 
-La fin / début d'année est toujours un bon moment pour faire ce genre d'exercice : célébrer les accomplissements et identifier des axes d'amélioration. 
+La fin / début d'année est toujours un bon moment pour faire ce genre d'exercice : célébrer les accomplissements et identifier des axes d'amélioration.&#x20;
 
 {% hint style="info" %}
 Je souhaite partager le résultat de cet exercice afin de montrer que même en étant seul on est en capacité de définir et de suivre des objectifs alignés avec ses propres valeurs (des objectifs pas uniquement mercantiles).
@@ -47,11 +47,11 @@ Juste avant de me lancer dans l'aventure j'avais formalisé mes objectifs de l'a
 
 ### Objectif 1 : Avoir un taux d'occupation supérieur à 90%
 
-C'est la difficulté numéro 1 lorsqu'on se lance en indépendant : garantir un taux d'occupation minimal nous permettant de subvenir à nos besoins. 
+C'est la difficulté numéro 1 lorsqu'on se lance en indépendant : garantir un taux d'occupation minimal nous permettant de subvenir à nos besoins.&#x20;
 
 Malgré la crise qui nous a touché en 2020, j'ai pu compter sur la confiance de mon client principal afin d'avoir un taux d'occupation proche de 100%.
 
-Une fois cette sécurité acquise j'ai pu alors** **me concentrer sur les objectifs suivants.
+Une fois cette sécurité acquise j'ai pu alors **** me concentrer sur les objectifs suivants.
 
 ### **Objectif** 2 : Toujours/tout partager #sharingiscaring
 
@@ -60,7 +60,7 @@ Une fois cette sécurité acquise j'ai pu alors** **me concentrer sur les object
 Avec cette Knowledge Base je compte partager des contenus originaux clés en mains permettant de diffuser des concepts / pratiques et contenus nous permettant de développer des logiciels de manière plus efficiente.
 
 * [x] Créer au moins 10 contenus (code katas et ateliers) liés aux pratiques agiles techniques
-  * **Exemples **: [Kata sur Property-Based Testing](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/testing/improve-your-software-quality-with-property-based-testing), [Approval testing kata](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/gilded-rose-approval-testing), [How to write S.O.L.I.D code](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/write-s.o.l.i.d-code)
+  * **Exemples** : [Kata sur Property-Based Testing](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/testing/improve-your-software-quality-with-property-based-testing), [Approval testing kata](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/gilded-rose-approval-testing), [How to write S.O.L.I.D code](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/write-s.o.l.i.d-code)
 * [x] Créer au moins 3 contenus liés au Leadership
   * **Exemples** : [Le leadership chez les Navy Seals](https://yoan-thirion.gitbook.io/knowledge-base/leadership/learn-leadership-from-the-navy-seals), [Leadership is language](https://yoan-thirion.gitbook.io/knowledge-base/leadership/leadership-is-language)
 * [x] Partager au moins 3 contenus basés sur mon expérience de l'agilité
@@ -70,13 +70,13 @@ Avec cette Knowledge Base je compte partager des contenus originaux clés en mai
 
 ![](<../.gitbook/assets/image (451).png>)
 
-#### **Résultat clé : **Créer le [meetup Craft Luxembourg](https://www.meetup.com/fr-FR/software-craft-luxembourg/) avec [Alexandre Grison](https://www.linkedin.com/in/alexandre-grison-b56ba639/) et [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/?originalSubdomain=lu)
+#### **Résultat clé :** Créer le [meetup Craft Luxembourg](https://www.meetup.com/fr-FR/software-craft-luxembourg/) avec [Alexandre Grison](https://www.linkedin.com/in/alexandre-grison-b56ba639/) et [Adrien Muller](https://www.linkedin.com/in/adrien-muller-566373a/?originalSubdomain=lu)
 
 * [ ] Organiser 1 événement par trimestre minimum avec au moins 20 participants
   * 2 événements organisés en 2020 : [Functional Programming made easy in Java & C#](https://www.meetup.com/fr-FR/software-craft-luxembourg/events/269905414/), [Craft Beer](https://www.meetup.com/fr-FR/software-craft-luxembourg/events/271373500/)
   * _En pause depuis le mois de juin_
 
-#### **Résultat clé : Continuer l'initiative Agile HR Luxembourg avec **[**Adrien Muller**](https://lu.linkedin.com/in/adrien-muller-566373a)** et **[**Isabel Van de Voorde**](https://www.linkedin.com/in/isabel-van-de-voorde-8180432/)****
+#### **Résultat clé : Continuer l'initiative Agile HR Luxembourg avec** [**Adrien Muller**](https://lu.linkedin.com/in/adrien-muller-566373a) **et** [**Isabel Van de Voorde**](https://www.linkedin.com/in/isabel-van-de-voorde-8180432/)****
 
 * [ ] Organiser 1 événement par trimestre minimum avec au moins 10 participants
   * 4 événements : [New Role of HR and Managers](https://www.meetup.com/fr-FR/Agile-HR-Luxembourg-Meetup/events/268351992/) par **Pia-Maria Thoren**, [Disrupt your Job Interviews through Gamification](https://www.meetup.com/fr-FR/Agile-HR-Luxembourg-Meetup/events/270238558/), [Disrupt Job Interviews through Gamification - The Sequel](https://www.meetup.com/fr-FR/Agile-HR-Luxembourg-Meetup/events/270484966/), [Construire l’entreprise de demain, c’est possible](https://www.meetup.com/fr-FR/Agile-HR-Luxembourg-Meetup/events/271316938/) par **Béatrix Charlier**
@@ -88,7 +88,7 @@ Avec cette Knowledge Base je compte partager des contenus originaux clés en mai
 * [x] Partager "Le craft - la pièce manquante de votre transformation Agile" dans le meetup [Nord Agile](https://www.meetup.com/fr-FR/Nord-agile/)
 * [x] Partager Xanpan dans le meetup [Nord Agile](https://www.meetup.com/fr-FR/Nord-agile/)
 
-#### ** Résultat clé : Répondre à au moins 5 Call For Papers**
+#### &#x20;**Résultat clé : Répondre à au moins 5 Call For Papers**
 
 Cet objectif a été atteint mais malheureusement elles ont été majoritairement annulées dû au COVID (cet objectif demeure vrai pour 2021). J'ai alors créé 1 nouveau résultat clé :
 
@@ -111,7 +111,7 @@ Cet objectif a été atteint mais malheureusement elles ont été majoritairemen
 #### **Résultat clé : Créer des supports marketing**
 
 * [x] Créer mon [site web perso](https://yoan-thirion.com) et y formaliser [mon offre de service](https://www.yoan-thirion.com/files/what-i-do.pdf)
-* [x] Créer** **un [CV](https://www.yoan-thirion.com/files/yoan-thirion-detailed.pdf) permettant de démontrer rapidement mon vécu et mon savoir-faire
+* [x] Créer **** un [CV](https://www.yoan-thirion.com/files/yoan-thirion-detailed.pdf) permettant de démontrer rapidement mon vécu et mon savoir-faire
 * [x] Créer un template d'offre
 
 ![](<../.gitbook/assets/image (452).png>)
@@ -143,7 +143,7 @@ Pas question pour moi de faire moins d'atelier c'est pourquoi j'utilise des outi
 
 ![Exemple de board Miro](<../.gitbook/assets/image (461).png>)
 
-#### **Résultat clé : Publier au moins 1 post / semaine sur mon **[**profil Linkedin**](https://www.linkedin.com/in/yoanthirion/)****
+#### **Résultat clé : Publier au moins 1 post / semaine sur mon** [**profil Linkedin**](https://www.linkedin.com/in/yoanthirion/)****
 
 _44 posts en 10 mois en 2020_
 
@@ -201,7 +201,7 @@ Je me suis engagé à organiser l'édition 2021 sur Luxembourg d'ailleurs.
 
 Le plus difficile pour moi en 2020 a été de ne plus réellement travailler en équipe pour un objectif plus grand nous regroupant et ainsi :
 
-* Ne plus pouvoir compter sur des fonctions de support m'aidant au quotidien 
+* Ne plus pouvoir compter sur des fonctions de support m'aidant au quotidien&#x20;
 * Avoir la possibilité d'avoir du feedback instantané sur mes idées / réalisations
 
 Malgré ce manque je suis très satisfait de ces 10 premiers mois d'existence. Même si tout n'a pas été rose j'ai pu réalisé complètement ou partiellement de nombreux objectifs que je me suis moi-même fixé. A l'heure actuelle je ne troquerais cette liberté pour rien au monde.

@@ -31,7 +31,7 @@ Pour cette rétrospective, il vous faudra préparer le matériel suivant :
 
 * 1 Licence miro pour pouvoir importer le board disponible dans les ressources de cette page
 * Ou le refaire chez soi à partir de la version Read-Only ici :
-  * [https://miro.com/app/board/o9J_kmsv4R4=/](https://miro.com/app/board/o9J_kmsv4R4=/)
+  * [https://miro.com/app/board/o9J\_kmsv4R4=/](https://miro.com/app/board/o9J\_kmsv4R4=/)
 
 _**Temps nécessaire : 2h**_
 
@@ -46,7 +46,7 @@ _**Temps nécessaire : 2h**_
 On est ici pour se remémorer ce qu'il s'est passé entre aujourd'hui et _**\<Date future>**_
 
 {% hint style="info" %}
-Définir en avance la date dans le futur_** : **_si vous avez 1 milestone d'équipe dans le futur ça peut être 1 bon point de fixation dans le futur.
+Définir en avance la date dans le futur _**:**_ si vous avez 1 milestone d'équipe dans le futur ça peut être 1 bon point de fixation dans le futur.
 {% endhint %}
 
 _**Demander à chaque participant(e) de remplir son canvas / ses post-its :**_

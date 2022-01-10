@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The better resource I use on this topic is the book [_**27 Decision making principles and practices**_](https://leanpub.com/decision-making-principles)_** **_from [Jimmy Janlen](https://twitter.com/jimmyjanlen) 
+The better resource I use on this topic is the book [_**27 Decision making principles and practices**_](https://leanpub.com/decision-making-principles) _****_ from [Jimmy Janlen](https://twitter.com/jimmyjanlen)&#x20;
 
 ![](<../../.gitbook/assets/image (297).png>)
 
@@ -62,7 +62,7 @@ Once the presentation is done :
 
 ![](<../../.gitbook/assets/image (299).png>)
 
-### Survey with fist of five 
+### Survey with fist of five&#x20;
 
 Participants express their current opinion about the direction of the discussion and the emerging proposal by voting with their fingers.
 
@@ -79,12 +79,12 @@ Sometimes, despite discussions and concerns the group as a whole might actually 
 
 ### Design proposals as experiment
 
-Design a proposal as an experiment invites you to identify concerns that should be paid particular attention to in the evaluation. 
+Design a proposal as an experiment invites you to identify concerns that should be paid particular attention to in the evaluation.&#x20;
 
-* What is the hypothesis? 
-* How would we know if the decision has the intended impact? 
-* How can we evaluate? 
-* How would we be able to gauge or measure whether or not we need to revisit the decision and make adjustments, or try something else? 
+* What is the hypothesis?&#x20;
+* How would we know if the decision has the intended impact?&#x20;
+* How can we evaluate?&#x20;
+* How would we be able to gauge or measure whether or not we need to revisit the decision and make adjustments, or try something else?&#x20;
 * Can we set a date for an evaluation or retrospective?
 
 ![](<../../.gitbook/assets/image (309).png>)
@@ -95,7 +95,7 @@ I like to use this simple template when I formulate an experiment :
 
 It forces us to formulate our experiment and structure them.
 
-##  How to decide ?
+## &#x20;How to decide ?
 
 Techniques to decide with consent.
 
@@ -103,7 +103,7 @@ Techniques to decide with consent.
 
 * _**Consent decision making**_ – the proposal is decided in the absent of qualified objection.
 * _**Consensus**_ - everyone must agree with the proposal.
-*   _**Good enough proposal **_- means the proposal is clear enough for you. You trust that the
+*   _**Good enough proposal**_ - means the proposal is clear enough for you. You trust that the
 
     team is capable of dealing with challenges and problems as they surface in a responsible manner.
 * _**Safe enough**_ - refers to the danger of failing. Is it safe enough to try, and then inspect and adapt?
@@ -114,28 +114,28 @@ It’s way faster than consensus more inclusive and collaborative in nature than
 
 ![](<../../.gitbook/assets/image (304).png>)
 
-*   **No thumbs down **: a decision has been made and that the proposal has been
+*   **No thumbs down** : a decision has been made and that the proposal has been
 
     accepted.
 
     * Thumbs sideways or closed fists
       * Ask those members to share why they voted like this
-      *  Clarify that the decision has been made
+      * &#x20;Clarify that the decision has been made
       * But it's always valuable to have their points of view
         * It's not the time to reopen a debate
 * **Thumbs down :** The proposal didn’t go through.
-  * Ask the people to share their perspective on 
+  * Ask the people to share their perspective on&#x20;
     * Why this would be a bad thing ?
-    * What harm it might cause ? 
+    * What harm it might cause ?&#x20;
   * They could find a way to reformulate the proposal so that everyone is happy with the content.
 
 ### Declare intent and ask for objections
 
-Sometimes you can declare decision mandate yourself. **For decisions that don’t impact the whole team, don’t be afraid to simply state you intentions**. 
+Sometimes you can declare decision mandate yourself. **For decisions that don’t impact the whole team, don’t be afraid to simply state you intentions**.&#x20;
 
 ![](<../../.gitbook/assets/image (308).png>)
 
-* Clearly share what you intend do, and why. 
+* Clearly share what you intend do, and why.&#x20;
 * Ask if anyone objects.
 * If no one objects, thank the team for their trust.
 
@@ -160,7 +160,7 @@ How to help the team have good, valuable and constructive discussions, that invo
 
 ### **Make decisions smaller**
 
-One approach to make progress when stuck in a discussion around a proposal,** **or when you as team fail to agree on a way forward, is to r_**educe the size of the proposal or slice up the decisions to be made**_.
+One approach to make progress when stuck in a discussion around a proposal, **** or when you as team fail to agree on a way forward, is to r_**educe the size of the proposal or slice up the decisions to be made**_.
 
 ![](<../../.gitbook/assets/image (310).png>)
 
@@ -189,11 +189,11 @@ If the team fails to agree upon a decision, being stuck in discussions or having
 
 To do so, accountability must be crystal clear (see Delegation Poker).
 
-## **How to stimulate**_** **_**t**eam wisdom ?
+## **How to stimulate **_****_** t**eam wisdom ?
 
 Make everyone heard
 
-When a heated discussion has been going on for a while and only a few members vocally engage, call a timeout and do a round. 
+When a heated discussion has been going on for a while and only a few members vocally engage, call a timeout and do a round.&#x20;
 
 Ask everyone to briefly share :
 
@@ -209,7 +209,7 @@ Start with individual thinking, then share with the whole team.
 
 ### Collaborative proposals (1-2-4-All)
 
-It is a workshop format designed to quickly generate a collaborative and inclusive proposal. 
+It is a workshop format designed to quickly generate a collaborative and inclusive proposal.&#x20;
 
 It is a liberating structure documented [**here**](http://www.liberatingstructures.com/1-1-2-4-all/).
 
@@ -232,7 +232,7 @@ How to help the team have good, valuable and constructive discussions, that invo
 
 To maintain focus / avoid the frustration of leaving important concerns unresolved :
 
-* capture the unanswered question on a Post‐it 
+* capture the unanswered question on a Post‐it&#x20;
 * Put it up on the parking‐lot area on a board
 
 ![](<../../.gitbook/assets/image (319).png>)
@@ -259,12 +259,12 @@ A framework to test if you can tell a comprehensive story on why you decided on 
 
 ![DIBB is created by Spotify and is part of “Spotify Rhythm”](<../../.gitbook/assets/image (303).png>)
 
-* What DATA did you look at? 
-  * What were your sources? 
-  * Was it quantitative or qualitative? 
-* Which INSIGHTS and conclusions did you draw from the data? 
-* What are your BELIEFS now? 
-  * Which hypotheses have you formulated? 
+* What DATA did you look at?&#x20;
+  * What were your sources?&#x20;
+  * Was it quantitative or qualitative?&#x20;
+* Which INSIGHTS and conclusions did you draw from the data?&#x20;
+* What are your BELIEFS now?&#x20;
+  * Which hypotheses have you formulated?&#x20;
 * Does this reasoning connect to the action you BET will reach the desired outcome?
 
 It helps to have a structured dialog in which you invite people to challenge the data, insights and beliefs, providing other perspectives and alternatives, as opposed to have a purely opinion driven dialog.

@@ -16,7 +16,7 @@ Pact comes with its own specification regarding the format of the contracts betw
 
 ![](<../../../.gitbook/assets/image (194).png>)
 
-## How can we implement a new service with Pact ? <a href="f329" id="f329"></a>
+## How can we implement a new service with Pact ? <a href="#f329" id="f329"></a>
 
 Because we use a CDC approach we start with the consumer and here is what we want as a consumer :
 
@@ -24,7 +24,7 @@ Because we use a CDC approach we start with the consumer and here is what we wan
 _As a consumer, I want a Rest API that returns “Hello world v1” when I GET “api/v1.0/helloworld”_
 {% endhint %}
 
-### 1) Start with the consumer <a href="15af" id="15af"></a>
+### 1) Start with the consumer <a href="#15af" id="15af"></a>
 
 Let’s implement a simple consumer by :
 
@@ -33,7 +33,7 @@ Let’s implement a simple consumer by :
 
 ![](<../../../.gitbook/assets/image (195).png>)
 
-**Concretely **:
+**Concretely** :
 
 * Build your client : here we call it **consumer-js**
 
@@ -45,7 +45,7 @@ Let’s implement a simple consumer by :
 
 Once you have defined it you can run the tests. From those expectations Pact will create a contract file : a JSON file that will look like this :
 
-### 2) Contract Driven Development <a href="0d10" id="0d10"></a>
+### 2) Contract Driven Development <a href="#0d10" id="0d10"></a>
 
 * Design Your **API** From The Contract
 * Write a RED test
@@ -64,25 +64,25 @@ The test will be launched and interactions will be verified based on the contrac
 
 ![](<../../../.gitbook/assets/image (202).png>)
 
-## Features offered by Pact <a href="f090" id="f090"></a>
+## Features offered by Pact <a href="#f090" id="f090"></a>
 
 In this simple example we have just checked a GET interaction with simple string matcher but you can achieve much more complex and more realistic verifications with the tool :
 
 ![](<../../../.gitbook/assets/image (203).png>)
 
-## S.W.O.T <a href="eaa4" id="eaa4"></a>
+## S.W.O.T <a href="#eaa4" id="eaa4"></a>
 
 Based on our experience with Pact here is our S.W.O.T :
 
 ![](<../../../.gitbook/assets/image (204).png>)
 
-## Resources <a href="abaa" id="abaa"></a>
+## Resources <a href="#abaa" id="abaa"></a>
 
 Please find the code samples in this repository : [**https://github.com/agilepartner/pact-sandbox**](https://github.com/agilepartner/pact-sandbox)
 
-To go further check the implementation guide in your favorite language : [https://docs.pact.io/implementation_guides](https://docs.pact.io/implementation_guides)
+To go further check the implementation guide in your favorite language : [https://docs.pact.io/implementation\_guides](https://docs.pact.io/implementation\_guides)
 
-## Conclusion <a href="2692" id="2692"></a>
+## Conclusion <a href="#2692" id="2692"></a>
 
 Pact is a really good tool to start a CDC approach. It is easy to use but there is one problem that needs to be solved before starting using it in enterprise :
 

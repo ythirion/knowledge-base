@@ -73,7 +73,7 @@ _The climate is like a bathtub that's slowly filling up with water. Even if we s
   * The amount by which a global pandemic increases the global mortality rate : **14 deaths per 100,000 people each year**
   * By mid-century climate change could represent the same amount than COVID-19 :&#x20;
     * **14 deaths per 100,000 people each year**
-  * By the end of century : could be responsible for** **
+  * By the end of century : could be responsible for ****&#x20;
     * **75 extra deaths per 100,000 people each year**
     * **By 2100 could be five times as deadly than COVID**
   * 2 things we can do about it&#x20;
@@ -116,7 +116,7 @@ We need to make it possible for low-income people to climb the ladder without ma
    * Convert numbers into a percentage of the annual total of 51 billion tons
 2. What's your plan for Cement ?
    * A shorthand reminder that if you're trying to come up with a comprehensive plan for climate change, you have to account for much than electricity and cars
-   * **Emissions come from 5 different activities **
+   * **Emissions come from 5 different activities**&#x20;
      * We need solutions in all of them
 
 ![](../../../.gitbook/assets/IMG\_1087.JPG)
@@ -192,7 +192,7 @@ We need the premiums to be so low that everyone will be able to decarbonize.
   * At least a decade away from supplying electricity to consumers
   * No chain reaction to run out of control
     * Fusion ceases as soon as you stop supplying fuel or switch off the device containing the plasma
-* **Offshore wind : **putting wind turbines in an ocean or other body of water
+* **Offshore wind :** putting wind turbines in an ocean or other body of water
 * **Geothermal** : Deep underground, are hot rocks that can be used to generate carbon-free electricity
   * Amount of energy we get per square meter is quite low
 
@@ -206,7 +206,7 @@ We need the premiums to be so low that everyone will be able to decarbonize.
 
 #### Other innovations
 
-* **Capturing carbon **: Suck up the carbon dioxide before it hits the atmosphere
+* **Capturing carbon** : Suck up the carbon dioxide before it hits the atmosphere
   * Expensive to buy and operate
 * **Using less** : using power more efficiently
 

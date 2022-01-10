@@ -22,13 +22,13 @@ description: Learn how Approval testing can help you when dealing with legacy co
 
 ### What is Approval Testing ?
 
-**Approval Tests** are also called **Snapshot Tests** or **Golden Master.** 
+**Approval Tests** are also called **Snapshot Tests** or **Golden Master.**&#x20;
 
 {% hint style="success" %}
-Approval tests work by creating an output that needs human approval / verification. 
+Approval tests work by creating an output that needs human approval / verification.&#x20;
 {% endhint %}
 
-Once the initial _**output has been defined and “APPROVED”**_ then as long as the _**test provides consistent output then the test will continue to pass**_. 
+Once the initial _**output has been defined and “APPROVED”**_ then as long as the _**test provides consistent output then the test will continue to pass**_.&#x20;
 
 Once the test provides output that is _**different to the approved output the test will fail**_. The developer then has two choices:
 
@@ -154,11 +154,11 @@ public class GildedRoseTests {
 ```
 {% endcode %}
 
-* Run the test 
+* Run the test&#x20;
   * Now it should fail ![](<../../.gitbook/assets/image (330).png>)
 * ApprovalTests library compares 2 files :
-  * _**GildedRoseTests.updateQuality.received.txt **_that has been generated based on what is inside the verify method call
-  * _**GildedRoseTests.updateQuality.approved.txt **_a content that has already been approved
+  * _**GildedRoseTests.updateQuality.received.txt**_ that has been generated based on what is inside the verify method call
+  * _**GildedRoseTests.updateQuality.approved.txt**_ a content that has already been approved
 
 ![](<../../.gitbook/assets/image (331).png>)
 
@@ -168,7 +168,7 @@ public class GildedRoseTests {
 _**The actual implementation is functionally good. So we must approve what is currently generated / calculated by the system.**_
 {% endhint %}
 
-* Approve the content of the file : 
+* Approve the content of the file :&#x20;
 
 ```java
 mv GildedRoseTests.updateQuality.received.txt GildedRoseTests.updateQuality.approved.txt
@@ -351,7 +351,7 @@ public class GildedRoseTests {
 
 ###  Are we confident enough ?
 
-* Mutate the line 26 manually by 
+* Mutate the line 26 manually by&#x20;
   * Simply replacing the integer 1 by another random integer
 * Run the test again, what happens ?
 

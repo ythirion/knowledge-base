@@ -45,13 +45,13 @@ For each new big feature, **bring together the team that will work on the topic 
 
 ### How ?
 
-* **Prepare **the session :
+* **Prepare** the session :
   * Define the **subject** (_the need_)
   * Define the **objective** (_the solution_)
   * Prepare something to "break"
     * It can be draft of diagrams on a white-board for example
   * Identify who must / need to be there during the session
-* A session is **ready when it respects the Definition Of Ready **(DOR)
+* A session is **ready when it respects the Definition Of Ready** (DOR)
   * In a DOR you could find : Business capabilities concerned, Draft of API contract, Collaboration diagram depending on the topic of the session
 
 ### Outcomes

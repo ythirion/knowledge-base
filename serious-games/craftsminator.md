@@ -15,7 +15,7 @@ Si comme nous vous vous êtes déja posé l’une de ces questions :
 * Comment puis-je avoir des discussions d’égal à égal ?
 * Comment puis-je jauger techniquement mais également humainement un candidat ?
 
-## Le contexte <a href="7f01" id="7f01"></a>
+## Le contexte <a href="#7f01" id="7f01"></a>
 
 Nous avons tous, ou presque, dû passer des entretiens d’embauche dans notre vie. En général ce n’est pas un moment très agréable: on nous pose des questions auxquelles nous ne savons pas forcément quoi répondre, comme:
 
@@ -38,15 +38,15 @@ Et voici ce que cela provoque comme raisonnement chez le candidat :
 
 Dans ce genre d’entretien, candidat et recruteur sont finalement enfermés dans une lose-lose situation.
 
-### Pour le recruteur <a href="e9ff" id="e9ff"></a>
+### Pour le recruteur <a href="#e9ff" id="e9ff"></a>
 
 C’est vraiment difficile de démêler le vrai du faux dans le discours du candidat et de découvrir la « vraie » personne.
 
-### Pour le candidat <a href="95e3" id="95e3"></a>
+### Pour le candidat <a href="#95e3" id="95e3"></a>
 
 C’est un moment en général désagréable à passer, durant lequel il se sent scruté et extrêmement stressé. Il en ressort en général frustré et plein d’incertitudes (“est-ce que j’ai réussi ou non ?”).
 
-## Qu’en est t il des entretiens techniques ? <a href="5545" id="5545"></a>
+## Qu’en est t il des entretiens techniques ? <a href="#5545" id="5545"></a>
 
 Dans le monde du développement, les entretiens techniques avec les développeurs ressemblent fortement aux entretiens décris ci-dessus : un maximum de questions et un maximum de stress.
 
@@ -66,13 +66,13 @@ Les questions techniques dans le monde du développement ressemblent souvent à 
 
 ![](<../.gitbook/assets/image (275).png>)
 
-## La gamification au secours des entretiens d’embauche <a href="4c2d" id="4c2d"></a>
+## La gamification au secours des entretiens d’embauche <a href="#4c2d" id="4c2d"></a>
 
 Avec des collègues nous nous sommes posé de nombreuses questions en nous basant sur nos expériences lors de nos entretiens (en tant que candidat et/ou recruteur) :
 
-* Comment mettre un candidat** à l’aise **?
-* Comment avoir des discussions** d’égal à égal** ?
-* Comment jauger **techniquement et également humainement **un candidat ?
+* Comment mettre un candidat **à l’aise** ?
+* Comment avoir des discussions **d’égal à égal** ?
+* Comment jauger **techniquement et également humainement** un candidat ?
 
 Nous avons alors pensé à ce que nous utilisions dans nos formations et dans notre coaching quotidien pour répondre à ces questions: la **gamification.**
 
@@ -87,7 +87,7 @@ _Les bénéfices espérés étaient les suivants :_
 * Pas un interviewer mais un maître du jeu / facilitateur en face d’un candidat
 * Libérer les énergies du candidat
 
-## Craftsminator <a href="271d" id="271d"></a>
+## Craftsminator <a href="#271d" id="271d"></a>
 
 {% hint style="success" %}
 En nous inspirant des escape games à base de cartes nous avons créé le jeu “**Craftsminator**” qui permet de tester nos candidats dans un environnement sécurisé.
@@ -107,11 +107,11 @@ Au milieu de l’aventure, les candidats sont amenés à “corriger” un bug e
 
 Ce format facilite la compréhension des comportements et des schémas de pensée des candidats.
 
-## Nos apprentissages <a href="8576" id="8576"></a>
+## Nos apprentissages <a href="#8576" id="8576"></a>
 
 Après 1 an d’utilisation, voici ce que nous avons appris :
 
-### Le feedback des candidats <a href="79b9" id="79b9"></a>
+### Le feedback des candidats <a href="#79b9" id="79b9"></a>
 
 * C’est disruptif
 * Beaucoup plus vivant qu’un entretien classique
@@ -124,7 +124,7 @@ En revanche, pour certains “c’est frustrant de ne pas finir”
 
 ![](<../.gitbook/assets/image (278).png>)
 
-### Notre feedback en tant que recruteurs <a href="6a10" id="6a10"></a>
+### Notre feedback en tant que recruteurs <a href="#6a10" id="6a10"></a>
 
 On a eu de bien meilleures interactions avec nos candidats :
 

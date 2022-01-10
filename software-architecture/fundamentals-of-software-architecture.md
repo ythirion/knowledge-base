@@ -43,19 +43,19 @@ This book examines:
 
 A design principle differs from an architecture decision in that a design principle is a guideline rather than a hard-and-fast rule**.**
 
-If a particular architecture decision cannot be implemented in one part of the system due to some condition or other constraint, that decision (or rule) can be broken through something called a variance. Most organizations have variance models that are used by an architecture review board (ARB) or chief architect. 
+If a particular architecture decision cannot be implemented in one part of the system due to some condition or other constraint, that decision (or rule) can be broken through something called a variance. Most organizations have variance models that are used by an architecture review board (ARB) or chief architect.&#x20;
 
 ### **3. List the eight core expectations of a software architect.**
 
-* _**Make architecture decisions**_ : 
+* _**Make architecture decisions**_ :&#x20;
   * Define the architecture decisions and design principles used to guide technology decisions within the team, the department, or across the enterprise
   * Instead of saying (use ReactJs) : an architect should instead instruct development teams to use a reactive-based framework for frontend web development
 * _**Continually analyze the architecture**_ : continually analyze the architecture and current technology environment and then recommend solutions for improvement
-* _**Keep current with latest trends**_ : 
+* _**Keep current with latest trends**_ :&#x20;
   * Keep current with the latest technology and industry trends
   * Understanding and following key trends helps the architect prepare for the future and make the correct decision
 * _**Ensure compliance with decisions**_ : with architecture decisions and design principles
-* _**Diverse exposure and experience **_: have exposure to multiple and diverse technologies, frameworks, platforms, and environments
+* _**Diverse exposure and experience**_ : have exposure to multiple and diverse technologies, frameworks, platforms, and environments
 * _**Have business domain knowledge**_ : have a certain level of business domain expertise
 * _**Possess interpersonal skills**_ : possess exceptional interpersonal skills, including teamwork, facilitation, and leadership
 * _**Understand and navigate politics**_ : understand the political climate of the enterprise and be able to navigate the politics.
@@ -108,7 +108,7 @@ To make architecture work, both the physical and virtual barriers that exist bet
 Developers will focus on Technical Depth and Architect on Technical Breadth
 
 {% hint style="success" %}
-Because architects must make decisions that match capabilities to technical constraints, a broad understanding of a wide variety of solutions is valuable. 
+Because architects must make decisions that match capabilities to technical constraints, a broad understanding of a wide variety of solutions is valuable.&#x20;
 
 Thus, for an architect, the wise course of action is to sacrifice some hard-won expertise and use that time to broaden their portfolio.
 {% endhint %}
@@ -136,12 +136,12 @@ Thus, for an architect, the wise course of action is to sacrifice some hard-won 
 
 ### **2. What is the difference between static and dynamic connascence?**
 
-* Static connascence refers to source-code-level coupling 
+* Static connascence refers to source-code-level coupling&#x20;
 * Dynamic connascence : execution-time coupling
 
 ### **3. What does connascence of type mean? Is it static or dynamic connascence?**
 
-It means that multiple components must agree on the type of an entity.** **Common facility in many statically typed languages to limit variables and Parameters to specific types.
+It means that multiple components must agree on the type of an entity. **** Common facility in many statically typed languages to limit variables and Parameters to specific types.
 
 ### **4. What is the strongest form of connascence?**
 
@@ -165,14 +165,14 @@ _Favor the term Architecture Characteristics instead of NFR_
 
 ### **1. What three criteria must an attribute meet to be considered an architecture characteristic?**
 
-An architecture characteristic meets three criteria: 
+An architecture characteristic meets three criteria:&#x20;
 
 * **Specifies a non domain design consideration :**
   * Requirements specify what the application should do
   * Architecture characteristics specify operational and design criteria for success
     * Concerning **how** to implement the requirements and why certain choices were made
   * Ex : Level of performance for the application
-* **Influences some structural aspect of the design **: 
+* **Influences some structural aspect of the design** :&#x20;
   * Does this architecture characteristic require special structural consideration to succeed
   * Ex : Security aspects
 * **Is critical or important to application success** :
@@ -184,26 +184,26 @@ An architecture characteristic meets three criteria:
 
 ![](<../.gitbook/assets/image (405).png>)
 
-* Implicit ones rarely appear in requirements, yet they’re necessary for project success. 
+* Implicit ones rarely appear in requirements, yet they’re necessary for project success.&#x20;
   * Examples : Availability, reliability, and security
   * Architects must use their knowledge of the problem domain to uncover these architecture characteristics during the analysis phase
 * Explicit architecture characteristics appear in requirements documents
 
 ### **3. Provide an example of an operational characteristic.**
 
-* _**Availability**_ : How long the system will need to be available (if 24/7, steps need to be in place to allow the system to be up and running quickly in case of any failure). 
-* _**Performance**_ : Includes stress testing, peak analysis, analysis of the frequency of functions used, capacity required, and response times. 
+* _**Availability**_ : How long the system will need to be available (if 24/7, steps need to be in place to allow the system to be up and running quickly in case of any failure).&#x20;
+* _**Performance**_ : Includes stress testing, peak analysis, analysis of the frequency of functions used, capacity required, and response times.&#x20;
 * ...
 
 ### **4. Provide an example of a structural characteristic.**
 
-* _**Configurability**_ : Ability for the end users to easily change aspects of the software’s configuration (through usable interfaces). 
+* _**Configurability**_ : Ability for the end users to easily change aspects of the software’s configuration (through usable interfaces).&#x20;
 * _**Extensibility**_ : How important it is to plug new pieces of functionality in.
 * ...
 
 ### **5. Provide an example of a cross-cutting characteristic.**
 
-* _**Accessibility**_ : Access to all your users, including those with disabilities like colorblindness or hearing loss. 
+* _**Accessibility**_ : Access to all your users, including those with disabilities like colorblindness or hearing loss.&#x20;
 * _**Authentication**_ : Security requirements to ensure users are who they say they are.
 * _**Authorization**_ : Security requirements to ensure users can access only certain functions within the application
 * ...
@@ -226,7 +226,7 @@ A common anti-pattern in architecture entails trying to design a generic archite
 
 ### **2. True or false: most architecture characteristics come from business requirements and user stories.**
 
-**True : **Understanding the key domain goals and domain situation allows an architect to translate those domain concerns to “-ilities”
+**True :** Understanding the key domain goals and domain situation allows an architect to translate those domain concerns to “-ilities”
 
 ![](<../.gitbook/assets/image (406).png>)
 
@@ -250,7 +250,7 @@ Availability of our systems and scalability at least.
 
 A domain stakeholder might say something like :
 
-> “Due to regulatory requirements, it is absolutely imperative that we complete end-of-day fund pricing on time.” 
+> “Due to regulatory requirements, it is absolutely imperative that we complete end-of-day fund pricing on time.”&#x20;
 
 #### On what Architecture Characteristics should we focus ?
 
@@ -259,8 +259,8 @@ A domain stakeholder might say something like :
   * It doesn’t matter how fast the system is if it isn’t available when needed
   * As the domain grows and more funds are created, the system must be able to also scale to finish end-of-day processing in time
   * The system must not only be available, but must also be reliable so that it doesn’t crash as end-of-day fund prices are being calculated
-  * _**What happens if **_the end-of-day fund pricing is about 85% complete and the system crashes?  It must be able to recover and restart where the pricing left off. 
-  * The system may be fast, but are the fund prices being calculated correctly? 
+  * _**What happens if**_ the end-of-day fund pricing is about 85% complete and the system crashes?  It must be able to recover and restart where the pricing left off.&#x20;
+  * The system may be fast, but are the fund prices being calculated correctly?&#x20;
 
 So, in addition to performance, the architect must also equally place a focus on availability, scalability, reliability, recoverability, and auditability.
 
@@ -314,9 +314,9 @@ Architects must ensure that developers understand the purpose of the fitness fun
 
 > “An independently deployable artifact with high functional cohesion and synchronous connascence”
 
-* _Independently deployable_** : **includes all the necessary components to function independently from other parts of the architecture.
+* _Independently deployable_ **:** includes all the necessary components to function independently from other parts of the architecture.
   * “For example, if an application uses a database, it is part of the quantum because the system won’t function without it
-* _High functional cohesion : _how well the contained code is unified in purpose.
+* _High functional cohesion :_ how well the contained code is unified in purpose.
   * Implies that an architecture quantum does something purposeful
 * _Synchronous connascence_ : implies synchronous calls within an application context or between distributed services that form this architecture quantum
 
@@ -324,9 +324,9 @@ _**Closed to the Bounded Context concept from Eric Evans**_
 
 ### **2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this system have a single quantum or four quanta? Why?**
 
-4 quantas because each services include their owns DB :** **Each independently deployable artifact
+4 quantas because each services include their owns DB : **** Each independently deployable artifact
 
-_**Interesting Kata : **_[_**Going, Going, Gone**_](http://fundamentalsofsoftwarearchitecture.com/katas/kata?id=GoingGoingGone)_****_
+_**Interesting Kata :**_ [_**Going, Going, Gone**_](http://fundamentalsofsoftwarearchitecture.com/katas/kata?id=GoingGoingGone)_****_
 
 ## Chapter 8: Component-Based Thinking
 
@@ -589,11 +589,11 @@ Small teams work for 45 minutes on a design :
 * Then show results to the other groups
 * The other groups vote on who came up with the best architecture
 
-Each kata has predefined sections: 
+Each kata has predefined sections:&#x20;
 
-* _**Description**_ :  The overall domain problem the system is trying to solve 
-* _**Users **_: The expected number and/or types of users of the system
-* _**Requirements Domain/domain-level requirements **_: as an architect might expect from domain users/domain experts
+* _**Description**_ :  The overall domain problem the system is trying to solve&#x20;
+* _**Users**_ : The expected number and/or types of users of the system
+* _**Requirements Domain/domain-level requirements**_ : as an architect might expect from domain users/domain experts
 * _**Additional context**_ : Many of the considerations an architect must make aren’t explicitly expressed in requirements but rather by implicit knowledge of the problem domain
 
 [Kata list](http://fundamentalsofsoftwarearchitecture.com/katas/list.html)

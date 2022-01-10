@@ -6,7 +6,7 @@ description: from Emily Bache
 
 ## Pitch
 
-Agile Coaching helps an organization to be more successful, by increasing agility. 
+Agile Coaching helps an organization to be more successful, by increasing agility.&#x20;
 
 Samman Technical Coaching is **a kind of Agile Coaching that specializes in technical questions concerning how code is written**. It's an aspect of agility that is often glossed over, and can be crucial for success. This book explains the best method I know of to increase agility amongst software developers. You help them improve coding practices and how they collaborate. It's fun and challenging for the coach too.
 
@@ -24,7 +24,7 @@ Hi-resolution infographic
 
 ## Foreword by Kent Beck
 
-* "Software development is best seen as a learning process where running programs are the proof of** **learning, rather than a factory or production process. That’s the first idea I found in Samman."
+* "Software development is best seen as a learning process where running programs are the proof of **** learning, rather than a factory or production process. That’s the first idea I found in Samman."
 * "Walking a new path together along with an experienced guide reduces time spent not learning because of fear. That’s the second idea."
 
 ## Introduction
@@ -33,14 +33,14 @@ Hi-resolution infographic
 
 * A method for people who want to make a difference and **improve the way software is built**.
 * **Focus ?**
-  * Specifically on technical practices 
+  * Specifically on technical practices&#x20;
   * How people write code
-* **Foundation / prerequisite ? **
+* **Foundation / prerequisite ?**&#x20;
   * Cultivate good relationships with the people you work with
   * The rest is about effective ways to learn from one another and to change behaviours for the long term.
 * **2 main parts to the method :**
-  * **Learning Hour **:** **the coach uses exercises and active learning techniques to teach the theory and practice of skills like Test-Driven Development and Refactoring
-  * **Ensemble Working** : In the Ensemble sessions 
+  * **Learning Hour** : **** the coach uses exercises and active learning techniques to teach the theory and practice of skills like Test-Driven Development and Refactoring
+  * **Ensemble Working** : In the Ensemble sessions&#x20;
     * Whole team collaborates together with the coach in applying agile development techniques in their usual production codebase
 * **Samman and Ensemble ?**
   * ‘Samman’ word describes this coaching method
@@ -59,13 +59,13 @@ _To increase business agility and success if a company is building a software pr
 
     time and higher quality
 
-    * Meeting deadlines 
+    * Meeting deadlines&#x20;
     * Deliver reliable software.
 
     _**This brings happier customers and a successful business.**_
 * Skilled developers will want to work for an organization with high quality code, effective development practices and a healthy culture.
-* The company needs to avoid drowning in technical debt. 
-  * If it piles up too much developers will ultimately be unable to deliver any new features in a timely or cost effective manner. 
+* The company needs to avoid drowning in technical debt.&#x20;
+  * If it piles up too much developers will ultimately be unable to deliver any new features in a timely or cost effective manner.&#x20;
   * Serious risk for any business.
 
 ### Elevator pitch for Samman Technical Coaching
@@ -80,23 +80,23 @@ The Samman coaching method is also on-the-job, together with developers in their
 
 ![Sample agenda when coaching 2 teams](<../.gitbook/assets/image (466).png>)
 
-### Development techniques 
+### Development techniques&#x20;
 
 * _Better unit tests_
-  * Developers should deliver a suite of automated unit tests together with the code they write. 
-  * Tests 
+  * Developers should deliver a suite of automated unit tests together with the code they write.&#x20;
+  * Tests&#x20;
     * Demonstrate each part of the code works as the authors intended
     * Documents their assumptions
     * Provide **a safety-net for refactoring and make maintenance less costly**
 * _Continuous Integration_
-  * Know the incremental design and refactoring techniques 
+  * Know the incremental design and refactoring techniques&#x20;
   * To be able to integrate often : avoid merge conflicts
 * _Safe refactoring in legacy code_
 * _Incremental and Iterative Development_
   * Many developers struggle to iterate the design of the code
   * Don’t know
     * Refactoring tools
-    * Design patterns 
+    * Design patterns&#x20;
     * Signs to look for that
 
 ### Leveling up a whole team together
@@ -115,17 +115,17 @@ _**Software development these days is a team sport and it doesn’t work to only
 ### Expected outcomes
 
 * First step
-  * Awareness of what 
+  * Awareness of what&#x20;
     * Good unit tests look like
     * What continuous integration actually is
   * Possible to safely refactor code you don’t initially understand
 * Next
-  * Aim for the insight that successfully meeting deadlines 
+  * Aim for the insight that successfully meeting deadlines&#x20;
   * Delivering high quality code means learning iterative and incremental development techniques
 * Timeline ?
   * After 10-20 coaching days most teams will have reached those insights
   * These are the first steps on the road to improving the way that team works and the quality of the code they deliver
-  * After that, it’s about 
+  * After that, it’s about&#x20;
     * Building skills and anchoring ways of working in habits and culture
 
 ### Measuring outcomes
@@ -173,13 +173,13 @@ The important rule here is that you are **not allowed to decide what code to wri
 The navigator speaks for the ensemble and explains to the typist what code they should enter into the computer.
 {% endhint %}
 
-* Speak in words, out loud, explaining the development activities they have in mind 
+* Speak in words, out loud, explaining the development activities they have in mind&#x20;
 * Give enough detail that the typist knows what to do
 * Everyone in the group both :
   * Hears the navigator explain the work
   * Sees the typist do the work
-* _**We are not used to talking about code in this way :**_ 
-  * An inexperienced lead might say things like “public int foo parenthesis int bar close parenthesis” 
+* _**We are not used to talking about code in this way :**_&#x20;
+  * An inexperienced lead might say things like “public int foo parenthesis int bar close parenthesis”&#x20;
   * Maybe better : “define a function called foo. It takes one argument, an integer called bar”.
   * Remind that you are talking to a the typist, not to a computer
 
@@ -197,7 +197,7 @@ Everyone who isn’t the typist is a co-navigator in the ensemble. We all develo
 
 * Working as an ensemble is a _**skill that takes some time for a group to learn**_
 * It helps to have a facilitator whose job it is to keep things working smoothly
-* Usually someone 
+* Usually someone&#x20;
   * Different from the typist or navigator
 * The facilitator will spend time :
   * Reminding people of the working agreements
@@ -205,7 +205,7 @@ Everyone who isn’t the typist is a co-navigator in the ensemble. We all develo
   * Helping the ensemble to reflect and improve their work together
 
 {% hint style="success" %}
-As the ensemble gains experience the facilitator may need to intervene less often. It may become a part-time position or disappear altogether. 
+As the ensemble gains experience the facilitator may need to intervene less often. It may become a part-time position or disappear altogether.&#x20;
 {% endhint %}
 
 #### Rotating roles
@@ -214,9 +214,9 @@ As the ensemble gains experience the facilitator may need to intervene less ofte
 
 #### Other ensemble roles
 
-_As well as typist and navigator, there are other roles that people can take as the need arises. _
+_As well as typist and navigator, there are other roles that people can take as the need arises._&#x20;
 
-* Common one is “_**Researcher**_” : 
+* Common one is “_**Researcher**_” :&#x20;
   * If the ensemble gets stuck because no-one remembers the exact syntax or library function to use
   * Someone can offer to research it
 * Another useful role to have is “_**Archivist**_”
@@ -231,8 +231,8 @@ Coach can use this forum to promote better ways of working in the code.
 
 ### Let the Ensemble give you Superpowers
 
-* You can spread 
-  * Knowledge 
+* You can spread&#x20;
+  * Knowledge&#x20;
   * Ways of working to a team
 * You can increase communication, and promote teamwork
 
@@ -291,9 +291,9 @@ _**You learn as much from the team as they learn from you, and you can keep your
 Adopt this golden rule : _**We treat everyone with kindness, consideration and respect**_
 {% endhint %}
 
-* Woody’s Legacy Code rule Honor : 
+* Woody’s Legacy Code rule Honor :&#x20;
   * "_Honor the coder and their code. The constraints they endured are not mine to know."_
-  * Assume they did the best they could with 
+  * Assume they did the best they could with&#x20;
     * The knowledge they had
     * The circumstances they were in at the time
 * Yes, and
@@ -303,10 +303,10 @@ Adopt this golden rule : _**We treat everyone with kindness, consideration and r
 * Too much thinking at the keyboard
   * Design should be spoken by the navigator before it is coded by the typist
 * **I think \<name> has a good idea we should listen to**
-  * Listen to Everyone 
+  * Listen to Everyone&#x20;
   * Sometimes you get good ideas being spoken but no-one pays attention
 * Consideration means **paying attention**
-  * Increase the rotation speed 
+  * Increase the rotation speed&#x20;
   * So they end up leading the navigating more often
 * **Call out bad behavior that can’t wait until the retrospective**
   * A useful phrase is “we don’t do that here”
@@ -314,7 +314,7 @@ Adopt this golden rule : _**We treat everyone with kindness, consideration and r
 ### Retrospectives
 
 * Each ensemble session should be an improvement on the previous one
-* You want to see 
+* You want to see&#x20;
   * Increasing collaboration
   * New skills being used
   * People feeling happier
@@ -339,17 +339,17 @@ Adopt this golden rule : _**We treat everyone with kindness, consideration and r
 * Why should you spend a whole hour every day on learning?
   * Become more productive and happier
   * Everyone benefits!
-    * Small increases in productivity 
+    * Small increases in productivity&#x20;
       * Quickly add up to more than compensate the time you spent on the learning sessions.
   * With the right tools
     * Refactor easily and safely
 * **As a software developer, learning is part of your job**
-  * Always 
+  * Always&#x20;
     * New tools and frameworks appearing that you should know about
     * Better designs and ways of working being invented
   * To remain competitive in a fast-moving world, **where you are being paid for knowledge-intensive**, skilled work
     * You must keep learning to stay relevant and useful
-* **Who should come to the Learning Hour? **
+* **Who should come to the Learning Hour?**&#x20;
   * In the first place, invite the teams who you are coaching
   * Can have joint sessions depending on teams interests
 
@@ -357,23 +357,23 @@ Adopt this golden rule : _**We treat everyone with kindness, consideration and r
 
 #### Learning Outcomes and Objectives
 
-* What really matters about your training 
+* What really matters about your training&#x20;
   * Is actually what happens afterwards
   * When people return to their desk
   * Will they be able to apply what they’ve learnt in a useful way?
-  * **Start with the end in mind. **
+  * **Start with the end in mind.**&#x20;
   * **What is the outcome you’re hoping to achieve?**
 
 #### Bloom’s taxonomy
 
-* Can describe thinking skills in terms of six broad categories: 
+* Can describe thinking skills in terms of six broad categories:&#x20;
   * Remembering
   * Understanding
   * Applying
   * Analyzing
   * Evaluating
   * Creating
-* There is an implied hierarchy and order of categories. 
+* There is an implied hierarchy and order of categories.&#x20;
   * For example ‘Remembering’ is easier to achieve in a student’s journey than ‘Analyzing’ or ‘Creating’
 
 ### ‘4C’ learning model
@@ -394,14 +394,14 @@ Check Sharon Bowman’s ‘4C’ learning model and her book ‘Training from th
 #### Design learning experiences that fit with how the brain works
 
 * When teaching, it helps to understand how the human brain works
-* Cognitive neuroscience is the study of how the brain 
+* Cognitive neuroscience is the study of how the brain&#x20;
   * Takes in
   * Stores
   * Retrieves and Uses information
 * Some neuroscience learnings :
   * What you pay attention to is strongly affected by subconscious processes. (ie out of your conscious control)
   * What you learn is **filtered through emotions**
-    * Stronger emotions are more likely to cause longterm memories to form. 
+    * Stronger emotions are more likely to cause longterm memories to form.&#x20;
     * Content that evokes no emotion is less likely to be remembered.
   * **Physical movement improves brain performance** - the brain is part of the body, so increased oxygen in the blood helps it function better.
 
@@ -414,7 +414,7 @@ Check Sharon Bowman’s ‘4C’ learning model and her book ‘Training from th
   * _**Incorporate movement into the content**_ of the training so that it doesn’t take much time
 * Talking trumps Listening
   * _When you talk about what you just heard it reinforces your memory of it_.
-  * Talking also gives opportunities for feedback 
+  * Talking also gives opportunities for feedback&#x20;
     * From others about how well you seem to understand the topic
 * Images trump Words
   * Images easily capture attention
@@ -451,7 +451,7 @@ A lot of great sessions are described in the book with plenty of great ideas :
 * ...
 
 {% hint style="success" %}
-Each coach has their own perspective and background. Use what you know and put together your own learning hours. Look through your bookshelf and technical video collection. 
+Each coach has their own perspective and background. Use what you know and put together your own learning hours. Look through your bookshelf and technical video collection.&#x20;
 {% endhint %}
 
 ## Part 3: Samman Coaching Engagements
@@ -460,7 +460,7 @@ Each coach has their own perspective and background. Use what you know and put t
 
 * The department striving for Technical Excellence
 * The company struggling with defects
-  * Root cause of defects is often 
+  * Root cause of defects is often&#x20;
     * Technical debt
     * Code hard to understand and change
   * In the company example :
@@ -493,10 +493,10 @@ Each coach has their own perspective and background. Use what you know and put t
 #### **Kick-off Workshop** with each team
 
 * With your sponsor, identify which teams would be good to approach about coaching
-* Probably want to talk to : 
+* Probably want to talk to :&#x20;
   * Line manager
   * Product Owner
-  * Scrum Master 
+  * Scrum Master&#x20;
   * The team members themselves
 
 **Kick- of agenda :**
@@ -517,9 +517,9 @@ Each coach has their own perspective and background. Use what you know and put t
 
 #### Takeaways
 
-* Have gathered: 
+* Have gathered:&#x20;
   * Everyone’s names in a format you can use to learn them
-  * A sketch of the architecture information about the build, test and deployment process 
+  * A sketch of the architecture information about the build, test and deployment process&#x20;
   * Some insights into the code notes about the main problems facing the team from their POV
 
 {% hint style="info" %}

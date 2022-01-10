@@ -1,6 +1,6 @@
 # Cultivate Team Learning with Xtrem Reading
 
-#### **I have written this article for infoQ, it has been plublished here : **[**https://www.infoq.com/articles/learning-xtrem-reading/**](https://www.infoq.com/articles/learning-xtrem-reading/)****
+#### **I have written this article for infoQ, it has been plublished here :** [**https://www.infoq.com/articles/learning-xtrem-reading/**](https://www.infoq.com/articles/learning-xtrem-reading/)****
 
 #### Key Takeaways
 
@@ -14,7 +14,7 @@
 
 ## How could our organizations achieve that?
 
-The answer has been known for a few decades now (in 1990): by becoming a** learning organization;** an organization skilled at:
+The answer has been known for a few decades now (in 1990): by becoming a **learning organization;** an organization skilled at:
 
 * Creating, acquiring, and transferring knowledge
 * Modifying its behavior to reflect new knowledge and insights
@@ -64,7 +64,7 @@ For the record, at the time, I was affected by a syndrome called Tsundoku. (Mayb
 
 If you answer YES to those 2 simple questions, you are affected. Tsundoku is the act of acquiring books and letting them pile up without reading them. Sorry for this deviation, let’s go back to my original story.
 
-After having identified reading as the number one practice for individual learnings, the problem was the following:_ Reading_, as we have been taught, is a solo activity—how could we make it collective?
+After having identified reading as the number one practice for individual learnings, the problem was the following: _Reading_, as we have been taught, is a solo activity—how could we make it collective?
 
 After a few brainstorming and experimental sessions, we created what we now call Xtrem Reading.
 
@@ -140,7 +140,7 @@ Within each group, 5 to 10 minutes are spent per book to explain what has been d
 
 I strongly encourage the facilitator to add questions at the end of the sharing, like how could we use this learning in our day-to-day life?
 
-**It will encourage strong collective reflection through dialogue. **Often (depending on the books) it leads to awareness or team experimentations.
+**It will encourage strong collective reflection through dialogue.** Often (depending on the books) it leads to awareness or team experimentations.
 
 #### **6) Appreciate the book (optional)**
 
@@ -256,4 +256,4 @@ As a conclusion, I propose to you some reflections:
 Xtream Reading infographic High Definition
 {% endfile %}
 
-_This article is based on the Xtrem Reading concept I have created with _[_Cédric Tamavond _](https://www.linkedin.com/in/cedric-tamavond-b30ab917/)_when I was an employee at AP. This work has been licensed under a _[_Creative Commons Attribution-ShareAlike 4.0 International License_](https://creativecommons.org/licenses/by-sa/4.0)_._
+_This article is based on the Xtrem Reading concept I have created with_ [_Cédric Tamavond_ ](https://www.linkedin.com/in/cedric-tamavond-b30ab917/)_when I was an employee at AP. This work has been licensed under a_ [_Creative Commons Attribution-ShareAlike 4.0 International License_](https://creativecommons.org/licenses/by-sa/4.0)_._

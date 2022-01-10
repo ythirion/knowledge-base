@@ -28,13 +28,13 @@ Hi-resolution infographic
 Technical debt is a metaphor that lets developers explain the need for refactorings and communicate technical trade-offs to business people.
 {% endhint %}
 
-* Technical-debt decisions apply both at the 
+* Technical-debt decisions apply both at the&#x20;
   * Micro level where we may choose to hack in a new feature with the use of complex conditional logic
   * Macro level when we make architectural trade-offs to get the system through yet another release
 * Technical debt is a strategic business decision rather than a technical one
 
 {% hint style="info" %}
-**Keep a decision log : **
+**Keep a decision log :**&#x20;
 
 * Human memory is fragile
 * Cognitive biases are real
@@ -64,7 +64,7 @@ _**Just because some code is bad doesn’t mean it’s technical debt. It’s no
     * Has much more elaborate mental processes
     * Needs our guidance to use those processes efficiently
 * As we learn a topic we build mental representations of that domain : schemas
-  * A **schema** : theoretical construct used to describe the way we organize knowledge in our memory and how we use that knowledge for a particular event. 
+  * A **schema** : theoretical construct used to describe the way we organize knowledge in our memory and how we use that knowledge for a particular event.&#x20;
 * Understanding code also builds on schemas :
   * General schemas for syntactic and semantic knowledge
   * Like knowing the construction order of a class hierarchy in C++
@@ -84,7 +84,7 @@ Practices like peer reviews and coding standards help you mitigate the problems 
 
 #### How do we uncover the areas in need of improvement?
 
-* Where’s the code with the highest interest rate? 
+* Where’s the code with the highest interest rate?&#x20;
 * Does our architecture support the way our system evolves?
 * Are there any productivity bottlenecks for interteam coordination?
 
@@ -102,7 +102,7 @@ Sometimes most development activity is focused on a relatively small part of the
 
 ### Prioritize Technical Debt with Hotspots
 
-* A hotspot is complicated code that you have to work with often. 
+* A hotspot is complicated code that you have to work with often.&#x20;
 * Hotspots are calculated by combining the two metrics we’ve explored:
   * Calculating the change frequency of each file as a proxy for interest rate
   * Using the lines of code as a simple measure of code complexity
@@ -120,7 +120,7 @@ It’s easy to critique code in retrospect.
 
 #### Evaluate Hotspots with Complexity Trends
 
-We can find out how severe a potential problem is via a **complexity trend analysis**, which looks at the accumulated complexity of the file over time. 
+We can find out how severe a potential problem is via a **complexity trend analysis**, which looks at the accumulated complexity of the file over time.&#x20;
 
 The trend is calculated by fetching each historic version of a hotspot and calculating the code complexity of each historic revision.
 
@@ -128,7 +128,7 @@ The trend is calculated by fetching each historic version of a hotspot and calcu
 
 #### What Is Complexity, Anyway?
 
-* Get more insights if the trend is capable of differentiating between 
+* Get more insights if the trend is capable of differentiating between&#x20;
   * Growth in pure size
   * Versus growth in complexity
 * The _**indentation-based complexity**_ metric provides one such approach
@@ -186,7 +186,7 @@ Look for surprising patterns when investigating change coupling
 ![](<../../.gitbook/assets/image (579).png>)
 
 {% hint style="success" %}
-**Calculate Change Coupling from the Command Line by using **[**code-maat**](https://github.com/adamtornhill/code-maat)****
+**Calculate Change Coupling from the Command Line by using** [**code-maat**](https://github.com/adamtornhill/code-maat)****
 {% endhint %}
 
 #### Minimize Your Investigative Efforts
@@ -212,12 +212,12 @@ Refactoring code that’s under heavy development, perhaps even shared between m
 
 #### Follow the Principle of Proximity
 
-* Proximity focuses on 
-  * How well organized your code is with respect to 
+* Proximity focuses on&#x20;
+  * How well organized your code is with respect to&#x20;
     * Readability and change
-* Proximity implies that _**functions that are changed together **_are _**moved closer together**_. Proximity is both a design principle
+* Proximity implies that _**functions that are changed together**_ are _**moved closer together**_. Proximity is both a design principle
 * Proximity principle is a refactoring technique that uses feedback from how our code evolves :
-  * By ordering our functions and methods according to our change patterns 
+  * By ordering our functions and methods according to our change patterns&#x20;
   * _**We communicate information that isn’t expressible in programming-language syntax**_
 
 ![](<../../.gitbook/assets/image (581).png>)
@@ -230,16 +230,16 @@ A proximity refactoring serves as a mental note that the two functions belong to
 
 ### Refactor Congested Code with the Splinter Pattern
 
-* Splinter pattern provides a structured way to break up hotspots into 
+* Splinter pattern provides a structured way to break up hotspots into&#x20;
   * Manageable pieces that can be divided among several developers to work on
 
 #### Parallel Development Is at Conflict with Refactoring
 
 * Our refactoring goal conflicts with the short-term evolution of the overall system
-  * Most organizations just cannot afford to pause ongoing work 
+  * Most organizations just cannot afford to pause ongoing work&#x20;
     * so that we can refactor in a safe, development-free vacuum
 * The splinter pattern resolves this dilemma by recognizing that refactoring a hotspot is an iterative process
-  * In a splinter refactoring you 
+  * In a splinter refactoring you&#x20;
     * Won’t even improve the code quality as such
     * BUT rather _**transform the code to a structure where multiple people can work together in parallel toward the overall refactoring goal**_.
 
@@ -254,7 +254,7 @@ Keep the original method signatures and replace the method bodies with a simple 
 Steps behind an iterative splinter refactoring :
 
 1. _Ensure your tests cover the splinter candidate_ : have an adequate test suite
-2. _Identify the behaviors inside your hotspot : _ look at the names of the methods inside the hotspot / identify code that forms groups of behaviors
+2. _Identify the behaviors inside your hotspot :_ look at the names of the methods inside the hotspot / identify code that forms groups of behaviors
 3. _Refactor for proximity :_ form groups of functions with related behavior inside the larger file, based on the behaviors you identified earlier
 4. _Extract a new module for the behavior with the most development activity_ : use X-Ray
 5. _Delegate to the new module_. Replace the body of the original methods with delegations to your new module
@@ -279,15 +279,15 @@ Stabilize Code by Age :
 
 #### Related advantages
 
-* _Promotes long-term memory models of code _: Stable packages serve as chunks that remain valid over time, which means our expectations of a piece of code won’t be broken
-* _Lessens cognitive load since there’s less active code _: The more code you manage to stabilize, the less knowledge you need to keep in your head
+* _Promotes long-term memory models of code_ : Stable packages serve as chunks that remain valid over time, which means our expectations of a piece of code won’t be broken
+* _Lessens cognitive load since there’s less active code_ : The more code you manage to stabilize, the less knowledge you need to keep in your head
 * _Prioritizes test suites to shorten lead times_ : Identify which parts of the software you can safely skip test runs
 
 #### 3 generations of code
 
 Dan North claims that we want our code to be either :
 
-* very recent 
+* very recent&#x20;
 * Or old
 * The kind of code that’s hard to understand lies in between these two extremes
 
@@ -320,28 +320,28 @@ T_he scale of a codebase has to be reflected in both the organization of people 
 
 ### Divide and Conquer with Architectural Hotspots
 
-1. _Identify your architectural boundaries: _
-   * Sometimes those boundaries are documented 
+1. _Identify your architectural boundaries:_&#x20;
+   * Sometimes those boundaries are documented&#x20;
    * If not, you need to reverse-engineer those boundaries, and a good starting point is to _**base them on the folder structure of the codebase**_.
-2. _Run a hotspot analysis on an architectural level :_ 
+2. _Run a hotspot analysis on an architectural level :_&#x20;
    * Identify the subsystems with the most development effort
    * Visualize the complexity trend of a whole architectural component.
-3. _Analyze the files in each architectural hotspot :_ 
+3. _Analyze the files in each architectural hotspot :_&#x20;
    * Focus on individual files
    * Our analysis scope is smaller since we focus on one subsystem at a time
 
 ![](<../../.gitbook/assets/image (585).png>)
 
 {% hint style="success" %}
-_Always remember that just because some code is a hotspot, that doesn’t necessarily mean it’s a problem. _
+_Always remember that just because some code is a hotspot, that doesn’t necessarily mean it’s a problem._&#x20;
 {% endhint %}
 
-* A hotspot means 
-  * We’ve identified a part of the code that requires our attention 
+* A hotspot means&#x20;
+  * We’ve identified a part of the code that requires our attention&#x20;
   * Since it attracts many changes
 * **The more often something is changed**
-  * **The more important it is that the corresponding code is of **
-    * High quality so 
+  * **The more important it is that the corresponding code is of**&#x20;
+    * High quality so&#x20;
     * all those changes are simple and low risk
 
 #### Analyze subsystems
@@ -370,7 +370,7 @@ _Each time you accept a risk, the deviations become the new normal_. (see Challe
     * First : shocked by the amount of code and the lack of higher-level organization.
     * But if you work with that code long enough
       * Those 15,000 lines become the new normal
-      * **Besides, what difference does a few more lines of code make?** 
+      * **Besides, what difference does a few more lines of code make?**&#x20;
 
 #### Get a Whistleblower
 
@@ -386,9 +386,9 @@ _**Complexity trends serve as excellent whistleblowers**_ by giving us an _**unb
   * 10 to 15 percent is common
   * To show your managers how important that code is for your ability to support new features and innovations
 * Follow up with the corresponding complexity trends to explain that the code gets worse over time, which will slow you down
-* Add the people side to your presentation to highlight that the _**hotspots are coordination bottlenecks **_too.
+* Add the people side to your presentation to highlight that the _**hotspots are coordination bottlenecks**_ too.
 
-> Later you can visualize the effects of a refactoring with a steep downward trend of your prioritized hotspot. 
+> Later you can visualize the effects of a refactoring with a steep downward trend of your prioritized hotspot.&#x20;
 
 ### Beyond Conway’s Law
 
@@ -454,15 +454,15 @@ The key to finding the right boundaries is to make it a deliberate rather than a
 
 #### Motivation Losses in Teams
 
-> Social loafing is a type of motivation loss that may occur when we feel that the success of our team depends little on our actual effort. 
+> Social loafing is a type of motivation loss that may occur when we feel that the success of our team depends little on our actual effort.&#x20;
 
 We pretend to do our part of the work, when in reality we just try to look busy and hope our peers keep up the effort.
 
 Several factors can minimize the risk of **social loafing**:
 
 * _Small groups_
-* _Evaluation _: Code reviews done right have positive motivational effects the _**reviews show that someone else cares about your contribution**_
-* _Leadership by example _: need to model the behaviors you want to see in others
+* _Evaluation_ : Code reviews done right have positive motivational effects the _**reviews show that someone else cares about your contribution**_
+* _Leadership by example_ : need to model the behaviors you want to see in others
 * _Visibility_: Recognize each person’s contributions by presenting knowledge maps that show the main contributors behind each module
 
 ![](<../../.gitbook/assets/image (591).png>)
@@ -476,7 +476,7 @@ Several factors can minimize the risk of **social loafing**:
 
 #### Measure Upcoming Knowledge Loss
 
-This analysis uses the same data as the knowledge maps; the only difference is that we form two virtual teams: 
+This analysis uses the same data as the knowledge maps; the only difference is that we form two virtual teams:&#x20;
 
 * One for people who actively work on the codebase
 * One for people who are about to leave
@@ -495,9 +495,9 @@ When a developer resigns and has a notice period to work out, run this analysis 
 
 * _Incorrect author info_
 * _Copy-paste repositories_: extract a component into a separate Git repository but fails to migrate its history
-* _Misused squash commits_: Git lets you squash commits, effectively merging separate commits into one. 
+* _Misused squash commits_: Git lets you squash commits, effectively merging separate commits into one.&#x20;
   * Useful on a smaller scale for a single developer
-  * Disastrous when applied to work committed by several individuals. 
-    * The resulting history erases both 
-      * Social information 
+  * Disastrous when applied to work committed by several individuals.&#x20;
+    * The resulting history erases both&#x20;
+      * Social information&#x20;
       * Change coupling data.

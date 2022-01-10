@@ -32,7 +32,7 @@ The principles on this page come from the book [Learning 3.0 : How creative work
 
 ## Learning 3.0
 
-* All _**about stories and ideas **_more than about lessons and advice 
+* All _**about stories and ideas**_ more than about lessons and advice&#x20;
 * Learning is _**related to real work**_; it’s not outside it
 * The one who learns becomes the _**protagonist**_, having higher (or total) influence on the product and on the process of learning
 * _**Learning emerges from the connection of stories, ideas, and practice**_, and equal discussion through a problematized situation from the real world
@@ -49,7 +49,7 @@ The principles on this page come from the book [Learning 3.0 : How creative work
 * Creative workers create and nurture communities around them and through those communities emerges a big part of the learning necessary to deal with the professional challenges of the twenty-first century.
 
 {% hint style="success" %}
-_The greater the love for what you do, the greater your curiosity and your will to explore, and your capacity to be creative. _
+_The greater the love for what you do, the greater your curiosity and your will to explore, and your capacity to be creative._&#x20;
 {% endhint %}
 
 ### The flow

@@ -6,7 +6,7 @@ description: >-
 
 # Mikado method
 
-Sometimes it is easy to see small improvements that can be made to the code and to see how these small improvements might eventually lead to the bigger design changes that we want, but there are often cases where _**making a large design change can seem impenetrable**_. 
+Sometimes it is easy to see small improvements that can be made to the code and to see how these small improvements might eventually lead to the bigger design changes that we want, but there are often cases where _**making a large design change can seem impenetrable**_.&#x20;
 
 Maybe we can see the long-term goal, but it’s not clear any one step we can take that will send us in the right direction. Likewise, we may be able to see various small improvements we can make, but _**we’re not sure if they will directly help with our ultimate goal**_.
 
@@ -19,13 +19,13 @@ Tackle a complex refactoring by thinking about aspects of the code :
 * That makes the change difficult
 * Try to address them one at a time
 
-There could be assumptions that have propagated through the code base that would now be violated, and each one of those assumptions needs to be addressed to make the code more amenable to change. 
+There could be assumptions that have propagated through the code base that would now be violated, and each one of those assumptions needs to be addressed to make the code more amenable to change.&#x20;
 
 {% hint style="warning" %}
 _**Maybe there are parts of the code base that are difficult to understand, making it unclear how to make the larger change. We’ll need to improve these parts to make dependencies clearer.**_
 {% endhint %}
 
-> With this approach, we only make changes which we know will not break anything. 
+> With this approach, we only make changes which we know will not break anything.&#x20;
 
 We :
 
@@ -41,22 +41,22 @@ These are good goals, but like with any bottom-up approach, the risk is that _**
 ### Big Bang Refactoring
 
 {% hint style="info" %}
-We do a little up-front planning to try to define the goal and a general approach, but instead of working out every detail, **we just make the most important changes first and try to fix everything that breaks**. 
+We do a little up-front planning to try to define the goal and a general approach, but instead of working out every detail, **we just make the most important changes first and try to fix everything that breaks**.&#x20;
 {% endhint %}
 
-Maybe we create a new class which has the kind of API we wished for. 
+Maybe we create a new class which has the kind of API we wished for.&#x20;
 
-Then we try to move code from various places in our codebase to implement the new class and we change old code to use the new class. _**Everything doesn’t work on the first try of course.**_ 
+Then we try to move code from various places in our codebase to implement the new class and we change old code to use the new class. _**Everything doesn’t work on the first try of course.**_&#x20;
 
 With Big Bang Refactoring, it is expected that it is going to take a few iterations to get everything working again. Maybe functionality is missing from the new class that we didn’t initially realize needed to be there, so we add that. Maybe the new class needs to have access to certain data that we didn’t expect, so we provide ways to pass that data around. And of course, we made some mistakes along the way and we’ve introduced bugs, so we have to fix those, but eventually we chase down all the little problems and fix them and everything is working again. At least we hope.
 
 #### There is a big risk with this approach
 
-* The code may be in an unusable state for an indefinite period of time. 
+* The code may be in an unusable state for an indefinite period of time.&#x20;
 * Making changes in one place leads to changes in others, which leads to changes in others.
-* As we continue chasing down issues and making changes, we could start to get the feeling that maybe we made a mistake. 
+* As we continue chasing down issues and making changes, we could start to get the feeling that maybe we made a mistake.&#x20;
 
-Maybe this is harder than it should be, or maybe we should have taken a different approach. We may also find that we’ve introduced a bug that is difficult to reproduce. We are faced with a difficult decision. 
+Maybe this is harder than it should be, or maybe we should have taken a different approach. We may also find that we’ve introduced a bug that is difficult to reproduce. We are faced with a difficult decision.&#x20;
 
 Should we try to make a course correction, partially reverting what we’ve done? Should we throw everything that we’ve done away and start over? Or should we press ahead in the hope that you’ll eventually be able to get code back under control? Much work could be wasted if we make the wrong decision.\
 
@@ -73,7 +73,7 @@ With this method we :
 
 * Start like we are going for the Big Bang
   * Making a big change and dealing with the consequences
-* Instead of fixing the unexpected side-effects that inevitably arise 
+* Instead of fixing the unexpected side-effects that inevitably arise&#x20;
   * We stop, make a note of the issues we are running into
   * Then **undo** our changes
 * Back to a code base that works
@@ -87,25 +87,25 @@ We have some additional insight into what is going to make this change difficult
 _**FAIL FAST BUT SMARTLY**_
 {% endhint %}
 
-Now, with the code still in a good state, we can take the time to think about the issues we ran into. 
+Now, with the code still in a good state, we can take the time to think about the issues we ran into.&#x20;
 
-* What made these issues occur? 
-* What could be done differently? 
+* What made these issues occur?&#x20;
+* What could be done differently?&#x20;
 
-#### Example of learning : 
+#### Example of learning :&#x20;
 
 * We realize that if certain logic was factored out and centralized, our main change would have been much easier.
 * Perhaps we realize that if some hidden dependencies were made more explicit, then it would have been easier to make the change at a higher level.
 
-This ultimately leads to a new refactoring decision. We are back to wanting to make a refactoring, just a more basic one. Perhaps this is still a large refactoring, where all the possible side-effects are unclear. 
+This ultimately leads to a new refactoring decision. We are back to wanting to make a refactoring, just a more basic one. Perhaps this is still a large refactoring, where all the possible side-effects are unclear.&#x20;
 
 {% hint style="info" %}
-_"Enables you to deal with unavoidable complexities in manageable pieces." - _**Tom Poppendiek**
+_"Enables you to deal with unavoidable complexities in manageable pieces." -_ **Tom Poppendiek**
 {% endhint %}
 
-This is where the Mikado Method starts to take form : 
+This is where the Mikado Method starts to take form :&#x20;
 
-* Applying the same principle again, _**we make the change and see what happens**_. 
+* Applying the same principle again, _**we make the change and see what happens**_.&#x20;
 * If there are issues
   * We make a note of the unexpected consequences and what we could do about them
   * Then we revert to the last working state
@@ -114,11 +114,11 @@ This is where the Mikado Method starts to take form :
 
 #### The root of the tree
 
-It is the main change that we wanted to make. 
+It is the main change that we wanted to make.&#x20;
 
 #### Children
 
-The immediate children are the changes necessary to make the root change easy. 
+The immediate children are the changes necessary to make the root change easy.&#x20;
 
 #### Grandchildren
 
@@ -129,7 +129,7 @@ The grandchildren are the changes necessary to make the child changes easy, and 
 * Atomic refactoring steps that we can take
 * Are easy and quick steps that have no side-effects
 
-Applying the leaf refactoring and pruning them from the tree, new leaf changes are revealed. 
+Applying the leaf refactoring and pruning them from the tree, new leaf changes are revealed.&#x20;
 
 These leaf changes should now have become easy atomic refactoring themselves. If we continue this process, we eventually end up back at our root change. The root change is the reason we set this whole process in motion, but it is now itself an easy change, and we are done.
 

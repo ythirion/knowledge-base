@@ -4,7 +4,7 @@ description: from Allan Kelly
 
 # Succeeding with OKRs in Agile
 
-## Pitch <a href="title" id="title"></a>
+## Pitch <a href="#title" id="title"></a>
 
 OKRs are about goals bigger than the next story. OKRs prioritize purpose and strategy over backlogs. Objectives are big goals; key results are smaller goals that build towards the objective.
 
@@ -66,7 +66,7 @@ High Resolution infographic
   * Each result should be useful in and of itself
 * An objective should have its own wholeness that is more than the sum of its parts
   * Whole objective should create more value than simply the value of the Key Results added together
-* OKRs get reviewed_** at the end of each quarter**_
+* OKRs get reviewed _**at the end of each quarter**_
 * The real benefit is in the outcomes delivered
 * _**Ambition over estimation**_
   * The aim of OKR
@@ -88,12 +88,12 @@ High Resolution infographic
   * Glue between the short-term daily / sprint planning and long-term plans
 * Test-Driven OKRs
   * Each Objective has a set of Key Results
-  * Each of these Key Results is a test 
+  * Each of these Key Results is a test&#x20;
     * Has the result been achieved
     * Each Key Result should be measurable
   * Test first approach
     * Creates focus
-    * Tells you when to stop 
+    * Tells you when to stop&#x20;
       * _Stop when the tests pass_
 * Communication
   * Easier to communicate what a team is doing
@@ -108,8 +108,8 @@ _Some things are more important than OKRs and sometimes those things can't be me
 
 * Management by Objective - Peter Drucker (1992)
   * Managers decide strategic objectives
-  * Effort & Resources 
-* OKR - Andy Grove at Intel 
+  * Effort & Resources&#x20;
+* OKR - Andy Grove at Intel&#x20;
   * Extended MBO with a focus on delivery
 
 | MBOs                 | OKRs                             |
@@ -147,7 +147,7 @@ Value comes in many different forms
 
 #### Pieconomics
 
-In [Grow the Pie](https://www.amazon.fr/Grow-Pie-Companies-Deliver-Purpose/dp/1108494854) 
+In [Grow the Pie](https://www.amazon.fr/Grow-Pie-Companies-Deliver-Purpose/dp/1108494854)&#x20;
 
 * Taking a board-level 'stakeholder-value' approach to value
   * Rather than a narrow 'shareholder' value view
@@ -222,9 +222,9 @@ Profit is a side effect of delivering on that purpose and creating value
   * A change you are seeking to make
 * The objective doesn't need to explain the problem in detail
 * Make the value the objective brings obvious
-  * Example : 
+  * Example :&#x20;
     * Retool the delivery pipeline to facilitate CD
-    * **VS **Increase ROI by reducing TTM with a new delivery pipeline and continuous delivery practices
+    * **VS** Increase ROI by reducing TTM with a new delivery pipeline and continuous delivery practices
   * Use the "so that"
 * Avoid boxing yourself into a specific approach or solution
 
@@ -249,7 +249,7 @@ One OKR for the team per quarter : nominated by the team to increase productive 
     * _Turn into testable statements_
     * New users can complete a purchase on the site within 5 minutes without cursing
 
-###  KR tricks
+### &#x20;KR tricks
 
 * _**Experiments**_
   * Phrasing a key result as an experiment can be a useful way of attempting something with an uncertain outcome
@@ -273,7 +273,7 @@ One OKR for the team per quarter : nominated by the team to increase productive 
 
 * 2 schools :
   * OKRs are additives
-    * Add more work 
+    * Add more work&#x20;
     * A new way of injecting work
   * OKRs are everything
     * OKRs = origin of all work and all organization
@@ -308,7 +308,7 @@ One OKR for the team per quarter : nominated by the team to increase productive 
     * Choose Sprint Backlog items derived from the OKRs
       * Might be KRs themselves
 
-### BAU 
+### BAU&#x20;
 
 * Problematic in an OKR driven world
   * Does not generate new business benefit
@@ -333,7 +333,7 @@ One OKR for the team per quarter : nominated by the team to increase productive 
   * Soon : OKRs look to the next few months
   * Later : looking months and years into the future
     * Can create valuable learning
-      * Don't expect plans not to change 
+      * Don't expect plans not to change&#x20;
       * What if thinking
 
 {% hint style="info" %}
@@ -376,7 +376,7 @@ OKRs form a link between the big and possibly nebulous strategy and the specific
 Don't link remuneration to OKR outcomes
 {% endhint %}
 
-* Once money is attached to OKRs 
+* Once money is attached to OKRs&#x20;
   * People feel compelled to chase 100% success
     * Easiest way = reduce the target
 * Look at employee behavior instead

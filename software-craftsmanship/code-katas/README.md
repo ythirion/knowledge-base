@@ -64,8 +64,8 @@
 
 * Property-Based Testing kata : [https://github.com/ythirion/pbt-kata](https://github.com/ythirion/pbt-kata)
 
-{% content-ref url="improve-your-software-quality-with-property-based-testing.md" %}
-[improve-your-software-quality-with-property-based-testing.md](improve-your-software-quality-with-property-based-testing.md)
+{% content-ref url="improve-your-software-quality-with-property-based-testing/" %}
+[improve-your-software-quality-with-property-based-testing](improve-your-software-quality-with-property-based-testing/)
 {% endcontent-ref %}
 
 * Enchanting : [https://katalyst.codurance.com/enchanting](https://katalyst.codurance.com/enchanting)

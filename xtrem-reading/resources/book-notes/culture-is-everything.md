@@ -8,11 +8,11 @@ description: from Tristan White
 
 How One Company Is Redefining The Meaning Of Going To Work
 
-Tristan White’s story started like many others. He had a dream to work in a job that inspired him. He didn’t find that job, so he created it. 
+Tristan White’s story started like many others. He had a dream to work in a job that inspired him. He didn’t find that job, so he created it.&#x20;
 
-In 2004, The Physio Co (TPC) was born with one team member: Tristan White. In the thirteen years since, TPC has become a remarkable healthcare success story based upon fast growth and a thriving, systemized company culture. 
+In 2004, The Physio Co (TPC) was born with one team member: Tristan White. In the thirteen years since, TPC has become a remarkable healthcare success story based upon fast growth and a thriving, systemized company culture.&#x20;
 
-Tristan’s obsession with creating an inspiring place to work for himself and others has resulted in more than a decade of learning, testing and refining. If you’ve ever wondered how to build and sustain a thriving company culture, the Culture Is Everything system developed by Tristan White and The Physio Co team is your answer. 
+Tristan’s obsession with creating an inspiring place to work for himself and others has resulted in more than a decade of learning, testing and refining. If you’ve ever wondered how to build and sustain a thriving company culture, the Culture Is Everything system developed by Tristan White and The Physio Co team is your answer.&#x20;
 
 The Physio Co story and Culture Is Everything system explained in this book will give you the confidence and knowledge to create a strong culture in your very own business or team.
 
@@ -28,38 +28,38 @@ High resolution infographic
 
 ## Notes
 
-### His 5 beliefs of Meaningful Work 
+### His 5 beliefs of Meaningful Work&#x20;
 
-I believe : 
+I believe :&#x20;
 
-* We spend so much time working that we have to find a way to enjoy it. 
-* We enjoy work when we feel proud of doing the right thing in challenging situations. 
-* We enjoy work when we’re doing something useful for others. 
-* We enjoy work when there are defined boundaries around what we should be doing and we have some freedom around how to do it. 
+* We spend so much time working that we have to find a way to enjoy it.&#x20;
+* We enjoy work when we feel proud of doing the right thing in challenging situations.&#x20;
+* We enjoy work when we’re doing something useful for others.&#x20;
+* We enjoy work when there are defined boundaries around what we should be doing and we have some freedom around how to do it.&#x20;
 * Every team, business and organisation can create this ‘freedom within boundaries’ environment that is
 
 ### 1) Discover the Core
 
 #### Core purpose
 
-> _**A core purpose is the reason an organisation exists **_
+> _**A core purpose is the reason an organisation exists**_&#x20;
 
-* Ref "Good to Great", by Jim Collins 
-* How to ? 
-  * It absolutely has to be inspiring to those inside the organisation. 
-  * It has to be something that could be as valid a hundred years from now as it is today. 
-  * It should help you think expansively about what you could do but aren't doing. 
-  * It should help you decide what not to do. 
-  * It has to be truly authentic to your company. (Teams that fail on this important point are often the ones that really don’t stand for anything and never will.) 
+* Ref "Good to Great", by Jim Collins&#x20;
+* How to ?&#x20;
+  * It absolutely has to be inspiring to those inside the organisation.&#x20;
+  * It has to be something that could be as valid a hundred years from now as it is today.&#x20;
+  * It should help you think expansively about what you could do but aren't doing.&#x20;
+  * It should help you decide what not to do.&#x20;
+  * It has to be truly authentic to your company. (Teams that fail on this important point are often the ones that really don’t stand for anything and never will.)&#x20;
 * At Physio CO : _**"to help seniors stay mobile, safe and happy"**_
 
 #### 3 to 5 core values
 
-* That inspire great behavior 
-* Make them short, sharp and memorable 
-* Each value should be an action statement 
-* At TPC : 
-  * Respect Everyone : Understanding that a small thing on our list of priorities may be the only thing that matters to an elderly client. 
+* That inspire great behavior&#x20;
+* Make them short, sharp and memorable&#x20;
+* Each value should be an action statement&#x20;
+* At TPC :&#x20;
+  * Respect Everyone : Understanding that a small thing on our list of priorities may be the only thing that matters to an elderly client.&#x20;
     * We are always on time.
     * We always do what we say we will do.
     * We always communicate in clear, concise and honest ways.
@@ -68,18 +68,18 @@ I believe :
     * We are friendly and make positive first impressions.
     * We make people smile with our personal and understanding approach.
     * We take the time to celebrate milestones and successes.
-    * We wow people whenever possible. 
+    * We wow people whenever possible.&#x20;
   * Find a Better Way : Complacency is not our thing
     * We always search for new ways that help our clients, customers and team members.
     * We are committed to constantly improving, personally and collectively.
-    * We inspire others by continually finding a better way. 
+    * We inspire others by continually finding a better way.&#x20;
   * Think Big, Act Small : ‘We are David, not Goliath’ :
     * We are always prepared to ‘give it a go’.
     * We are nimble, flexible and easygoing.
     * We always ask: ‘What can I do next?’
     * We all help to achieve our Painted Picture of the future.
 
-#### Sharing Core Value Stories to reward / recognise / reeducate 
+#### Sharing Core Value Stories to reward / recognise / reeducate&#x20;
 
 * A values-based business, results in a commitment that core values become the basis of everything.
 
@@ -87,10 +87,10 @@ I believe :
 **The importance of catching people doing something right (not only notice them when something wrong) - One Minute Manager**
 {% endhint %}
 
-* **How to ? **
+* **How to ?**&#x20;
   * MVP Program
   * Sharing stories of team members living core values and then celebrating their successes
-    * Consistent language 
+    * Consistent language&#x20;
     * To reward, recognize and reeducate others in their efforts to be an aligned team
 
 ![](<../../../.gitbook/assets/image (446).png>)
@@ -98,71 +98,71 @@ I believe :
 ### 2) Document the future
 
 * A TEN-YEAR OBSESSION THAT ACTS AS YOUR NORTH STAR
-* Create a 10 year obssession 
-  * At TPC two millionth client consultation in 10 years 
-  * How to ? 
-    * Both reflecting on the past and gazing into the future to set a goal that scared the hell out of us all 
-    * Transparency 
+* Create a 10 year obssession&#x20;
+  * At TPC two millionth client consultation in 10 years&#x20;
+  * How to ?&#x20;
+    * Both reflecting on the past and gazing into the future to set a goal that scared the hell out of us all&#x20;
+    * Transparency&#x20;
       * The progress towards our ten-year obsession is shared with everyone on the team during every all-company event
 * A STRONG CULTURE NEEDS a clear vision
-  * Broken down into manageable segments—three-year goals 
-  * A Painted Picture : A base camp on a journey up a mountain 
+  * Broken down into manageable segments—three-year goals&#x20;
+  * A Painted Picture : A base camp on a journey up a mountain&#x20;
   * How to ?
     * **1. Make it clear:** A three-year Painted Picture vision is an inspiring, easy-to-read document.
-    * **2. Make it specific** : Measurable goals are the easiest to manage, track and achieve. 
-    * **3. Make it possible** : Hitting goals aligns a team; missing them doesn’t. 
-    * **4. Communicate progress often** : Measure, track and share progress as often as possible. 
-    * **5. Obsess over it** : Talk about your vision coming to life at least once every day. 
+    * **2. Make it specific** : Measurable goals are the easiest to manage, track and achieve.&#x20;
+    * **3. Make it possible** : Hitting goals aligns a team; missing them doesn’t.&#x20;
+    * **4. Communicate progress often** : Measure, track and share progress as often as possible.&#x20;
+    * **5. Obsess over it** : Talk about your vision coming to life at least once every day.&#x20;
     * **6. Make it fun** : The Physio Co has a basketball ring in our office with our goals painted on it!
 
 ### 3) Execute relentlessly
 
-* Have an energetic daily huddle that aligns everyone to the Painted Picture vision of your culture’s future 
-  * 12' per day 
+* Have an energetic daily huddle that aligns everyone to the Painted Picture vision of your culture’s future&#x20;
+  * 12' per day&#x20;
   * Stand-up
 * A Robust recruitment process
-  * _**A STRONG CULTURE NEEDS every team member aligned to the same vision and living the same values. **_
+  * _**A STRONG CULTURE NEEDS every team member aligned to the same vision and living the same values.**_&#x20;
   * Criteria to hire
-    * **1. Culture Fit **: An ability to effortlessly live The Physio Co values is our definition of culture fit. 
-      * _**From the start of the process, we want applicants to be able to provide plenty of examples of how they live (and have lived) our core values in other parts of their life. **_
-    * **2. Passion for Seniors :** Real passion for this kind of work 
-    * **3. Passion for The Physio Co  : **We expect people to prepare and do their research when applying to join 
+    * **1. Culture Fit** : An ability to effortlessly live The Physio Co values is our definition of culture fit.&#x20;
+      * _**From the start of the process, we want applicants to be able to provide plenty of examples of how they live (and have lived) our core values in other parts of their life.**_&#x20;
+    * **2. Passion for Seniors :** Real passion for this kind of work&#x20;
+    * **3. Passion for The Physio Co  :** We expect people to prepare and do their research when applying to join&#x20;
     * **4. Key Skills**
-* WHY ‘MAYBE’ MUST ALWAYS BE ‘NO’ FOR CULTURAL FIT 
-  * At Zappos, people who don’t fit their culture are referred to as ‘polluters’. 
+* WHY ‘MAYBE’ MUST ALWAYS BE ‘NO’ FOR CULTURAL FIT&#x20;
+  * At Zappos, people who don’t fit their culture are referred to as ‘polluters’.&#x20;
   * **You Don't want them**
 
 ### 4) Show more love
 
 * WHY DON’T MY EMPLOYEES work harder?
-  * Why would they ? 
+  * Why would they ?&#x20;
 
 > _**if I wanted people to care more for the work they were doing and the people they were doing it with Needed to be more obviously caring to each and every one of them.**_
 
-* A memorable Welcome experience 
-  * Why are parties for team members nearly always saved until the day that person leaves? 
+* A memorable Welcome experience&#x20;
+  * Why are parties for team members nearly always saved until the day that person leaves?&#x20;
   * Celebrating and recognizing our team members that the partying starts the moment a new team member joins our family.
 * Favor face-to face communication
 * It needs to involve simple things done regularly, including genuine appreciation and thanks
 * INFLUENCERS
   * There are some really important influencers in every single team that contribute to your culture, but they’re not on the payroll :
-    * husbands wives partners Kids friends family, ... 
-    * the more you include those people in the journey of your business, the greater connection you’ll have with your own team members and with the business. 
+    * husbands wives partners Kids friends family, ...&#x20;
+    * the more you include those people in the journey of your business, the greater connection you’ll have with your own team members and with the business.&#x20;
   * **How to ?**
-    * sending mail Cards Make them participate to events 
+    * sending mail Cards Make them participate to events&#x20;
     * Have interest for them
 * Parties & Celebrations
-  * Celebrate Often 
+  * Celebrate Often&#x20;
   * _**The impact of these events is hard to measure in dollar terms but clearly palpable in terms of engagement, energy and alignment**_
 * **Culture Book**
   * What inside ?
-    * Answers from employees annual TPC Culture Book 
-      * ‘How does being a member of TPC make you feel?’ 
-      * ‘What’s unique about TPC?’ What is TPC culture?’ 
-      * 'Describe TPC in 3 words" 
+    * Answers from employees annual TPC Culture Book&#x20;
+      * ‘How does being a member of TPC make you feel?’&#x20;
+      * ‘What’s unique about TPC?’ What is TPC culture?’&#x20;
+      * 'Describe TPC in 3 words"&#x20;
       * Ask different questions every year to get a variety of responses over time
-    * Photos 
-    * Achievements 
+    * Photos&#x20;
+    * Achievements&#x20;
   * WHY ?
     * Provides a regular and annual platform for us to share the TPC story
     * Attracting people who fit our culture and our values

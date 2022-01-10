@@ -51,7 +51,7 @@
 
 ## Product Ownership
 
-### **Customer Journey from mars **
+### **Customer Journey from mars**&#x20;
 
 * Introduction to customer journey, story mapping, user story writing...
 * [https://play14.org/games/my-customer-journey-from-mars](https://play14.org/games/my-customer-journey-from-mars)

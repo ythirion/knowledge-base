@@ -31,22 +31,22 @@ In Domain Driven Design we talk about Domain Modeling and Ubiquitous Language bu
 #### Café example
 
 * Customer: "Can I have some eggs?"
-* Waiter to chef: "Some eggs, please" 
-* Russian chef: "Here you go…" 
+* Waiter to chef: "Some eggs, please"&#x20;
+* Russian chef: "Here you go…"&#x20;
 
 ![](<../../.gitbook/assets/image (525).png>)
 
-* Waiter to chef: "Not fish eggs, chicken eggs " 
-* Chef: "Ok, here you go…" 
+* Waiter to chef: "Not fish eggs, chicken eggs "&#x20;
+* Chef: "Ok, here you go…"&#x20;
 
 ![](<../../.gitbook/assets/image (526).png>)
 
-* Waiter to chef: " No, cooked chicken eggs" 
-* Chef: "Ok, this time I understand…" 
+* Waiter to chef: " No, cooked chicken eggs"&#x20;
+* Chef: "Ok, this time I understand…"&#x20;
 
 ![](<../../.gitbook/assets/image (527).png>)
 
-* Waiter to customer: "Here are your eggs" 
+* Waiter to customer: "Here are your eggs"&#x20;
 * Customer: "I wanted fried eggs"
 
 ![](<../../.gitbook/assets/image (528).png>)
@@ -59,16 +59,16 @@ We give a hundred pages to the Chef so he/she know how to make them ?
 
 #### In fact
 
-* We expect the chef to be a subject matter expert – an expert on making breakfast 
+* We expect the chef to be a subject matter expert – an expert on making breakfast&#x20;
 * A 200 pages spec should not be needed
 
 #### In real life
 
 Spec for the eggs : **2 fried eggs**
 
-* Shared knowledge of the domain 
-  * Everyone is a "breakfast" expert! 
-* Shared vocabulary 
+* Shared knowledge of the domain&#x20;
+  * Everyone is a "breakfast" expert!&#x20;
+* Shared vocabulary&#x20;
   * Everyone knows what "fried eggs" means
 
 ![](<../../.gitbook/assets/image (530).png>)
@@ -78,19 +78,19 @@ In our day to day job we need to create this Shared Mental Model
 #### The importance of feedback
 
 * Fast feedback from the customer is important
-  * The customer can be unclear 
-  * The waiter can misunderstand 
-  * The chef can mess up 
+  * The customer can be unclear&#x20;
+  * The waiter can misunderstand&#x20;
+  * The chef can mess up&#x20;
 
-### What's the ideal software development process? 
+### What's the ideal software development process?&#x20;
 
 * Build a shared mental model
-  * Means a smaller spec 
-  * Less misunderstanding 
-* Have frequent feedback 
-  * Make sure you are going in the right direction 
-  * Do a course correction if goals change 
-* Value effectiveness over speed 
+  * Means a smaller spec&#x20;
+  * Less misunderstanding&#x20;
+* Have frequent feedback&#x20;
+  * Make sure you are going in the right direction&#x20;
+  * Do a course correction if goals change&#x20;
+* Value effectiveness over speed&#x20;
   * No point going fast in the wrong direction
 
 #### What we want to avoid
@@ -102,7 +102,7 @@ In our day to day job we need to create this Shared Mental Model
 ![](<../../.gitbook/assets/image (535).png>)
 
 {% hint style="warning" %}
-_**It's the developer's understanding of the domain that gets deployed to production! **_
+_**It's the developer's understanding of the domain that gets deployed to production!**_&#x20;
 {% endhint %}
 
 #### Agile
@@ -123,7 +123,7 @@ Domain Model == Code == Documentation
 
 ![](<../../.gitbook/assets/image (537).png>)
 
-####  What DDD source code should look like 
+#### &#x20;What DDD source code should look like&#x20;
 
 ![](<../../.gitbook/assets/image (538).png>)
 
@@ -175,7 +175,7 @@ type pickUpCard = (Card, Hand) => Hand
 
 #### Domain Modeling can be an interactive process
 
-* Creating the domain model is an interactive process 
+* Creating the domain model is an interactive process&#x20;
   * Not just for developers
   * Ideally, everyone should participate
 * The design process can be done fast
@@ -260,16 +260,16 @@ type Shuffle = (Deck) => ShuffledDeck
 #### Data Transformation
 
 * A business transforms data somehow
-  * The value of the business is created in this process of transformation 
-* Data that is sitting there unused is not contributing anything 
+  * The value of the business is created in this process of transformation&#x20;
+* Data that is sitting there unused is not contributing anything&#x20;
 
 ![](<../../.gitbook/assets/image (541).png>)
 
 #### Events
 
-* What causes an employee or process to start working with that data and adding value? 
-  * An **event**! 
-* Examples of events: 
+* What causes an employee or process to start working with that data and adding value?&#x20;
+  * An **event**!&#x20;
+* Examples of events:&#x20;
   * New information arrived
   * Context changed
   * A customer request has been received
@@ -293,7 +293,7 @@ type MyWorkflow = EventData * OtherData * State ->
 ## Concrete Practice - 30'
 
 * In groups of 4
-* Pick a domain to model 
+* Pick a domain to model&#x20;
 * Model it as a group
 * Remember
   * It is not : Database or OO modeling
@@ -301,19 +301,19 @@ type MyWorkflow = EventData * OtherData * State ->
 
 ### How to model a domain ?
 
-* Pick one workflow to focus on 
-* Learn about that workflow by interviewing domain expert(s) 
+* Pick one workflow to focus on&#x20;
+* Learn about that workflow by interviewing domain expert(s)&#x20;
 * Document your knowledge with a textual domain model
 
 ### How to interview ?
 
-* Listen to and learn from the experts 
-  * Don't impose your own ideas 
-  * Avoid yes/no questions 
-  * If you hear "it depends", drill deeper 
-* Disagreement between experts is OK 
+* Listen to and learn from the experts&#x20;
+  * Don't impose your own ideas&#x20;
+  * Avoid yes/no questions&#x20;
+  * If you hear "it depends", drill deeper&#x20;
+* Disagreement between experts is OK&#x20;
   * The design process is about getting everyone on the same page, and using the same language
-* Everyone must be in the room 
+* Everyone must be in the room&#x20;
   * Otherwise they miss being part of the process.
   * It's not just about the results
 
@@ -420,10 +420,10 @@ data PhoneNumber = non empty string containing only digits, hyphens, and spaces
 ## Conclusion - 5'
 
 * Reflect on what happened during this session
-  * Building a shared model 
-    * Did it work? Are you using the same vocabulary? 
-  * Fast feedback on the design 
-    * A few weeks of coding can save hours of talking! 
+  * Building a shared model&#x20;
+    * Did it work? Are you using the same vocabulary?&#x20;
+  * Fast feedback on the design&#x20;
+    * A few weeks of coding can save hours of talking!&#x20;
   * What this practice could bring on your current development ?
 * Bonus : Write a feedforward for yourself :
   * Formulate requests or propose future-oriented options or solutions
@@ -434,23 +434,23 @@ _**Example**_ : _**For your next**_ report, I suggest that you divide the summar
 
 * _**Domain Model**_ :
   * "A set of simplifications that represent those aspects of a domain that are relevant to a particular problem"
-  * The domain model is part of the software design 
-  * A good domain model reduces "garbage in" 
-  * A good domain model represents shared knowledge 
-* _**The Everywhere ("Ubiquitous") Language **_
-  * Concepts and vocabulary associated with the domain 
+  * The domain model is part of the software design&#x20;
+  * A good domain model reduces "garbage in"&#x20;
+  * A good domain model represents shared knowledge&#x20;
+* _**The Everywhere ("Ubiquitous") Language**_&#x20;
+  * Concepts and vocabulary associated with the domain&#x20;
   * Shared by both the team members and the source code
 * _**Domain Event**_
-  * A record of something that happened in the system 
-  * An event often triggers activity such as workflows 
-* _**Workflow**_ 
-  * A business process, a story, a use-case, etc. 
-  * Modeled as a function with inputs and outputs 
+  * A record of something that happened in the system&#x20;
+  * An event often triggers activity such as workflows&#x20;
+* _**Workflow**_&#x20;
+  * A business process, a story, a use-case, etc.&#x20;
+  * Modeled as a function with inputs and outputs&#x20;
 
 ### Resources
 
 * [Domain Modeling Made Functional book by Scott Wlaschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
-* [Domain Modeling Made Functional Video](https://www.youtube.com/watch?v=2JB1\_e5wZmU\&ab_channel=KanDDDinsky)
+* [Domain Modeling Made Functional Video](https://www.youtube.com/watch?v=2JB1\_e5wZmU\&ab\_channel=KanDDDinsky)
 
 ![](<../../.gitbook/assets/image (547).png>)
 

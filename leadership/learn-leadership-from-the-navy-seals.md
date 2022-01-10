@@ -6,7 +6,7 @@ description: >-
 
 # Learn leadership from the Navy SEALs
 
-Recently I have read a great book about leadership called [_**Extreme Ownership: How U.S. Navy SEALs Lead and Win**_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)_** **_by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin). The authors are 2 decorated retired Navy SEALs (Sea, Air and Land) officers, the US Navy military elite. They led American and allied soldiers during the battle of Ramadi in Irak. They have co-founded Echelon Front where they are leadership instructors, speakers, and executive coaches.
+Recently I have read a great book about leadership called [_**Extreme Ownership: How U.S. Navy SEALs Lead and Win**_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) _****_ by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin). The authors are 2 decorated retired Navy SEALs (Sea, Air and Land) officers, the US Navy military elite. They led American and allied soldiers during the battle of Ramadi in Irak. They have co-founded Echelon Front where they are leadership instructors, speakers, and executive coaches.
 
 {% hint style="info" %}
 In this book the authors want to share with us the leadership concepts they have seen work time and again, both in combat and in business.
@@ -30,13 +30,13 @@ You can really consider the book as a starting guide to a new way of leading tea
 
 I don’t want to spoil too much the book so I will just quickly introduce what I understood from the different principles. You will have to read the book if you want to know more.
 
-## Principle 1 : Extreme ownership <a href="2c21" id="2c21"></a>
+## Principle 1 : Extreme ownership <a href="#2c21" id="2c21"></a>
 
 The entire responsibility for success and failure rests with the leader. The leader must own everything in his or her world.
 
 ![](<../.gitbook/assets/image (71).png>)
 
-### “Leader’s ownership” <a href="f8c5" id="f8c5"></a>
+### “Leader’s ownership” <a href="#f8c5" id="f8c5"></a>
 
 When subordinates are not doing what they should, the leaders need first look in the mirror. Subordinates have not to be blamed, the leader have to check they have understood what is expected of them.
 
@@ -47,7 +47,7 @@ Leaders have to take the full responsibility for :
 * Explaining the strategic mission
 * Securing the training and resources to enable the team to properly and successfully execute
 
-### “Subordinates ownership” <a href="f3e7" id="f3e7"></a>
+### “Subordinates ownership” <a href="#f3e7" id="f3e7"></a>
 
 Don’t make me wrong, it does not mean that subordinates have no responsibilities, it’s the opposite.
 
@@ -61,7 +61,7 @@ This principle develop the commitment to its extreme and generates dynamic. Ever
 
 Jocko has explained this principle in this [video](https://www.youtube.com/watch?v=ljqra3BcqWM).
 
-## Principle 2 : No bad teams, only bad leaders <a href="b3b0" id="b3b0"></a>
+## Principle 2 : No bad teams, only bad leaders <a href="#b3b0" id="b3b0"></a>
 
 During the BUDS (Basic Underwater Demolition Seal Training), they observed that teams systematically fail when led by an incompetent leader but were successful with a competent one.
 
@@ -69,7 +69,7 @@ During the BUDS (Basic Underwater Demolition Seal Training), they observed that 
 
 This concept is really hard to hear for a lot of people. It is based on humility and it’s something that leaders need to accept : _if my team is failing, it’s because I am a bad leader_.
 
-## Principle 3 : Believe <a href="732b" id="732b"></a>
+## Principle 3 : Believe <a href="#732b" id="732b"></a>
 
 > In order to convince and inspire others to follow you, you must be a true believer in the mission.
 
@@ -83,13 +83,13 @@ The authors explain that worst thing to say would be _“it isn’t me, the orde
 The leader must explain not just what to do, but why. Once again it is the responsibility of the subordinate leader to reach out and ask if they do not understand.
 {% endhint %}
 
-## Principle 4 : Check the ego <a href="8d06" id="8d06"></a>
+## Principle 4 : Check the ego <a href="#8d06" id="8d06"></a>
 
 ![](<../.gitbook/assets/image (73).png>)
 
 The Navy SEALs need to operate with a high degree of humility. They are really confident in their skills but need to avoid complacent. They need to control their ego by never thinking they are too good to fail or that their enemies are not capable.
 
-## Principle 5 : Cover and move <a href="91ee" id="91ee"></a>
+## Principle 5 : Cover and move <a href="#91ee" id="91ee"></a>
 
 ‘Cover and Move’ means that before you move on the field, you always have to ensure that part of the team or another team ensures cover for the team that is moving. It is basically teamwork.
 
@@ -101,13 +101,13 @@ All elements within the team are crucial they must work together to accomplish t
 There is no “us” vs “them” mentality, groups within the teams must break down silos and support one another to reach the purpose of the mission.
 {% endhint %}
 
-## Principle 6 : Simple <a href="7a52" id="7a52"></a>
+## Principle 6 : Simple <a href="#7a52" id="7a52"></a>
 
 ![](<../.gitbook/assets/image (75).png>)
 
 Plans must be communicated in a clear and concise way. The simpler a plan is to understand, the more we are inclined to act. At the opposite, the more it is complex and obscure, the more suspicion will take over and less one will be inclined to act.
 
-## Principle 7 : Prioritize and execute <a href="1602" id="1602"></a>
+## Principle 7 : Prioritize and execute <a href="#1602" id="1602"></a>
 
 ![](<../.gitbook/assets/image (76).png>)
 
@@ -119,7 +119,7 @@ To implement Prioritize and Execute a leader in any field must :
 * Direct the execution of that solution, focusing all efforts and resources toward this priority task
 * Move on to the next highest priority problem. Repeat.
 
-## Principle 8: Decentralized Command <a href="220d" id="220d"></a>
+## Principle 8: Decentralized Command <a href="#220d" id="220d"></a>
 
 As human beings we are not capable of managing more than six to ten people particularly when they operate in hostile territory in total secrecy and perfect autonomy. That’s why the SEALs teams are broken down into micro-teams of four to five persons with a clearly identified leader.
 
@@ -129,7 +129,7 @@ Decentralized command means that the mission and its limits have been clearly de
 
 > They are authorized and able to make their own decisions. The prerequisite to it is to have a clear chain of command otherwise you cannot have **empowered leadership.**
 
-## Principle 9 : Plan <a href="4d2e" id="4d2e"></a>
+## Principle 9 : Plan <a href="#4d2e" id="4d2e"></a>
 
 _“No plan resists the first contact with the enemy”_. This quote makes total sense for men in the SEALs units. It is obvious that everything cannot be organised and planned in advance but the more precautions are taken to anticipate problems and mishaps the higher the chances of success.
 
@@ -139,13 +139,13 @@ That’s why the mission must explain the overall purpose and desired result. Di
 
 Once again, it is leader’s responsibility to plan for a maximum numbers of scenarios and alternative plans so as to adapt to a situation that can change at any moment. Plans must be clearly explained to all members of the team and the leader must ensure that everyone understands all aspects of the various options.
 
-## Principle 10 : Leading Up and Down the Chain of Command <a href="aa43" id="aa43"></a>
+## Principle 10 : Leading Up and Down the Chain of Command <a href="#aa43" id="aa43"></a>
 
-### Leading down the chain <a href="1292" id="1292"></a>
+### Leading down the chain <a href="#1292" id="1292"></a>
 
 Leaders must routinely communicate with their team members to help them understand their role in the overall mission.
 
-### Leading up the chain <a href="524e" id="524e"></a>
+### Leading up the chain <a href="#524e" id="524e"></a>
 
 If someone does not understand why decisions are being made or why a request has been denied he or she must pluck up the courage to contact the management and ask those questions up the chain. You must always push situational awareness up the chain of command.
 
@@ -155,7 +155,7 @@ If someone does not understand why decisions are being made or why a request has
 _The idea here is not to complain but to act, to discuss with the hierarchy and to do everything to establish communication and mutual understanding._
 {% endhint %}
 
-## Principle 11 : **Act Decisively** <a href="50d5" id="50d5"></a>
+## Principle 11 : **Act Decisively** <a href="#50d5" id="50d5"></a>
 
 As a leader you must admit there is no 100 percent right solution. Waiting for the 100 percent right and certain solution leads to delay, indecision and inability to execute. On the battlefield it can lead people to death…
 
@@ -163,7 +163,7 @@ As a leader you must admit there is no 100 percent right solution. Waiting for t
 
 They must be prepared to take a decision based on previous experience, knowledge of how the enemy operates, likely outcomes, whatever intelligence is available in the immediate moment.
 
-## Principle 12 : Discipline Equals Freedom <a href="0b69" id="0b69"></a>
+## Principle 12 : Discipline Equals Freedom <a href="#0b69" id="0b69"></a>
 
 Here is a notion that seems counter-intuitive it is what the authors call the Dichotomy of Leadership.
 
@@ -173,16 +173,16 @@ For example, the more a plan is studied with discipline and detail, the easier i
 
 While increased discipline most often results in more freedom, there are some teams that become so restricted by imposed discipline that they inhibit their leader’s and team’s ability to make decisions and think freely. That’s why it is really important to find the right balance.
 
-## To conclude <a href="5bb4" id="5bb4"></a>
+## To conclude <a href="#5bb4" id="5bb4"></a>
 
 What I really liked in this book is that it has broken the myth that leadership in the army was limited to people that launch an order and subordinates that blindly follow them.
 
 > It is fascinating to discover those leadership principles that make a lot of echo to the agile mindset : strong vision, adaptation to change, autonomous teams, top down and bottom up transparency, decision taking, simplicity, team work, ownership, breaking silos…
 
-## To go further <a href="9fbe" id="9fbe"></a>
+## To go further <a href="#9fbe" id="9fbe"></a>
 
-* [_Extreme Ownership: How U.S. Navy SEALs Lead and Win_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)_ _by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin)
-* [_The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win_](https://www.amazon.com/Dichotomy-Leadership-Balancing-Challenges-Ownership-ebook/dp/B079Y51FC3/ref=sr\_1\_1?crid=3Z2ILIHFEE8Q\&keywords=dichotomy+of+leadership\&qid=1578131200\&s=digital-text\&sprefix=dicho%2Cdigital-text%2C297\&sr=1-1)_ _by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin)
+* [_Extreme Ownership: How U.S. Navy SEALs Lead and Win_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) __ by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin)
+* [_The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win_](https://www.amazon.com/Dichotomy-Leadership-Balancing-Challenges-Ownership-ebook/dp/B079Y51FC3/ref=sr\_1\_1?crid=3Z2ILIHFEE8Q\&keywords=dichotomy+of+leadership\&qid=1578131200\&s=digital-text\&sprefix=dicho%2Cdigital-text%2C297\&sr=1-1) __ by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin)
 * [Extreme Ownership](https://www.youtube.com/watch?v=ljqra3BcqWM), Ted talk by [Jocko Willink](https://twitter.com/jockowillink)| TEDxUniversityofNevada
 
 {% content-ref url="learn-to-lead-and-help-your-team-s-to-be-successful.md" %}

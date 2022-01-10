@@ -13,7 +13,7 @@ Is it easier to unit test :
 - method that modifies its parameters
 ```
 
-The reason for asking about what is easy to test is to get them prepared for designing a pure function or static method for calculating FizzBuzz. 
+The reason for asking about what is easy to test is to get them prepared for designing a pure function or static method for calculating FizzBuzz.&#x20;
 
 _**These kinds of functions are easier to test since all the outcomes are visible in the return value, the input value is not modified and there are no side effects.**_
 
@@ -26,12 +26,12 @@ _**These kinds of functions are easier to test since all the outcomes are visibl
   * TDD will :
     * improve developer productivity (long term)
     * Reduce customer abandonment
-    * Reduce the costs of customer service 
+    * Reduce the costs of customer service&#x20;
 * Writing test cases before the code, is not feasible
   * It forces you to have a direction in mind before you start charging into the fray, and having a direction in mind leads to better designs
 * 100% code coverage
   * 100% of testing the wrong things is not a goal…
-  * Focus on the value 
+  * Focus on the value&#x20;
 * TDD replaces QA
   * We can’t cover everything with TDD
   * For example : GUI E2E tests (really hard to maintain)
@@ -49,7 +49,7 @@ _**These kinds of functions are easier to test since all the outcomes are visibl
 
 ## Concrete Practice
 
-Write a method that returns for a number from 1 to 100 this given number, except that : 
+Write a method that returns for a number from 1 to 100 this given number, except that :&#x20;
 
 * For multiples of 3 returns “_**Fizz**_”
 * For the multiples of 5 returns “_**Buzz**_”
@@ -91,7 +91,7 @@ By using the Test Cards in pair : identify test cases
 
 By using TDD, write Test cases once at a time :
 
-Trap to avoid :_** "do not write 1 test to rule them all"**_
+Trap to avoid : _**"do not write 1 test to rule them all"**_
 
 * Talks about sampling
   * Tests are always a sample
@@ -101,7 +101,7 @@ Trap to avoid :_** "do not write 1 test to rule them all"**_
 ### 3) A little bit to easy ?
 
 * Remove “if” in your code
-* Parameters version, implement this method : 
+* Parameters version, implement this method :&#x20;
   * If you use a language authorizing default values :
     * int limit : 100
     * int fizz : 3

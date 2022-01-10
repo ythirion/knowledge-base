@@ -52,7 +52,7 @@ Refactored version
   * Serious Regressions : with every change, large or small, we disrupt the equilibrium of the system in a measurable way
     * Might lead to unanticipated regression
   * Unearthing Dormant Bugs
-  * Scope Creep : 
+  * Scope Creep :&#x20;
     * The larger the surface area of the planned refactor
     * the more problems you’ll encounter that you likely haven’t anticipated
     * Keeping to a well-defined plan
@@ -100,7 +100,7 @@ Quantifying the impact of refactoring motivated by performance is often the easi
 #### Measuring Code Complexity
 
 * **Halstead Metrics (1975)** : counting the number of operators and operands in a given computer program
-  * **Operators** are constructs that behave like functions, but differ syntactically or semantically from typical functions. 
+  * **Operators** are constructs that behave like functions, but differ syntactically or semantically from typical functions.&#x20;
     *   These include arithmetic symbols like - and +, logical
 
         operators like &&, comparison operators like >, and assignment operators like =
@@ -116,7 +116,7 @@ Quantifying the impact of refactoring motivated by performance is often the easi
 
 ![](<../../../.gitbook/assets/image (622).png>)
 
-* **Cyclomatic Complexity (1976) :**_** **_it is a quantitative measure of the number of linearly independent paths through a program’s source code
+* **Cyclomatic Complexity (1976) : **_****_ it is a quantitative measure of the number of linearly independent paths through a program’s source code
   * Essentially a count of the number of control flow statements within a program
   *   This includes _if_ statements, _while_ and _for_ loops, and _case_ statements in side
 
@@ -124,7 +124,7 @@ Quantifying the impact of refactoring motivated by performance is often the easi
 
 ![](<../../../.gitbook/assets/image (623).png>)
 
-*   **NPath Complexity (1988) : **Nejmeh asserts that _**not all control flow structures are equal**_; some are more difficult to understand use properly than others
+*   **NPath Complexity (1988) :** Nejmeh asserts that _**not all control flow structures are equal**_; some are more difficult to understand use properly than others
 
     * For example, a while loop might be trickier for a developer to reason about than a switch statement.
     * Nesting can influence the psychological complexity of the function
@@ -133,7 +133,7 @@ Quantifying the impact of refactoring motivated by performance is often the easi
     quality
 
     * The calculation is recursive and can quickly balloon
-* **Lines of Code : **Control flow graph metrics can be difficult to calculate
+* **Lines of Code :** Control flow graph metrics can be difficult to calculate
   * Program size can help us locate likely pain points in our application
   * If we’re looking for a pragmatic, low-effort approach to quantifying the complexity of our code, then size-based metrics are the way to go
   *   _LOC (lines of code) per file_ : capture the psychological overhead required to
@@ -141,12 +141,12 @@ Quantifying the impact of refactoring motivated by performance is often the easi
       understand their contents and responsibilities when a developer pops them open
 
       in their editor.
-  * _Function length : _Measuring the length of functions or methods within your application can be a helpful way of approximating their individual complexities.
-  * _Average function length per file, module, or class : _Knowing the average length of the smaller logical components contained within it can give you an indication of the relative complexity of that unit as a whole.
+  * _Function length :_ Measuring the length of functions or methods within your application can be a helpful way of approximating their individual complexities.
+  * _Average function length per file, module, or class :_ Knowing the average length of the smaller logical components contained within it can give you an indication of the relative complexity of that unit as a whole.
 
 #### **Test Coverage Metrics**
 
-Whatever our approach, the desired outcome** **is the same: a new feature, fully backed by a quality set of tests
+Whatever our approach, the desired outcome **** is the same: a new feature, fully backed by a quality set of tests
 
 * We can evaluate test coverage in two ways: quantitatively and qualitatively
   * **Quantitatively** : calculate a percentage representing the proportion of code that is executed when the test suite is run against it
@@ -165,11 +165,11 @@ Whatever our approach, the desired outcome** **is the same: a new feature, fully
 
 #### **Documentation**
 
-* _Formal Documentation _: everything you most likely think of as documentation
+* _Formal Documentation_ : everything you most likely think of as documentation
   *   We can use things like technical specs as evidence that our refactor is necessary or useful by referencing design decisions, assumptions, or other designs considered or
 
       rejected.
-* _Informal Documentation_ : 
+* _Informal Documentation_ :&#x20;
   *   _Chat and email transcripts_ : can provide insightful information about the code you’re
 
       seeking to refactor
@@ -179,7 +179,7 @@ Whatever our approach, the desired outcome** **is the same: a new feature, fully
 #### Version Control
 
 * _Commit Messages_ : set of keywords or by isolating commit messages associated with changes to a set of files we’re interested in
-* _Commits in Aggregate _: ref Software Design X-Rays
+* _Commits in Aggregate_ : ref Software Design X-Rays
   * _Change frequencies_ : are the number of commits made to each file over the complete version history of your application
   * Code authorship
 
@@ -194,8 +194,8 @@ A simple, low-effort means of collecting reputation data is to interview fellow 
 I recommend picking one metric from every category :
 
 * Generate some test coverage metrics to make sure you start off on the right foot
-* Identify a source of formal documentation you can use to illustrate the problems your refactor aims to solve; back it up with some informal documentation as well. 
-* Gather information about your hotspots and programming patterns by slicing and dicing version control data. 
+* Identify a source of formal documentation you can use to illustrate the problems your refactor aims to solve; back it up with some informal documentation as well.&#x20;
+* Gather information about your hotspots and programming patterns by slicing and dicing version control data.&#x20;
 * Consider the code’s reputation by chatting with your colleagues
 
 ### Chapter 4 : Drafting a Plan
@@ -208,7 +208,7 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
 
 ![](<../../../.gitbook/assets/image (625).png>)
 
-* **Mapping the Shortest Distance : **a few alternatives
+* **Mapping the Shortest Distance :** a few alternatives
   * Open a blank document :
     * For 15 to 20 minutes : write down every step you can come up with
     * Set the document aside for at the very least a few hours (ideally a day or two)
@@ -226,7 +226,7 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
               down every step you think is required, each on individual sticky notes
           * Then, have a first person lay out their steps in chronological order
           * Subsequent teammates go through each of their own sticky notes and either :
-            * Pair them up with their duplicates 
+            * Pair them up with their duplicates&#x20;
             * or insert them into the appropriate spot within the timeline
           * Once everyone’s organized all of their notes :
             * Go through each step
@@ -234,17 +234,17 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
             * If not, discard it
           * The final product should be a reasonable set of minimal steps
           * Final output of the exercise should be a written document that is easy to distribute and collaboratively improve
-* **Identifying Strategic Intermediate Milestones **: 
+* **Identifying Strategic Intermediate Milestones** :&#x20;
   * 1\) Does this step feel attainable in a reasonable period?
   * 2\) Is this step valuable on its own?
   * 3\) If something comes up, could we stop at this step and pick it back up easily later?
 
 ![](<../../../.gitbook/assets/image (626).png>)
 
-* **Choosing a Rollout Strategy **:
-  * One of the key success metrics is that_ no behavior has changed_
+* **Choosing a Rollout Strategy** :
+  * One of the key success metrics is that _no behavior has changed_
   * **Dark Mode / Light Mode** : We can compare pre-refactor and post-refactor behavior by employing what we’ve coined at Slack as the light/dark technique
-    * Dark mode : 
+    * Dark mode :&#x20;
       * Both implementations are called
       * The results are compared
       * The results from the **old implementation are returned**
@@ -266,9 +266,9 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
         *   Remove the old logic altogether : only the new implementation
 
             should remain
-    * **Cons : **If the code you are refactoring is performance-sensitive, and you’re operating in an environment that does not enable true multi-threading (PHP, Python, or Node), then running two versions of the same logic side by side might not be a great option
+    * **Cons :** If the code you are refactoring is performance-sensitive, and you’re operating in an environment that does not enable true multi-threading (PHP, Python, or Node), then running two versions of the same logic side by side might not be a great option
 * **Cleaning Up Artifacts**
-  * No refactor is complete unless all remaining transitional artifacts are properly cleaned up. 
+  * No refactor is complete unless all remaining transitional artifacts are properly cleaned up.&#x20;
   * _**Examples**_ : Feature Flags, Abstractions, Dead Code, Comments (TODOs), Unit Tests (duplicative ones)
 * **Referencing Metrics in your Plan**
   * To support the initiative, not only does your problem statement need to be convincing with clear success criteria
@@ -286,7 +286,7 @@ Feel free to provide both an ideal end state and an acceptable end state. Someti
 * **Sharing Your Plan with Other Teams**
   * Large refactoring projects typically affect a large number of engineering groups
   * Brainstorm with your team (or a small group of trusted colleagues) to make sure you’ve covered a variety of disciplines and departments
-  * 2 primary reasons : 
+  * 2 primary reasons :&#x20;
     * Provide transparency
     * Gather perspective on your plan to strengthen it
 
@@ -350,21 +350,21 @@ _No engineer should be told that refactoring is equivalent to career suicide; in
 * We can start by rereading our plan
 * Try to visualize the code we’ll need to interact with
   * Can we conjure it up easily?
-  * Can we confidently identify the changes we need to make and reason through the potential impact or downstream effects of those changes? 
-  * Do we understand the pitfalls we might run into in the given area of the codebase? 
-  * Do we understand the potential product implications of the changes we want to make? 
+  * Can we confidently identify the changes we need to make and reason through the potential impact or downstream effects of those changes?&#x20;
+  * Do we understand the pitfalls we might run into in the given area of the codebase?&#x20;
+  * Do we understand the potential product implications of the changes we want to make?&#x20;
   * Are we deeply familiar with the technologies we’ll either be directly or indirectly interfacing with?
-* If so, great! We’re probably in a good position to make those changes ourselves. 
-* _**If not, then we’ll need someone else’s help**_**. **
+* If so, great! We’re probably in a good position to make those changes ourselves.&#x20;
+* _**If not, then we’ll need someone else’s help**_**.**&#x20;
 * 2 ways to enlist someone :
-  *   _**An active contributor**_ : 
+  *   _**An active contributor**_ :&#x20;
 
       * heavily involved with the project (ideally from day one)
       * Actively contributing to the effort by writing code alongside you
       * Should be consulted for input on the execution plan early and through each of its
 
       revisions
-  * _**Subject matter experts, or SMEs **_
+  * _**Subject matter experts, or SMEs**_&#x20;
     * Not active contributors to your effort
     * Agreed to be available to talk through solutions with you
     * Answer questions
@@ -373,7 +373,7 @@ _No engineer should be told that refactoring is equivalent to career suicide; in
 #### Matchmaking
 
 * Match each expertise with one or more people :
-  * Start from the beginning of the list 
+  * Start from the beginning of the list&#x20;
   * For each items : write the first few names of either individuals or teams that come to mind
 
 ![](<../../../.gitbook/assets/image (629).png>)
@@ -447,7 +447,7 @@ All of us seek advice from peers and experienced colleagues when solving difficu
   * **Prototyping**
     * Prototyping early and often helps your team ultimately move faster if you abide by two important principles:
       * _Know that your solution will not be perfect_
-        * Focus on crafting a solution that works well overall, being mindful about not spending too much time perfecting the details. 
+        * Focus on crafting a solution that works well overall, being mindful about not spending too much time perfecting the details.&#x20;
       * _Be willing to throw code away_
         * If we spend a week or two writing a solution that simply doesn’t deliver
           * take the pieces that work, throw the rest away, and start again
@@ -460,8 +460,8 @@ All of us seek advice from peers and experienced colleagues when solving difficu
   * **Test, Test, Test**
     * Frequently rerunning
       * Unit tests, integration tests, or walking through manual tests
-      * We can either confirm 
-        * that everything has remained unaffected 
+      * We can either confirm&#x20;
+        * that everything has remained unaffected&#x20;
         * or pinpoint the precise moment at which the behavior diverged
   * **Asking the “Stupid” Question**
     * Prioritize clarity over maintaining an illusion of omniscience
@@ -475,7 +475,7 @@ All of us seek advice from peers and experienced colleagues when solving difficu
     * Active : planning and leading workshops
     * Passive : step-by-step tutorials, online courses, ...
 * Integrating Improvement into the Culture :
-  * One of the best ways to maintain a healthy codebase is simply to 
+  * One of the best ways to maintain a healthy codebase is simply to&#x20;
     * Continue deliberately refactoring small, well-contained portions of code as you encounter the opportunity
     * Focus on incrementally improving areas of the codebase owned and maintained by our own team
   * Encourage and facilitate design conversations on our team frequently

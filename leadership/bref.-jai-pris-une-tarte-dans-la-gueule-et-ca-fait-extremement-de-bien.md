@@ -18,11 +18,11 @@ La promesse de son nouveau livre : proposer un nouveau manuel de leadership perm
 
 C'est ici que commence mon "histoire".
 
-Comme toute bonne histoire, celle-ci commence par une bonne grosse "tarte dans la gueule". En effet, ce que je souhaite partager avec toi aujourd'hui c'est une pépite que j'ai découvert dans cette lecture et qui a déclenché un long questionnement en moi. 
+Comme toute bonne histoire, celle-ci commence par une bonne grosse "tarte dans la gueule". En effet, ce que je souhaite partager avec toi aujourd'hui c'est une pépite que j'ai découvert dans cette lecture et qui a déclenché un long questionnement en moi.&#x20;
 
 C'était une tarte de puissance 20 (a minima).
 
-![Moi après ma tarte](https://lh6.googleusercontent.com/wTbkdz83286Cl2bFiLCwx\_\_BDDxUVxmNIpsJ1pyS3LSJ575sXXDQ45zwNw5aPF0kaxxnzpoC63rFMuHqepVLbP57F_UWbto3RzGOyHOJf_Toyts41vCoqWyyEj7S9V86kBP-8\_I)
+![Moi après ma tarte](https://lh6.googleusercontent.com/wTbkdz83286Cl2bFiLCwx\_\_BDDxUVxmNIpsJ1pyS3LSJ575sXXDQ45zwNw5aPF0kaxxnzpoC63rFMuHqepVLbP57F\_UWbto3RzGOyHOJf\_Toyts41vCoqWyyEj7S9V86kBP-8\_I)
 
 ### D'où sort ce nombre ?
 
@@ -32,14 +32,14 @@ $$
 P = R * J
 $$
 
-Avec : 
+Avec :&#x20;
 
 * R : Profondeur de la réflexion "immédiate" en heure
 * J : Profondeur de la réflexion "profonde" en jour
 
 Mon objectif étant de te faire vivre toi-même ce moment, je ne t'en dirai pas plus à cette étape et te propose de dérouler un atelier (que tu pourras rejouer à l'extérieur de ce livre).
 
-Comme tout atelier que je prépare depuis ma découverte de l'excellent "[_**Training From The Back of The Room**_](https://bowperson.com)" je l'ai préparé en utilisant le formats [4C](https://wikiagile.cesi.fr/index.php?title=4C_Canevas_de_formation). J'en profite pour te remercier Laurent pour cette belle découverte : une autre tarte dans la gueule je dois l’admettre.
+Comme tout atelier que je prépare depuis ma découverte de l'excellent "[_**Training From The Back of The Room**_](https://bowperson.com)" je l'ai préparé en utilisant le formats [4C](https://wikiagile.cesi.fr/index.php?title=4C\_Canevas\_de\_formation). J'en profite pour te remercier Laurent pour cette belle découverte : une autre tarte dans la gueule je dois l’admettre.
 
 ## Connexion
 
@@ -49,14 +49,14 @@ Repense aux dernières célébrations, félicitations que tu as formulé à tes 
 
 ## Concepts
 
-En faisant moi-même cet exercice je me suis rendu compte d'une chose décrite par David Marquet : je m'inclus systématiquement dans la célébration. 
+En faisant moi-même cet exercice je me suis rendu compte d'une chose décrite par David Marquet : je m'inclus systématiquement dans la célébration.&#x20;
 
 Nous sommes beaucoup dans ce cas-là et le faisons souvent de 2 manières :
 
 * Soit en se positionnant en tant que juge : "quel travail de dingue t'as abattu !", "tu t'es vraiment surpassé cette fois !"
   * On juge, souvent inconsciemment, le résultat de la personne.
 * Soit en s'appropriant la célébration : "je suis si fier de toi !"
-  * Ici on transfert la récompense vers soi : c'est **je** qui est** fier**.
+  * Ici on transfert la récompense vers soi : c'est **je** qui est **fier**.
 
 ### Qu'est-ce que cela implique ?
 
@@ -78,9 +78,9 @@ C'est exactement le genre de choses que je fais depuis maintenant 33 ans... La t
 
 ### La solution ? "Célébrer avec" plutôt que "Célébrer pour"
 
-![Célébrer avec (par Aurélien Morvant)](https://lh6.googleusercontent.com/TQHbC14LfqCQJW2uWxF956czbQCMXLDYnNgPVaLjzCVDTuDwGlFjwvRlEOxv1HprFC_LeznuJ0InSnXHakhzbiS8FB_Efv71FIv1kWWy\_0hcpr_Jl-Gt8d_KeIakdjdkhiEq9Zc)
+![Célébrer avec (par Aurélien Morvant)](https://lh6.googleusercontent.com/TQHbC14LfqCQJW2uWxF956czbQCMXLDYnNgPVaLjzCVDTuDwGlFjwvRlEOxv1HprFC\_LeznuJ0InSnXHakhzbiS8FB\_Efv71FIv1kWWy\_0hcpr\_Jl-Gt8d\_KeIakdjdkhiEq9Zc)
 
-Ce que je t'ai décrit ci-dessus c'est ce que l'auteur appelle "Célébrer pour". Il présente une alternative permettant de préserver la motivation intrinsèque des individus qu'il a appelé : "Célébrer avec". 
+Ce que je t'ai décrit ci-dessus c'est ce que l'auteur appelle "Célébrer pour". Il présente une alternative permettant de préserver la motivation intrinsèque des individus qu'il a appelé : "Célébrer avec".&#x20;
 
 {% hint style="success" %}
 _**L'idée derrière "Célébrer avec" est de dire qu'il faut changer la manière dont on communique : apprécier plutôt qu'évaluer, observer plutôt que juger.**_
@@ -94,9 +94,9 @@ Cela passe par :
 
 > Le **résultat** : un partage sincère de la joie et une discussion qui n'est plus recentrée sur soi.
 
-Je vais reformuler l'exemple ci-dessus en célébrant avec ma fille : 
+Je vais reformuler l'exemple ci-dessus en célébrant avec ma fille :&#x20;
 
-![](https://lh5.googleusercontent.com/YNWsJ-uFo1yR8QGowbQULdqKKkjznEdH_dJJidoDRxwoQ3DGvdIKynbSzn2yx8AZCrmjIgcMg0RnDAvJfF9N2frRtLA7a1wfSGwBOfcSOmklGtwG8Jt0hoYFrjeIjAd-lm_s62I)
+![](https://lh5.googleusercontent.com/YNWsJ-uFo1yR8QGowbQULdqKKkjznEdH\_dJJidoDRxwoQ3DGvdIKynbSzn2yx8AZCrmjIgcMg0RnDAvJfF9N2frRtLA7a1wfSGwBOfcSOmklGtwG8Jt0hoYFrjeIjAd-lm\_s62I)
 
 ## Pratique Concrète
 

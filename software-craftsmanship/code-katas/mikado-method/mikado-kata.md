@@ -52,13 +52,13 @@ Clone the java code from [here](https://github.com/ythirion/kata-java.git)
 
 ## Context
 
-Pasta Software is a small family-owned company. By good luck and coincidence, their pride and joy MasterCrüpt (TM), has been sold to a new customer. 
+Pasta Software is a small family-owned company. By good luck and coincidence, their pride and joy MasterCrüpt (TM), has been sold to a new customer.&#x20;
 
-But now, problems arise. 
+But now, problems arise.&#x20;
 
 The very, very secret obfuscation algorithm in the application cannot be exposed between the old customer Gargantua Inc and the new customer, Stranger Eons Ltd.
 
-Without really knowing it, Pasta Software has just **put themselves into technical debt by changing their business model,** i.e getting a customer with slightly different needs. They did not see this coming and the code isn’t flexible enough to offer an easy way out. 
+Without really knowing it, Pasta Software has just **put themselves into technical debt by changing their business model,** i.e getting a customer with slightly different needs. They did not see this coming and the code isn’t flexible enough to offer an easy way out.&#x20;
 
 The design has to change so that confidential information doesn’t leak between their customers.
 
@@ -68,7 +68,7 @@ _It is virtually impossible to tell how a system will evolve in advance. Trying 
 
 #### Ubiquitous language
 
-* _**Leetspeak**_ : the way hackers and crackers avoided text filters on Bulletin Board Systems (BBS) in the eighties by re-placing alphabetic characters with non-alphabetic, but resembling, characters. 
+* _**Leetspeak**_ : the way hackers and crackers avoided text filters on Bulletin Board Systems (BBS) in the eighties by re-placing alphabetic characters with non-alphabetic, but resembling, characters.&#x20;
   * For instance, in one leet dialect ’leet’ is translated to ’l33t’, where ’3’ is the mirrored capital ’E’.
 
 ### Existing code
@@ -145,7 +145,7 @@ public class Leeter {
 
 ## Baby steps
 
-We will run this kata in baby steps_**. **_
+We will run this kata in baby steps_**.**_&#x20;
 
 {% hint style="warning" %}
 _The code is really easy and could be rewritten in only a few minutes but the whole exercise has been created to practice Mikado method and to do so the creator proposes to follow those steps **:**_
@@ -160,20 +160,20 @@ _The code is really easy and could be rewritten in only a few minutes but the wh
 #### How does it work ?
 
 * The _**UI**_ class creates an _**Application**_ instance.
-* The _**Application**_ instance is called with the string to leet and a reference to this UI class. 
+* The _**Application**_ instance is called with the string to leet and a reference to this UI class.&#x20;
 * The _**Application**_ instance call back _**UI**_ to set the leeted String value.
-* The _**Application**_ class uses the _**Leeter**_ class, to leet the given string and calls back to the provided UI instance with the leeted value. 
+* The _**Application**_ class uses the _**Leeter**_ class, to leet the given string and calls back to the provided UI instance with the leeted value.&#x20;
 * The _**Application**_ class also contains the main method for the application.
 * The _**Leeter**_ simply performs the leeting of the incoming message by substituting the character ’e’ with the character ’3’.
 
 {% hint style="info" %}
-**It only takes a few classes to create a mess. **For instance there’s a circular dependency between UI and Application, not to mention the mysterious callbacks.
+**It only takes a few classes to create a mess.** For instance there’s a circular dependency between UI and Application, not to mention the mysterious callbacks.
 {% endhint %}
 
-_**In reality, codebases are a lot bigger and more complex by nature, so the ways of creating a mess are almost unlimited. **_
+_**In reality, codebases are a lot bigger and more complex by nature, so the ways of creating a mess are almost unlimited.**_&#x20;
 
 {% hint style="success" %}
-Mikado Method can be applied no matter how big or small the codebase is. The method serves as a guide and helps to identify the critical change path in order to be able to deliver. 
+Mikado Method can be applied no matter how big or small the codebase is. The method serves as a guide and helps to identify the critical change path in order to be able to deliver.&#x20;
 {% endhint %}
 
 ### Before touching the code
@@ -181,7 +181,7 @@ Mikado Method can be applied no matter how big or small the codebase is. The met
 Before making any changes to the code, we make sure that everything works. We check that :
 
 * The code compiles
-* All the existing tests run 
+* All the existing tests run&#x20;
 * There are no checked out files nor uncommitted changes
 
 We start from a clean state.
@@ -191,12 +191,12 @@ We start from a clean state.
 Now, our goal is to create a system that can be delivered to Stranger Eons Ltd.
 
 {% hint style="success" %}
-_**Mikado Goal **_: new deliverable for Stranger Eons Ltd
+_**Mikado Goal**_ : new deliverable for Stranger Eons Ltd
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (161).png>)
 
-###  Find out what we need to do
+### &#x20;Find out what we need to do
 
 We analyze the situation to find out what we need to do.
 
@@ -256,7 +256,7 @@ We check in to the main development branch if everything works as it should and 
 ```
 {% endcode %}
 
-### What next? 
+### What next?&#x20;
 
 Once again, we want to seek things to try.
 
@@ -314,7 +314,7 @@ So, _**we need to change the chain of dependencies in order to allow us to add t
 Now it’s time for a non-intuitive step, but an important part of the method: Back out broken code.
 
 {% hint style="warning" %}
-_**Step**_** : **Roll back to the tag "Before new client".
+_**Step**_** :** Roll back to the tag "Before new client".
 {% endhint %}
 
 The `strangereons` project has compilation problems and we don’t want to do anything there, nor any place else. So, we roll back to the very beginning.
@@ -326,7 +326,7 @@ We update our Mikado graph
 ![](<../../../.gitbook/assets/image (166).png>)
 
 {% hint style="success" %}
-_**Decision **_: Break dependency between UI and Application.
+_**Decision**_ : Break dependency between UI and Application.
 {% endhint %}
 
 ### Break circular dependency
@@ -337,12 +337,12 @@ We often add decisions, like breaking dependencies, to the Mikado Graph even bef
 
 #### Dependency Inversion Principle
 
-A common way to break circular dependencies is to introduce an interface for one of the classes involved in order to change the direction of the dependency. 
+A common way to break circular dependencies is to introduce an interface for one of the classes involved in order to change the direction of the dependency.&#x20;
 
 We choose to introduce an interface for the `Application` class, the `ApplicationInterface`.
 
 {% hint style="success" %}
-_**Step **_: Extract ApplicationInterface, including method leet(...)
+_**Step**_ : Extract ApplicationInterface, including method leet(...)
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (181).png>)
@@ -354,7 +354,7 @@ public interface ApplicationInterface {
 ```
 
 {% hint style="success" %}
-_**Step **_: Inject ApplicationInterface instance into the UI constructor
+_**Step**_ : Inject ApplicationInterface instance into the UI constructor
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (176).png>)
@@ -411,7 +411,7 @@ By doing this we have solved the circular dependency problem
 ![](<../../../.gitbook/assets/image (171).png>)
 
 {% hint style="success" %}
-_**Commit **_: Broke circular dependency between UI and Application
+_**Commit**_ : Broke circular dependency between UI and Application
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (177).png>)
@@ -471,9 +471,9 @@ We have reached our goal and can stop here.
 
 ### Conclusion
 
-We’ve managed to morph the code from one state that didn’t allow us to do what we wanted, to one that actually does what we want. 
+We’ve managed to morph the code from one state that didn’t allow us to do what we wanted, to one that actually does what we want.&#x20;
 
-We did this by using the Mikado Method to 
+We did this by using the Mikado Method to&#x20;
 
 * Write down the goals
 * Seek things to try

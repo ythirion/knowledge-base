@@ -6,7 +6,7 @@ Understand what are Pure Functions and the benefits of using them
 
 ## Connection - 10'
 
-Categorize these code samples in _**Pure Functions**_ vs _**Impure Functions **_:
+Categorize these code samples in _**Pure Functions**_ vs _**Impure Functions**_ :
 
 ```python
 import random

@@ -2,9 +2,9 @@
 
 ## Why you should read this article
 
-Little by little, **Agility has been diverted and no longer belongs to developers. **In this article you will understand how much the developers have become forgotten from agility.
+Little by little, **Agility has been diverted and no longer belongs to developers.** In this article you will understand how much the developers have become forgotten from agility.
 
-## The genesis — the agile manifesto <a href="1a5d" id="1a5d"></a>
+## The genesis — the agile manifesto <a href="#1a5d" id="1a5d"></a>
 
 ![](<../../.gitbook/assets/image (364).png>)
 
@@ -17,7 +17,7 @@ In 2001, 17 brilliant developers tried to find an answer to this interrogation: 
 
 That came out from their discussions is what we know as the [agile manifesto ](https://agilemanifesto.org): 4 values and 12 principles. It is the heart of agile and it has been designed **by developers for developers**.
 
-## Scrum <a href="1bb8" id="1bb8"></a>
+## Scrum <a href="#1bb8" id="1bb8"></a>
 
 Nowadays when you talk about agile, people will make a shortcut and will talk to you about scrum that’s because Scrum is the most used agile framework in companies.
 
@@ -31,11 +31,11 @@ The rules of the game are simple, and all explained in the scrum holy bible: the
 _**Scrum is really easy to understand but what about its implementation?**_
 {% endhint %}
 
-## Observed anti-patterns <a href="9923" id="9923"></a>
+## Observed anti-patterns <a href="#9923" id="9923"></a>
 
 The anti-patterns described below are the ones we have observed in our coaching experiences.
 
-### The Scrum Master <a href="9a46" id="9a46"></a>
+### The Scrum Master <a href="#9a46" id="9a46"></a>
 
 ![](<../../.gitbook/assets/image (367).png>)
 
@@ -50,7 +50,7 @@ The anti-patterns described below are the ones we have observed in our coaching 
 The scrum master role is the most misunderstood role. It requires a lot of soft skills (facilitation, communication, empathy) and it’s definitely not the same job as project management.
 {% endhint %}
 
-### The Product Owner <a href="5cb5" id="5cb5"></a>
+### The Product Owner <a href="#5cb5" id="5cb5"></a>
 
 ![](<../../.gitbook/assets/image (368).png>)
 
@@ -63,7 +63,7 @@ The scrum master role is the most misunderstood role. It requires a lot of soft 
 By not holding a vision it creates a loss of meaning and motivation for the Dev team.
 {% endhint %}
 
-### The Spring planning <a href="eab6" id="eab6"></a>
+### The Spring planning <a href="#eab6" id="eab6"></a>
 
 ![](<../../.gitbook/assets/image (369).png>)
 
@@ -71,7 +71,7 @@ By not holding a vision it creates a loss of meaning and motivation for the Dev 
 
 * The Product Owner or the Scrum Master act as dictator and push the items from the Product backlog directly to the Sprint backlog without negotiation nor collaboration with the Dev team…
 
-### The Daily scrum <a href="0ce5" id="0ce5"></a>
+### The Daily scrum <a href="#0ce5" id="0ce5"></a>
 
 ![](<../../.gitbook/assets/image (370).png>)
 
@@ -85,7 +85,7 @@ By not holding a vision it creates a loss of meaning and motivation for the Dev 
 This moment is often lived as a micro-management moment because in most organizations PO and SM are perceived as team managers.
 {% endhint %}
 
-### The Sprint review <a href="e00d" id="e00d"></a>
+### The Sprint review <a href="#e00d" id="e00d"></a>
 
 ![](<../../.gitbook/assets/image (371).png>)
 
@@ -97,7 +97,7 @@ This moment is often lived as a micro-management moment because in most organiza
 When you work during an entire sprint on a product increment you are proud of and you don’t have the opportunity to demonstrate it and gather feedback by your own, it creates a lot of frustration inside the team.
 {% endhint %}
 
-### The Sprint retrospective <a href="9935" id="9935"></a>
+### The Sprint retrospective <a href="#9935" id="9935"></a>
 
 ![](<../../.gitbook/assets/image (372).png>)
 
@@ -109,7 +109,7 @@ When you work during an entire sprint on a product increment you are proud of an
 Often in Dev teams they have impediments related to the technical side (environment issues or technical debt for example). Scrum Masters do not tolerate this kind of discussions during the retrospective, so when can the dev team take time to introspect and adapt on the code base and technical stuff ?
 {% endhint %}
 
-### Self-organization <a href="37e6" id="37e6"></a>
+### Self-organization <a href="#37e6" id="37e6"></a>
 
 ![](<../../.gitbook/assets/image (373).png>)
 
@@ -131,7 +131,7 @@ Often self-organization is a sweet dream. A lot of organizations are not ready t
 * “No roles in the dev team, everyone is a developer.” By saying this it does not tolerate that there are specialists (Data scientists, UX, Testing).
 * “Everyone must know everything about everything.” Team members must be circle-shaped people (experts in all the skills required to build the product).
 
-## Lost in agile <a href="cb5b" id="cb5b"></a>
+## Lost in agile <a href="#cb5b" id="cb5b"></a>
 
 ![](<../../.gitbook/assets/image (375).png>)
 
@@ -139,7 +139,7 @@ Often self-organization is a sweet dream. A lot of organizations are not ready t
 Developers do not find themselves in this version of agility. They feel that is no longer in their hands. **It’s not the idea’s fault, it’s the implementation.**
 {% endhint %}
 
-They all believe in the manifesto for them “i_t’s common sense_” **BUT **they no longer feel concerned (“_It’s for project managers, PMI_”).
+They all believe in the manifesto for them “i_t’s common sense_” **BUT** they no longer feel concerned (“_It’s for project managers, PMI_”).
 
 * In this digital era companies need them to build their products.
 * In this [VUCA](https://www.vuca-world.org) world companies must be able to adapt and change quickly.

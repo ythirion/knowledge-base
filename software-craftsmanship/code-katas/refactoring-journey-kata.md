@@ -83,11 +83,11 @@ Refactoring is a systematic process of **improving code** without creating new f
 
 ![](<../../.gitbook/assets/image (481).png>)
 
-There are two cases when tests can break down after refactoring : 
+There are two cases when tests can break down after refactoring :&#x20;
 
 * You made an _**error during refactoring**_
   * Go ahead and fix the error
-* Your _**tests were too low-level **_(for example, you were testing private methods of classes)
+* Your _**tests were too low-level**_ (for example, you were testing private methods of classes)
   * In this case : the tests are to blame
   * Either refactor the tests themselves or write an entirely new set of higher-level tests
 

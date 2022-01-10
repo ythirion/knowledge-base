@@ -102,15 +102,15 @@ The Clean Architecture as expressed by Robert C. Martin is a mix of the 3 archit
 * Encapsulate Enterprise wide business rules
   * Can be
     * Object with methods
-    * Set of data structures and functions 
+    * Set of data structures and functions&#x20;
 * Could be used by many different applications in the enterprise.
 
 ![](<../../.gitbook/assets/image (252).png>)
 
 #### Use cases (Application business rules)
 
-* Capture business rules 
-* Structure should indicate what the application is, not how it does it 
+* Capture business rules&#x20;
+* Structure should indicate what the application is, not how it does it&#x20;
 * Application specific business rules
 
 ![](<../../.gitbook/assets/image (253).png>)
@@ -119,7 +119,7 @@ The Clean Architecture as expressed by Robert C. Martin is a mix of the 3 archit
 
 * Set of adapters
   * Convert data from the format most convenient for the use cases and entities
-  * To the format most convenient for some external agency such as the Database or the Web 
+  * To the format most convenient for some external agency such as the Database or the Web&#x20;
 * In a MVC architecture : Presenters, Views, and Controllers
 
 ![](<../../.gitbook/assets/image (254).png>)
@@ -179,21 +179,21 @@ Each participant :
 
 Cover the following use cases and requirements:
 
-* The customer can register a new account. 
-* Allow to get the customer details. 
-* Allow to get the account details. 
-* Allow to deposit into an existing account. 
-* Allow to withdraw from an existing account. 
-* Accounts can be closed only if they have zero balance. 
+* The customer can register a new account.&#x20;
+* Allow to get the customer details.&#x20;
+* Allow to get the account details.&#x20;
+* Allow to deposit into an existing account.&#x20;
+* Allow to withdraw from an existing account.&#x20;
+* Accounts can be closed only if they have zero balance.&#x20;
 * Accounts does not allow to withdraw more than the current account balance.
 
 ![](<../../.gitbook/assets/image (260).png>)
 
-You can check in the branch **final-solution **to see one possible implementation of those Use Cases
+You can check in the branch **final-solution** to see one possible implementation of those Use Cases
 
 ## Conclusion
 
-* What benefits do you see? 
+* What benefits do you see?&#x20;
 * Pros and cons ?
 
 ![](<../../.gitbook/assets/image (261).png>)
@@ -202,7 +202,7 @@ You can check in the branch **final-solution **to see one possible implementatio
 
 | Pros                                                                                                                                       | Cons                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| _**Plays well with DDD**_ – architecture that builds everything on top of a domain model                                                   | _**Learning curve **_– People tend to mess up splitting responsibilities between layers, especially harming the domain model |
+| _**Plays well with DDD**_ – architecture that builds everything on top of a domain model                                                   | _**Learning curve**_ – People tend to mess up splitting responsibilities between layers, especially harming the domain model |
 | _**Directed coupling**_ – the most important code in our application depends on nothing, everything depends on it                          | _**Indirection**_ – interfaces everywhere!                                                                                   |
 | _**Flexibility**_ – from an inner-layer perspective, you can swap out anything in any of the outer layers and things should work just fine | _**Potentially heavy**_                                                                                                      |
 | _**Testability**_ – since your application core does not depend on anything else, it can be easily and quickly tested in isolation         |                                                                                                                              |
