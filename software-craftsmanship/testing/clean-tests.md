@@ -8,7 +8,7 @@ description: Workshop to work on Unit Tests Practices and Anti-patterns
 
 Connect participants to the topic by making them relate on Facts and Myths regarding Unit Tests
 
-![](<../../.gitbook/assets/image (691).png>)
+![](<../../.gitbook/assets/image (691) (1).png>)
 
 Debriefing is available in the slide deck
 
@@ -51,7 +51,7 @@ My identification logic and refactoring are explained in this step-by-step guide
 
 ### Conclusion
 
-![](<../../.gitbook/assets/image (687).png>)
+![](<../../.gitbook/assets/image (687) (1).png>)
 
 ### Resources
 

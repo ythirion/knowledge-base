@@ -7,9 +7,25 @@ description: >-
 
 # Home
 
-## Contributors :
+Hi folks, I am Yoan Thirion a Technical Agile coach.
 
-| Name                                     | Job title              | Links                                                                                                                       | Avatar                                |
-| ---------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [Yoan Thirion](https://yoan-thirion.com) | Technical Agile Coach  | <p><a href="https://www.linkedin.com/in/yoanthirion/">Linkedin</a></p><p><a href="https://twitter.com/yot88">@yot88</a></p> | ![](<.gitbook/assets/image (93).png>) |
+![](<.gitbook/assets/image (687).png>)
+
+I have designed software since more than 15 years now. My various experiences in fields like banking, insurance and industrial environments at Luxembourg helped me understood what were really fundamental to succeed in that area : agility and technical excellence.
+
+That's why since a few years I am focusing on helping teams deliver well crafted software by coaching them on the implementation of agile practices.
+
+I coach teams get better at XP practices, Continuous Integration and Development, Domain Driven Design, Clean Code, BDD and many other technical practices (Mob programming, efficient code review, refactoring of legacy code, ...).
+
+### If you want to know more about me
+
+* [My website](https://www.yoan-thirion.com/#home)
+* [How I work](https://promyze.com/fr/yoan-thirion-technical-agile-coaching/)
+
+![](<.gitbook/assets/image (691).png>)
+
+### How to reach me ?
+
+* [Linkedin](https://www.linkedin.com/in/yoanthirion/)
+* [Twitter](https://twitter.com/yot88)
 
