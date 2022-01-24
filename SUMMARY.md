@@ -51,6 +51,7 @@
   * [Fundamentals of Software Architecture](software-architecture/fundamentals-of-software-architecture.md)
   * [Aligning Product & Software Design](software-architecture/aligning-product-and-software-design.md)
   * [DDD re-distilled](software-architecture/ddd-re-distilled.md)
+  * [Test your architecture with Archunit](software-architecture/test-your-architecture-with-archunit.md)
   * [NoSQL](software-architecture/nosql.md)
 * [Agile coaching](agile-coaching/README.md)
   * [How to run a Community of Practices (COP)](agile-coaching/how-to-run-a-community-of-practices-cop.md)

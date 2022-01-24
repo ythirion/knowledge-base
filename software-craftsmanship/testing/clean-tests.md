@@ -41,7 +41,7 @@ In groups, make them identify Unit Tests anti-patterns by using Code snippets or
 
 You can debrief it directly on the Miro board or from the slides :
 
-![](<../../.gitbook/assets/image (688).png>)
+![](<../../.gitbook/assets/image (688) (1).png>)
 
 ![](<../../.gitbook/assets/image (696) (1).png>)
 
@@ -51,7 +51,7 @@ My identification logic and refactoring are explained in this step-by-step guide
 
 ### Conclusion
 
-![](<../../.gitbook/assets/image (687) (1).png>)
+![](<../../.gitbook/assets/image (687) (1) (1).png>)
 
 ### Resources
 

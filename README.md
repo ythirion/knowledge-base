@@ -9,7 +9,7 @@ description: >-
 
 Hi folks, I am Yoan Thirion a Technical Agile coach.
 
-![](<.gitbook/assets/image (687).png>)
+![](<.gitbook/assets/image (687) (1).png>)
 
 I have designed software since more than 15 years now. My various experiences in fields like banking, insurance and industrial environments at Luxembourg helped me understood what were really fundamental to succeed in that area : agility and technical excellence.
 
