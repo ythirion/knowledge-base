@@ -1,5 +1,9 @@
 # My Book Infographics
 
+* [_**The Software Craftsman**_](https://www.goodreads.com/book/show/23215733-the-software-craftsman) _by Sandro Mancuso_ _-_ _January 2022 (update)_
+
+![The Software Craftsman Infographic](../.gitbook/assets/The-Software-Craftsman.webp)
+
 * __[_Tu fais quoi dans la vie_](https://livre.fnac.com/a16126259/Matthieu-Dardaillon-Tu-fais-quoi-dans-la-vie) _by Joséphine Bouchez et Mathieu Dardaillon - November 2021_
 
 ![](../.gitbook/assets/Tu-fais-quoi-dans-la-vie.webp)
