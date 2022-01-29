@@ -10,7 +10,9 @@ I really loved this [great book](https://www.amazon.fr/Software-Craftsman-Profes
 
 ## Infography
 
-I love this book so much that I have created an infography :
+I love this book so much that I have created an infography :&#x20;
+
+![The Software Craftsman Infographic](../.gitbook/assets/The-Software-Craftsman.webp)
 
 ![The Software Craftsman infography](<../.gitbook/assets/image (283).png>)
 
