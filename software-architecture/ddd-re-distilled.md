@@ -424,3 +424,4 @@ Here are great books on DDD :
 {% embed url="https://speakerdeck.com/thirion/ddd-re-distilled" %}
 
 * [Domain Events vs Change Data Capture](https://medium.com/swlh/domain-events-versus-change-data-capture-e426772f76e5)
+* [Event Storming Best Practices](https://miro.com/app/board/o9J\_ksetago=/)
