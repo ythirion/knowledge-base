@@ -2,10 +2,10 @@
 
 * ****[**Une vie sur notre planète**](https://editions.flammarion.com/une-vie-sur-notre-planete/9782080249616) by _David Attenborough - February 2022_
 
-![Une vie sur notre planète - book infographic](<../.gitbook/assets/Une vie sur notre planète.png>)
+![Une vie sur notre planète - Book infographic](../.gitbook/assets/une-vie-sur-notre-planete.png)
 
 {% file src="../.gitbook/assets/Une vie sur notre planète.pdf" %}
-Une vie sur notre planète high resolution
+Une vie sur notre planète - High Resolution Book infographic
 {% endfile %}
 
 * [_**The Software Craftsman**_](https://www.goodreads.com/book/show/23215733-the-software-craftsman) _by Sandro Mancuso_ _-_ _January 2022 (update)_
