@@ -22,7 +22,7 @@
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MAffO8xa1ZWmgZvfeK2%2Fuploads%2FlkJyCZsVZYJqZdBg9dc8%2Ffile.png?alt=media)
 
 * How to refactor legacy code : [https://github.com/sandromancuso/trip-service-kata](https://github.com/sandromancuso/trip-service-kata)
-  * Seam model
+  * Seam model : [https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
   * Video : [https://www.youtube.com/watch?v=\_NnElPO5BU0](https://www.youtube.com/watch?v=\_NnElPO5BU0)
 
 ### Patterns
