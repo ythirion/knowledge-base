@@ -2,6 +2,7 @@
 
 ## Ressources
 
+* [http://tddbuddy.com/](http://tddbuddy.com)
 * [https://codingdojo.org/KataCatalogue/](https://codingdojo.org/KataCatalogue/)
 * [https://katalyst.codurance.com/](https://katalyst.codurance.com)
 * [https://github.com/emilybache/](https://github.com/emilybache/)
