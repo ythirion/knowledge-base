@@ -51,7 +51,7 @@
 
 ### Approval Testing (Golden Master)
 
-* Approval Testing by Example (Use Cases in java) : [https://github.com/ythirion/approval-demo](https://github.com/ythirion/approval-demo)
+* Approval Testing kata in C# : [https://github.com/ythirion/approval-csharp-kata](https://github.com/ythirion/approval-csharp-kata)
 * Expense Report : [https://github.com/christianhujer/expensereport](https://github.com/christianhujer/expensereport)
 * Lift-kata : [http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/](http://coding-is-like-cooking.info/2020/04/how-to-develop-new-features-with-approval-testing-illustrated-with-the-lift-kata/)
 * EnvironmentControllerKata : [https://github.com/emilybache/EnvironmentalControllerKata](https://github.com/emilybache/EnvironmentalControllerKata)
