@@ -39,6 +39,8 @@
 
 * Fizz Buzz : [https://katalyst.codurance.com/fizzbuzz](https://katalyst.codurance.com/fizzbuzz)
 * Leap Year : [https://katalyst.codurance.com/leap-year](https://katalyst.codurance.com/leap-year)
+* Money problem : [https://github.com/ythirion/TDD-money-problem](https://github.com/ythirion/TDD-money-problem)
+* Yahtzee : [https://codingdojo.org/kata/Yahtzee/](https://codingdojo.org/kata/Yahtzee/)
 * Roman Numerals : [https://katalyst.codurance.com/roman-numerals](https://katalyst.codurance.com/roman-numerals)
   * It's not a mathematical problem
 
@@ -61,7 +63,7 @@
 
 ### Property Based Testing
 
-* Property-Based Testing kata : [https://github.com/ythirion/pbt-kata](https://github.com/ythirion/pbt-kata)
+* [A journey to Property-Based Testing](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/code-katas/improve-your-software-quality-with-property-based-testing/a-journey-to-property-based-testing)
 
 {% content-ref url="improve-your-software-quality-with-property-based-testing/" %}
 [improve-your-software-quality-with-property-based-testing](improve-your-software-quality-with-property-based-testing/)
