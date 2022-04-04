@@ -26,7 +26,7 @@ description: from Mark Seemann
 
 If you’ve ever suffered through bad projects or had to cope with unmaintainable legacy code, this guide will help you make things better next time and every time.
 
-![](<.gitbook/assets/image (693).png>)
+![](<../../../.gitbook/assets/image (693).png>)
 
 ## Book Notes
 
@@ -210,7 +210,7 @@ This book can help transition from programmer to software engineer
   * Gets harder to work with the code base
     * because your painstakingly acquired knowledge no longer applies&#x20;
 
-![](.gitbook/assets/IMG\_4311.jpg)
+![](../../../.gitbook/assets/IMG\_4311.jpg)
 
 * Triangulation : `as the tests get more specific, the code gets more generic`
 * Add more test cases until you've defeated the Devil
@@ -238,7 +238,7 @@ This book can help transition from programmer to software engineer
   * Conceptually, you should be able to describe what's going on by filling the 7 hexagons
   * In each slot, you can plot outcome related to a branch in the code&#x20;
 
-![](.gitbook/assets/hex-flower.png)
+![](../../../.gitbook/assets/hex-flower.png)
 
 * Cohesion
   * `Things that change at the same rate belong together. Things that change at different rates belong apart - Kent Beck`
@@ -384,7 +384,7 @@ II. Sustainability
     * Gradually move callers over
     * Finally delete the old class&#x20;
 
-![](.gitbook/assets/strangler-fig-pattern.png)
+![](../../../.gitbook/assets/strangler-fig-pattern.png)
 
 ### 11. Editing Unit Tests
 
