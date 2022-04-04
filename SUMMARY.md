@@ -111,5 +111,6 @@
       * [Succeeding with OKRs in Agile](xtrem-reading/resources/book-notes/succeding-with-okrs-in-agile.md)
       * [Team Topologies](xtrem-reading/resources/book-notes/team-topologies.md)
       * [Tu fais quoi dans la vie](xtrem-reading/resources/book-notes/tu-fais-quoi-dans-la-vie.md)
+* [Code that fits in your head](code-that-fits-in-your-head.md)
 * [My Activity](my-activity/README.md)
   * [Retour sur mon année 2020](my-activity/retour-dun-freelance-sur-lannee-2020.md)
