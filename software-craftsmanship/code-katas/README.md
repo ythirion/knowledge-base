@@ -95,6 +95,9 @@
 ### Architecture
 
 * Architecture Kata : [http://fundamentalsofsoftwarearchitecture.com/katas/list.html](http://fundamentalsofsoftwarearchitecture.com/katas/list.html)
+* DDD Katas by Nick Tune :
+  * [Delivericious : Strategic Domain Driven Design Kata](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
+  * [Dreamland : DDD Kata](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
 
 {% content-ref url="clean-architecture.md" %}
 [clean-architecture.md](clean-architecture.md)
