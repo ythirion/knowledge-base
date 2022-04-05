@@ -2,7 +2,7 @@
 
 * _****_[_**Code that Fits in Your Head**_](https://www.oreilly.com/library/view/code-that-fits/9780137464302/) _by Mark Seemann - April 2022_
 
-![Code that fits in your head book infographic by Yoan Thirion](../.gitbook/assets/Code-that-fits-in-your-head.webp)
+![Code that fits in your head book infographic by Yoan Thirion](broken-reference)
 
 * ****[**Une vie sur notre planète**](https://editions.flammarion.com/une-vie-sur-notre-planete/9782080249616) by _David Attenborough - February 2022_
 
