@@ -28,6 +28,14 @@ If you’ve ever suffered through bad projects or had to cope with unmaintainabl
 
 ![](<../../../.gitbook/assets/image (693).png>)
 
+## Infographic
+
+![Code that fits in your head infographic by Yoan Thirion](../../../.gitbook/assets/Code-that-fits-in-your-head.webp)
+
+{% file src="../../../.gitbook/assets/Code that fits in your head (1).pdf" %}
+Code that fits in your head infographic by Yoan Thirion
+{% endfile %}
+
 ## Book Notes
 
 I. Acceleration
