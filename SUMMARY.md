@@ -94,6 +94,7 @@
 * [Xtrem Reading](xtrem-reading/README.md)
   * [Cultivate Team Learning with Xtrem Reading](xtrem-reading/cultivate-team-learning-with-xtrem-reading.md)
   * [My Book Infographics](xtrem-reading/my-book-infographics.md)
+  * [How to make book infographics](xtrem-reading/how-to-make-book-infographics.md)
   * [En route vers l’apprenance avec Xtrem Reading](xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading.md)
   * [Resources](xtrem-reading/resources/README.md)
     * [Book notes](xtrem-reading/resources/book-notes/README.md)
