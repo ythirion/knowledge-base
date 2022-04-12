@@ -1,6 +1,10 @@
 # My Book Infographics
 
-* _****_[_**Code that Fits in Your Head**_](https://www.oreilly.com/library/view/code-that-fits/9780137464302/) _by Mark Seemann - April 2022_
+{% file src="../.gitbook/assets/book-infographics-202204.pdf" %}
+Download Yoan Thirion's book infographics
+{% endfile %}
+
+* [_**Code that Fits in Your Head**_](https://www.oreilly.com/library/view/code-that-fits/9780137464302/) _by Mark Seemann - April 2022_
 
 ![Code that fits in your head book infographic by Yoan Thirion](../.gitbook/assets/Code-that-fits-in-your-head.webp)
 
