@@ -14,7 +14,7 @@ From his point of view developers were considered only as executes and not as ca
 
 The whole idea was to reduce the gap between the agile and technical world by emphasizing the importance of people’s skills when it comes to software development. He wanted to **focus on technical excellence that is crucially important to deliver value.**
 
-The same year he has initiated the Software craftsmanship movement with a new manifesto: [**the manifesto for software craftsmanship**](http://manifesto.softwarecraftsmanship.org) .
+The same year he has initiated the Software craftsmanship movement with a new manifesto: [**the manifesto for software craftsmanship**](http://manifesto.softwarecraftsmanship.org/) .
 
 ![](<../../.gitbook/assets/image (376).png>)
 

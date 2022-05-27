@@ -199,8 +199,8 @@ _"Xanpan is the kind of stuff that should emerge from every agile teams when not
 ## To go further
 
 * Buy the book from Allan Kelly here : [https://www.amazon.fr/Xanpan-Centric-Agile-Software-Development/dp/1291852735](https://www.amazon.fr/Xanpan-Centric-Agile-Software-Development/dp/1291852735)
-* Agnostic agile : [https://agnosticagile.org/](https://agnosticagile.org)
-* Heart of agile : [https://heartofagile.com/](https://heartofagile.com)
+* Agnostic agile : [https://agnosticagile.org/](https://agnosticagile.org/)
+* Heart of agile : [https://heartofagile.com/](https://heartofagile.com/)
 * Discover slides of my talk about it here :
 
 {% embed url="https://speakerdeck.com/thirion/xanpan-une-methode-agile-hybride-centree-sur-lequipe" %}

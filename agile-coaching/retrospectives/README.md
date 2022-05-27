@@ -12,7 +12,7 @@
 
 * What happens in retro, does not stay in retro
   * The retrospective is a safe place : communicates only the taken actions
-* Change the world 
+* Change the world&#x20;
   * Small changes : do not try to change everything at once
 * No time to improve
   * Improvement is part of the life of any team
@@ -20,7 +20,7 @@
 * No responsibility is taken (The scrum master will do it)
   * Team responsibility (Not a 1 person job)
 * Wishful thinking actions
-  * Concrete actions, [SMART](https://en.wikipedia.org/wiki/SMART_criteria) actions
+  * Concrete actions, [SMART](https://en.wikipedia.org/wiki/SMART\_criteria) actions
 * Managers want to attend
   * It is not good : safe place (silence law with managers)
 * One man show
@@ -33,8 +33,8 @@
 
 ## Resources
 
-* [https://retromat.org/](https://retromat.org)
-* [https://coach-agile.com/](https://coach-agile.com)
+* [https://retromat.org/](https://retromat.org/)
+* [https://coach-agile.com/](https://coach-agile.com/)
   * Agile Burger Quiz : [https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/](https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/)
   * Agile Code Smells : [https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/](https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/)
 * Event Storming Retrospective : [https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)

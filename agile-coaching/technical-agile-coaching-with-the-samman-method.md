@@ -549,4 +549,4 @@ Tip: organize your notes by team.
 
 ### Resources for Samman coaching
 
-[https://sammancoaching.org/](https://sammancoaching.org)
+[https://sammancoaching.org/](https://sammancoaching.org/)

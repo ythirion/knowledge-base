@@ -78,7 +78,7 @@ A mutant is created by altering the production in various ways :
 
 ## How to generate mutants ?
 
-To use mutation testing we can use tools like [pitest](https://pitest.org) (for java) but others are available like [stryker](https://stryker-mutator.io).
+To use mutation testing we can use tools like [pitest](https://pitest.org/) (for java) but others are available like [stryker](https://stryker-mutator.io/).
 
 ![](<../../.gitbook/assets/image (101).png>)
 
@@ -159,7 +159,7 @@ You can do it from you pom.xml :
 
 ### Integrate Pitest in your Integration pipelines
 
-You can integrate it easily in your integration pipelines with SonarQube or [SonarCloud](https://sonarcloud.io)
+You can integrate it easily in your integration pipelines with SonarQube or [SonarCloud](https://sonarcloud.io/)
 
 * Add an XML Output (still in your pom)
 

@@ -27,7 +27,7 @@ Put your notes in a new file that will serve as a driver for the book infographi
 
 Once the "filtering" is done, we can start the infographic work
 
-* To do this, I use: [https://www.canva.com/](https://www.canva.com)
+* To do this, I use: [https://www.canva.com/](https://www.canva.com/)
   * The site contains templates to have a working base
   * Select a basic template and iterate on it
   * For each part:&#x20;

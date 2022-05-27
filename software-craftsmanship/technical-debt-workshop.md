@@ -228,7 +228,7 @@ _“Always leave the code you’re editing a little better than you found it.”
 
 #### Use great development practices
 
-There are a lot of them in [XP](http://www.extremeprogramming.org)
+There are a lot of them in [XP](http://www.extremeprogramming.org/)
 
 {% hint style="info" %}
 _“I'm not a great programmer; I'm just a good programmer with great habits.”_ - Kent Beck

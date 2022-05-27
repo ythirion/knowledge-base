@@ -53,18 +53,18 @@
 
 ### Why use NoSQL ?
 
-* To improve programmer productivity : better matches an application needs 
-* To improve data access performance 
-  * Through some combination of handling larger data volumes, reducing latency 
+* To improve programmer productivity : better matches an application needs&#x20;
+* To improve data access performance&#x20;
+  * Through some combination of handling larger data volumes, reducing latency&#x20;
 * Large volumes of rapidly changing structured, semi-structured, and unstructured data
-* Geographically distributed scale-out architecture 
+* Geographically distributed scale-out architecture&#x20;
   * Instead of expensive, monolithic architecture
 
 ## Concrete Practice - 20'
 
 Let's play with a GraphDB call Neo4j for the next minutes :
 
-* Connect to the [platform](https://sandbox.neo4j.com)
+* Connect to the [platform](https://sandbox.neo4j.com/)
 * Play with the Cypher queries
 * Play with the Graph Visualization
 

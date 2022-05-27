@@ -292,7 +292,7 @@ It is not something from IT for IT but from business to the organization.
 
 ![The picture that explains everything](<../.gitbook/assets/image (40).png>)
 
-Find more about it here : [https://www.eventstorming.com/](https://www.eventstorming.com)
+Find more about it here : [https://www.eventstorming.com/](https://www.eventstorming.com/)
 
 ### How to capture the outcomes ?
 

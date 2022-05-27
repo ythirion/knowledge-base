@@ -163,9 +163,9 @@ Each participant :
 * Position projects on the Clean Architecture Diagram
 * Draw the sequence diagram of the Register Use Case
   * They can use :
-    * [https://sequencediagram.org/      ](https://sequencediagram.org)
-    * [https://plantuml.com/](https://plantuml.com)
-    * [https://app.diagrams.net/](https://app.diagrams.net)
+    * [https://sequencediagram.org/      ](https://sequencediagram.org/)
+    * [https://plantuml.com/](https://plantuml.com/)
+    * [https://app.diagrams.net/](https://app.diagrams.net/)
 
 ![Empty Clean architecture Diagram](<../../.gitbook/assets/image (257).png>)
 

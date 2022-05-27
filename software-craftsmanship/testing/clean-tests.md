@@ -63,6 +63,6 @@ My identification logic and refactoring are explained in this step-by-step guide
 Clean Tests slides
 {% endembed %}
 
-* A lot of stuff from this workshop comes from the book "Unit Testing : Principles, Practices, and Patterns"by [Vladimir Khorikov](https://enterprisecraftsmanship.com)
+* A lot of stuff from this workshop comes from the book "Unit Testing : Principles, Practices, and Patterns"by [Vladimir Khorikov](https://enterprisecraftsmanship.com/)
 
 ![](<../../.gitbook/assets/image (699).png>)

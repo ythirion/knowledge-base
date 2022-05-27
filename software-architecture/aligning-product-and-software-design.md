@@ -169,7 +169,7 @@ In startup product is part of the company
 
 ![](<../.gitbook/assets/image (228).png>)
 
-### [Impact Mapping](https://www.impactmapping.org)
+### [Impact Mapping](https://www.impactmapping.org/)
 
 * Validate the value towards the goal
 * Validate the things we want to build by value

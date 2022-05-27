@@ -39,7 +39,7 @@ Avec :&#x20;
 
 Mon objectif étant de te faire vivre toi-même ce moment, je ne t'en dirai pas plus à cette étape et te propose de dérouler un atelier (que tu pourras rejouer à l'extérieur de ce livre).
 
-Comme tout atelier que je prépare depuis ma découverte de l'excellent "[_**Training From The Back of The Room**_](https://bowperson.com)" je l'ai préparé en utilisant le formats [4C](https://wikiagile.cesi.fr/index.php?title=4C\_Canevas\_de\_formation). J'en profite pour te remercier Laurent pour cette belle découverte : une autre tarte dans la gueule je dois l’admettre.
+Comme tout atelier que je prépare depuis ma découverte de l'excellent "[_**Training From The Back of The Room**_](https://bowperson.com/)" je l'ai préparé en utilisant le formats [4C](https://wikiagile.cesi.fr/index.php?title=4C\_Canevas\_de\_formation). J'en profite pour te remercier Laurent pour cette belle découverte : une autre tarte dans la gueule je dois l’admettre.
 
 ## Connexion
 

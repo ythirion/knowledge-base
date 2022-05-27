@@ -6,7 +6,7 @@ description: Theatrical players refactoring Kata in Object Oriented Programming
 
 ## Start by establishing our plan
 
-We can use the [mikado method](http://mikadomethod.info) to do so.
+We can use the [mikado method](http://mikadomethod.info/) to do so.
 
 Here is mine :
 

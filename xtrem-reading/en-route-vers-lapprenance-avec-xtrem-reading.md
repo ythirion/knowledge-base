@@ -6,7 +6,7 @@ description: >-
 
 # En route vers l’apprenance avec Xtrem Reading
 
-L’apprenance est une attitude permettant d’accroître sa capacité à traiter des situations complexes. C’est pourquoi elle s’impose comme une nécessité au sein de nos organisations afin de faire face à ce fameux monde [_VUCA_](https://www.vuca-world.org).
+L’apprenance est une attitude permettant d’accroître sa capacité à traiter des situations complexes. C’est pourquoi elle s’impose comme une nécessité au sein de nos organisations afin de faire face à ce fameux monde [_VUCA_](https://www.vuca-world.org/).
 
 Mais comment l’activer, et surtout l’entretenir, en entreprise ? Comment démarrer notre chemin vers cette fameuse entreprise apprenante ?
 
@@ -39,7 +39,7 @@ L’apprenance __ est au cœur de l’agilité, elle transpire dans les principe
 
 > _Apprenance et agilité reposent sur la même fondation : l’adaptation aux changements, tout comme la valorisation des individus, sont primordiales dans notre monde de moins en moins prédictif._
 
-Alistair Cockburn l’a très bien illustré avec son [_Heart of Agile_](https://heartofagile.com) que l’on peut voir comme un retour aux sources de l’Agilité. Dans celui-ci on retrouve des associations telles que _Réfléchir/Améliorations_, _Livrer/Apprendre._
+Alistair Cockburn l’a très bien illustré avec son [_Heart of Agile_](https://heartofagile.com/) que l’on peut voir comme un retour aux sources de l’Agilité. Dans celui-ci on retrouve des associations telles que _Réfléchir/Améliorations_, _Livrer/Apprendre._
 
 ![](https://miro.medium.com/max/549/0\*GQ1pEn4bvh6zPplO.png)
 
@@ -51,7 +51,7 @@ L’université de Princeton a développé sur la base d’enquêtes et d’étu
 * 20 % ont lieu grâce aux interactions sociales, à travers nos échanges avec nos collègues et nos connaissances.
 * 70 % relèvent de l’expérience et de la pratique.
 
-Au sein des entreprises où je suis intervenu, la formation est majoritairement traditionnelle. Dès lors, seuls les 10 % sont stimulés via des cycles de formations traditionnels souvent délivrées en mode _descendant_. Les participants y sont convoqués sans forcément avoir été impliqués sur le choix de la formation. Ils se retrouvent à apprendre ce qu’un expert a décidé de leur enseigner sans réellement comprendre pourquoi ils le font. C’est ce qu’Alexandre Magno appelle le [_learning 1.0_](http://www.learning30.co) __ qui ne laisse que très peu de place aux interactions et à l’apprentissage en groupe.
+Au sein des entreprises où je suis intervenu, la formation est majoritairement traditionnelle. Dès lors, seuls les 10 % sont stimulés via des cycles de formations traditionnels souvent délivrées en mode _descendant_. Les participants y sont convoqués sans forcément avoir été impliqués sur le choix de la formation. Ils se retrouvent à apprendre ce qu’un expert a décidé de leur enseigner sans réellement comprendre pourquoi ils le font. C’est ce qu’Alexandre Magno appelle le [_learning 1.0_](http://www.learning30.co/) __ qui ne laisse que très peu de place aux interactions et à l’apprentissage en groupe.
 
 Concernant les 20 %, il existe encore trop peu de pratiques au sein des organisations favorisant les échanges et la stimulation de l’intelligence collective.
 
@@ -74,7 +74,7 @@ Un point nous gênait avec la lecture : telle qu’on nous l’a enseignée, c�
 
 ### Comment rendre la lecture plus collective ? <a href="#e8b1" id="e8b1"></a>
 
-Cédric et moi avons décidé d’adopter une démarche _Design Thinking_ pour répondre à cette problématique. Cela nous a permis de définir notre problème, générer des idées, expérimenter avec des utilisateurs pour enfin aboutir à une pratique que nous avons appelée : [_**Xtrem Reading**_](https://xtrem-reading.com).
+Cédric et moi avons décidé d’adopter une démarche _Design Thinking_ pour répondre à cette problématique. Cela nous a permis de définir notre problème, générer des idées, expérimenter avec des utilisateurs pour enfin aboutir à une pratique que nous avons appelée : [_**Xtrem Reading**_](https://xtrem-reading.com/).
 
 ![](https://miro.medium.com/max/1782/0\*54F55LtiD-H98dsY.png)
 

@@ -4,6 +4,14 @@
 Download Yoan Thirion's book infographics
 {% endfile %}
 
+* _****_[_**Software craft, TDD, Clean Code et autres pratiques essentielles**_](https://www.dunod.com/sciences-techniques/software-craft-tdd-clean-code-et-autres-pratiques-essentielles) _**** par_ [_Cyrille Martraire_](https://www.dunod.com/livres-cyrille-martraire)_,_ [_Arnaud Thiéfaine_](https://www.dunod.com/livres-arnaud-thiefaine)_,_ [_Dorra Bartaguiz_](https://www.dunod.com/livres-dorra-bartaguiz)_,_ [_Fabien Hiegel_](https://www.dunod.com/livres-fabien-hiegel)_,_ [_Houssam Fakih_](https://www.dunod.com/livres-houssam-fakih) _- May 2022_
+
+![Software Craft book infographic by Yoan Thirion](../.gitbook/assets/Software-Craft-TDD\_-Clean-Code-et-autres-pratiques-essentielles.webp)
+
+{% file src="../.gitbook/assets/Software Craft - TDD, Clean Code et autres pratiques essentielles.pdf" %}
+High resolution Software Craft book infographic by Yoan Thirion
+{% endfile %}
+
 * [_**Code that Fits in Your Head**_](https://www.oreilly.com/library/view/code-that-fits/9780137464302/) _by Mark Seemann - April 2022_
 
 ![Code that fits in your head book infographic by Yoan Thirion](../.gitbook/assets/Code-that-fits-in-your-head.webp)

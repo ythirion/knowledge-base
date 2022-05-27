@@ -233,7 +233,7 @@ _**4 Techniques** that will help you memorize programming concepts better and mo
 _**When to use them ?**_
 
 * Use them often to practice
-* Use Apps like [**Brainscape**](https://www.brainscape.com), Anki, Quizlet, that allow you to create your own digital flashcards
+* Use Apps like [**Brainscape**](https://www.brainscape.com/), Anki, Quizlet, that allow you to create your own digital flashcards
   * They will remind you when to practice again
 * After a few weeks your syntactic vocabulary will have increased
 

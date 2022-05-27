@@ -600,4 +600,4 @@ Each kata has predefined sections:&#x20;
 
 ## **Resources**
 
-****[**http://fundamentalsofsoftwarearchitecture.com/**](http://fundamentalsofsoftwarearchitecture.com)****
+****[**http://fundamentalsofsoftwarearchitecture.com/**](http://fundamentalsofsoftwarearchitecture.com/)****

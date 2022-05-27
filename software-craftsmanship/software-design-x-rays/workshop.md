@@ -30,7 +30,7 @@ Go through this page
 
 ## Concrete Practice - 20'
 
-In pair select 1 exercise (in each exercise you will investigate in a code base of your choice with [CodeScene](https://codescene.io)) - **15'**
+In pair select 1 exercise (in each exercise you will investigate in a code base of your choice with [CodeScene](https://codescene.io/)) - **15'**
 
 * Find Refactoring Candidates :
   * [ASP .NET Core](https://codescene.io/projects/1690/jobs/52744/results/code/hotspots/system-map)
@@ -72,7 +72,7 @@ sh run-analysis.sh --projectName=<project> --repositoryPath=<path>
 #### Resources
 
 * [Codecharta](https://github.com/MaibornWolff/codecharta)
-* [CodeScene](https://codescene.com)
+* [CodeScene](https://codescene.com/)
 * [Code-maat](https://github.com/adamtornhill/code-maat)
 * [code-forensics](https://github.com/smontanari/code-forensics)
 * [code-forensics scripts](https://github.com/ythirion/code-forensics)

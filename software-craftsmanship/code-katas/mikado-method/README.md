@@ -64,7 +64,7 @@ Should we try to make a course correction, partially reverting what we’ve done
 ## The Mikado Method to our rescue
 
 {% hint style="success" %}
-The [Mikado Method](http://mikadomethod.info) is a technique for **breaking up large refactoring tasks into smaller ones in a systematic way, such that the code is practically NEVER IN A BROKEN STATE**.
+The [Mikado Method](http://mikadomethod.info/) is a technique for **breaking up large refactoring tasks into smaller ones in a systematic way, such that the code is practically NEVER IN A BROKEN STATE**.
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (150).png>)
@@ -162,16 +162,16 @@ These leaf changes should now have become easy atomic refactoring themselves. If
 ### Resources
 
 * [Mikado Refactoring with C++ Feature Macros](https://www.fluentcpp.com/2020/01/24/mikado-refactoring-with-c-feature-macros/)
-* [Mikado method website](http://mikadomethod.info)
+* [Mikado method website](http://mikadomethod.info/)
 * [Mikado method book](https://www.manning.com/books/the-mikado-method)
 * [Kata in java](https://github.com/mikadomethod/kata-java)
 * [Make Testing Legacy Code Viral: Mikado Method and Test Data Builders](https://philippe.bourgau.net/make-testing-legacy-code-viral-mikado-method-and-test-data-builders/)
 
 ### Tools (mind mapping)
 
-* [Coggle](https://coggle.it)
-* [Xmind](https://www.xmind.net)
-* [Mindmup](https://www.mindmup.com)
+* [Coggle](https://coggle.it/)
+* [Xmind](https://www.xmind.net/)
+* [Mindmup](https://www.mindmup.com/)
 
 
 

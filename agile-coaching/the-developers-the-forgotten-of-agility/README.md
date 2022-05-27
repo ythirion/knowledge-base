@@ -15,7 +15,7 @@ In 2001, 17 brilliant developers tried to find an answer to this interrogation: 
 * A contract is important **BUT** we need to collaborate with our customers to discover what they need.
 * Our plans are too rigid we must embrace changes. Change is everywhere in our time (concurrency, technology, politics, climate, …)
 
-That came out from their discussions is what we know as the [agile manifesto ](https://agilemanifesto.org): 4 values and 12 principles. It is the heart of agile and it has been designed **by developers for developers**.
+That came out from their discussions is what we know as the [agile manifesto ](https://agilemanifesto.org/): 4 values and 12 principles. It is the heart of agile and it has been designed **by developers for developers**.
 
 ## Scrum <a href="#1bb8" id="1bb8"></a>
 
@@ -23,9 +23,9 @@ Nowadays when you talk about agile, people will make a shortcut and will talk to
 
 ![](<../../.gitbook/assets/image (366).png>)
 
-In 2018, it represented almost **70% of the agile methodologies** used in agile companies (number from the [state of agile](https://www.stateofagile.com) ).
+In 2018, it represented almost **70% of the agile methodologies** used in agile companies (number from the [state of agile](https://www.stateofagile.com/) ).
 
-The rules of the game are simple, and all explained in the scrum holy bible: the [**scrum guide**](https://www.scrumguides.org). It’s only an **18 pages guide** explaining the values, concepts behind the notion of sprint, the artefacts (product backlog for example), the different events (From daily scrum to retrospective), the roles (Product Owner, Scrum Master, Dev team)
+The rules of the game are simple, and all explained in the scrum holy bible: the [**scrum guide**](https://www.scrumguides.org/). It’s only an **18 pages guide** explaining the values, concepts behind the notion of sprint, the artefacts (product backlog for example), the different events (From daily scrum to retrospective), the roles (Product Owner, Scrum Master, Dev team)
 
 {% hint style="danger" %}
 _**Scrum is really easy to understand but what about its implementation?**_
@@ -142,7 +142,7 @@ Developers do not find themselves in this version of agility. They feel that is 
 They all believe in the manifesto for them “i_t’s common sense_” **BUT** they no longer feel concerned (“_It’s for project managers, PMI_”).
 
 * In this digital era companies need them to build their products.
-* In this [VUCA](https://www.vuca-world.org) world companies must be able to adapt and change quickly.
+* In this [VUCA](https://www.vuca-world.org/) world companies must be able to adapt and change quickly.
 
 For those reasons companies need to be more agile. They strongly need to think on **ways to re-on-board the developers in agility.**
 

@@ -6,13 +6,13 @@ description: Theatrical players refactoring Kata in a Functional Programming sty
 
 ## Start by establishing our plan
 
-We can use the [mikado method](http://mikadomethod.info) to do so.
+We can use the [mikado method](http://mikadomethod.info/) to do so.
 
 Here is mine :
 
 ![](<../../../.gitbook/assets/image (92).png>)
 
-We will use [vavr](https://www.vavr.io) to refactor this code in java.
+We will use [vavr](https://www.vavr.io/) to refactor this code in java.
 
 ## 1) Extract the amount calculation
 

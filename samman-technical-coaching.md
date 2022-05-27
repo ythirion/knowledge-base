@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction
 
-Samman Technical Coaching is a method for people who want to make a difference and improve the way software is built. I strongly advise you to read [Emily's Bache book](https://leanpub.com/techagilecoach) and visit [her website](http://sammancoaching.org).
+Samman Technical Coaching is a method for people who want to make a difference and improve the way software is built. I strongly advise you to read [Emily's Bache book](https://leanpub.com/techagilecoach) and visit [her website](http://sammancoaching.org/).
 
 ## Learning hours
 
@@ -42,7 +42,7 @@ Samman Technical Coaching is a method for people who want to make a difference a
 * Xtrem
   * [En route vers l’apprenance avec Xtrem Reading](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/en-route-vers-lapprenance-avec-xtrem-reading)
   * [XTREM WATCH — Découvrez la puissance de la veille collective](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/xtrem-watch-decouvrez-la-puissance-de-la-veille-collective)
-* [Good Morning Learning by Philippe Bourgau](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/)
+* [Good Morning Learning by Philippe Bourgau](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/?utm\_content=bufferab70c\&utm\_medium=social\&utm\_source=linkedin.com\&utm\_campaign=buffer)
 
 ## Code Katas
 

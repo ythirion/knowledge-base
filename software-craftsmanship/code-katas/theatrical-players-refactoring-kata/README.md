@@ -103,7 +103,7 @@ _"Before you start refactoring, make sure you have a solid suite of tests. These
 The code already exists and works :
 
 * Easiest way to add a regression test is to find some test data, exercise the code, and approve the result
-* Add [approval tests](https://approvaltests.com) / [snapshot tests](https://jestjs.io/docs/en/snapshot-testing) / [Golden master](https://codurance.com/2012/11/11/testing-legacy-code-with-golden-master/)
+* Add [approval tests](https://approvaltests.com/) / [snapshot tests](https://jestjs.io/docs/en/snapshot-testing) / [Golden master](https://codurance.com/2012/11/11/testing-legacy-code-with-golden-master/)
 
 ### Approval tests : generate output / create your golden master
 
@@ -124,7 +124,7 @@ You earned 47 credits
 
 ### Approval tests : create a test
 
-To do so we can use the library "[approvaltests](https://approvaltests.com)".
+To do so we can use the library "[approvaltests](https://approvaltests.com/)".
 
 The verify is an approvaltests method that will compare the result returned by the print method and our Golden master.
 
@@ -162,7 +162,7 @@ public class StatementPrinterTests {
 
 ### Have we missed something ?
 
-We should ask ourselves if we have covered every piece of code with our test. 
+We should ask ourselves if we have covered every piece of code with our test.&#x20;
 
 To do so we have a tool : _**code coverage**_.
 
@@ -223,7 +223,7 @@ Now we are confident enough, let's do the exercise.
 ## To go further
 
 * Base artcile from Emily Bache : [https://www.praqma.com/stories/refactoring-kata/  ](https://www.praqma.com/stories/refactoring-kata/)
-* Approval Tests : [https://approvaltests.com/  ](https://approvaltests.com)
+* Approval Tests : [https://approvaltests.com/  ](https://approvaltests.com/)
 * Strategy pattern : [https://refactoring.guru/design-patterns/strategy  ](https://refactoring.guru/design-patterns/strategy)
 * Facilitator slide deck :
 

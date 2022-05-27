@@ -2,12 +2,12 @@
 
 ## Ressources
 
-* [http://tddbuddy.com/](http://tddbuddy.com)
+* [http://tddbuddy.com/](http://tddbuddy.com/)
 * [https://codingdojo.org/KataCatalogue/](https://codingdojo.org/KataCatalogue/)
-* [https://katalyst.codurance.com/](https://katalyst.codurance.com)
+* [https://katalyst.codurance.com/](https://katalyst.codurance.com/)
 * [https://github.com/emilybache/](https://github.com/emilybache/)
-* [https://kata-log.rocks/](https://kata-log.rocks)
-* Technical agile coaching materials : [https://sammancoaching.org/](https://sammancoaching.org)
+* [https://kata-log.rocks/](https://kata-log.rocks/)
+* Technical agile coaching materials : [https://sammancoaching.org/](https://sammancoaching.org/)
 * [Code cop](http://blog.code-cop.org/p/my-code-katas.html)
 
 ## Refactoring

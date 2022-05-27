@@ -65,7 +65,7 @@ When you start working on a new feature :
 
 There are many tools depending the language you use.
 
-The most common one is [ApprovalTests](https://approvaltests.com) available on a lot of language (from js to C# passing through C++, ...)
+The most common one is [ApprovalTests](https://approvaltests.com/) available on a lot of language (from js to C# passing through C++, ...)
 
 ![](<../../.gitbook/assets/image (328).png>)
 
@@ -155,7 +155,7 @@ public class GildedRoseTests {
 {% endcode %}
 
 * Run the test&#x20;
-  * Now it should fail ![](<../../.gitbook/assets/image (330).png>)
+  * Now it should fail <img src="../../.gitbook/assets/image (330).png" alt="" data-size="original">
 * ApprovalTests library compares 2 files :
   * _**GildedRoseTests.updateQuality.received.txt**_ that has been generated based on what is inside the verify method call
   * _**GildedRoseTests.updateQuality.approved.txt**_ a content that has already been approved
@@ -410,7 +410,7 @@ Individually note down what has happened today in these categories:
 
 * [Part 1/3 - Introducing the Gilded Rose kata and writing test cases using Approval Tests, Emily Bache](https://www.youtube.com/watch?v=zyM2Ep28ED8)
 * [https://emilybache.github.io/workshops/approvals/](https://emilybache.github.io/workshops/approvals/)
-* [https://approvaltests.com/](https://approvaltests.com)
+* [https://approvaltests.com/](https://approvaltests.com/)
 
 {% embed url="https://speakerdeck.com/thirion/approval-testing-kata-gilded-rose" %}
 Facilitator guide

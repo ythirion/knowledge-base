@@ -6,7 +6,7 @@ description: 'Pact broker : the missing piece of your CDC approach'
 
 _The Pact Broker is an application for **sharing for consumer driven contracts and verification results**._
 
-_It is optimized for use with “pacts” (contracts created by the_ [_Pact_](http://docs.pact.io) _framework), but can be used for any type of contract that can be serialized to JSON._
+_It is optimized for use with “pacts” (contracts created by the_ [_Pact_](http://docs.pact.io/) _framework), but can be used for any type of contract that can be serialized to JSON._
 
 ![](<../../../.gitbook/assets/image (205).png>)
 

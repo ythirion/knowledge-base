@@ -1,6 +1,6 @@
 # Test your architecture with Archunit
 
-The purpose of this workshop is to understand by the practice how a tool like [Archunit](https://www.archunit.org) can help you ensure :&#x20;
+The purpose of this workshop is to understand by the practice how a tool like [Archunit](https://www.archunit.org/) can help you ensure :&#x20;
 
 * Team architecture decision
 * Structural rules (Class dependencies)

@@ -38,9 +38,9 @@ description: Great book and workshop followed with Scott Wlaschin
   * There is a whole (excellent) [book on using Elmish](https://zaid-ajaj.github.io/the-elmish-book/#/)
   * Also [https://compositional-it.com/blog/2017/09-21-safe-elmish/index.html](https://compositional-it.com/blog/2017/09-21-safe-elmish/index.html)
 * F# web frameworks:
-  * [https://safe-stack.github.io/](https://safe-stack.github.io)
+  * [https://safe-stack.github.io/](https://safe-stack.github.io/)
   * [Giraffe](https://github.com/giraffe-fsharp/Giraffe) (uses ASP.NET core)
-  * [Suave](https://suave.io) (standalone)
+  * [Suave](https://suave.io/) (standalone)
 * Working with JSON and databases
   * [Serializing your domain model](https://fsharpforfunandprofit.com/posts/serializating-your-domain-model/) -- how to share algebraic data types with the outside world
 * Advanced F#
@@ -71,7 +71,7 @@ Links for if you want to keep going after the workshop :
 
 1. see the link at the bottom of the Google Docs file at
 2. For C# compatibility, see code at: DmmfWorkshop/CSharpInterop
-3. For monads and more, see slides: F-FP_toolkit.pdf code: _**DmmfWorkshop/src/F-ImplementingWorkflows/01-Exercises.txt**_
+3. For monads and more, see slides: F-FP\_toolkit.pdf code: _**DmmfWorkshop/src/F-ImplementingWorkflows/01-Exercises.txt**_
 4. For capability-based design see: [https://fsharpforfunandprofit.com/cap/](https://fsharpforfunandprofit.com/cap/) [https://www.youtube.com/watch?v=fi1FsDW1QeY](https://www.youtube.com/watch?v=fi1FsDW1QeY)
 
 ![](<../.gitbook/assets/image (349).png>)

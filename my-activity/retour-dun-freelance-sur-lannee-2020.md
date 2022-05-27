@@ -94,8 +94,8 @@ Cet objectif a été atteint mais malheureusement elles ont été majoritairemen
 
 #### **Résultat clé : Participer en tant qu'orateur à au moins 2 conférences en Ligne**
 
-* [x] Partager [Xanpan](https://youtu.be/nUkanfJjL-o) lors de la première édition d'[AgileEnLigne](https://agileenligne.wordpress.com)
-* [x] Partager un nouveau Talk "[50 nuances de pratiques de développement](https://youtu.be/pJtYefVzUQY)" lors de l'[Agile Tour Toulouse](https://tour.agiletoulouse.fr)
+* [x] Partager [Xanpan](https://youtu.be/nUkanfJjL-o) lors de la première édition d'[AgileEnLigne](https://agileenligne.wordpress.com/)
+* [x] Partager un nouveau Talk "[50 nuances de pratiques de développement](https://youtu.be/pJtYefVzUQY)" lors de l'[Agile Tour Toulouse](https://tour.agiletoulouse.fr/)
 
 ![](<../.gitbook/assets/image (454).png>)
 
@@ -110,7 +110,7 @@ Cet objectif a été atteint mais malheureusement elles ont été majoritairemen
 
 #### **Résultat clé : Créer des supports marketing**
 
-* [x] Créer mon [site web perso](https://yoan-thirion.com) et y formaliser [mon offre de service](https://www.yoan-thirion.com/files/what-i-do.pdf)
+* [x] Créer mon [site web perso](https://yoan-thirion.com/) et y formaliser [mon offre de service](https://www.yoan-thirion.com/files/what-i-do.pdf)
 * [x] Créer **** un [CV](https://www.yoan-thirion.com/files/yoan-thirion-detailed.pdf) permettant de démontrer rapidement mon vécu et mon savoir-faire
 * [x] Créer un template d'offre
 
@@ -191,7 +191,7 @@ Voici mes notes et Screen-shots de ces quelques événements :
 
 ### Objectif 5 : Dédier du temps à des actions à but non lucratifs
 
-En cette première année d'exercice ça n'a pas forcément été un objectif facile à atteindre mais je suis quand même assez fier d'avoir pu contribuer à l'initiative des [formations de Noël](https://formationsdenoel.fr) en donnant 2 formations : Introduction au Management 3.0 et une autre sur l'artisanat Logiciel.
+En cette première année d'exercice ça n'a pas forcément été un objectif facile à atteindre mais je suis quand même assez fier d'avoir pu contribuer à l'initiative des [formations de Noël](https://formationsdenoel.fr/) en donnant 2 formations : Introduction au Management 3.0 et une autre sur l'artisanat Logiciel.
 
 Je me suis engagé à organiser l'édition 2021 sur Luxembourg d'ailleurs.
 
