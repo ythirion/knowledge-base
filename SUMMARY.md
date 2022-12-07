@@ -11,6 +11,7 @@
     * [Interview Domain Experts](software-craftsmanship/practices/interview-domain-experts.md)
     * [Dev ethics](software-craftsmanship/practices/dev-ethics.md)
   * [The Software Craftsman](software-craftsmanship/the-software-craftsman.md)
+  * [Egoless Crafting](software-craftsmanship/egoless-crafting.md)
   * [Technical debt workshop](software-craftsmanship/technical-debt-workshop.md)
   * [Functional Programming made easy in C# with Language-ext](software-craftsmanship/functional-programming-made-easy-in-c-with-language-ext.md)
   * [F# for OO programmers](software-craftsmanship/f-for-oo-programmers.md)
