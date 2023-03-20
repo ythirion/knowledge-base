@@ -14,6 +14,8 @@ En cette période de grande incertitude, les Dr Robert Waldinger et Marc Schulz,
 
 <figure><img src="../../../.gitbook/assets/the-good-life-83.jpg" alt=""><figcaption></figcaption></figure>
 
+## Notes
+
 ### Note des auteurs
 
 * L’étude de Harvard sur le développement des adultes (Harvard Study of Adult Development)
@@ -27,7 +29,9 @@ En cette période de grande incertitude, les Dr Robert Waldinger et Marc Schulz,
 * **Spoiler alert** : une vie réussie, c’est une vie compliquée. Pour tout le monde.
 * Parce qu’une vie riche, une vie vraiment réussie, se forge précisément à partir de ce qui la rend difficile.
 
+{% hint style="info" %}
 _Ce livre s’appuie sur un socle de recherche scientifique, au centre duquel figure l’étude de Harvard sur le développement des adultes, un extraordinaire projet scientifique lancé en 1938 et qui, contre toute attente, se poursuit encore aujourd’hui._
+{% endhint %}
 
 * Ses méthodes ont évolué au fil des décennies et elle s’est élargie pour inclure aujourd’hui trois générations et plus de 1 300 descendants des 724 participants initiaux.
 
@@ -76,7 +80,9 @@ Beaucoup de questions:
 
 #### Le secret: la qualité des relations
 
-Résumer l’étude à un seul principe de vie: `Des relations de qualité nous permettent de vivre plus heureux et en meilleure santé. Un point c’est tout.`
+Résumer l’étude à un seul principe de vie:&#x20;
+
+> `Des relations de qualité nous permettent de vivre plus heureux et en meilleure santé. Un point c’est tout.`
 
 #### Une lentille pour voir à travers le temps
 
