@@ -4,6 +4,10 @@
 Download Yoan Thirion's book infographics
 {% endfile %}
 
+* _****_[_**The Good Life**  **- Ce que nous apprend la plus longue étude scientifique sur le bonheur et la santé**_](resources/book-notes/the-good-life.md) _par_ [_Robert Waldinger_](https://www.linkedin.com/in/robert-waldinger-90012169/)_,_ [_Marc M.D. Schulz_](https://www.linkedin.com/in/marc-schulz-20663222a/)__
+
+<figure><img src="../.gitbook/assets/The-Good-Life.webp" alt=""><figcaption><p>Infographie du live "The Good Life" par Yoan Thirion</p></figcaption></figure>
+
 * _****_[_**Software craft, TDD, Clean Code et autres pratiques essentielles**_](https://www.dunod.com/sciences-techniques/software-craft-tdd-clean-code-et-autres-pratiques-essentielles) _**** par_ [_Cyrille Martraire_](https://www.dunod.com/livres-cyrille-martraire)_,_ [_Arnaud Thiéfaine_](https://www.dunod.com/livres-arnaud-thiefaine)_,_ [_Dorra Bartaguiz_](https://www.dunod.com/livres-dorra-bartaguiz)_,_ [_Fabien Hiegel_](https://www.dunod.com/livres-fabien-hiegel)_,_ [_Houssam Fakih_](https://www.dunod.com/livres-houssam-fakih) _- May 2022_
 
 ![Software Craft book infographic by Yoan Thirion](../.gitbook/assets/Software-Craft-TDD\_-Clean-Code-et-autres-pratiques-essentielles.webp)
