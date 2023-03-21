@@ -14,6 +14,14 @@ En cette période de grande incertitude, les Dr Robert Waldinger et Marc Schulz,
 
 <figure><img src="../../../.gitbook/assets/the-good-life-83.jpg" alt=""><figcaption></figcaption></figure>
 
+## Infographie
+
+<figure><img src="../../../.gitbook/assets/The-Good-Life.webp" alt=""><figcaption><p>Infographie du live "The Good Life" par Yoan Thirion</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/The Good Life.pdf" %}
+Infographie du live "The Good Life" par Yoan Thirion en HD
+{% endfile %}
+
 ## Notes
 
 ### Note des auteurs
