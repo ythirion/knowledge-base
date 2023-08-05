@@ -4,8 +4,6 @@ description: by Heidi Helfand
 
 # Dynamic Reteaming - The Art and Wisdom of Changing Teams
 
-
-
 ## Pitch
 
 Your team will change whether you like it or not. People will come and go. Your company might double in size or even be acquired. In this practical book, author Heidi Helfand shares techniques for reteaming effectively. Engineering leaders will learn how to catalyze team change to reduce the risk of attrition, learning and career stagnation, and the development of knowledge silos.
@@ -19,7 +17,11 @@ You’ll explore:
 * Tactics to help you master dynamic reteaming in your company
 * Stories that demonstrate problems caused by reteaming anti-patterns
 
-### Infographic
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## Infographic
+
+_In progress_&#x20;
 
 ## Book notes
 
