@@ -46,13 +46,13 @@ _In progress_&#x20;
 
 Five underlying reteaming patterns
 
-* What is a <mark style="color:blue;">**Team**</mark>?
+* What is a <mark style="color:green;">**Team**</mark>?
   * A team is defined as at least two people working together
   * To build something valuable for their customers
   * What makes them a team : shared work and the joint ownership of the outcome
     * If they are both responsible for the outcome, then they are a team
     * If they take responsibility for their joint work, then they are a team
-* What is <mark style="color:blue;">**Dynamic Reteaming**</mark>?
+* What is <mark style="color:green;">**Dynamic Reteaming**</mark>?
   * Dynamic Reteaming is when you change your team's composition
   * It creates a new team social dynamic / a new "team svstem" or "team entity"
     * The new people added to the team bring their interests and talents to the mix
