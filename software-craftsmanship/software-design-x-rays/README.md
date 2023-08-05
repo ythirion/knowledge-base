@@ -186,7 +186,7 @@ Look for surprising patterns when investigating change coupling
 ![](<../../.gitbook/assets/image (579).png>)
 
 {% hint style="success" %}
-**Calculate Change Coupling from the Command Line by using** [**code-maat**](https://github.com/adamtornhill/code-maat)****
+**Calculate Change Coupling from the Command Line by using** [**code-maat**](https://github.com/adamtornhill/code-maat)
 {% endhint %}
 
 #### Minimize Your Investigative Efforts

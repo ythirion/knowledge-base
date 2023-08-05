@@ -281,7 +281,7 @@ _**Thinning the set of Flashcards**_
   * Will be enough to help your memory in the long run, and it’s also relatively doable!
 
 {% hint style="success" %}
-The biggest takeaway from this section is that the best way that science knows to prevent forgetting is to practice regularly. _****_ Each repetition strengthens your memory.&#x20;
+The biggest takeaway from this section is that the best way that science knows to prevent forgetting is to practice regularly. Each repetition strengthens your memory.&#x20;
 
 After several repetitions spaced out over a long period, the knowledge should remain in your long-term memory forever.
 {% endhint %}

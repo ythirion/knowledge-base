@@ -108,6 +108,7 @@
       * [Culture Agile](xtrem-reading/resources/book-notes/culture-agile.md)
       * [Culture is everything](xtrem-reading/resources/book-notes/culture-is-everything.md)
       * [Domain-Driven Design: The First 15 Years](xtrem-reading/resources/book-notes/domain-driven-design-the-first-15-years.md)
+      * [Dynamic Reteaming - The Art and Wisdom of Changing Teams](xtrem-reading/resources/book-notes/dynamic-reteaming-the-art-and-wisdom-of-changing-teams.md)
       * [How to avoid a Climate Disaster](xtrem-reading/resources/book-notes/how-to-avoid-a-climate-disaster.md)
       * [La liberté du commandement](xtrem-reading/resources/book-notes/la-liberte-du-commandement.md)
       * [Refactoring at Scale](xtrem-reading/resources/book-notes/refactoring-at-scale.md)

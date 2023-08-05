@@ -13,9 +13,9 @@ Workshop designed using 4C model (support provided) :
 
 * **Connection** : Bad code / Good code
 * **Concepts** : Slide deck
-* **Concrete** **Practice** : 
+* **Concrete** **Practice** :&#x20;
   * Bad code / Good code part 2
-  * Hands on code katas : [**https://github.com/ythirion/solid-kata**](https://github.com/ythirion/solid-kata)****
+  * Hands on code katas : [**https://github.com/ythirion/solid-kata**](https://github.com/ythirion/solid-kata)
 * **Conclusion** : Where do you stand ?
 
 {% embed url="https://speakerdeck.com/thirion/write-s-dot-o-l-dot-i-d-code" %}

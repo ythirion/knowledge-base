@@ -16,7 +16,7 @@ Mais comment l’activer, et surtout l’entretenir, en entreprise ? Comment dé
 
 ## Avant tout qu’est-ce que l’apprenance ?
 
-L’apprenance __ est un concept qui a été défini par Peter Senge dans son livre [_**La 5ᵉ discipline — Levier des organisations apprenantes**_](https://www.amazon.fr/cinqui%C3%A8me-discipline-Levier-organisations-apprenantes/dp/2212559372)_,_ paru dans les années 90.
+L’apprenance est un concept qui a été défini par Peter Senge dans son livre [_**La 5ᵉ discipline — Levier des organisations apprenantes**_](https://www.amazon.fr/cinqui%C3%A8me-discipline-Levier-organisations-apprenantes/dp/2212559372)_,_ paru dans les années 90.
 
 Pour pouvoir rester compétitive, l’économiste et professeur de management au MIT Sloan School of Management explique qu’une entreprise doit pratiquer **5 disciplines** :
 
@@ -32,7 +32,7 @@ Finalement, le message qu’il a voulu faire passer est le suivant : l’apprena
 
 ## Très bien. Mais elle est où l’agilité dans tout ça ? <a href="#b708" id="b708"></a>
 
-L’apprenance __ est au cœur de l’agilité, elle transpire dans les principes du Manifeste. Si on y réfléchit, ils créent un cadre à l’apprentissage :
+L’apprenance est au cœur de l’agilité, elle transpire dans les principes du Manifeste. Si on y réfléchit, ils créent un cadre à l’apprentissage :
 
 * Découvrir le produit qu’on construit ou développe via la réduction des boucles de _feedback._
 * Apprendre à être une équipe et vivre en équipe via la création d’un environnement favorisant la confiance, l’auto-organisation et l’introspection.
@@ -51,7 +51,7 @@ L’université de Princeton a développé sur la base d’enquêtes et d’étu
 * 20 % ont lieu grâce aux interactions sociales, à travers nos échanges avec nos collègues et nos connaissances.
 * 70 % relèvent de l’expérience et de la pratique.
 
-Au sein des entreprises où je suis intervenu, la formation est majoritairement traditionnelle. Dès lors, seuls les 10 % sont stimulés via des cycles de formations traditionnels souvent délivrées en mode _descendant_. Les participants y sont convoqués sans forcément avoir été impliqués sur le choix de la formation. Ils se retrouvent à apprendre ce qu’un expert a décidé de leur enseigner sans réellement comprendre pourquoi ils le font. C’est ce qu’Alexandre Magno appelle le [_learning 1.0_](http://www.learning30.co/) __ qui ne laisse que très peu de place aux interactions et à l’apprentissage en groupe.
+Au sein des entreprises où je suis intervenu, la formation est majoritairement traditionnelle. Dès lors, seuls les 10 % sont stimulés via des cycles de formations traditionnels souvent délivrées en mode _descendant_. Les participants y sont convoqués sans forcément avoir été impliqués sur le choix de la formation. Ils se retrouvent à apprendre ce qu’un expert a décidé de leur enseigner sans réellement comprendre pourquoi ils le font. C’est ce qu’Alexandre Magno appelle le [_learning 1.0_](http://www.learning30.co/) qui ne laisse que très peu de place aux interactions et à l’apprentissage en groupe.
 
 Concernant les 20 %, il existe encore trop peu de pratiques au sein des organisations favorisant les échanges et la stimulation de l’intelligence collective.
 
@@ -59,7 +59,7 @@ Concernant les 20 %, il existe encore trop peu de pratiques au sein des organisa
 
 Comment pouvons-nous développer ces 20 % ? Quelles activités permettent d’apprendre continuellement ? Comment favoriser les échanges entre les collaborateurs et ainsi créer une expérience autour de l’apprentissage ?
 
-C’est avec toutes ces questions en tête que [**Cédric Tamavond**](https://www.linkedin.com/in/cedric-tamavond-b30ab917/) (coach agile) et moi-même avons mis au point une nouvelle pratique d’apprenance __ dont voici l’histoire.
+C’est avec toutes ces questions en tête que [**Cédric Tamavond**](https://www.linkedin.com/in/cedric-tamavond-b30ab917/) (coach agile) et moi-même avons mis au point une nouvelle pratique d’apprenance dont voici l’histoire.
 
 ### Petite histoire d’une pratique d’apprenance <a href="#b153" id="b153"></a>
 
@@ -98,7 +98,7 @@ Une session _d’Xtrem Reading_ se déroule de la manière suivante :
 
 ![](https://miro.medium.com/max/355/1\*6PeYXF-HJW1cJx13NL0TYA.png)
 
-Durant _2 itérations_ de 15 à 25 minutes, les participants _lisent_, en survolant, **** _2 livres._ **L’objectif est d’en ressortir l’essentiel pour pouvoir le présenter aux autres.** Habituellement, les personnes utilisent des techniques de lecture rapide et de prise de notes telle que le _mind mapping_ pour y parvenir aisément.
+Durant _2 itérations_ de 15 à 25 minutes, les participants _lisent_, en survolant, _2 livres._ **L’objectif est d’en ressortir l’essentiel pour pouvoir le présenter aux autres.** Habituellement, les personnes utilisent des techniques de lecture rapide et de prise de notes telle que le _mind mapping_ pour y parvenir aisément.
 
 ![](https://miro.medium.com/max/180/1\*jV\_yeVDLf9IU\_Nw8mXOQVQ.png)
 
@@ -125,13 +125,13 @@ Forts de ces expériences diverses, nous avons pu constater que :
 * **Lire **_**2 livres en 1 heure**_** à la **_**Clark Kent** (le super héros à la tunique bleue et au slip rouge)_ _c’est possible._ On est tous en capacité de faire… mais différemment de ce qu’on pense en premier lieu.
 * Lire en ayant en tête de partager est incroyablement efficace pour améliorer la rétention : **la meilleure façon d’apprendre est d’enseigner.**
 * On a tous des systèmes de pensée différents et c’est là où réside la vraie richesse. Lors du partage chaque lecteur peut avoir vu et retenu des choses différentes. Les croiser est incroyablement riche et va permettre de _**créer une expérience émotionnelle autour d’un livre**._
-* Cela permet aux participants de _**découvrir des sujets qu’ils n’auraient pas soupçonnés aimer** ;_ **** ou _a contrario_ de se rendre compte qu’un sujet ne les intéresse pas et cela sans avoir investi plus d’une heure de leur temps.
+* Cela permet aux participants de _**découvrir des sujets qu’ils n’auraient pas soupçonnés aimer** ;_ ou _a contrario_ de se rendre compte qu’un sujet ne les intéresse pas et cela sans avoir investi plus d’une heure de leur temps.
 
 On a rapidement pu observer un effet inattendu lorsqu’on a commencé à dérouler des sessions à l’extérieur de notre entreprise : toutes les strates des organisations se sentaient concernées et souhaitaient y participer. En effet, la volonté d’apprendre ne se limite pas aux opérationnels.
 
 Durant le temps de l’atelier, nous arrivons à casser les silos horizontaux (inter équipes ou services) mais aussi verticaux (hiérarchie) et créer de l’empathie entre des personnes qui n’ont pas pour habitude de collaborer.
 
-La route vers l’apprenance __ n’est pas si compliquée à partir du moment où l’organisation a compris que ses employés étaient ses partenaires privilégiés.
+La route vers l’apprenance n’est pas si compliquée à partir du moment où l’organisation a compris que ses employés étaient ses partenaires privilégiés.
 
 Pour qu’elles le comprennent, vous pouvez commencer par mettre en place des pratiques permettant l’échange tels qu’_Xtrem Reading_, les rétrospectives, les _brown bag lunchs_, les _hackhathons,_ les retours d’expérience, etc.
 

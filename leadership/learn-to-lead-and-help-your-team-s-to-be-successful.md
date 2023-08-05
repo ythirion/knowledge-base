@@ -4,13 +4,13 @@ description: Learn to lead with Jocko Willink former Navy SEAL
 
 # Learn to lead and help your team(s) to be successful
 
-A few weeks ago, I have written an article called “Learn leadership from the Navy SEALs” to wrap up what I had learned from the book [_**Extreme Ownership: How U.S. Navy SEALs Lead and Win**_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) _****_ by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin).
+A few weeks ago, I have written an article called “Learn leadership from the Navy SEALs” to wrap up what I had learned from the book [_**Extreme Ownership: How U.S. Navy SEALs Lead and Win**_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin).
 
 {% content-ref url="learn-leadership-from-the-navy-seals.md" %}
 [learn-leadership-from-the-navy-seals.md](learn-leadership-from-the-navy-seals.md)
 {% endcontent-ref %}
 
-I liked the principles from this book so much that I have read the latest book from [Jocko Willink](https://twitter.com/jockowillink) : [_**LEADERSHIP STRATEGY AND TACTICS : field manual**_](https://www.amazon.com/Leadership-Strategy-Tactics-Field-Manual/dp/1250226848) _****_ released in January 2020. In this article, I will share with you what really marked me in this one.
+I liked the principles from this book so much that I have read the latest book from [Jocko Willink](https://twitter.com/jockowillink) : [_**LEADERSHIP STRATEGY AND TACTICS : field manual**_](https://www.amazon.com/Leadership-Strategy-Tactics-Field-Manual/dp/1250226848) released in January 2020. In this article, I will share with you what really marked me in this one.
 
 ![](https://miro.medium.com/max/224/1\*-l-A3uaK9X418m5a43dJIA.png)
 

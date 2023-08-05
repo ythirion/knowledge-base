@@ -92,7 +92,7 @@ To make architecture work, both the physical and virtual barriers that exist bet
 
 ### **2. List the three levels of knowledge in the knowledge triangle and provide an example of each.**
 
-****
+
 
 ![](<../.gitbook/assets/image (402).png>)
 
@@ -141,7 +141,7 @@ Thus, for an architect, the wise course of action is to sacrifice some hard-won 
 
 ### **3. What does connascence of type mean? Is it static or dynamic connascence?**
 
-It means that multiple components must agree on the type of an entity. **** Common facility in many statically typed languages to limit variables and Parameters to specific types.
+It means that multiple components must agree on the type of an entity. Common facility in many statically typed languages to limit variables and Parameters to specific types.
 
 ### **4. What is the strongest form of connascence?**
 
@@ -180,7 +180,7 @@ An architecture characteristic meets three criteria:&#x20;
 
 ### **2. What is the difference between an implicit characteristic and an explicit one? Provide an example of each.**
 
-****
+
 
 ![](<../.gitbook/assets/image (405).png>)
 
@@ -324,9 +324,9 @@ _**Closed to the Bounded Context concept from Eric Evans**_
 
 ### **2. Assume a system consisting of a single user interface with four independently deployed services, each containing its own separate database. Would this system have a single quantum or four quanta? Why?**
 
-4 quantas because each services include their owns DB : **** Each independently deployable artifact
+4 quantas because each services include their owns DB : Each independently deployable artifact
 
-_**Interesting Kata :**_ [_**Going, Going, Gone**_](http://fundamentalsofsoftwarearchitecture.com/katas/kata?id=GoingGoingGone)_****_
+_**Interesting Kata :**_ [_**Going, Going, Gone**_](http://fundamentalsofsoftwarearchitecture.com/katas/kata?id=GoingGoingGone)
 
 ## Chapter 8: Component-Based Thinking
 
@@ -600,4 +600,4 @@ Each kata has predefined sections:&#x20;
 
 ## **Resources**
 
-****[**http://fundamentalsofsoftwarearchitecture.com/**](http://fundamentalsofsoftwarearchitecture.com/)****
+[**http://fundamentalsofsoftwarearchitecture.com/**](http://fundamentalsofsoftwarearchitecture.com/)

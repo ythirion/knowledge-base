@@ -12,7 +12,11 @@ description: >-
 
 Not really a good indicator : too much subjective.
 
-![](<../../.gitbook/assets/image (94).png>)
+<div align="center">
+
+<img src="../../.gitbook/assets/image (94).png" alt="">
+
+</div>
 
 ### Use code coverage ?
 

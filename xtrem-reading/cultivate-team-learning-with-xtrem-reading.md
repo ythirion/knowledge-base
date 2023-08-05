@@ -1,6 +1,6 @@
 # Cultivate Team Learning with Xtrem Reading
 
-#### **I have written this article for infoQ, it has been plublished here :** [**https://www.infoq.com/articles/learning-xtrem-reading/**](https://www.infoq.com/articles/learning-xtrem-reading/)****
+#### **I have written this article for infoQ, it has been plublished here :** [**https://www.infoq.com/articles/learning-xtrem-reading/**](https://www.infoq.com/articles/learning-xtrem-reading/)
 
 #### Key Takeaways
 

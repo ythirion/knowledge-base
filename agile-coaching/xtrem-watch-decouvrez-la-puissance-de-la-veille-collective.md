@@ -84,15 +84,15 @@ Chaque participant vient coller ses post-its sur le mur d’idéation et pour ch
 
 ![](https://miro.medium.com/max/346/1\*7jO67euOoeeD91HUAlsJoA.png)
 
-Une fois que tout le monde a présenté ses sujets le facilitateur _**invite les participants à voter** _ pour les sujets qu’ils veulent tacler durant cette session (le plus souvent on utilise le dot voting car efficace peu importe la taille du groupe).
+Une fois que tout le monde a présenté ses sujets le facilitateur _**invite les participants à voter**_ pour les sujets qu’ils veulent tacler durant cette session (le plus souvent on utilise le dot voting car efficace peu importe la taille du groupe).
 
 ![](https://miro.medium.com/max/502/1\*5NXR4luc-Jf\_--ngzvN9hw.png)
 
-Suite à la priorisation, les participants s’organisent pour _**former des groupes d’intérêts** _ de 2 ou 3 personnes. Ils en profitent pour se déplacer et constituer des groupes physiquement localisés.
+Suite à la priorisation, les participants s’organisent pour _**former des groupes d’intérêts**_ de 2 ou 3 personnes. Ils en profitent pour se déplacer et constituer des groupes physiquement localisés.
 
 ![](https://miro.medium.com/max/349/1\*9lmJM23jjw7E7carl9gpRw.png)
 
-Chacun va alors avoir 5 minutes pour _**se plonger dans le sujet**_ et ainsi rechercher via son smartphone ou un ordinateur un maximum **** d’informations sur le sujet de son groupe.
+Chacun va alors avoir 5 minutes pour _**se plonger dans le sujet**_ et ainsi rechercher via son smartphone ou un ordinateur un maximum d’informations sur le sujet de son groupe.
 
 L’idée est de croiser un maximum de sources différentes et de ratisser large dans cette étape.
 

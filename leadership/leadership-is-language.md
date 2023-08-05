@@ -112,7 +112,7 @@ The problem is that the language we use is only about doing, not thinking
   * Examples : score 1 to 5
     * _`"We need to make quota today"`_: 1
     * _`"I'll be coming by at twelve to check on you"`_ : 3
-    * _`"I'm a bit nervous about the storm. we are going to start work, but we will revisit this decision at twelve" : 5` _&#x20;
+    * _`"I'm a bit nervous about the storm. we are going to start work, but we will revisit this decision at twelve" : 5`_&#x20;
 
 #### **2) Give the pause a name**
 

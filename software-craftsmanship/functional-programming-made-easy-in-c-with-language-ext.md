@@ -35,7 +35,7 @@ To go further on this topic I invite you to watch this video on _**Functional Co
 It’s a pattern that could be really useful to every developers on earth I think.
 
 * **Functional core (declarative)** composed of pure functions (in / out) and easy to test without any mocks.
-* **Imperative shell or reactive** container the **** service logic that you can test with integration tests
+* **Imperative shell or reactive** container the service logic that you can test with integration tests
 
 Now I have proved the interest of FP in OO language let’s go for a quick lesson.
 
@@ -59,7 +59,7 @@ Let’s start by explaining 3 concepts :
 
 ### Immutability <a href="#662a" id="662a"></a>
 
-We **never** want to **mutate an object in FP we want to avoid side effects so we prefer** creating a new one. **** If we have mutable objects it could be possible for another function to mutate the object we were working on concurrently.
+We **never** want to **mutate an object in FP we want to avoid side effects so we prefer** creating a new one. If we have mutable objects it could be possible for another function to mutate the object we were working on concurrently.
 
 {% hint style="success" %}
 Immutability ensures a function remains pure, it makes concurrency much more easy to handle and makes our dev life easier.
@@ -90,7 +90,7 @@ Now you know the basics behind FP we can start deep diving into Language-ext.
 
 ## What is Language-ext ? <a href="#2a7c" id="2a7c"></a>
 
-According to the creator of the lib [**Paul Louth**](https://twitter.com/paullouth) **** : It’s a library that uses and abuses the features of C# to provide a functional-programming ‘base class library’ that, if you squint, can look like extensions to the language itself.
+According to the creator of the lib [**Paul Louth**](https://twitter.com/paullouth) : It’s a library that uses and abuses the features of C# to provide a functional-programming ‘base class library’ that, if you squint, can look like extensions to the language itself.
 
 His desire here is to make programming in C# much more reliable and to make the engineer’s inertia flow in the direction of declarative and functional code rather than imperative.
 
@@ -191,7 +191,7 @@ int noneValue = none.IfNone(42); // 42
 
 _**Match**_ : match down to primitive type
 
-_**Map** _ : We can match down to a primitive type, or can stay in the elevated types and do logic using map.
+_**Map**_ : We can match down to a primitive type, or can stay in the elevated types and do logic using map.
 
 * Lambda inside map won’t be invoked if Option is in None state
 * Option is a replacement for if statements ie if obj == null

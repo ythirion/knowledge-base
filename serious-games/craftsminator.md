@@ -146,6 +146,5 @@ Si vous voulez **tester Craftsminator**, vous pouvez télécharger :
 
 {% embed url="https://speakerdeck.com/thirion/craftsminator-liberez-vos-entretiens-dembauche-1fbb2345-9b27-4235-947f-d5e6a82b89bf" %}
 
-****
 
-****
+

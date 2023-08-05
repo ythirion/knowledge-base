@@ -51,7 +51,7 @@ C'est la difficulté numéro 1 lorsqu'on se lance en indépendant : garantir un 
 
 Malgré la crise qui nous a touché en 2020, j'ai pu compter sur la confiance de mon client principal afin d'avoir un taux d'occupation proche de 100%.
 
-Une fois cette sécurité acquise j'ai pu alors **** me concentrer sur les objectifs suivants.
+Une fois cette sécurité acquise j'ai pu alors me concentrer sur les objectifs suivants.
 
 ### **Objectif** 2 : Toujours/tout partager #sharingiscaring
 
@@ -76,7 +76,7 @@ Avec cette Knowledge Base je compte partager des contenus originaux clés en mai
   * 2 événements organisés en 2020 : [Functional Programming made easy in Java & C#](https://www.meetup.com/fr-FR/software-craft-luxembourg/events/269905414/), [Craft Beer](https://www.meetup.com/fr-FR/software-craft-luxembourg/events/271373500/)
   * _En pause depuis le mois de juin_
 
-#### **Résultat clé : Continuer l'initiative Agile HR Luxembourg avec** [**Adrien Muller**](https://lu.linkedin.com/in/adrien-muller-566373a) **et** [**Isabel Van de Voorde**](https://www.linkedin.com/in/isabel-van-de-voorde-8180432/)****
+#### **Résultat clé : Continuer l'initiative Agile HR Luxembourg avec** [**Adrien Muller**](https://lu.linkedin.com/in/adrien-muller-566373a) **et** [**Isabel Van de Voorde**](https://www.linkedin.com/in/isabel-van-de-voorde-8180432/)
 
 * [ ] Organiser 1 événement par trimestre minimum avec au moins 10 participants
   * 4 événements : [New Role of HR and Managers](https://www.meetup.com/fr-FR/Agile-HR-Luxembourg-Meetup/events/268351992/) par **Pia-Maria Thoren**, [Disrupt your Job Interviews through Gamification](https://www.meetup.com/fr-FR/Agile-HR-Luxembourg-Meetup/events/270238558/), [Disrupt Job Interviews through Gamification - The Sequel](https://www.meetup.com/fr-FR/Agile-HR-Luxembourg-Meetup/events/270484966/), [Construire l’entreprise de demain, c’est possible](https://www.meetup.com/fr-FR/Agile-HR-Luxembourg-Meetup/events/271316938/) par **Béatrix Charlier**
@@ -111,7 +111,7 @@ Cet objectif a été atteint mais malheureusement elles ont été majoritairemen
 #### **Résultat clé : Créer des supports marketing**
 
 * [x] Créer mon [site web perso](https://yoan-thirion.com/) et y formaliser [mon offre de service](https://www.yoan-thirion.com/files/what-i-do.pdf)
-* [x] Créer **** un [CV](https://www.yoan-thirion.com/files/yoan-thirion-detailed.pdf) permettant de démontrer rapidement mon vécu et mon savoir-faire
+* [x] Créer un [CV](https://www.yoan-thirion.com/files/yoan-thirion-detailed.pdf) permettant de démontrer rapidement mon vécu et mon savoir-faire
 * [x] Créer un template d'offre
 
 ![](<../.gitbook/assets/image (452).png>)
@@ -143,7 +143,7 @@ Pas question pour moi de faire moins d'atelier c'est pourquoi j'utilise des outi
 
 ![Exemple de board Miro](<../.gitbook/assets/image (461).png>)
 
-#### **Résultat clé : Publier au moins 1 post / semaine sur mon** [**profil Linkedin**](https://www.linkedin.com/in/yoanthirion/)****
+#### **Résultat clé : Publier au moins 1 post / semaine sur mon** [**profil Linkedin**](https://www.linkedin.com/in/yoanthirion/)
 
 _44 posts en 10 mois en 2020_
 

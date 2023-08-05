@@ -73,7 +73,7 @@ _The climate is like a bathtub that's slowly filling up with water. Even if we s
   * The amount by which a global pandemic increases the global mortality rate : **14 deaths per 100,000 people each year**
   * By mid-century climate change could represent the same amount than COVID-19 :&#x20;
     * **14 deaths per 100,000 people each year**
-  * By the end of century : could be responsible for ****&#x20;
+  * By the end of century : could be responsible for&#x20;
     * **75 extra deaths per 100,000 people each year**
     * **By 2100 could be five times as deadly than COVID**
   * 2 things we can do about it&#x20;

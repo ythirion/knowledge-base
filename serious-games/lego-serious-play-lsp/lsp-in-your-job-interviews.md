@@ -27,14 +27,14 @@ When you use it in interview it is no longer a "conducted" interview. You speak 
 
 * What are the values of the team?
 * What is the mindset of the team?
-  * The mood of the team? 
+  * The mood of the team?&#x20;
   * The communication/interactions in the team ?
 
 ![](<../../.gitbook/assets/image (130).png>)
 
 ### Motivation
 
-* What are your different sources of motivation ? 
+* What are your different sources of motivation ?&#x20;
 * How do you keep / feed your motivation ?
 
 ![](<../../.gitbook/assets/image (131).png>)
@@ -42,8 +42,8 @@ When you use it in interview it is no longer a "conducted" interview. You speak 
 ### Your role / job
 
 * What is your role ?
-* How do you perceive this role ? 
-* What is easy in your role? 
+* How do you perceive this role ?&#x20;
+* What is easy in your role?&#x20;
 * What is difficult in your role?
 
 ![](<../../.gitbook/assets/image (132).png>)
@@ -71,8 +71,8 @@ Tell me about a time your behavior had a positive impact on your team or colleag
 
 ### Other challenges
 
-* I would love to hear about your proudest professional moment. 
-* Tell me about a time you took a risk and it succeeded. 
+* I would love to hear about your proudest professional moment.&#x20;
+* Tell me about a time you took a risk and it succeeded.&#x20;
 * Tell me about a time you took a risk and it failed.
 * What are you secrets for being more productive?
 
@@ -81,5 +81,5 @@ Tell me about a time your behavior had a positive impact on your team or colleag
 * What did you appreciated in this interview ?
 * What you would like to change in a future similar interview ?
 
-_****_
+
 

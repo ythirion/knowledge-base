@@ -116,7 +116,7 @@ Quantifying the impact of refactoring motivated by performance is often the easi
 
 ![](<../../../.gitbook/assets/image (622).png>)
 
-* **Cyclomatic Complexity (1976) : **_****_ it is a quantitative measure of the number of linearly independent paths through a program’s source code
+* **Cyclomatic Complexity (1976) :** it is a quantitative measure of the number of linearly independent paths through a program’s source code
   * Essentially a count of the number of control flow statements within a program
   *   This includes _if_ statements, _while_ and _for_ loops, and _case_ statements in side
 
@@ -146,7 +146,7 @@ Quantifying the impact of refactoring motivated by performance is often the easi
 
 #### **Test Coverage Metrics**
 
-Whatever our approach, the desired outcome **** is the same: a new feature, fully backed by a quality set of tests
+Whatever our approach, the desired outcome is the same: a new feature, fully backed by a quality set of tests
 
 * We can evaluate test coverage in two ways: quantitatively and qualitatively
   * **Quantitatively** : calculate a percentage representing the proportion of code that is executed when the test suite is run against it

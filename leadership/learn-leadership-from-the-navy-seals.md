@@ -6,7 +6,7 @@ description: >-
 
 # Learn leadership from the Navy SEALs
 
-Recently I have read a great book about leadership called [_**Extreme Ownership: How U.S. Navy SEALs Lead and Win**_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) _****_ by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin). The authors are 2 decorated retired Navy SEALs (Sea, Air and Land) officers, the US Navy military elite. They led American and allied soldiers during the battle of Ramadi in Irak. They have co-founded Echelon Front where they are leadership instructors, speakers, and executive coaches.
+Recently I have read a great book about leadership called [_**Extreme Ownership: How U.S. Navy SEALs Lead and Win**_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin). The authors are 2 decorated retired Navy SEALs (Sea, Air and Land) officers, the US Navy military elite. They led American and allied soldiers during the battle of Ramadi in Irak. They have co-founded Echelon Front where they are leadership instructors, speakers, and executive coaches.
 
 {% hint style="info" %}
 In this book the authors want to share with us the leadership concepts they have seen work time and again, both in combat and in business.
@@ -181,8 +181,8 @@ What I really liked in this book is that it has broken the myth that leadership 
 
 ## To go further <a href="#9fbe" id="9fbe"></a>
 
-* [_Extreme Ownership: How U.S. Navy SEALs Lead and Win_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) __ by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin)
-* [_The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win_](https://www.amazon.com/Dichotomy-Leadership-Balancing-Challenges-Ownership-ebook/dp/B079Y51FC3/ref=sr\_1\_1?crid=3Z2ILIHFEE8Q\&keywords=dichotomy+of+leadership\&qid=1578131200\&s=digital-text\&sprefix=dicho%2Cdigital-text%2C297\&sr=1-1) __ by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin)
+* [_Extreme Ownership: How U.S. Navy SEALs Lead and Win_](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin)
+* [_The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win_](https://www.amazon.com/Dichotomy-Leadership-Balancing-Challenges-Ownership-ebook/dp/B079Y51FC3/ref=sr\_1\_1?crid=3Z2ILIHFEE8Q\&keywords=dichotomy+of+leadership\&qid=1578131200\&s=digital-text\&sprefix=dicho%2Cdigital-text%2C297\&sr=1-1) by [Jocko Willink](https://twitter.com/jockowillink) and [Leif Babin](https://twitter.com/LeifBabin)
 * [Extreme Ownership](https://www.youtube.com/watch?v=ljqra3BcqWM), Ted talk by [Jocko Willink](https://twitter.com/jockowillink)| TEDxUniversityofNevada
 
 {% content-ref url="learn-to-lead-and-help-your-team-s-to-be-successful.md" %}

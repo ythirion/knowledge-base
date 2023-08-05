@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The better resource I use on this topic is the book [_**27 Decision making principles and practices**_](https://leanpub.com/decision-making-principles) _****_ from [Jimmy Janlen](https://twitter.com/jimmyjanlen)&#x20;
+The better resource I use on this topic is the book [_**27 Decision making principles and practices**_](https://leanpub.com/decision-making-principles) from [Jimmy Janlen](https://twitter.com/jimmyjanlen)&#x20;
 
 ![](<../../.gitbook/assets/image (297).png>)
 
@@ -160,7 +160,7 @@ How to help the team have good, valuable and constructive discussions, that invo
 
 ### **Make decisions smaller**
 
-One approach to make progress when stuck in a discussion around a proposal, **** or when you as team fail to agree on a way forward, is to r_**educe the size of the proposal or slice up the decisions to be made**_.
+One approach to make progress when stuck in a discussion around a proposal, or when you as team fail to agree on a way forward, is to r_**educe the size of the proposal or slice up the decisions to be made**_.
 
 ![](<../../.gitbook/assets/image (310).png>)
 
@@ -189,7 +189,7 @@ If the team fails to agree upon a decision, being stuck in discussions or having
 
 To do so, accountability must be crystal clear (see Delegation Poker).
 
-## **How to stimulate **_****_** t**eam wisdom ?
+## **How to stimulate** **t**eam wisdom ?
 
 Make everyone heard
 

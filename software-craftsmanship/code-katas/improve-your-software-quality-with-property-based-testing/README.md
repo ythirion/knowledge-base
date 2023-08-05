@@ -439,8 +439,8 @@ If you want to go further I highly recommend you to read and watch those resourc
 
 * [An introduction to property based testing ](https://fr.slideshare.net/ScottWlaschin/an-introduction-to-property-based-testing)_— Scott Wlaschin_
 * [Property-Based Testing for everyone ](https://www.youtube.com/watch?v=5pwv3cuo3Qk)_— Romeu Moura (Video)_
-* __[Property-based testing in Java with JUnit-Quickcheck](https://baasie.com/2017/05/03/property-based-testing-in-java-with-junit-quickcheck-part-1-the-basics/) _— Kenny Baas-Schwegler_
-* __[Property Testing with vavr](https://www.baeldung.com/vavr-property-testing)
+* [Property-based testing in Java with JUnit-Quickcheck](https://baasie.com/2017/05/03/property-based-testing-in-java-with-junit-quickcheck-part-1-the-basics/) _— Kenny Baas-Schwegler_
+* [Property Testing with vavr](https://www.baeldung.com/vavr-property-testing)
 * [junit-quickcheck documentation](https://github.com/pholser/junit-quickcheck)
 * [https://johanneslink.net/how-to-specify-it/](https://johanneslink.net/how-to-specify-it/)
 

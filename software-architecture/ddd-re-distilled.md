@@ -8,7 +8,11 @@ description: This article is an abstract of the book DDD Distilled written by Va
 
 > Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure. - Melvin Conway
 
-![](<../.gitbook/assets/image (1).png>)
+<div align="center">
+
+<img src="../.gitbook/assets/image (1).png" alt="">
+
+</div>
 
 Style of code reflects the way the people and teams in your company communicate or produce software architectures matching their current structure.
 

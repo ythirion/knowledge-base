@@ -77,7 +77,7 @@ Dynamically generated network diagrams so you can **visualise your microservice 
 
 ## A CLI for your CI/CD <a href="#8e86" id="8e86"></a>
 
-A [**CLI**](https://github.com/pact-foundation/pact-ruby-standalone/releases) **** for incorporating the Pact workflow into your continuous integration process.
+A [**CLI**](https://github.com/pact-foundation/pact-ruby-standalone/releases) for incorporating the Pact workflow into your continuous integration process.
 
 {% hint style="success" %}
 By using the _can-i-deploy_ feature of the Pact Broker CLI, it will give you a definitive answer if the version of your consumer that is being deployed, is compatible with all of its providers.
@@ -97,7 +97,7 @@ So it is really easy to setup and play with it with just a few lines of YAML :
 
 ## Webhooks <a href="#1d25" id="1d25"></a>
 
-Provides **webhooks to trigger actions when pacts change** eg. run provider build, notify a Slack channel. __ You can trigger a webhook for those events :
+Provides **webhooks to trigger actions when pacts change** eg. run provider build, notify a Slack channel. You can trigger a webhook for those events :
 
 ![](<../../../.gitbook/assets/image (215).png>)
 

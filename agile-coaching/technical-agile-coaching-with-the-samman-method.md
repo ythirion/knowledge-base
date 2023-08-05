@@ -24,7 +24,7 @@ Hi-resolution infographic
 
 ## Foreword by Kent Beck
 
-* "Software development is best seen as a learning process where running programs are the proof of **** learning, rather than a factory or production process. That’s the first idea I found in Samman."
+* "Software development is best seen as a learning process where running programs are the proof of learning, rather than a factory or production process. That’s the first idea I found in Samman."
 * "Walking a new path together along with an experienced guide reduces time spent not learning because of fear. That’s the second idea."
 
 ## Introduction
@@ -39,7 +39,7 @@ Hi-resolution infographic
   * Cultivate good relationships with the people you work with
   * The rest is about effective ways to learn from one another and to change behaviours for the long term.
 * **2 main parts to the method :**
-  * **Learning Hour** : **** the coach uses exercises and active learning techniques to teach the theory and practice of skills like Test-Driven Development and Refactoring
+  * **Learning Hour** : the coach uses exercises and active learning techniques to teach the theory and practice of skills like Test-Driven Development and Refactoring
   * **Ensemble Working** : In the Ensemble sessions&#x20;
     * Whole team collaborates together with the coach in applying agile development techniques in their usual production codebase
 * **Samman and Ensemble ?**
