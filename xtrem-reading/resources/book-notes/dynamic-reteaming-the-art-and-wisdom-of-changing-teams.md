@@ -21,7 +21,15 @@ You’ll explore:
 
 ## Infographic
 
-_In progress_&#x20;
+
+
+<figure><img src="../../../.gitbook/assets/Dynamic Reteaming.webp" alt=""><figcaption><p>Dynamic Reteaming book infographic by Yoan Thirion</p></figcaption></figure>
+
+
+
+{% file src="../../../.gitbook/assets/Dynamic Reteaming (3).pdf" %}
+Dynamic Reteaming book infographic by Yoan Thirion
+{% endfile %}
 
 ## Book notes
 
