@@ -4,11 +4,11 @@
 Download Yoan Thirion's book infographics
 {% endfile %}
 
-* [_**Dynamic Reteaming - The Art and Wisdom of Changing Teams**_](https://www.oreilly.com/library/view/dynamic-reteaming-2nd/9781492061281/) _by_ [_Heidi Helfand_](https://www.heidihelfand.com)
+* [_**Dynamic Reteaming - The Art and Wisdom of Changing Teams**_](https://www.oreilly.com/library/view/dynamic-reteaming-2nd/9781492061281/) _by_ [_Heidi Helfand_](https://www.heidihelfand.com) _- August 2023_
 
 <figure><img src="../.gitbook/assets/Dynamic-Reteaming.webp" alt=""><figcaption></figcaption></figure>
 
-* [_**The Good Life**_ _**- Ce que nous apprend la plus longue étude scientifique sur le bonheur et la santé**_](resources/book-notes/the-good-life.md) _par_ [_Robert Waldinger_](https://www.linkedin.com/in/robert-waldinger-90012169/)_,_ [_Marc M.D. Schulz_](https://www.linkedin.com/in/marc-schulz-20663222a/)
+* [_**The Good Life**_ _**- Ce que nous apprend la plus longue étude scientifique sur le bonheur et la santé**_](resources/book-notes/the-good-life.md) _par_ [_Robert Waldinger_](https://www.linkedin.com/in/robert-waldinger-90012169/)_,_ [_Marc M.D. Schulz_](https://www.linkedin.com/in/marc-schulz-20663222a/) _- March 2023_
 
 <figure><img src="../.gitbook/assets/The-Good-Life.webp" alt=""><figcaption><p>Infographie du live "The Good Life" par Yoan Thirion</p></figcaption></figure>
 
