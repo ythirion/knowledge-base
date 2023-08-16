@@ -23,11 +23,11 @@ You’ll explore:
 
 
 
-<figure><img src="../../../.gitbook/assets/Dynamic Reteaming.webp" alt=""><figcaption><p>Dynamic Reteaming book infographic by Yoan Thirion</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dynamic-Reteaming.webp" alt=""><figcaption><p>Dynamic Reteaming book infographic by Yoan Thirion</p></figcaption></figure>
 
 
 
-{% file src="../../../.gitbook/assets/Dynamic Reteaming (3).pdf" %}
+{% file src="../../../.gitbook/assets/Dynamic Reteaming (4).pdf" %}
 Dynamic Reteaming book infographic by Yoan Thirion
 {% endfile %}
 
