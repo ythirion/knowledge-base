@@ -34,6 +34,7 @@
 ## Resources
 
 * [https://retromat.org/](https://retromat.org/)
+* [https://blog.myagilepartner.fr/index.php/retrospective/](https://blog.myagilepartner.fr/index.php/retrospective/)
 * [https://coach-agile.com/](https://coach-agile.com/)
   * Agile Burger Quiz : [https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/](https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/)
   * Agile Code Smells : [https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/](https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/)
