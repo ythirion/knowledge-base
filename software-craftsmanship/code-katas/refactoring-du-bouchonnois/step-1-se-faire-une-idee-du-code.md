@@ -4,6 +4,8 @@ Imagine que tu dois reprendre la maintenance évolutive du système de gestion d
 
 Afin de te faire un premier feeling sur le code, on va analyser certains éléments factuels.
 
+<figure><img src="../../../.gitbook/assets/step1.webp" alt=""><figcaption></figcaption></figure>
+
 ## Check-list
 
 On dresse une check-list de choses à vérifier / analyser :
