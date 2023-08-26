@@ -196,7 +196,7 @@ Afin d'avoir le feedback de l'analyse static de code dans notre `IDE` on peut in
 
 On peut le configurer afin de le "binder" avec notre projet dans `sonarcloud` afin que l'analyse en local se fasse avec le même set de règles que dans la version cloud. Pour celà il suffit de suivre la documentation disponible [ici](https://github.com/SonarSource/sonarlint-intellij/wiki/Bind-to-SonarQube-or-SonarCloud).
 
-### Hotspots
+## Hotspots
 
 On va utiliser `codescene`, une plate-forme faisant à la fois de l'analyse static de code mais également de l'analyse "comportementale" du code permettant de :
 
