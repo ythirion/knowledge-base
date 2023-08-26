@@ -1,4 +1,4 @@
-# Step 1 : se faire
+# Step 1 : se faire une idée du code
 
 Imagine que tu dois reprendre la maintenance évolutive du système de gestion des parties de chasse de nos chers chasseurs du bouchonnois.
 
@@ -266,7 +266,7 @@ Il va y avoir un petit peu de travail au niveau de nos tests afin d'améliorer l
 
 > Pour revenir sur le code coverage, c'est un excellent indicateur négatif (avoir 0% de coverage montre qu'il y a un effort à fournir) mais un mauvais positif (avoir 100% ne signifie qu'on peut être confiant vis-à-vis de notre filet de sécurité).
 
-### Reflect
+## Reflect
 
 * [x] Compiler afin de valider qu'on est en capacité de compiler / exécuter le code
   * Analyser les potentiels `Warning` à la compilation
@@ -291,3 +291,5 @@ A l'aide de ces éléments nous avons pu identifier certains axes d'amélioratio
   * Le décomposer : 1 classe par comportement (handlers)
 * Eliminer les `code smells` idenfiés par `sonar`
   * Fait au fur et à mesure
+
+> Code disponible [ici](https://github.com/ythirion/refactoring-du-bouchonnois/tree/steps/01-gather-metrics).

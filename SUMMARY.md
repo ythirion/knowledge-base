@@ -45,7 +45,7 @@
     * [Functional Programming made easy in Java & C#](software-craftsmanship/code-katas/functional-programming-made-easy-in-java-and-c.md)
     * [Refactoring journey](software-craftsmanship/code-katas/refactoring-journey-kata.md)
     * [Refactoring du Bouchonnois](software-craftsmanship/code-katas/refactoring-du-bouchonnois/README.md)
-      * [Step 1 : se faire](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-1-se-faire.md)
+      * [Step 1 : se faire une idée du code](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-1-se-faire-une-idee-du-code.md)
   * [Software Design X-Rays](software-craftsmanship/software-design-x-rays/README.md)
     * [Workshop](software-craftsmanship/software-design-x-rays/workshop.md)
   * [The Programmer's Brain](software-craftsmanship/the-programmers-brain/README.md)
