@@ -58,9 +58,12 @@ Voici la liste des packages utilisés :
 * `LanguageExt.Core`
 * `FluentAssertions.LanguageExt`
 
-Afin d'améliorer le code on te propose de suivre les étapes ci-dessous :&#x20;
+Afin d'améliorer le code on te propose de suivre les étapes ci-dessous : &#x20;
 
-* [1. Se faire une idée de la code base](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/01.gather-metrics.md)
+{% content-ref url="step-1-se-faire-une-idee-du-code.md" %}
+[step-1-se-faire-une-idee-du-code.md](step-1-se-faire-une-idee-du-code.md)
+{% endcontent-ref %}
+
 * [2. Treat Warnings as Errors](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/02.treat-warnings-as-errors.md)
 * [3. Let's kill some mutants](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/03.kill-mutants.md)
 * [4. Améliorer la lisibilité des tests](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/04.improve-tests-readability.md)
