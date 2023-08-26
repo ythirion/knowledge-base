@@ -12,7 +12,7 @@ Ce kata a pour objectif de s'exercer au refactoring sur un code existant afin de
 * Comprendre quelle pratique et/ou outil peuvent nous aider pour surpasser ces `smells`
 * Pratiquer dans 1 environnement `safe` en dehors de son code de production
 
-<figure><img src="../../.gitbook/assets/image (715).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (715).png" alt=""><figcaption></figcaption></figure>
 
 Le kata est disponible sur github [ici](https://github.com/ythirion/refactoring-du-bouchonnois/).
 
@@ -28,7 +28,7 @@ Ils ont commencé à faire développer 1 système de gestion par une l'entrepris
 
 L'entreprise leur parle d'une soit-disante `dette technique` qui les ralentit dans le développement de nouvelles features...
 
-<figure><img src="../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
 
 > Les chasseurs comptent sur nous pour améliorer la situation.
 
@@ -38,7 +38,7 @@ Ils ont fait quelques ateliers avec `Toshiba` et ont réussi à clarifier ce qui
 
 Voici l'Example Mapping qui a servi d'alignement pour développer ce système.
 
-<figure><img src="../../.gitbook/assets/image (717).png" alt=""><figcaption><p>Example Mapping du Bouchonnois</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (717).png" alt=""><figcaption><p>Example Mapping du Bouchonnois</p></figcaption></figure>
 
 Version PDF disponible [ici](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/example-mapping/example-mapping.pdf).
 
@@ -78,7 +78,7 @@ Pour chaque étape :
 * une proposition de solution "_étape par étape_" est proposée
 * il existe 1 branche / étape
 
-<figure><img src="../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
 
 ### Objectifs pédagogiques
 

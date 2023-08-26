@@ -17,7 +17,7 @@ You’ll explore:
 * Tactics to help you master dynamic reteaming in your company
 * Stories that demonstrate problems caused by reteaming anti-patterns
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## Infographic
 

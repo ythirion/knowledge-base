@@ -10,7 +10,7 @@ description: This article is an abstract of the book DDD Distilled written by Va
 
 <div align="center">
 
-<img src="../.gitbook/assets/image (1) (1).png" alt="">
+<img src="../.gitbook/assets/image (1) (1) (1).png" alt="">
 
 </div>
 
@@ -38,11 +38,11 @@ Domain Driven Design a.k.a DDD is an approach to software development.
 * DDD is definitely NOT about technology.
 * DDD is all about the domain.
 
-![Eric Evans - 2003 "The Blue book"](<../.gitbook/assets/image (2).png>)
+![Eric Evans - 2003 "The Blue book"](<../.gitbook/assets/image (2) (1).png>)
 
 There are 2 kinds of patterns in DDD :
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Often people focuses only on the tactical ones (closer to the code) but it is really mandatory before starting anything to start with a strategy.
 
@@ -53,13 +53,13 @@ Often people focuses only on the tactical ones (closer to the code) but it is re
 * A domain is the reality : your real business
 * A domain model is an abstraction of this reality
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ### Bounded Contexts
 
 A Bounded Context is a semantic contextual boundary.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Within the boundary **each component** of the software model has **a specific meaning and does specific things**.
 
@@ -70,7 +70,7 @@ Within the boundary **each component** of the software model has **a specific me
 
 This language = **Ubiquitous Language**
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 There should be :
 
@@ -83,7 +83,7 @@ There should be :
 
 ### Subdomains : 3 types
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 * **Generic Subdomain** : Solution may be available for purchase or be outsourced or even developed in house by a team that doesn’t have the kind of elite developers that you assign to your Core Domain or even a lesser Supporting Subdomain. NO WAY TO DIFFERENTIATE
 *   **Core domain** : Where you are making a strategic investment in a single, well-defined domain model.
@@ -93,7 +93,7 @@ There should be :
 
 One of the Bounded Contexts will be the **Core Domain :** Various Subdomains in other Bounded Contexts.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 {% hint style="info" %}
 A Bounded Context should align one-to-one (1:1) with a single Subdomain
@@ -103,7 +103,7 @@ A Bounded Context should align one-to-one (1:1) with a single Subdomain
 
 Once you have identified your Subdomains you can use the matrix behind to understand which Subdomain is what.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 Find more explanation on it here :
 
@@ -120,7 +120,7 @@ Make sure that your core (sub)domains and / or your most valuable contexts in ge
 
 _`Integration between Core Domain and other Bounded Contexts is known in DDD as Context Mapping`_
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 Considering that in two different Bounded Contexts there are two Ubiquitous Languages , this **line represents the translation that exists between the two languages**.
 
@@ -128,7 +128,7 @@ Considering that in two different Bounded Contexts there are two Ubiquitous Lang
 
 #### Partnership
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 A _**Partnership relationship exists between two teams**_. Each team is responsible for one Bounded Context.
 
@@ -143,7 +143,7 @@ The synchronization is represented by the thick mapping line between the two tea
 
 #### Customer-supplier
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 Describes a relationship between two Bounded Contexts and respective teams : the _**Supplier is upstream (the U in the diagram) and the Customer is downstream (the D in the diagram)**_.
 
