@@ -595,7 +595,7 @@ namespace Bouchonnois.Domain
 }
 ```
 
-### Supprimer les constructeurs (utiliser la Factory)
+#### Supprimer les constructeurs (utiliser la Factory)
 
 * Nous sommes couverts par les tests, nous allons pouvoir nous amuser en terme de refactoring 😊
   * On commence par le feedback fourni par notre IDE sur les constructeurs
@@ -889,7 +889,7 @@ public sealed class PartieDeChasse
     }
 ```
 
-### Encapsuler le `Status`
+#### Encapsuler le `Status`
 
 * On commence par passer le `set` en private pour identifier les impacts
 
@@ -970,13 +970,13 @@ public class PartieDeChasseBuilder
 }
 ```
 
-### Encapsuler les Events
+#### Encapsuler les Events
 
 * En passant le `setter` des `Events` à `private` on observe que seuls les tests de consultation de status échouent
   * La consultation du status est déjà testé par ailleurs dans les tests d'Acceptance
   * Ces tests se recoupant, on peut dès lors supprimer les Tests Unitaires `ConsulterStatus` sans impact sur notre couverture et notre confiance
 
-### Encapsuler les collections
+#### Encapsuler les collections
 
 * Nous avons grandement amélioré l'encapsulation mais nous pouvons aller plus loin
 
@@ -1396,7 +1396,7 @@ private void Tirer(
 }
 ```
 
-### Encapsulation du `Chasseur`
+#### Encapsulation du `Chasseur`
 
 * Depuis les méthodes de `Tir` on va appeler une méthode `ATiré()` plutôt que d'utiliser 1 setter
 
@@ -1449,7 +1449,7 @@ public sealed class Terrain
 }
 ```
 
-### Un mot sur la duplication
+#### Un mot sur la duplication
 
 En redescendant la logique dans le `Domain` et en refactorant ce dernier on a grandement amélioré la qualité du code :&#x20;
 
@@ -1457,7 +1457,7 @@ En redescendant la logique dans le `Domain` et en refactorant ce dernier on a gr
 
 Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/overall?id=ythirion\_refactoring-du-bouchonnois\&branch=steps%2F09-tell-dont-ask).
 
-### Reflect
+## Reflect
 
 * Quel impact ce refactoring a eu sur les tests ?
 * Qu'est-ce qui est plus simple / compliqué maintenant ?
