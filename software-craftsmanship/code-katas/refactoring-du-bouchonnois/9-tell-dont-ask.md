@@ -1,4 +1,4 @@
-# Step 9 : Tell Don't Ask
+# 9) Tell Don't Ask
 
 <figure><img src="../../../.gitbook/assets/step9.webp" alt=""><figcaption><p>Step 9 : Tell Don't Ask</p></figcaption></figure>
 

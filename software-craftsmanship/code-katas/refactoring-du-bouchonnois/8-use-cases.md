@@ -1,4 +1,4 @@
-# Step 8 : Use Cases
+# 8) Use Cases
 
 Maintenant que nous sommes confiants vis-à-vis de nos tests nous allons pouvoir commencer à refactorer.
 

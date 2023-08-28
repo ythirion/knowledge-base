@@ -71,49 +71,51 @@ Chaque étape comprend :
 
 ### Proposition de solution
 
-Afin d'améliorer le code on te propose de suivre les étapes ci-dessous : &#x20;
+Afin d'améliorer le code on te propose de suivre les étapes ci-dessous :&#x20;
 
-{% content-ref url="step-1-se-faire-une-idee-du-code.md" %}
-[step-1-se-faire-une-idee-du-code.md](step-1-se-faire-une-idee-du-code.md)
+{% content-ref url="1-se-faire-une-idee-du-code.md" %}
+[1-se-faire-une-idee-du-code.md](1-se-faire-une-idee-du-code.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-2-treat-warnings-as-errors.md" %}
-[step-2-treat-warnings-as-errors.md](step-2-treat-warnings-as-errors.md)
+{% content-ref url="2-treat-warnings-as-errors.md" %}
+[2-treat-warnings-as-errors.md](2-treat-warnings-as-errors.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-3-lets-kill-some-mutants.md" %}
-[step-3-lets-kill-some-mutants.md](step-3-lets-kill-some-mutants.md)
+{% content-ref url="3-lets-kill-some-mutants.md" %}
+[3-lets-kill-some-mutants.md](3-lets-kill-some-mutants.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-4-ameliorer-la-lisibilite-des-tests.md" %}
-[step-4-ameliorer-la-lisibilite-des-tests.md](step-4-ameliorer-la-lisibilite-des-tests.md)
+{% content-ref url="4-ameliorer-la-lisibilite-des-tests.md" %}
+[4-ameliorer-la-lisibilite-des-tests.md](4-ameliorer-la-lisibilite-des-tests.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-5-approve-everything.md" %}
-[step-5-approve-everything.md](step-5-approve-everything.md)
+{% content-ref url="5-approve-everything.md" %}
+[5-approve-everything.md](5-approve-everything.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-6-definir-des-proprietes.md" %}
-[step-6-definir-des-proprietes.md](step-6-definir-des-proprietes.md)
+{% content-ref url="6-definir-des-proprietes.md" %}
+[6-definir-des-proprietes.md](6-definir-des-proprietes.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-7-tests-darchitecture.md" %}
-[step-7-tests-darchitecture.md](step-7-tests-darchitecture.md)
+{% content-ref url="7-tests-darchitecture.md" %}
+[7-tests-darchitecture.md](7-tests-darchitecture.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-8-use-cases.md" %}
-[step-8-use-cases.md](step-8-use-cases.md)
+{% content-ref url="8-use-cases.md" %}
+[8-use-cases.md](8-use-cases.md)
 {% endcontent-ref %}
 
-{% content-ref url="step-9-tell-dont-ask.md" %}
-[step-9-tell-dont-ask.md](step-9-tell-dont-ask.md)
+{% content-ref url="9-tell-dont-ask.md" %}
+[9-tell-dont-ask.md](9-tell-dont-ask.md)
 {% endcontent-ref %}
 
+{% content-ref url="10-avoid-primitives-commands.md" %}
+[10-avoid-primitives-commands.md](10-avoid-primitives-commands.md)
+{% endcontent-ref %}
 
-
-* [10. Commands](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/10.commands.md)
-* [11. Plus d'exceptions](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/11.avoid-exceptions.md)
-* [12. Event Sourcing](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/12.event-sourcing.md)
+{% content-ref url="11-avoid-exceptions.md" %}
+[11-avoid-exceptions.md](11-avoid-exceptions.md)
+{% endcontent-ref %}
 
 ## Objectifs pédagogiques
 

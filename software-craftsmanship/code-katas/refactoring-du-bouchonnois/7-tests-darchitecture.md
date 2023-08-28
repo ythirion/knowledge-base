@@ -1,4 +1,4 @@
-# Step 7 : Tests d'architecture
+# 7) Tests d'architecture
 
 Avec toutes les découvertes réalisées jusqu'à présent on a pu se rendre compte que l'architecture désirée était une architecture en `Onion` :&#x20;
 
