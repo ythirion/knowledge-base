@@ -81,13 +81,36 @@ Afin d'améliorer le code on te propose de suivre les étapes ci-dessous : &#x20
 [step-2-treat-warnings-as-errors.md](step-2-treat-warnings-as-errors.md)
 {% endcontent-ref %}
 
-* [3. Let's kill some mutants](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/03.kill-mutants.md)
-* [4. Améliorer la lisibilité des tests](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/04.improve-tests-readability.md)
-* [5. "Approve" everything](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/05.approve-everything.md)
-* [6. "Properties" everywhere](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/06.properties.md)
-* [7. Tests d'architecture](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/07.architecture-tests.md)
-* [8. Use Cases](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/08.use-cases.md)
-* [9. Tell Don't Ask](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/09.tell-dont-ask.md)
+{% content-ref url="step-3-lets-kill-some-mutants.md" %}
+[step-3-lets-kill-some-mutants.md](step-3-lets-kill-some-mutants.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-4-ameliorer-la-lisibilite-des-tests.md" %}
+[step-4-ameliorer-la-lisibilite-des-tests.md](step-4-ameliorer-la-lisibilite-des-tests.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-5-approve-everything.md" %}
+[step-5-approve-everything.md](step-5-approve-everything.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-6-definir-des-proprietes.md" %}
+[step-6-definir-des-proprietes.md](step-6-definir-des-proprietes.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-7-tests-darchitecture.md" %}
+[step-7-tests-darchitecture.md](step-7-tests-darchitecture.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-8-use-cases.md" %}
+[step-8-use-cases.md](step-8-use-cases.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-9-tell-dont-ask.md" %}
+[step-9-tell-dont-ask.md](step-9-tell-dont-ask.md)
+{% endcontent-ref %}
+
+
+
 * [10. Commands](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/10.commands.md)
 * [11. Plus d'exceptions](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/11.avoid-exceptions.md)
 * [12. Event Sourcing](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/12.event-sourcing.md)
