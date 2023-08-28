@@ -54,6 +54,7 @@
       * [Step 7 : Tests d'architecture](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-7-tests-darchitecture.md)
       * [Step 8 : Use Cases](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-8-use-cases.md)
       * [Step 9 : Tell Don't Ask](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-9-tell-dont-ask.md)
+      * [Page](software-craftsmanship/code-katas/refactoring-du-bouchonnois/page.md)
   * [Software Design X-Rays](software-craftsmanship/software-design-x-rays/README.md)
     * [Workshop](software-craftsmanship/software-design-x-rays/workshop.md)
   * [The Programmer's Brain](software-craftsmanship/the-programmers-brain/README.md)

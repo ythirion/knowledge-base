@@ -44,7 +44,7 @@ Version PDF disponible [ici](https://github.com/ythirion/refactoring-du-bouchonn
 
 ## Facilitation
 
-#### Pré-requis
+### Pré-requis
 
 Le code est disponible en `.NET 7`.
 
@@ -58,7 +58,7 @@ Voici la liste des packages utilisés :
 * `LanguageExt.Core`
 * `FluentAssertions.LanguageExt`
 
-#### Guide
+### Guide
 
 Chaque étape comprend :
 
@@ -69,7 +69,7 @@ Chaque étape comprend :
 
 <figure><img src="../../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
 
-#### Proposition de solution
+### Proposition de solution
 
 Afin d'améliorer le code on te propose de suivre les étapes ci-dessous : &#x20;
 
@@ -115,7 +115,7 @@ Afin d'améliorer le code on te propose de suivre les étapes ci-dessous : &#x20
 * [11. Plus d'exceptions](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/11.avoid-exceptions.md)
 * [12. Event Sourcing](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/12.event-sourcing.md)
 
-### Objectifs pédagogiques
+## Objectifs pédagogiques
 
 À travers ces différentes étapes j'ai essayé d'introduire les sujets suivants :
 
