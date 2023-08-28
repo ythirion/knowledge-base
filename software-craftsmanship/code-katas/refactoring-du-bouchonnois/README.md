@@ -23,11 +23,6 @@ Ils ont commencé à faire développer 1 système de gestion par une l'entrepris
 
 L'entreprise leur parle d'une soit-disante `dette technique` qui les ralentit dans le développement de nouvelles features...
 
-Nos vaillants chasseurs du Bouchonnois ont besoin de pouvoir gérer leurs parties de chasse.\
-Ils ont commencé à faire développer 1 système de gestion par une l'entreprise `Toshiba` mais ne sont pas satisfaits.
-
-L'entreprise leur parle d'une soit-disante `dette technique` qui les ralentit dans le développement de nouvelles features...
-
 <figure><img src="../../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
 
 > Les chasseurs comptent sur nous pour améliorer la situation.
