@@ -58,6 +58,19 @@ Voici la liste des packages utilisés :
 * `LanguageExt.Core`
 * `FluentAssertions.LanguageExt`
 
+#### Guide
+
+Chaque étape comprend :
+
+* un "guide" de facilitation
+* une proposition de solution "_étape par étape_"
+
+> 1 branche / étape avec le code source associé
+
+<figure><img src="../../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
+
+#### Proposition de solution
+
 Afin d'améliorer le code on te propose de suivre les étapes ci-dessous : &#x20;
 
 {% content-ref url="step-1-se-faire-une-idee-du-code.md" %}
@@ -68,7 +81,6 @@ Afin d'améliorer le code on te propose de suivre les étapes ci-dessous : &#x20
 [step-2-treat-warnings-as-errors.md](step-2-treat-warnings-as-errors.md)
 {% endcontent-ref %}
 
-* [2. Treat Warnings as Errors](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/02.treat-warnings-as-errors.md)
 * [3. Let's kill some mutants](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/03.kill-mutants.md)
 * [4. Améliorer la lisibilité des tests](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/04.improve-tests-readability.md)
 * [5. "Approve" everything](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/05.approve-everything.md)
@@ -79,13 +91,6 @@ Afin d'améliorer le code on te propose de suivre les étapes ci-dessous : &#x20
 * [10. Commands](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/10.commands.md)
 * [11. Plus d'exceptions](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/11.avoid-exceptions.md)
 * [12. Event Sourcing](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/facilitation/12.event-sourcing.md)
-
-Pour chaque étape :
-
-* une proposition de solution "_étape par étape_" est proposée
-* il existe 1 branche / étape
-
-<figure><img src="../../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
 
 ### Objectifs pédagogiques
 
