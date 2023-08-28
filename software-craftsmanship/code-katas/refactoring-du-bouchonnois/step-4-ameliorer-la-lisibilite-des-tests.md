@@ -6,7 +6,7 @@ Les tests sont, pour l'instant, assez difficiles à comprendre :
 * Il y a de la duplication partout
 * Ce qui influe le résultat du test n'est pas mis en évidence
 
-<figure><img src="../../../.gitbook/assets/step4.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/step4.webp" alt=""><figcaption><p>Step 4 : Améliorer la lisibilité des tests</p></figcaption></figure>
 
 Prenons un exemple pour illustrer cela :
 
@@ -631,7 +631,7 @@ partieDeChasse.Events.Add(new Event(_timeProvider(), $"{chasseur} tire sur une g
 
 Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/overall?id=ythirion\_refactoring-du-bouchonnois\&branch=steps%2F04-improve-tests-readability).
 
-### Reflect
+## Reflect
 
 Comparez les tests avant et après cette étape, qu'en pensez-vous ?
 

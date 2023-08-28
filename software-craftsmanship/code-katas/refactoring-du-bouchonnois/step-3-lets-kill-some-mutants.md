@@ -8,7 +8,7 @@ Durant cette étape:
   * Analyser les mutants survivants
 * `Tuer` autant de mutants que possible (atteindre un score de mutation d'au moins 90%)
 
-<figure><img src="../../../.gitbook/assets/step3.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/step3.webp" alt=""><figcaption><p>Step 3 : Let's kill some mutants</p></figcaption></figure>
 
 ## Différents mutants
 
@@ -199,7 +199,7 @@ On répète la même stratégie pour les autres mutations jusqu'à atteindre `10
 
 Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/overall?id=ythirion\_refactoring-du-bouchonnois\&branch=steps%2F03-kill-mutants).
 
-### Reflect
+## Reflect
 
 Pour créer de bons tests, il est important de `toujours se concentrer sur l'écriture de bonnes assertions` et encore mieux développer en utilisant T.D.D.
 
