@@ -8,7 +8,7 @@ Il y a quelques tests pour lesquels nous avons énormément de lignes d'assertio
 
 <figure><img src="../../../.gitbook/assets/step5.webp" alt=""><figcaption><p>Step 5 : "Approve Everything"</p></figcaption></figure>
 
-### Identification des tests
+## Identification des tests
 
 On pourrait utiliser cette technique pour les tests suivants :
 
@@ -20,7 +20,7 @@ On pourrait utiliser cette technique pour les tests suivants :
   * On valide le contenu d'un `string`
   * Cela évitera de stocker ce string dans le code (sera stocké sous forme de ressource)
 
-### Refactorer `ScenarioTests.DéroulerUnePartie`
+## Refactorer `ScenarioTests.DéroulerUnePartie`
 
 * On commence par ajouter la dépendance sur notre librairie d'Approval Testing
 

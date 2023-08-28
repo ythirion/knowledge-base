@@ -50,6 +50,7 @@
       * [Step 3 : Let's kill some mutants](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-3-lets-kill-some-mutants.md)
       * [Step 4 : Améliorer la lisibilité des tests](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-4-ameliorer-la-lisibilite-des-tests.md)
       * [Step 5 : "Approve Everything"](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-5-approve-everything.md)
+      * [Step 6 : Définir des propriétés](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-6-definir-des-proprietes.md)
   * [Software Design X-Rays](software-craftsmanship/software-design-x-rays/README.md)
     * [Workshop](software-craftsmanship/software-design-x-rays/workshop.md)
   * [The Programmer's Brain](software-craftsmanship/the-programmers-brain/README.md)
