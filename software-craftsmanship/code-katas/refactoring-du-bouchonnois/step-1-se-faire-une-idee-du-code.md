@@ -4,7 +4,7 @@ Imagine que tu dois reprendre la maintenance évolutive du système de gestion d
 
 Afin de te faire un premier feeling sur le code, on va analyser certains éléments factuels.
 
-<figure><img src="../../../.gitbook/assets/step1.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/step1.webp" alt=""><figcaption><p>Step 1 - se faire une idée de la code base</p></figcaption></figure>
 
 ## Check-list
 
@@ -17,7 +17,7 @@ On dresse une check-list de choses à vérifier / analyser :
 
 ### Récolter des metrics
 
-Nos outils et l'écosystème de développement nous permet de récolter rapidement des metrics permettant d'observer de manière assez factuelle la qualité du code :
+Nos outils et l'écosystème de développement nous permettent de récolter rapidement des metrics permettant d'observer de manière assez factuelle la qualité du code :
 
 * [ ] Récupérer le `code coverage`
 * [ ] Mettre en place un outil d'analyse static de code
