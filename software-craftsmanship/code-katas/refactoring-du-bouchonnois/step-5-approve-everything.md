@@ -267,7 +267,7 @@ act();
 
 * Extraction de la méthode
 
-<figure><img src="../../../.gitbook/assets/extract-method.webp" alt="" width="240"><figcaption><p>Extract method</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/extract-method (1).webp" alt="" width="240"><figcaption><p>Extract method</p></figcaption></figure>
 
 * Puis on configure l'extraction
 
