@@ -202,4 +202,4 @@ Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/over
 * A quoi cette technique pourrait vous servir ?
 * Quelles règles pourraient être utiles dans votre quotidien ?
 
-<figure><img src="../../../.gitbook/assets/architecture-tests.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/architecture-tests.webp" alt="" width="199"><figcaption></figcaption></figure>

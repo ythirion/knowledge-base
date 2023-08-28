@@ -316,11 +316,11 @@ namespace Bouchonnois.Tests.Acceptance
 
 * On place l'ensemble des `Exceptions` au plus proche de leur utilisation (dans le namespace `UseCases`)
 
-<figure><img src="../../../.gitbook/assets/exceptions.webp" alt=""><figcaption><p>Exceptions</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/exceptions.webp" alt="" width="375"><figcaption><p>Exceptions</p></figcaption></figure>
 
 > Notre architecture ressemble maintenant à ça
 
-<figure><img src="../../../.gitbook/assets/architecture.webp" alt=""><figcaption><p>Architecture</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/architecture.webp" alt="" width="300"><figcaption><p>Architecture</p></figcaption></figure>
 
 ## Mise à jour des règles ArchUnit
 
@@ -363,4 +363,4 @@ Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/over
 * Quel est l'impact sur le design ? les tests ?
 * En quoi pouvons nous parler ici de `Screaming Architecture` ?
 
-<figure><img src="../../../.gitbook/assets/use-cases.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/use-cases.webp" alt="" width="199"><figcaption></figcaption></figure>

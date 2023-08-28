@@ -142,7 +142,7 @@ Notre `Approval Test` échoue, notre outil de comparaison de fichier va s'ouvrir
 
 Dès lors nous avons une arborescence de fichiers ressemblant à celà :&#x20;
 
-<figure><img src="../../../.gitbook/assets/files.webp" alt=""><figcaption><p>Files</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/files.webp" alt="" width="356"><figcaption><p>Files</p></figcaption></figure>
 
 Un élément important quand on utilise une librairie de ce genre, ajouter les fichiers `received` dans le fichier `.gitignore` :
 
@@ -169,11 +169,11 @@ On va y appliquer la fameuse [règle du boyscout](https://deviq.com/principles/b
 
 * On commence par extraire des champs à partir du test via notre `IDE`&#x20;
 
-<figure><img src="../../../.gitbook/assets/introduce-field.webp" alt=""><figcaption><p>Introduce field</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/introduce-field.webp" alt="" width="375"><figcaption><p>Introduce field</p></figcaption></figure>
 
 * Puis on configure l'extraction
 
-<figure><img src="../../../.gitbook/assets/introduce-field-refactoring.webp" alt=""><figcaption><p>Configurer "Introduce Field"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/introduce-field-refactoring.webp" alt="" width="375"><figcaption><p>Configurer "Introduce Field"</p></figcaption></figure>
 
 * Le résultat est :
 
@@ -212,7 +212,7 @@ var id = _service.Demarrer(
   * Pour pouvoir les utiliser dans cette classe de test également
   * On les place dans un fichier `Data`
 
-<figure><img src="../../../.gitbook/assets/move-type.webp" alt=""><figcaption><p>Move to &#x3C;type></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/move-type.webp" alt="" width="375"><figcaption><p>Move to &#x3C;type></p></figcaption></figure>
 
 * Notre test ressemble désormais à cela
 
@@ -267,11 +267,11 @@ act();
 
 * Extraction de la méthode
 
-<figure><img src="../../../.gitbook/assets/extract-method.webp" alt=""><figcaption><p>Extract method</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/extract-method.webp" alt="" width="240"><figcaption><p>Extract method</p></figcaption></figure>
 
 * Puis on configure l'extraction
 
-<figure><img src="../../../.gitbook/assets/configure-extract (2).webp" alt=""><figcaption><p>Configure "Extract Method"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/configure-extract (2).webp" alt="" width="375"><figcaption><p>Configure "Extract Method"</p></figcaption></figure>
 
 * On l'utilise partout en s'assurant que notre test reste vert
   * En rendant également `safe` l'appelle à la méthode `act`
@@ -392,7 +392,7 @@ public Task AvecPlusieursChasseurs()
 
 * On peut maintenant approver le résultat du test qui ressemble à cela
 
-<figure><img src="../../../.gitbook/assets/verify-demarrer.webp" alt=""><figcaption><p>Verify démarrer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/verify-demarrer.webp" alt="" width="375"><figcaption><p>Verify démarrer</p></figcaption></figure>
 
 ## Impact du refactoring des tests
 
@@ -422,4 +422,4 @@ Rapport disponible [ici](https://sonarcloud.io/summary/overall?id=ythirion\_refa
   * Quels autres cas d'utilisation pouvez-vous identifier ?
 * Qu'est-ce que le `scrubbing` ?
 
-<figure><img src="../../../.gitbook/assets/approved.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/approved.webp" alt="" width="199"><figcaption></figcaption></figure>

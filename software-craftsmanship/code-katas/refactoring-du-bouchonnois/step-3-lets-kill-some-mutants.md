@@ -18,7 +18,7 @@ Durant cette étape:
 
 C'est le cas pour 2 classes : `ChasseurInconnu` et `PartieDeChasseService`.&#x20;
 
-<figure><img src="../../../.gitbook/assets/string-mutation1.webp" alt=""><figcaption><p>String mutation 1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/string-mutation1.webp" alt="" width="375"><figcaption><p>String mutation 1</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/string-mutation2.webp" alt=""><figcaption><p>String mutation 2</p></figcaption></figure>
 
@@ -205,4 +205,4 @@ Pour créer de bons tests, il est important de `toujours se concentrer sur l'éc
 
 Lorsqu'on écrit des tests (a priori ou posteriori), il est important d'avoir en tête certains principes tels que les [Test Desiderata](https://kentbeck.github.io/TestDesiderata/).
 
-<figure><img src="../../../.gitbook/assets/kill-mutants.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/kill-mutants.webp" alt="" width="199"><figcaption></figcaption></figure>

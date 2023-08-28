@@ -39,7 +39,7 @@ La structure d'une solution / projet est un indicateur de l'architecture sous-ja
 
 Pour en savoir plus : [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html).
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Arborescence du projet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="350"><figcaption><p>Arborescence du projet</p></figcaption></figure>
 
 Ici on peut tout de suite comprendre plusieurs éléments :
 
@@ -280,7 +280,7 @@ Il va y avoir un petit peu de travail au niveau de nos tests afin d'améliorer l
 * [x] Identifier s'il y a des [`hotspots`](https://understandlegacycode.com/blog/focus-refactoring-with-hotspots-analysis/) et où ils sont localisés
 * [x] Revue de la qualité des tests
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt="" width="199"><figcaption></figcaption></figure>
 
 A l'aide de ces éléments nous avons pu identifier certains axes d'amélioration :
 

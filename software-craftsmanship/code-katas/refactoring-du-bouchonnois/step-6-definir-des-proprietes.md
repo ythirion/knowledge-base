@@ -224,4 +224,4 @@ Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/over
 * Quelles sont ses avantages ?
 * Comment vous pourriez l'utiliser ?
 
-<figure><img src="../../../.gitbook/assets/properties.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/properties.webp" alt="" width="199"><figcaption></figcaption></figure>

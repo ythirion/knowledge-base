@@ -138,15 +138,15 @@ public class DemarrerUnePartieDeChasse : PartieDeChasseServiceTests
 
 * On peut ensuite sortir chaque classe de tests dans son propre fichier de manière `safe`
 
-<figure><img src="../../../.gitbook/assets/move-to-file.webp" alt=""><figcaption><p>Move to file</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/move-to-file.webp" alt="" width="563"><figcaption><p>Move to file</p></figcaption></figure>
 
 * On se retrouve alors avec une hiérarchie de tests comme suit
 
-<figure><img src="../../../.gitbook/assets/split-result.webp" alt=""><figcaption><p>Résultat du split</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/split-result.webp" alt="" width="273"><figcaption><p>Résultat du split</p></figcaption></figure>
 
 * On en profite pour séparer les tests unitaires et le test d'acceptation
 
-<figure><img src="../../../.gitbook/assets/acceptance-unit (1).webp" alt=""><figcaption><p>Séparer Unit et Acceptance</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/acceptance-unit (1).webp" alt="" width="273"><figcaption><p>Séparer Unit et Acceptance</p></figcaption></figure>
 
 * On peut aller plus loin en séparant dans chaque fichier les cas <mark style="color:green;">passants</mark> et <mark style="color:red;">non-passants</mark> :&#x20;
 
@@ -312,7 +312,7 @@ On peut dès lors refactorer l'ensemble des tests et réduire la duplication.
 
 * On commence par écrire de manière textuelle ce qu'on souhaite pour instantier la `PartieDeChasse`
 
-<figure><img src="../../../.gitbook/assets/partie-de-chasse-builder.webp" alt=""><figcaption><p>Builder</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/partie-de-chasse-builder.webp" alt="" width="351"><figcaption><p>Builder</p></figcaption></figure>
 
 * Ensuite on peut générer le code à partie de notre `IDE`
   * Voir [`Generate Code From Usage`](https://xtrem-tdd.netlify.app/Flavours/generate-code-from-usage)
@@ -527,7 +527,7 @@ public void AvecUnChasseurAyantDesBallesEtAssezDeGalinettesSurLeTerrain()
 
 * On écrit une première version de ce qu'on voudrait en terme d'assertions&#x20;
 
-<figure><img src="../../../.gitbook/assets/assertions.webp" alt=""><figcaption><p>Sample d'assertion</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/assertions.webp" alt="" width="375"><figcaption><p>Sample d'assertion</p></figcaption></figure>
 
 * On crée une classe d'extensions permettant de renvoyer une instance de `PartieDeChasseAssertions`
 
@@ -722,4 +722,4 @@ protected void ThenThrow<TException>(Action<PartieDeChasse?> assert, string? exp
 }
 ```
 
-<figure><img src="../../../.gitbook/assets/builders.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/builders.webp" alt="" width="199"><figcaption></figcaption></figure>
