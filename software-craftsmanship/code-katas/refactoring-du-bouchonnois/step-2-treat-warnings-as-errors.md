@@ -1,4 +1,4 @@
-# Step 2 : "Treat warnings as errors"
+# 2) "Treat warnings as errors"
 
 Prendre quelques instants pour découvrir la page [`Treat warnings as errors`](https://xtrem-tdd.netlify.app/Flavours/treat-warnings-as-errors).
 

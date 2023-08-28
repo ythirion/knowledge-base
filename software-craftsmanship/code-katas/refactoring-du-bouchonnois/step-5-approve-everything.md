@@ -1,4 +1,4 @@
-# Step 5 : "Approve Everything"
+# 5) "Approve Everything"
 
 Il y a quelques tests pour lesquels nous avons énormément de lignes d'assertions. Nous allons les retravailler afin de les transformer en `Approval Tests`.
 

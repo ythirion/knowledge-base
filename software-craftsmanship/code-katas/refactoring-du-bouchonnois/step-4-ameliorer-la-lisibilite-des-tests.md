@@ -1,4 +1,4 @@
-# Step 4 : Améliorer la lisibilité des tests
+# 4) Améliorer la lisibilité des tests
 
 Les tests sont, pour l'instant, assez difficiles à comprendre :
 

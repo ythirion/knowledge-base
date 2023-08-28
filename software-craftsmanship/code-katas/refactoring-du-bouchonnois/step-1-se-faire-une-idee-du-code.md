@@ -1,4 +1,4 @@
-# Step 1 : se faire une idée du code
+# 1) Se faire une idée du code
 
 Imagine que tu dois reprendre la maintenance évolutive du système de gestion des parties de chasse de nos chers chasseurs du bouchonnois.
 

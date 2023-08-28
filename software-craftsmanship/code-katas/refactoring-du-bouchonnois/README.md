@@ -69,54 +69,6 @@ Chaque étape comprend :
 
 <figure><img src="../../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
 
-### Proposition de solution
-
-Afin d'améliorer le code on te propose de suivre les étapes ci-dessous :&#x20;
-
-{% content-ref url="1-se-faire-une-idee-du-code.md" %}
-[1-se-faire-une-idee-du-code.md](1-se-faire-une-idee-du-code.md)
-{% endcontent-ref %}
-
-{% content-ref url="2-treat-warnings-as-errors.md" %}
-[2-treat-warnings-as-errors.md](2-treat-warnings-as-errors.md)
-{% endcontent-ref %}
-
-{% content-ref url="3-lets-kill-some-mutants.md" %}
-[3-lets-kill-some-mutants.md](3-lets-kill-some-mutants.md)
-{% endcontent-ref %}
-
-{% content-ref url="4-ameliorer-la-lisibilite-des-tests.md" %}
-[4-ameliorer-la-lisibilite-des-tests.md](4-ameliorer-la-lisibilite-des-tests.md)
-{% endcontent-ref %}
-
-{% content-ref url="5-approve-everything.md" %}
-[5-approve-everything.md](5-approve-everything.md)
-{% endcontent-ref %}
-
-{% content-ref url="6-definir-des-proprietes.md" %}
-[6-definir-des-proprietes.md](6-definir-des-proprietes.md)
-{% endcontent-ref %}
-
-{% content-ref url="7-tests-darchitecture.md" %}
-[7-tests-darchitecture.md](7-tests-darchitecture.md)
-{% endcontent-ref %}
-
-{% content-ref url="8-use-cases.md" %}
-[8-use-cases.md](8-use-cases.md)
-{% endcontent-ref %}
-
-{% content-ref url="9-tell-dont-ask.md" %}
-[9-tell-dont-ask.md](9-tell-dont-ask.md)
-{% endcontent-ref %}
-
-{% content-ref url="10-avoid-primitives-commands.md" %}
-[10-avoid-primitives-commands.md](10-avoid-primitives-commands.md)
-{% endcontent-ref %}
-
-{% content-ref url="11-avoid-exceptions.md" %}
-[11-avoid-exceptions.md](11-avoid-exceptions.md)
-{% endcontent-ref %}
-
 ## Objectifs pédagogiques
 
 À travers ces différentes étapes j'ai essayé d'introduire les sujets suivants :
@@ -142,3 +94,55 @@ Afin d'améliorer le code on te propose de suivre les étapes ci-dessous :&#x20;
 * ...
 
 Bon voyage 🤩
+
+### Proposition de solution
+
+Afin d'améliorer le code on te propose de suivre les étapes ci-dessous :&#x20;
+
+{% content-ref url="step-1-se-faire-une-idee-du-code.md" %}
+[step-1-se-faire-une-idee-du-code.md](step-1-se-faire-une-idee-du-code.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-2-treat-warnings-as-errors.md" %}
+[step-2-treat-warnings-as-errors.md](step-2-treat-warnings-as-errors.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-3-lets-kill-some-mutants.md" %}
+[step-3-lets-kill-some-mutants.md](step-3-lets-kill-some-mutants.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-4-ameliorer-la-lisibilite-des-tests.md" %}
+[step-4-ameliorer-la-lisibilite-des-tests.md](step-4-ameliorer-la-lisibilite-des-tests.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-5-approve-everything.md" %}
+[step-5-approve-everything.md](step-5-approve-everything.md)
+{% endcontent-ref %}
+
+{% content-ref url="step-6-definir-des-proprietes.md" %}
+[step-6-definir-des-proprietes.md](step-6-definir-des-proprietes.md)
+{% endcontent-ref %}
+
+{% content-ref url="7-tests-darchitecture.md" %}
+[7-tests-darchitecture.md](7-tests-darchitecture.md)
+{% endcontent-ref %}
+
+{% content-ref url="8-use-cases.md" %}
+[8-use-cases.md](8-use-cases.md)
+{% endcontent-ref %}
+
+{% content-ref url="9-tell-dont-ask.md" %}
+[9-tell-dont-ask.md](9-tell-dont-ask.md)
+{% endcontent-ref %}
+
+{% content-ref url="10-avoid-primitives-commands.md" %}
+[10-avoid-primitives-commands.md](10-avoid-primitives-commands.md)
+{% endcontent-ref %}
+
+{% content-ref url="11-avoid-exceptions.md" %}
+[11-avoid-exceptions.md](11-avoid-exceptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="12-event-sourcing.md" %}
+[12-event-sourcing.md](12-event-sourcing.md)
+{% endcontent-ref %}

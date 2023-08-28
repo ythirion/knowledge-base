@@ -1,4 +1,4 @@
-# Step 3 : Let's kill some mutants
+# 3) Let's kill some mutants
 
 Prendre quelques instants pour découvrir la page [`Mutation Testing`](https://xtrem-tdd.netlify.app/flavours/mutation-testing/).
 

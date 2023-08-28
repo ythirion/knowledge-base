@@ -1,4 +1,4 @@
-# Step 6 : Définir des propriétés
+# 6) Définir des propriétés
 
 Avant de nous lancer dans notre refactoring, on peut encore aller plus loin sur nos tests afin d'améliorer encore notre confiance vis-à-vis de notre code base.
 
