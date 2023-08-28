@@ -236,4 +236,4 @@ Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/over
 * Comment aurait-on pu faire en sorte que les tests soient moins résistants aux refactorings du code de prod ?
 * Quelles autres problèmes avions nous identifier et devrions nous corriger avant d'aller plus loin ?
 
-![](../../../.gitbook/assets/treat-warnings-as-errors.webp)
+<figure><img src="../../../.gitbook/assets/treat-warnings-as-errors.webp" alt=""><figcaption></figcaption></figure>

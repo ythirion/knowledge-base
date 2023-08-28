@@ -47,6 +47,7 @@
     * [Refactoring du Bouchonnois](software-craftsmanship/code-katas/refactoring-du-bouchonnois/README.md)
       * [Step 1 : se faire une idée du code](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-1-se-faire-une-idee-du-code.md)
       * [Step 2 : "Treat warnings as errors"](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-2-treat-warnings-as-errors.md)
+      * [Step 3 : Let's kill some mutants](software-craftsmanship/code-katas/refactoring-du-bouchonnois/step-3-lets-kill-some-mutants.md)
   * [Software Design X-Rays](software-craftsmanship/software-design-x-rays/README.md)
     * [Workshop](software-craftsmanship/software-design-x-rays/workshop.md)
   * [The Programmer's Brain](software-craftsmanship/the-programmers-brain/README.md)
