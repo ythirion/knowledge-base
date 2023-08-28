@@ -358,7 +358,7 @@ Nous avons simplement divisé cette grosse classe "fourre-tout" en plus petites 
 
 Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/overall?id=ythirion\_refactoring-du-bouchonnois\&branch=steps%2F08-use-cases).
 
-### Reflect
+## Reflect
 
 * Quel est l'impact sur le design ? les tests ?
 * En quoi pouvons nous parler ici de `Screaming Architecture` ?

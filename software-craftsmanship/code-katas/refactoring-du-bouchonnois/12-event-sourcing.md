@@ -858,7 +858,7 @@ Après tous ces refactorings on observe la santé du code via `codescene` :&#x20
 
 Félicitations sa santé est en nette amélioration 🎉🎉🎉
 
-### Reflect
+## Reflect
 
 * Qu'est-ce que cela a simplifié ?
   * Au contraire complexifié ?

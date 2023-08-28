@@ -715,7 +715,7 @@ Plus aucun `Code Smells` à signaler sans se focaliser dessus 🤗👍
 
 Nouveau rapport `SonarCloud` disponible [ici](https://sonarcloud.io/summary/overall?id=ythirion\_refactoring-du-bouchonnois\&branch=steps%2F11-avoid-exceptions).
 
-### Reflect
+## Reflect
 
 * Qu'est-ce que vous pensez des `Monads` ?
 * Quel est leur impact sur notre code ?
