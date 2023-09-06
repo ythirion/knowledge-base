@@ -34,6 +34,7 @@
 ## Resources
 
 * [https://retromat.org/](https://retromat.org/)
+* Retromat megaboard : [https://miro.com/app/board/uXjVP0VHhWo=/?share\_link\_id=115797241698](https://miro.com/app/board/uXjVP0VHhWo=/?share\_link\_id=115797241698)
 * [https://blog.myagilepartner.fr/index.php/retrospective/](https://blog.myagilepartner.fr/index.php/retrospective/)
 * [https://coach-agile.com/](https://coach-agile.com/)
   * Agile Burger Quiz : [https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/](https://coach-agile.com/2019/08/serious-game-agile-bubur-quiz/)
