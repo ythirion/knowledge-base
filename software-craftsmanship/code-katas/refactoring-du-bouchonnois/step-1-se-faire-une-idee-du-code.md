@@ -60,12 +60,30 @@ A part les références au framework, aucune dépendance n'est "exotique". Les s
 
 ## Code Coverage
 
+#### Via Rider
+
 On lance nos tests en activant le `code coverage`:&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Code coverage</p></figcaption></figure>
 
-Super nouvelle !!! on a du code source couvert à 100%.\
-Est-ce que celà suffit pour nous rendre complètement confiant vis-à-vis de nos futurs refactorings ?
+Super nouvelle !!! on a du code source couvert à 100%.
+
+#### En ligne de commande
+
+Pour ce faire on peut utiliser `dotCover` :&#x20;
+
+```sh
+dotnet tool install --global JetBrains.dotCover.GlobalTool
+dotnet dotcover test --dcReportType=HTML
+```
+
+Cela va générer 1 rapport `html` :&#x20;
+
+<figure><img src="../../../.gitbook/assets/dotcover-report.webp" alt=""><figcaption><p>dotcover report</p></figcaption></figure>
+
+Super nouvelle !!! on a du code source couvert à 100%.
+
+> Est-ce que cela suffit pour nous rendre complètement confiant vis-à-vis de nos futurs refactorings ?
 
 ## Analyse static de code
 

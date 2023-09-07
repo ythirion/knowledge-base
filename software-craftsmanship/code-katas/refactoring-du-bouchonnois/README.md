@@ -33,7 +33,7 @@ Ils ont fait quelques ateliers avec `Toshiba` et ont réussi à clarifier ce qui
 
 Voici l'Example Mapping qui a servi d'alignement pour développer ce système.
 
-<figure><img src="../../../.gitbook/assets/image (717).png" alt=""><figcaption><p>Example Mapping du Bouchonnois</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/example-mapping.webp" alt=""><figcaption><p>Example Mapping du Bouchonnois</p></figcaption></figure>
 
 Version PDF disponible [ici](https://github.com/ythirion/refactoring-du-bouchonnois/blob/main/example-mapping/example-mapping.pdf).
 
