@@ -14,6 +14,8 @@ Ce kata a pour objectif de s'exercer au refactoring sur un code existant afin de
 
 <figure><img src="../../../.gitbook/assets/image (715).png" alt=""><figcaption></figcaption></figure>
 
+## Cloner le code
+
 Le kata est disponible sur github [ici](https://github.com/ythirion/refactoring-du-bouchonnois/).
 
 ## Le contexte
