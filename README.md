@@ -17,6 +17,8 @@ That's why since a few years I am focusing on helping teams deliver well crafted
 
 I coach teams get better at XP practices, Continuous Integration and Development, Domain Driven Design, Clean Code, BDD and many other technical practices (Mob programming, efficient code review, refactoring of legacy code, ...).
 
+Currently, I work in for a great company in Switzerland called [Pyxis-Suisse](https://pyxis-suisse.ch/).
+
 ### If you want to know more about me
 
 * [My website](https://www.yoan-thirion.com/#home)
