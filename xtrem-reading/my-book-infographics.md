@@ -46,7 +46,7 @@ Une vie sur notre planète - High Resolution Book infographic
 
 * [_Unit Testing Principles, Practices, and Patterns_](https://www.manning.com/books/unit-testing) _by Vladimir Khorikov - October 2021_
 
-![](<../.gitbook/assets/Unit Testing Principles, Practices, and Patterns.png>)
+![](../.gitbook/assets/Unit-Testing-Principles\_-Practices\_-and-Patterns.webp)
 
 {% file src="../.gitbook/assets/Unit Testing Principles, Practices, and Patterns.pdf" %}
 
