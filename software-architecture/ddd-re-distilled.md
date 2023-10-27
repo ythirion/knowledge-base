@@ -10,7 +10,7 @@ description: This article is an abstract of the book DDD Distilled written by Va
 
 <div align="center">
 
-<img src="../.gitbook/assets/image (1) (1) (1).png" alt="">
+<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="">
 
 </div>
 
