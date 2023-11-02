@@ -1,12 +1,16 @@
 # My Book Infographics
 
-{% file src="../.gitbook/assets/book-infographics-202308.pdf" %}
+{% file src="../.gitbook/assets/book-infographics-202311.pdf" %}
 Download Yoan Thirion's book infographics
 {% endfile %}
 
+* [_**Réaliser ses rêves, ça s'apprend**_](https://thomasgibot.fr/livre/) _par_ [_Thomas Gibot_](https://thomasgibot.fr/) _- November 2023_
+
+<figure><img src="../.gitbook/assets/réaliser-ses-rêves_-ça-s_apprend.webp" alt=""><figcaption><p>Infographie du livre "Réaliser ses rêves, ,ca s'apprend" par Yoan Thirion</p></figcaption></figure>
+
 * [_**Dynamic Reteaming - The Art and Wisdom of Changing Teams**_](https://www.oreilly.com/library/view/dynamic-reteaming-2nd/9781492061281/) _by_ [_Heidi Helfand_](https://www.heidihelfand.com) _- August 2023_
 
-<figure><img src="../.gitbook/assets/Dynamic-Reteaming (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Dynamic-Reteaming (1).webp" alt=""><figcaption><p>Dynamic Reteaming book infographic by Yoan Thirion</p></figcaption></figure>
 
 * [_**The Good Life**_ _**- Ce que nous apprend la plus longue étude scientifique sur le bonheur et la santé**_](resources/book-notes/the-good-life.md) _par_ [_Robert Waldinger_](https://www.linkedin.com/in/robert-waldinger-90012169/)_,_ [_Marc M.D. Schulz_](https://www.linkedin.com/in/marc-schulz-20663222a/) _- March 2023_
 
@@ -48,7 +52,7 @@ Une vie sur notre planète - High Resolution Book infographic
 
 ![](../.gitbook/assets/Unit-Testing-Principles\_-Practices\_-and-Patterns.webp)
 
-{% file src="../.gitbook/assets/Unit Testing Principles, Practices, and Patterns.pdf" %}
+{% file src="../.gitbook/assets/Unit Testing Principles, Practices, and Patterns (1).pdf" %}
 
 * [_**The programmer's brain**_](https://yoan-thirion.gitbook.io/knowledge-base/xtrem-reading/resources/book-notes/the-programmers-brain) _by Felienne Hermans - August 2021_
 

@@ -18,7 +18,11 @@ Avec ce livre, je vous emmène dans cette folle aventure en vous partageant comm
 
 ## Infographie
 
-En cours de réalisation
+<figure><img src="../../../.gitbook/assets/réaliser-ses-rêves_-ça-s_apprend.webp" alt=""><figcaption><p>Infographie du livre "Réaliser ses rêves, ,ca s'apprend" par Yoan Thirion</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/réaliser ses rêves, ça s'apprend.pdf" %}
+Infographie du livre "Réaliser ses rêves, ,ca s'apprend" en PDF par Yoan Thirion
+{% endfile %}
 
 ## Mes notes
 
