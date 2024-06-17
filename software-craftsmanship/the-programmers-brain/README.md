@@ -51,10 +51,12 @@ Programmer's brain infographic (Hi resolution)
 
 ```java
 public class BinaryCalculator {
-    public static void mian(Int n) {
+    public static void main(Int n) {
         System.out.println(Integer.toBinaryString(n));
-    }
-}
+
+    }
+
+}
 ```
 
 * Lack of processing power in the brain
@@ -389,8 +391,10 @@ Example - **Lambdas** : if lambdas are new to you, this code might cause too muc
 {% tab title="Lambdas" %}
 ```java
 Optional<Product> product = productList.stream()
-        .filter(p -> p.getId() == id)
-        .findFirst();
+        .
+filter(p -> p.getId() == id)
+        .
+findFirst();
 ```
 {% endtab %}
 
