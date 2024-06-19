@@ -51,7 +51,7 @@ Programmer's brain infographic (Hi resolution)
 
 ```java
 public class BinaryCalculator {
-    public static void mian(Int n) {
+    public static void main(Int n) {
         System.out.println(Integer.toBinaryString(n));
     }
 }
