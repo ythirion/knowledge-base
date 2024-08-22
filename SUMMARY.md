@@ -130,5 +130,6 @@
       * [Team Topologies](xtrem-reading/resources/book-notes/team-topologies.md)
       * [The Good Life](xtrem-reading/resources/book-notes/the-good-life.md)
       * [Tu fais quoi dans la vie](xtrem-reading/resources/book-notes/tu-fais-quoi-dans-la-vie.md)
+      * [Who Does What By How Much?](xtrem-reading/resources/book-notes/who-does-what-by-how-much.md)
 * [My Activity](my-activity/README.md)
   * [Retour sur mon année 2020](my-activity/retour-dun-freelance-sur-lannee-2020.md)

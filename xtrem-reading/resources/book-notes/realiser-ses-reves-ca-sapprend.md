@@ -6,7 +6,7 @@ description: par Thomas Gibot
 
 ## Pitch
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Couverture "Réaliser ses rêves ça s'apprend" de Thomas Gibot</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>Couverture "Réaliser ses rêves ça s'apprend" de Thomas Gibot</p></figcaption></figure>
 
 💭 A quoi ressembleraient nos vies et le Monde si chacun de nous devenait meilleur à réaliser ses rêves?
 
@@ -20,7 +20,7 @@ Avec ce livre, je vous emmène dans cette folle aventure en vous partageant comm
 
 <figure><img src="../../../.gitbook/assets/réaliser-ses-rêves_-ça-s_apprend.webp" alt=""><figcaption><p>Infographie du livre "Réaliser ses rêves, ,ca s'apprend" par Yoan Thirion</p></figcaption></figure>
 
-{% file src="../../../.gitbook/assets/réaliser ses rêves, ça s'apprend.pdf" %}
+{% file src="../../../.gitbook/assets/réaliser ses rêves, ça s'apprend (2).pdf" %}
 Infographie du livre "Réaliser ses rêves, ,ca s'apprend" en PDF par Yoan Thirion
 {% endfile %}
 

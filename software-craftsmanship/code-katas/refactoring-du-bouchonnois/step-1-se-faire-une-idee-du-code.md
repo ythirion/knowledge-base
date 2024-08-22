@@ -29,7 +29,7 @@ Nos outils et l'écosystème de développement nous permettent de récolter rapi
 
 Lancer une première compilation afin d'identifier de potentiels problèmes.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Première compilation...</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Première compilation...</p></figcaption></figure>
 
 On a déjà une première boucle de feedback de la part de notre compilateur nous indiquant que certains `fields` sont déclarés comme `non-nullable` mais pas initialisés.
 
@@ -39,7 +39,7 @@ La structure d'une solution / projet est un indicateur de l'architecture sous-ja
 
 Pour en savoir plus : [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="350"><figcaption><p>Arborescence du projet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="350"><figcaption><p>Arborescence du projet</p></figcaption></figure>
 
 Ici on peut tout de suite comprendre plusieurs éléments :
 
@@ -54,7 +54,7 @@ Ici on peut tout de suite comprendre plusieurs éléments :
 
 On jette un oeil sur les packages référencés afin de comprendre si le système intéragit avec d'autres systèmes (via gRPC, REST API, Integration Bus, Cloud Services, ...)
 
-<img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
 A part les références au framework, aucune dépendance n'est "exotique". Les seuls packages utilisés sont ceux pour les tests.
 
@@ -64,7 +64,7 @@ A part les références au framework, aucune dépendance n'est "exotique". Les s
 
 On lance nos tests en activant le `code coverage`:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Code coverage</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Code coverage</p></figcaption></figure>
 
 Super nouvelle !!! on a du code source couvert à 100%.
 
@@ -147,7 +147,7 @@ jobs:
 
 Après un premier lancement on obtient ce dashboard.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Rapport Sonarcloud</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Rapport Sonarcloud</p></figcaption></figure>
 
 D'après l'outil la solution est plutôt en bonne santé:
 
@@ -155,7 +155,7 @@ D'après l'outil la solution est plutôt en bonne santé:
 * 100% de coverage
 * MAIS 7.3% de duplication
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Complécité cyclomatique</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Complécité cyclomatique</p></figcaption></figure>
 
 &#x20;Il y a 1 code smell qualifié de `critical` qui doit attirer notre attention. En effet, la complexité cyclomatique de la classe `PartieDeChasseService` est très élevée.
 
@@ -171,7 +171,7 @@ On peut alors catégoriser le code de cette manière:&#x20;
 
 Ainsi, on peut voir :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>4 types de code : 1 domaine anémique...</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>4 types de code : 1 domaine anémique...</p></figcaption></figure>
 
 * les classes actuellement dans notre `Domain` sont complètement anémiques : ne comprennent aucun comportement
 
@@ -210,7 +210,7 @@ if (partieDeChasse.Terrain.NbGalinettes != 0)
 
 Afin d'avoir le feedback de l'analyse static de code dans notre `IDE` on peut installer le plugin [`sonarlint`](https://www.sonarsource.com/products/sonarlint/). Le linter nous fournira le même feedback que `SonarCloud` mais sans avoir à lancer une analyse complète.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>SonarLint</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>SonarLint</p></figcaption></figure>
 
 On peut le configurer afin de le "binder" avec notre projet dans `sonarcloud` afin que l'analyse en local se fasse avec le même set de règles que dans la version cloud. Pour celà il suffit de suivre la documentation disponible [ici](https://github.com/SonarSource/sonarlint-intellij/wiki/Bind-to-SonarQube-or-SonarCloud).
 
