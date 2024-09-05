@@ -439,3 +439,186 @@ To create your key results:
   * We **delivered:** This means you hit the target that you set.
   * We **fell short**: This means that you made progress, you created some value, and you can claim success.
   * We **failed to deliver:** you didn't create the value that you set out to create.
+
+### Chapter 7: Setting OKRs Through Collaboration
+
+#### Collaborating Top-Down and Bottom-Up to Set OKRs
+
+Top-down and bottom-up collaboration leverages the knowledge and points-of-view of both leadership and teams, allowing organizations to set goals with deeper understanding.
+
+#### A Process for Top-Down and Bottom-Up Collaboration
+
+* ﻿﻿﻿**Top-down**
+  * Leadership determines the strategy and high-level OKRs for the organization
+  * Communicates them clearly to every team and every individual
+* ﻿﻿﻿**Bottom-up**
+  * Each team creates its own OKRs that fall within its sphere of influence
+  * Have a clear relationship to a parent OKR, and function to advance for the organization's high-level OKRs
+* **Collaboration**
+  * All teams bring their OKRs to their leaders and peer teams and explain why they chose their goals&#x20;
+  * And how they believe achieving those goals will help the organization reach its high-level OKRs
+* **Revise and publish**
+  * Following the collaborative conversations, teams revise their OKRs as needed, then publish their final OKRs for the period
+
+### Chapter 8: Common Questions About Writing OKRs
+
+#### General Questions About OKRs
+
+* _Should everything get an OKR?_
+  * Make a distinction between important business as usual work and OKRs
+  *   Most organizations distinguish between OKRs and Business as Usual
+
+      (BAU) metrics
+* _Where do the numbers come from?_
+  * Choose numbers that are realistic but also ambitious enough to make a difference to the organization
+* _Does every key result have to be an outcome? Every time? Really?_
+  * Yes, every one, every time.
+
+#### Questions About Teams
+
+* _Should we have individual OKRs?_
+  * No. Keep OKRs at the team level
+  * The moment your key result becomes an output : your team stops working on the problem of creating
+* _Does every team need its own OKRs?_
+  * No, in some cases, teams can share OKRs
+  * Dependent teams can share an OKR and work together to achieve it
+* _Should OKRs be cross-functional, or should each discipline have its own?_
+  * OKRs should not be discipline-centric
+  * They should be cross-functional
+
+The **most common pitfalls** teams encounter when writing OKRs are as follows:&#x20;
+
+* Writing key results as task lists
+* Reverse engineering key results to fit your team's to-do lists
+* Choosing key results that are measures of system behavior instead of customer behavior
+* Sandbagging key results metrics
+
+### Chapter 9: The OKR Cycle
+
+<figure><img src="../../../.gitbook/assets/IMG_5152.JPG" alt=""><figcaption></figcaption></figure>
+
+#### 1: Organizational Strategy and OKRs
+
+The process begins with setting organizational strategy and goals : this happens annually each year.
+
+#### 2: Setting Team-Level OKRs
+
+Teams will set their OKRs annually and revisit them during their quarterly check-ins.
+
+#### 3: Execution
+
+* Once our goals are set, we get to work
+* One of the most magical properties of OKRs is that the only thing that matters is results
+* Execution is **timeboxed :** work on something until your next check-in meeting
+
+#### 4: Learning
+
+* Sometimes, you know exactly what you need to do to create results
+  * Get started and monitor your results
+* Sometimes, you're not sure about the best way to generate results
+  * Might have a list of promising ideas
+
+{% hint style="info" %}
+Sometimes called research or discovery, this refers to the learning tactics that you can use to test your ideas and learn why they're working or not working.
+{% endhint %}
+
+#### 5: Checking In
+
+Most organizations use two different kinds of check-ins:
+
+* **Monthly**: smaller and less formal
+  * Gather your team, immediate stakeholders, and key collaborators to look at the results you've generated so far
+  * Share what you've learned along the way
+  * Evaluate your progress
+  * Then decide on any adjustments you might need to make to your tactics
+* **Quarterly**: more structured, with a greater emphasis on strategic course correction
+  * The opportunity to either recommit to their OKRs, adjust them if necessary, or in some cases, even discard them and write new ones
+
+#### Communication Is Key
+
+The crucial element underlying every stage of the OKR Cycle is communication:&#x20;
+
+* Consistent
+* Continuous
+* Transparent among all stakeholders
+
+### Chapter 10: Working with OKRs
+
+{% hint style="info" %}
+What OKRs are not:
+
+* They don't contain solutions to your problems
+* They aren't task lists
+* They aren't project plans
+* They aren't specifications or requirements
+* They aren't to-do lists
+{% endhint %}
+
+#### The Process of Working with OKRs
+
+Leaning = at the heart of successful OKR implementation.
+
+* **Review the problem** that you are trying to solve.
+  * Key result is an outcome and should be written in this form:&#x20;
+    * `who + does what + by how much`
+    * The problem lives inside this statement
+    * You're trying to get your "who" to do more or less of something
+* **Brainstorm solutions** for ways to achieve your key results.
+  * Ways that you might get your "who" to "do what."
+* **Decide** what you are going to work on first and how you are going to approach it.
+* **Execute**: Do the work using an experimental, learning-centric, and customer-centric approach.
+* **Measure your results**.
+  * OKRs are all about creating results.&#x20;
+  * Whether you're executing or learning, you're trying to make progress and generate results.
+  * When you complete a piece of work, you want to measure your results.
+* **Evaluate and learn**.&#x20;
+  * Consider what you ve learned from that work.
+  * Prepare to start another cycle of learning and execution.
+* Repeat the process -executing, measuring, evaluating, and learning — as you work toward your key result.
+
+<figure><img src="../../../.gitbook/assets/image (719).png" alt=""><figcaption></figcaption></figure>
+
+#### Hypotheses
+
+It can be helpful to express your ideas as testable **hypotheses**.
+
+{% hint style="info" %}
+We believe that \[making or doing this thing]
+
+Will achieve \[this outcome].
+{% endhint %}
+
+Example:&#x20;
+
+> We believe that running ads in the local newspaper Will increase foot traffic in our stores by 50%.
+
+Or
+
+{% hint style="info" %}
+**We believe that doing this:**
+
+_Running ads in the local newspaper_
+
+
+
+**Will achieve our outcome, which is:**
+
+**Who**: _breakfast buyers_
+
+**Does what**: enter our store
+
+**By how much**: _increase of 50%._
+{% endhint %}
+
+#### Collecting Data
+
+2 kinds of data:
+
+* **Quantitative data = numbers**
+  * Measurements of customer behavior
+  * Often gathered through analytics tools
+  * Tell you what is happening and how well you're progressing
+* **Qualitative data = words** (and things you can't count)
+  * What you get from your interactions with your customers
+  * It helps explain the numbers&#x20;
+    * Can also help you figure out what adjustments you might want to make to your work
