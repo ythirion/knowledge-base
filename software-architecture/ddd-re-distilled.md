@@ -10,7 +10,7 @@ description: This article is an abstract of the book DDD Distilled written by Va
 
 <div align="center">
 
-<img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="">
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="">
 
 </div>
 
@@ -38,7 +38,7 @@ Domain Driven Design a.k.a DDD is an approach to software development.
 * DDD is definitely NOT about technology.
 * DDD is all about the domain.
 
-![Eric Evans - 2003 "The Blue book"](<../.gitbook/assets/image (2) (1) (1).png>)
+![Eric Evans - 2003 "The Blue book"](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 There are 2 kinds of patterns in DDD :
 

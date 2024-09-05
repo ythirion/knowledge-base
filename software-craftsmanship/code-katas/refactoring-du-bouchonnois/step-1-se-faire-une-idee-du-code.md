@@ -29,7 +29,7 @@ Nos outils et l'écosystème de développement nous permettent de récolter rapi
 
 Lancer une première compilation afin d'identifier de potentiels problèmes.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Première compilation...</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Première compilation...</p></figcaption></figure>
 
 On a déjà une première boucle de feedback de la part de notre compilateur nous indiquant que certains `fields` sont déclarés comme `non-nullable` mais pas initialisés.
 
@@ -39,7 +39,7 @@ La structure d'une solution / projet est un indicateur de l'architecture sous-ja
 
 Pour en savoir plus : [Screaming Architecture](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="350"><figcaption><p>Arborescence du projet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="350"><figcaption><p>Arborescence du projet</p></figcaption></figure>
 
 Ici on peut tout de suite comprendre plusieurs éléments :
 
@@ -54,7 +54,7 @@ Ici on peut tout de suite comprendre plusieurs éléments :
 
 On jette un oeil sur les packages référencés afin de comprendre si le système intéragit avec d'autres systèmes (via gRPC, REST API, Integration Bus, Cloud Services, ...)
 
-<img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="original">
 
 A part les références au framework, aucune dépendance n'est "exotique". Les seuls packages utilisés sont ceux pour les tests.
 

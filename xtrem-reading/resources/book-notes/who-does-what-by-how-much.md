@@ -18,7 +18,7 @@ However, using OKRs isn’t just about writing goals in a new way. It requires c
 
 In Who Does What by How Much?coauthors and OKR experts Jeff Gothelf and Josh Seiden provide a clear, how-to guide for employees in all industries to learn how to put customers front and center, so you can get to work on the right things, navigate uncertainty and achieve greater success.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Notes
 
@@ -219,11 +219,11 @@ OKRs provide a way to focus on work that makes a real difference by creating out
 
 > Success means that you've created a valuable outcome.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Logic Model
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The core idea of this model is that we make outputs, which hopefully create outcomes.
 * Ultimately, we hope that the outcomes contribute to our long-term goals. We call those long-term goals " impact."
@@ -622,3 +622,184 @@ _Running ads in the local newspaper_
   * What you get from your interactions with your customers
   * It helps explain the numbers&#x20;
     * Can also help you figure out what adjustments you might want to make to your work
+
+### Chapter 11: Checking In
+
+3 kinds of OKR check-in meetings:
+
+* **Weekly check-in**: a pulse check
+  * Used to quickly monitor progress
+  * How the team is feeling about that progress
+* **Monthly check-in:** for teams to review their progress and make decisions about what to work on next
+  * This is typically a meeting of the immediate team and supervisor.
+* **Quarterly check-in:** for teams and their leaders.
+  * To determine if they've hit their OKRs
+  * If they should set new ones or keep working toward the ones they've had
+  * This meeting is usually attended by a larger group, including more senior leaders and peer teams
+
+{% hint style="danger" %}
+The focus is on the bigger question: _**How are each team's results contributing to the larger goals of the organization?**_
+{% endhint %}
+
+* **Retrospective meeting**: used to talk about and improve the working process and the process of using OKRs.
+
+#### Your Primary Measure of Progress: Outcomes
+
+#### A Secondary Progress Assessment: Confidence
+
+> How confident are you that we're going to achieve our result?
+
+* Use any scale you like —some teams use a quick vote, holding up zero to five fingers to indicate their confidence level.
+
+#### Another Secondary Progress Assessment: Scoring
+
+One thing to keep in mind, is that "scoring" is a secondary assessment.
+
+> When all is said and done, it's not the scores that matter-it's the results.
+
+#### Example: The Monthly Check-in Meeting
+
+* _Who_: The immediate team plus stakeholders
+* **Opening**
+  * Share the data
+  * Work-in-progress review
+  * Optional: Confidence review
+  * Stakeholder context updates
+* **Middle**
+  * Learning, issues. obstacles, and opportunities
+  * Obstacles
+  * OKR confirmation: conform or adjust OKRs
+* **Closing**
+  * Next steps
+
+{% hint style="success" %}
+Check-ins are regular meetings that help you mitigate the risks of your assumptions (OKRs).
+{% endhint %}
+
+### Chapter 12: Planning with OKRs
+
+To filter your work with OKRs, gather all of your to-do lists, plans, backlogs, commitments, etc.&#x20;
+
+Then, create four lists:
+
+* ﻿﻿_A Keep Doing_ list
+* ﻿﻿_A Maybe_ list
+* ﻿﻿_A Stop Doing_ list
+* ﻿﻿_A Start Doing_ list
+
+Then, for every existing work item, ask: _**Will this activity help us achieve one of our key results?**_
+
+* If the answer is "yes," add the item to a Keep Doing list.
+* If the answer is "maybe," add it to a Maybe list.
+* If the answer is "no," add the item to a Stop Doing list.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### Build a Roadmap driven by KRs
+
+* **Step 1: Change the question.**
+  *   The old questions: What will we build? When will we be done?
+
+      The new questions: What results are we seeking? What outcomes are we trying to create? What will people be doing differently if we succeed?
+* **Step 2: Embrace learning activities.**
+  * Learning activities can provide more answers-and better answers-than your guesses can.
+* **Step 3: Build an outcome-based product roadmap.**
+  * Instead of thinking about a roadmap as a fixed plan
+  * Think about your outcome-based roadmap as _**a communication tool that shows your intentions**_.
+* **Step 4: Review your roadmaps at the beginning of each new cycle.**
+
+### Chapter 13: Start With Why
+
+* Why do you want to use OKRs? What are you trying to improve? What problem are you solving?&#x20;
+  * Be clear about that before you start
+* Get people invested
+  * Be clear about the vision to build buy-in.
+  * What will be better on the other side?
+  * How will people's lives improve?
+
+### Chapter 14: Supporting OKRs from the Top
+
+* Start with Why
+* Provide a Clear Strategy and High-Level OKRs First
+  * Without strategy, what will people align around?
+* Trust the Process and Your Teams
+  * OKRs replace command and control leadership with **aligned autonomy**
+  * OKRs remove prescription from the equation
+  * Trusting your teams isn't always enough
+    * Ensuring your teams know how to proceed once the prescriptive assignments have been removed
+  * Aligned autonomy requires **transparency**
+* Support Learning Work
+  * Experiment and look at the data and feedback you get from customers-again and again and again
+* Provide Universal Access to Data
+  * Data-both qualitative and quantitative-is the heart of successful OKR implementation
+  * Teams across the company need access to it
+* Create a Safe Culture of Learning
+  * Foster psychological safety and celebrate learning in everything
+  * Foster psychological safety and celebrate learning in everything
+    * "a belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes, and that the team is safe for interpersonal risk-taking."
+  * Build a culture that celebrates learning by making learning the path of least resistance.
+* Model the Values You Want to See in Your Culture
+  * For new cultures to take hold, leaders must model them.
+  * In the trenches with them
+* Design the organization for collaboration and agility
+  * Enable Reorganization
+    * some of new activities may also require a new team or business entity altogether
+
+{% hint style="info" %}
+When you look at the business through the lens of the OKRs you're working toward, your work is no longer local to one team: It's collective.
+{% endhint %}
+
+### Chapter 15: Managing Up, Changing Responsibilities
+
+* **Tie Everything Back to OKRs**
+  * Your leaders should do this for you:&#x20;
+    * Tell you a compelling story that makes a clear connection between the OKRs and their decisions and directives
+    * _"Which of our OKRs will that help achieve?"_
+      * "If we can't tie it to our OKRs, it's hard to justify prioritizing
+* Changing the Responsibilities of **Middle Managers**
+  * Use your skills in new ways, helping you truly lead instead of just (micro-)manage:
+    * Ensuring the team's OKRs and work are aligned with strategic direction
+    * Clarifying the team's purpose
+    * Setting guidelines and constraints around the team's scope of work
+    * Clearing the team's path of organizational hurdles and ensuring they have what they need to do their best work
+    * Making key decisions when the team needs guidance
+
+#### Adjust Performance Management Criteria
+
+* Make sure that your incentives are driving people together rather than creating conflict
+* Expect people to orient their work toward those OKRs
+
+{% hint style="danger" %}
+Do not create individual OKRs and then use them for individual performance management.
+{% endhint %}
+
+One way to evaluate individual performance in the OKR world is to **use the 7 key principles of OKRs:** focus, autonomy, alignment, accountability, transparency, agility, and customer-centricity.
+
+<table><thead><tr><th width="271">What</th><th>How</th></tr></thead><tbody><tr><td>Focus, Accountability, and Prioritization</td><td>Evaluate how well the individual used their time in service of the OKR.</td></tr><tr><td>Agility and Learning</td><td>Evaluate how well a person incorporates learning activities into their work cycle and how well they use evidence to inform their work and make decisions.</td></tr><tr><td>Alignment, Autonomy, and Collaboration</td><td><ul><li>Evaluate how well individual team members collaborate and communicate with one another.</li><li>Evaluate how well they balance personal needs, local interests, and company mission.</li></ul></td></tr><tr><td>Transparency and Knowledge-Sharing</td><td>Evaluate how well individual team members share information with one another, as well as their ability to share information effectively across the organization.</td></tr><tr><td>Customer-centricity</td><td>Evaluate how effectively an individual works to understand the customer and their experiences and serve their needs.</td></tr></tbody></table>
+
+### Chapter 16: Scaling OKRs
+
+{% hint style="info" %}
+Instead of cascading, think of scaling your OKRs like a family tree.&#x20;
+
+Every OKR needs to have a parent.
+{% endhint %}
+
+1. Every goal set at every level of the organization supports the higher purpose. You can trace it all the way up to the strategy.
+2. ﻿﻿﻿Every goal has an owner. Owners drive accountability.
+3. ﻿﻿﻿Leaders still get a top-down discipline while allowing for flexibility and creative contribution from the bottom up.
+
+#### Teams can share OKRs
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### OKR Support Is a Full-Time Job
+
+* Requires people to do that work.
+  * This can be a group of coaches, managers, or a blend of the two.
+
+{% hint style="success" %}
+Don't cascade your OKRs down to your teams from the top.&#x20;
+
+Set high-level goals and let the teams provide their own OKRs supporting the higher goal.
+{% endhint %}
