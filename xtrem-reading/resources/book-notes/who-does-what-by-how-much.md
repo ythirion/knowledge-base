@@ -20,6 +20,14 @@ In Who Does What by How Much?coauthors and OKR experts Jeff Gothelf and Josh Sei
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+## Book Infographic
+
+<figure><img src="../../../.gitbook/assets/who-does-what-by-how-much.webp" alt=""><figcaption><p>"Who Does What By How Much?" - Book Infographic  by Yoan Thirion</p></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/who does what by how much.pdf" %}
+High Resolution Book Infographic
+{% endfile %}
+
 ## Notes
 
 ### Introduction
