@@ -4,6 +4,10 @@
 Download Yoan Thirion's book infographics
 {% endfile %}
 
+* [_**Who Does What By How Much?**_](https://okr-book.com)[ ](https://okr-book.com/)by [_Jeff Gothelf_](https://www.linkedin.com/in/gothelf/) & [_Josh Seiden_](https://www.linkedin.com/in/jseiden/) _- September 2024_
+
+<figure><img src="../.gitbook/assets/who-does-what-by-how-much.webp" alt=""><figcaption><p>Who does what by how much? book infographic by Yoan Thirion</p></figcaption></figure>
+
 * [_**Réaliser ses rêves, ça s'apprend**_](https://thomasgibot.fr/livre/) _par_ [_Thomas Gibot_](https://thomasgibot.fr/) _- November 2023_
 
 <figure><img src="../.gitbook/assets/réaliser-ses-rêves_-ça-s_apprend.webp" alt=""><figcaption><p>Infographie du livre "Réaliser ses rêves, ,ca s'apprend" par Yoan Thirion</p></figcaption></figure>
