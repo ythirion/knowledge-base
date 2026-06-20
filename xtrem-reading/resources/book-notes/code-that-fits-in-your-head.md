@@ -32,7 +32,7 @@ If you’ve ever suffered through bad projects or had to cope with unmaintainabl
 
 ![Code that fits in your head infographic by Yoan Thirion](../../../.gitbook/assets/Code-that-fits-in-your-head.webp)
 
-{% file src="../../../.gitbook/assets/Code that fits in your head (1).pdf" %}
+{% file src="../../../.gitbook/assets/Code that fits in your head (2).pdf" %}
 Code that fits in your head infographic by Yoan Thirion
 {% endfile %}
 
@@ -218,7 +218,7 @@ This book can help transition from programmer to software engineer
   * Gets harder to work with the code base
     * because your painstakingly acquired knowledge no longer applies&#x20;
 
-![](../../../.gitbook/assets/IMG\_4311.jpg)
+![](../../../.gitbook/assets/IMG_4311.jpg)
 
 * Triangulation : `as the tests get more specific, the code gets more generic`
 * Add more test cases until you've defeated the Devil

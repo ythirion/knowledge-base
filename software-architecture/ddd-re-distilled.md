@@ -8,11 +8,7 @@ description: This article is an abstract of the book DDD Distilled written by Va
 
 > Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure. - Melvin Conway
 
-<div align="center">
-
-<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="">
-
-</div>
+<div align="center"><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""></div>
 
 Style of code reflects the way the people and teams in your company communicate or produce software architectures matching their current structure.
 
@@ -38,11 +34,11 @@ Domain Driven Design a.k.a DDD is an approach to software development.
 * DDD is definitely NOT about technology.
 * DDD is all about the domain.
 
-![Eric Evans - 2003 "The Blue book"](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![Eric Evans - 2003 "The Blue book"](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 There are 2 kinds of patterns in DDD :
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 Often people focuses only on the tactical ones (closer to the code) but it is really mandatory before starting anything to start with a strategy.
 
@@ -306,8 +302,7 @@ After an Event Storming session participants have a shared understanding of the 
 
 ![](<../.gitbook/assets/image (41).png>)
 
-Find more about the outcomes in this great article from Philippe Bourgau : [https://philippe.bourgau.net/5-views-to-capture-the-outputs-of-an-event-storming-workshop/\
-](https://philippe.bourgau.net/5-views-to-capture-the-outputs-of-an-event-storming-workshop/)
+Find more about the outcomes in this great article from Philippe Bourgau : [https://philippe.bourgau.net/5-views-to-capture-the-outputs-of-an-event-storming-workshop/<br>](https://philippe.bourgau.net/5-views-to-capture-the-outputs-of-an-event-storming-workshop/)
 
 ### Document your bounded contexts
 
@@ -423,9 +418,9 @@ Here are great books on DDD :
 * [Legacy Architecture Modernisation With Strategic Domain-Driven Design](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f)
 * [DOMA at Uber](https://eng.uber.com/microservice-architecture/)
 * [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
-* [DDD & Team Topologies for Product-Led organizations](https://miro.com/app/board/o9J\_lkqPni8=/?invite\_link\_id=441833049335)
+* [DDD & Team Topologies for Product-Led organizations](https://miro.com/app/board/o9J_lkqPni8=/?invite_link_id=441833049335)
 
 {% embed url="https://speakerdeck.com/thirion/ddd-re-distilled" %}
 
 * [Domain Events vs Change Data Capture](https://medium.com/swlh/domain-events-versus-change-data-capture-e426772f76e5)
-* [Event Storming Best Practices](https://miro.com/app/board/o9J\_ksetago=/)
+* [Event Storming Best Practices](https://miro.com/app/board/o9J_ksetago=/)

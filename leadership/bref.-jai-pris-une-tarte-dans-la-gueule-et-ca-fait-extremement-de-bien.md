@@ -6,9 +6,9 @@ description: Texte à paraître dans le prochain tome de Rupture Douce 7
 
 ## Introduction
 
-En bref, outre pouvoir passer plus de temps en famille; ce temps "gagné" en 2020 fut l'occasion pour moi de rattraper, tout du moins en partie, mes lectures en retard. Comme de nombreux passionnés je suis atteint de ce que les japonais appellent TSUNDOKU (積ん読) ou accumulation de livres**.**
+En bref, outre pouvoir passer plus de temps en famille; ce temps "gagné" en 2020 fut l'occasion pour moi de rattraper, tout du moins en partie, mes lectures en retard. Comme de nombreux passionnés je suis atteint de ce que les japonais appellent TSUNDOKU (積ん読) ou accumulation de livre&#x73;**.**
 
-![](https://lh3.googleusercontent.com/ING52TopzhDktKoZv7fTadwnG6r\_0El-mEq54QevXCP5l1SltueUpNGlT8DyF9TF4lLOAn-KQbTptxXZt2pbsA08HRQAOZRMVPQTG-gVexjCYXzg\_3T9R-MxIs5-lpc80B6A6dc)
+![](https://lh3.googleusercontent.com/ING52TopzhDktKoZv7fTadwnG6r_0El-mEq54QevXCP5l1SltueUpNGlT8DyF9TF4lLOAn-KQbTptxXZt2pbsA08HRQAOZRMVPQTG-gVexjCYXzg_3T9R-MxIs5-lpc80B6A6dc)
 
 Dans ma fameuse pile de livres m'attendait sagement le nouveau livre de L. David Marquet : "**Leadership is Language**".
 
@@ -22,7 +22,7 @@ Comme toute bonne histoire, celle-ci commence par une bonne grosse "tarte dans l
 
 C'était une tarte de puissance 20 (a minima).
 
-![Moi après ma tarte](https://lh6.googleusercontent.com/wTbkdz83286Cl2bFiLCwx\_\_BDDxUVxmNIpsJ1pyS3LSJ575sXXDQ45zwNw5aPF0kaxxnzpoC63rFMuHqepVLbP57F\_UWbto3RzGOyHOJf\_Toyts41vCoqWyyEj7S9V86kBP-8\_I)
+![Moi après ma tarte](https://lh6.googleusercontent.com/wTbkdz83286Cl2bFiLCwx__BDDxUVxmNIpsJ1pyS3LSJ575sXXDQ45zwNw5aPF0kaxxnzpoC63rFMuHqepVLbP57F_UWbto3RzGOyHOJf_Toyts41vCoqWyyEj7S9V86kBP-8_I)
 
 ### D'où sort ce nombre ?
 
@@ -39,13 +39,13 @@ Avec :&#x20;
 
 Mon objectif étant de te faire vivre toi-même ce moment, je ne t'en dirai pas plus à cette étape et te propose de dérouler un atelier (que tu pourras rejouer à l'extérieur de ce livre).
 
-Comme tout atelier que je prépare depuis ma découverte de l'excellent "[_**Training From The Back of The Room**_](https://bowperson.com/)" je l'ai préparé en utilisant le formats [4C](https://wikiagile.cesi.fr/index.php?title=4C\_Canevas\_de\_formation). J'en profite pour te remercier Laurent pour cette belle découverte : une autre tarte dans la gueule je dois l’admettre.
+Comme tout atelier que je prépare depuis ma découverte de l'excellent "[_**Training From The Back of The Room**_](https://bowperson.com/)" je l'ai préparé en utilisant le formats [4C](https://wikiagile.cesi.fr/index.php?title=4C_Canevas_de_formation). J'en profite pour te remercier Laurent pour cette belle découverte : une autre tarte dans la gueule je dois l’admettre.
 
 ## Connexion
 
 Repense aux dernières célébrations, félicitations que tu as formulé à tes proches ou au travail :
 
-![](https://lh5.googleusercontent.com/3AtabOrunW-pr8Wuz5Ut3O0gYS0AQTzWazVUSou68ohHmShcdW48-8KPkA59\_5ODFYvNpzUzGdoL1iesuJtjxD8jSb9xH959bl317goXCcBnFWTsAiIvgiwI89pnuxYY9WAHJro)
+![](https://lh5.googleusercontent.com/3AtabOrunW-pr8Wuz5Ut3O0gYS0AQTzWazVUSou68ohHmShcdW48-8KPkA59_5ODFYvNpzUzGdoL1iesuJtjxD8jSb9xH959bl317goXCcBnFWTsAiIvgiwI89pnuxYY9WAHJro)
 
 ## Concepts
 
@@ -74,11 +74,11 @@ C'est exactement le genre de choses que je fais depuis maintenant 33 ans... La t
 
 #### Motivation extrinsèque et intrinsèque
 
-![](https://lh4.googleusercontent.com/L6zwMLG1Vy0RPKKkkemSzg-lQccgUviB1s9IWhVSFT0V2f\_203AQQKlKdWkTWDq8Hig1j4SbnXlY4QY7Wmd9BspC731xItO8LI3qkaJW5wpu9PNln5kupnLihcEwzxHBZajYCew)
+![](https://lh4.googleusercontent.com/L6zwMLG1Vy0RPKKkkemSzg-lQccgUviB1s9IWhVSFT0V2f_203AQQKlKdWkTWDq8Hig1j4SbnXlY4QY7Wmd9BspC731xItO8LI3qkaJW5wpu9PNln5kupnLihcEwzxHBZajYCew)
 
 ### La solution ? "Célébrer avec" plutôt que "Célébrer pour"
 
-![Célébrer avec (par Aurélien Morvant)](https://lh6.googleusercontent.com/TQHbC14LfqCQJW2uWxF956czbQCMXLDYnNgPVaLjzCVDTuDwGlFjwvRlEOxv1HprFC\_LeznuJ0InSnXHakhzbiS8FB\_Efv71FIv1kWWy\_0hcpr\_Jl-Gt8d\_KeIakdjdkhiEq9Zc)
+![Célébrer avec (par Aurélien Morvant)](https://lh6.googleusercontent.com/TQHbC14LfqCQJW2uWxF956czbQCMXLDYnNgPVaLjzCVDTuDwGlFjwvRlEOxv1HprFC_LeznuJ0InSnXHakhzbiS8FB_Efv71FIv1kWWy_0hcpr_Jl-Gt8d_KeIakdjdkhiEq9Zc)
 
 Ce que je t'ai décrit ci-dessus c'est ce que l'auteur appelle "Célébrer pour". Il présente une alternative permettant de préserver la motivation intrinsèque des individus qu'il a appelé : "Célébrer avec".&#x20;
 
@@ -96,7 +96,7 @@ Cela passe par :
 
 Je vais reformuler l'exemple ci-dessus en célébrant avec ma fille :&#x20;
 
-![](https://lh5.googleusercontent.com/YNWsJ-uFo1yR8QGowbQULdqKKkjznEdH\_dJJidoDRxwoQ3DGvdIKynbSzn2yx8AZCrmjIgcMg0RnDAvJfF9N2frRtLA7a1wfSGwBOfcSOmklGtwG8Jt0hoYFrjeIjAd-lm\_s62I)
+![](https://lh5.googleusercontent.com/YNWsJ-uFo1yR8QGowbQULdqKKkjznEdH_dJJidoDRxwoQ3DGvdIKynbSzn2yx8AZCrmjIgcMg0RnDAvJfF9N2frRtLA7a1wfSGwBOfcSOmklGtwG8Jt0hoYFrjeIjAd-lm_s62I)
 
 ## Pratique Concrète
 

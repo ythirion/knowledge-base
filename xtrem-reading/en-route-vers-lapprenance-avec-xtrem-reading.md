@@ -41,9 +41,9 @@ L’apprenance est au cœur de l’agilité, elle transpire dans les principes d
 
 Alistair Cockburn l’a très bien illustré avec son [_Heart of Agile_](https://heartofagile.com/) que l’on peut voir comme un retour aux sources de l’Agilité. Dans celui-ci on retrouve des associations telles que _Réfléchir/Améliorations_, _Livrer/Apprendre._
 
-![](https://miro.medium.com/max/549/0\*GQ1pEn4bvh6zPplO.png)
+![](https://miro.medium.com/max/549/0*GQ1pEn4bvh6zPplO.png)
 
-## L’apprentissage en entreprise <a href="#6d8c" id="6d8c"></a>
+## L’apprentissage en entreprise <a href="#id-6d8c" id="id-6d8c"></a>
 
 L’université de Princeton a développé sur la base d’enquêtes et d’études, le modèle d’apprentissage _70/20/10_ qui découpe en trois domaines distincts notre façon d’apprendre et de nous former :
 
@@ -55,7 +55,7 @@ Au sein des entreprises où je suis intervenu, la formation est majoritairement 
 
 Concernant les 20 %, il existe encore trop peu de pratiques au sein des organisations favorisant les échanges et la stimulation de l’intelligence collective.
 
-## Et en pratique ? <a href="#0ea7" id="0ea7"></a>
+## Et en pratique ? <a href="#id-0ea7" id="id-0ea7"></a>
 
 Comment pouvons-nous développer ces 20 % ? Quelles activités permettent d’apprendre continuellement ? Comment favoriser les échanges entre les collaborateurs et ainsi créer une expérience autour de l’apprentissage ?
 
@@ -68,7 +68,7 @@ Tout a commencé par :
 * Une interrogation : à l’heure actuelle, quelles sont nos méthodes d’apprentissage ?
 * Et un constat : même dans un monde ultra digitalisé, [la lecture reste un des moyens les plus utilisés pour étendre ses connaissance](https://bookboon.com/en/21st-century-corporate-learning-development-ebook), développer de nouvelles compétences ou découvrir de nouveaux sujets.
 
-> _La lecture est toujours le principal moyen d’apprendre de nouvelles choses et de tester ma compréhension. (_Bill Gates)
+> _La lecture est toujours le principal moyen d’apprendre de nouvelles choses et de tester ma compréhension. (_&#x42;ill Gates)
 
 Un point nous gênait avec la lecture : telle qu’on nous l’a enseignée, c’est une activité qui est exercée en solitaire.
 
@@ -76,37 +76,37 @@ Un point nous gênait avec la lecture : telle qu’on nous l’a enseignée, c�
 
 Cédric et moi avons décidé d’adopter une démarche _Design Thinking_ pour répondre à cette problématique. Cela nous a permis de définir notre problème, générer des idées, expérimenter avec des utilisateurs pour enfin aboutir à une pratique que nous avons appelée : [_**Xtrem Reading**_](https://xtrem-reading.com/).
 
-![](https://miro.medium.com/max/1782/0\*54F55LtiD-H98dsY.png)
+![](https://miro.medium.com/max/1782/0*54F55LtiD-H98dsY.png)
 
-### Xtrem Reading : comment ça marche ? <a href="#6413" id="6413"></a>
+### Xtrem Reading : comment ça marche ? <a href="#id-6413" id="id-6413"></a>
 
 _Xtrem Reading_ est un format d’atelier facile à dérouler qui nécessite un facilitateur (ou plutôt un gardien du temps), une salle, des volontaires et des livres.
 
 Une session _d’Xtrem Reading_ se déroule de la manière suivante :
 
-![](https://miro.medium.com/max/180/1\*a9dlAp44JJDZSsw0H794AA.png)
+![](https://miro.medium.com/max/180/1*a9dlAp44JJDZSsw0H794AA.png)
 
 * Les participants sont invités à _apporter un livre_ de leur choix qu’ils n’ont pas encore pu lire (souvent celui qui traîne sur leur table de nuit)
 
-![](https://miro.medium.com/max/180/1\*FmVYN6zB94\_KYzZ3qhq6mQ.png)
+![](https://miro.medium.com/max/180/1*FmVYN6zB94_KYzZ3qhq6mQ.png)
 
 * Ils _partagent_ ensuite leur choix avec les autres participants en expliquant ce qu’ils espèrent découvrir dans ce livre.
 
-![](https://miro.medium.com/max/355/1\*m68xHoJTibhCgRlSKZsyYQ.png)
+![](https://miro.medium.com/max/355/1*m68xHoJTibhCgRlSKZsyYQ.png)
 
 * Suite au partage, les participants s’organisent pour _former des groupes d’intérêts de 2 ou 3 personnes._
 
-![](https://miro.medium.com/max/355/1\*6PeYXF-HJW1cJx13NL0TYA.png)
+![](https://miro.medium.com/max/355/1*6PeYXF-HJW1cJx13NL0TYA.png)
 
 Durant _2 itérations_ de 15 à 25 minutes, les participants _lisent_, en survolant, _2 livres._ **L’objectif est d’en ressortir l’essentiel pour pouvoir le présenter aux autres.** Habituellement, les personnes utilisent des techniques de lecture rapide et de prise de notes telle que le _mind mapping_ pour y parvenir aisément.
 
-![](https://miro.medium.com/max/180/1\*jV\_yeVDLf9IU\_Nw8mXOQVQ.png)
+![](https://miro.medium.com/max/180/1*jV_yeVDLf9IU_Nw8mXOQVQ.png)
 
 Au sein de chaque groupe, 5 à 10 minutes sont consacrées par livre afin _d’exposer_ ce qui a été _découvert._
 
 Cette étape est souvent très surprenante et intéressante puisque, sur une lecture de seulement 15 à 25 minutes, les participants sont capables de ressortir une quantité d’informations incroyable.
 
-![](https://miro.medium.com/max/180/1\*DS4vK6VDEbXYhcVGeu30HA.png)
+![](https://miro.medium.com/max/180/1*DS4vK6VDEbXYhcVGeu30HA.png)
 
 A la fin, chaque lecteur peut _noter_ dans une fiche de lecture _son sentiment_ sur la facilité de lecture du livre, ainsi qu’une recommandation.
 
@@ -114,7 +114,7 @@ A la fin, chaque lecteur peut _noter_ dans une fiche de lecture _son sentiment_ 
 Bon à savoir : ce format fonctionne très bien pour explorer des livres « techniques » ou des articles mais ne s’utilise pas pour des livres de fiction (à moins que vous ne vouliez vous gâcher le plaisir).
 {% endhint %}
 
-## Ce qu’on a appris avec Xtrem Reading <a href="#37de" id="37de"></a>
+## Ce qu’on a appris avec Xtrem Reading <a href="#id-37de" id="id-37de"></a>
 
 Depuis que nous avons mis sur pied cet atelier, nous avons facilité des dizaines de sessions avec au total plus de 300 personnes différentes, et dans des contextes différents (au sein de notre entreprise avec nos pairs, chez des clients, dans des communautés spécifiques ou même lors de conférences).
 
@@ -122,7 +122,7 @@ _Nous avons modifié le format pour pouvoir le dérouler en remote : cela fera l
 
 Forts de ces expériences diverses, nous avons pu constater que :
 
-* **Lire **_**2 livres en 1 heure**_** à la **_**Clark Kent** (le super héros à la tunique bleue et au slip rouge)_ _c’est possible._ On est tous en capacité de faire… mais différemment de ce qu’on pense en premier lieu.
+* **Lire&#x20;**_**2 livres en 1 heure**_**&#x20;à la&#x20;**_**Clark Kent** (le super héros à la tunique bleue et au slip rouge)_ _c’est possible._ On est tous en capacité de faire… mais différemment de ce qu’on pense en premier lieu.
 * Lire en ayant en tête de partager est incroyablement efficace pour améliorer la rétention : **la meilleure façon d’apprendre est d’enseigner.**
 * On a tous des systèmes de pensée différents et c’est là où réside la vraie richesse. Lors du partage chaque lecteur peut avoir vu et retenu des choses différentes. Les croiser est incroyablement riche et va permettre de _**créer une expérience émotionnelle autour d’un livre**._
 * Cela permet aux participants de _**découvrir des sujets qu’ils n’auraient pas soupçonnés aimer** ;_ ou _a contrario_ de se rendre compte qu’un sujet ne les intéresse pas et cela sans avoir investi plus d’une heure de leur temps.
@@ -147,7 +147,7 @@ J’ai écrit ce texte dans le cadre de l’écriture d’un ouvrage collectif :
 
 Si vous voulez découvrir d’autres belles histoires je vous invite à découvrir les différents tomes ici : [https://laurentsarrazin78.wixsite.com/rupture-douce/home](https://laurentsarrazin78.wixsite.com/rupture-douce/home)
 
-![](https://miro.medium.com/max/202/0\*EkM8H\_JpeX8pkjnS)
+![](https://miro.medium.com/max/202/0*EkM8H_JpeX8pkjnS)
 
 * Retrouvez les slides utilisées pour présenter / animer des Xtrem Reading dans plusieurs conférences ici :
 

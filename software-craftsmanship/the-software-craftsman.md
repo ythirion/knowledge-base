@@ -14,6 +14,8 @@ I love this book so much that I have created an infography :&#x20;
 
 ![The Software Craftsman Infographic](../.gitbook/assets/The-Software-Craftsman.webp)
 
+{% file src="../.gitbook/assets/The Software Craftsman.pdf" %}
+
 ![The Software Craftsman infography](<../.gitbook/assets/image (283).png>)
 
 ## Book notes

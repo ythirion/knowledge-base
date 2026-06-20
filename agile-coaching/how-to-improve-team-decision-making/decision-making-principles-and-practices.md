@@ -160,7 +160,7 @@ How to help the team have good, valuable and constructive discussions, that invo
 
 ### **Make decisions smaller**
 
-One approach to make progress when stuck in a discussion around a proposal, or when you as team fail to agree on a way forward, is to r_**educe the size of the proposal or slice up the decisions to be made**_.
+One approach to make progress when stuck in a discussion around a proposal, or when you as team fail to agree on a way forward, is to &#x72;_**educe the size of the proposal or slice up the decisions to be made**_.
 
 ![](<../../.gitbook/assets/image (310).png>)
 

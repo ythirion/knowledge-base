@@ -18,7 +18,7 @@ However, using OKRs isn’t just about writing goals in a new way. It requires c
 
 In Who Does What by How Much?coauthors and OKR experts Jeff Gothelf and Josh Seiden provide a clear, how-to guide for employees in all industries to learn how to put customers front and center, so you can get to work on the right things, navigate uncertainty and achieve greater success.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Book Infographic
 
@@ -227,11 +227,11 @@ OKRs provide a way to focus on work that makes a real difference by creating out
 
 > Success means that you've created a valuable outcome.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Logic Model
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The core idea of this model is that we make outputs, which hopefully create outcomes.
 * Ultimately, we hope that the outcomes contribute to our long-term goals. We call those long-term goals " impact."
@@ -345,7 +345,7 @@ Example in practice:&#x20;
 3. ﻿﻿﻿Pull out somewhere between three to six important behaviors: things people do that are important, that create value, either for them, for you, or ideally, both.
 4. ﻿﻿﻿Write down those important behaviors, using the who / does what format
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Helpful Tips
 
@@ -701,7 +701,7 @@ Then, for every existing work item, ask: _**Will this activity help us achieve o
 * If the answer is "maybe," add it to a Maybe list.
 * If the answer is "no," add the item to a Stop Doing list.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Build a Roadmap driven by KRs
 
@@ -799,7 +799,7 @@ Every OKR needs to have a parent.
 
 #### Teams can share OKRs
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### OKR Support Is a Full-Time Job
 

@@ -35,7 +35,7 @@ Imagine you are working for the _**most ethic company on earth**_ :
 ![](<../../.gitbook/assets/image (552).png>)
 
 {% hint style="info" %}
-Almost any professional whose work impacts the public must abide by some sort of e_**thical code of conduct**_.
+Almost any professional whose work impacts the public must abide by some sort of &#x65;_**thical code of conduct**_.
 {% endhint %}
 
 ### Hippocratic Oath
@@ -90,7 +90,7 @@ _**Social exclusion, various environmental impacts, ....**_
 * Will things get better or worse?
 * Most of developers don’t ultimately feel it’s their responsibility if unethical products go live.
   * Are they right?
-  * [Milgram experiment](https://en.wikipedia.org/wiki/Milgram\_experiment)
+  * [Milgram experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
 
 #### Who is responsible ?
 
@@ -163,7 +163,7 @@ Maybe different levels : Developer / Product / Client / Society
 * **Avoid harm to others**.&#x20;
   * Computer systems have an indirect impact on third parties.&#x20;
   * They can cause loss of information and resources that might result severely harmful for users, the general public, or employers.&#x20;
-  * Therefore, software developers should minimize the risk of harming others due to [coding errors](https://en.wikipedia.org/wiki/Error\_code), or security issues, by following standards to design and test systems
+  * Therefore, software developers should minimize the risk of harming others due to [coding errors](https://en.wikipedia.org/wiki/Error_code), or security issues, by following standards to design and test systems
 * **Be honest and trustworthy**.&#x20;
   * This principle encourages programmers to be honest and aware of their limitations in knowledge and education when writing computer systems.&#x20;
   * Also, if a programmer knows there is something wrong with a computer system, he or she should report it immediately to avoid undesirable consequences
@@ -179,7 +179,7 @@ Watch [his video](https://youtu.be/36NgPu9OyRM?list=PLWKjhJtqVAbno-B4RmJHCDO0ZUK
 ### Existing principles
 
 * [5 principles of software ethics](https://thenewstack.io/five-principles-software-ethics/) – Steven Wilmott
-* [Association for Computing Machinery (ACM) code of ethics](https://en.wikipedia.org/wiki/Programming\_ethics)
+* [Association for Computing Machinery (ACM) code of ethics](https://en.wikipedia.org/wiki/Programming_ethics)
 * [The programmer’s Oath ](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)– Uncle Bob
 * [A Code of Ethics for (Agile) Software Developers ](https://medium.com/the-liberators/a-code-of-ethics-for-agile-software-developers-430b9a879be6)? - Christiaan Verwijs
 

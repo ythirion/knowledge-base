@@ -315,7 +315,7 @@ Work at an architectural level to gain insights into the system as a whole.
 * Know if a specific part of the code is a coordination bottleneck
 
 {% hint style="success" %}
-T_he scale of a codebase has to be reflected in both the organization of people and the architecture of the system._
+&#x54;_&#x68;e scale of a codebase has to be reflected in both the organization of people and the architecture of the system._
 {% endhint %}
 
 ### Divide and Conquer with Architectural Hotspots

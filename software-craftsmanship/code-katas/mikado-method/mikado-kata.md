@@ -145,7 +145,7 @@ public class Leeter {
 
 ## Baby steps
 
-We will run this kata in baby steps_**.**_&#x20;
+We will run this kata in baby step&#x73;_**.**_&#x20;
 
 {% hint style="warning" %}
 _The code is really easy and could be rewritten in only a few minutes but the whole exercise has been created to practice Mikado method and to do so the creator proposes to follow those steps **:**_
@@ -314,7 +314,7 @@ So, _**we need to change the chain of dependencies in order to allow us to add t
 Now it’s time for a non-intuitive step, but an important part of the method: Back out broken code.
 
 {% hint style="warning" %}
-_**Step**_** :** Roll back to the tag "Before new client".
+_**Step**_**&#x20;:** Roll back to the tag "Before new client".
 {% endhint %}
 
 The `strangereons` project has compilation problems and we don’t want to do anything there, nor any place else. So, we roll back to the very beginning.

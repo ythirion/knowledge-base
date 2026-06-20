@@ -144,7 +144,7 @@ Limited capacity of your short-term memory :
 The more information you have stored about a specific topic, the easier it is to effectively divide information into chunks.
 {% endhint %}
 
-In 1981 [Katherine McKeithen](https://www.researchgate.net/publication/222462455\_Knowledge\_Organization\_and\_Skill\_Differences\_in\_Computer\_Programmers), a researcher at Bell Labs, tried to repeat de Groot’s experiments on programmers :
+In 1981 [Katherine McKeithen](https://www.researchgate.net/publication/222462455_Knowledge_Organization_and_Skill_Differences_in_Computer_Programmers), a researcher at Bell Labs, tried to repeat de Groot’s experiments on programmers :
 
 ![](<../../.gitbook/assets/image (659).png>)
 
@@ -758,7 +758,7 @@ Study investigating the differences in comprehension between variables written i
 
 #### Code with bad names has more bugs
 
-Study available here : [http://oro.open.ac.uk/17007/1/butler09wcreshort\_latest.pdf](http://oro.open.ac.uk/17007/1/butler09wcreshort\_latest.pdf)
+Study available here : [http://oro.open.ac.uk/17007/1/butler09wcreshort\_latest.pdf](http://oro.open.ac.uk/17007/1/butler09wcreshort_latest.pdf)
 
 #### Feitelson’s three-step model for better variable names
 
@@ -1158,8 +1158,7 @@ One of the reasons that more senior people often struggle with effectively teach
 
 If you want a newcomer to understand a certain piece of the code, ask them to understand a piece rather than giving them an implementation task.&#x20;
 
-For example, ask them to write a summary of an existing class or write down all classes involved in executing a certain feature. \
-
+For example, ask them to write a summary of an existing class or write down all classes involved in executing a certain feature. <br>
 
 #### Support the WTM : draw diagrams
 

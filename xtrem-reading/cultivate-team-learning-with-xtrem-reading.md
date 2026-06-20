@@ -108,8 +108,7 @@ During 2 iterations of 15 to 25 minutes, participants read 2 books with a clear 
 
 At the end of the first iteration inside their group, each participant will change the book with someone else and read the new book.
 
-Here is the black magic—to be good at it, we need to unlearn how we have learned reading at school (don’t read from page 1 until the end).\
-
+Here is the black magic—to be good at it, we need to unlearn how we have learned reading at school (don’t read from page 1 until the end).<br>
 
 ![](<../.gitbook/assets/image (649).png>)
 
@@ -231,8 +230,7 @@ Xtrem reading can be used remotely as well by using different tools. Here are th
 
 Honestly, the first sessions are really chaotic: book file format nightmares, tool usage, access rights on the different tools…
 
-Once participants are used to it, it is a different experience but as rich as physical.\
-
+Once participants are used to it, it is a different experience but as rich as physical.<br>
 
 ![](<../.gitbook/assets/image (654).png>)
 

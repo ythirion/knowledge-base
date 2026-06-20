@@ -25,6 +25,7 @@
     * [How to name our Unit Tests](software-craftsmanship/testing/how-to-name-our-unit-tests.md)
     * [How to write better assertions](software-craftsmanship/testing/how-to-write-better-assertions.md)
   * [Katas](software-craftsmanship/code-katas/README.md)
+    * [Le Coding Dojo à l'école](software-craftsmanship/code-katas/le-coding-dojo-a-lecole.md)
     * [TDD](software-craftsmanship/code-katas/tdd-katas/README.md)
       * [Stack kata](software-craftsmanship/code-katas/tdd-katas/stack.md)
       * [Fizzbuzz](software-craftsmanship/code-katas/tdd-katas/fizzbuzz.md)

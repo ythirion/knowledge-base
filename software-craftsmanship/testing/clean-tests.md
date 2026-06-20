@@ -14,7 +14,7 @@ Debriefing is available in the slide deck
 
 ### Concepts
 
-![](broken-reference)Before going further regarding the concepts, invite them to reflect on they define :
+![](/broken/files/4qEq1gX5tksHq8hVAQKv)Before going further regarding the concepts, invite them to reflect on they define :
 
 * What is a Unit ?
 * Which tests they would write on the giving piece of code ?
@@ -56,7 +56,7 @@ My identification logic and refactoring are explained in this step-by-step guide
 ### Resources
 
 * Repository is available here : [https://github.com/ythirion/clean-tests](https://github.com/ythirion/clean-tests)
-* You can use the miro board here to facilitate this session : [https://miro.com/app/board/o9J\_lpq9YGo=/?invite\_link\_id=764775433309](https://miro.com/app/board/o9J\_lpq9YGo=/?invite\_link\_id=764775433309)
+* You can use the miro board here to facilitate this session : [https://miro.com/app/board/o9J\_lpq9YGo=/?invite\_link\_id=764775433309](https://miro.com/app/board/o9J_lpq9YGo=/?invite_link_id=764775433309)
 * Slides are available here on speakerdeck :&#x20;
 
 {% embed url="https://speakerdeck.com/thirion/clean-tests" %}

@@ -58,8 +58,7 @@ With Big Bang Refactoring, it is expected that it is going to take a few iterati
 
 Maybe this is harder than it should be, or maybe we should have taken a different approach. We may also find that we’ve introduced a bug that is difficult to reproduce. We are faced with a difficult decision.&#x20;
 
-Should we try to make a course correction, partially reverting what we’ve done? Should we throw everything that we’ve done away and start over? Or should we press ahead in the hope that you’ll eventually be able to get code back under control? Much work could be wasted if we make the wrong decision.\
-
+Should we try to make a course correction, partially reverting what we’ve done? Should we throw everything that we’ve done away and start over? Or should we press ahead in the hope that you’ll eventually be able to get code back under control? Much work could be wasted if we make the wrong decision.<br>
 
 ## The Mikado Method to our rescue
 

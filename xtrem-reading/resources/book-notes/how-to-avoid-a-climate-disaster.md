@@ -8,7 +8,7 @@ description: from Bill Gates
 
 **#1 NEW YORK TIMES BEST SELLER**
 
-**In this urgent, authoritative book, Bill Gates sets out a wide-ranging, practical—and **_**accessible—**_**plan for how the world can get to zero greenhouse gas emissions in time to avoid a climate catastrophe.**\
+**In this urgent, authoritative book, Bill Gates sets out a wide-ranging, practical—and&#x20;**_**accessible—**_**plan for how the world can get to zero greenhouse gas emissions in time to avoid a climate catastrophe.**\
 \
 Bill Gates has spent a decade investigating the causes and effects of climate change. With the help of experts in the fields of physics, chemistry, biology, engineering, political science, and finance, he has focused on what must be done in order to stop the planet’s slide to certain environmental disaster. In this book, he not only explains why we need to work toward net-zero emissions of greenhouse gases, but also details what we need to do to achieve this profoundly important goal.\
 \
@@ -90,7 +90,7 @@ _The climate is like a bathtub that's slowly filling up with water. Even if we s
   * The world uses more than 4 billion gallons every day
   * _Oil is cheaper than a soft drink_
 
-![](../../../.gitbook/assets/IMG\_1086.JPG)
+![](../../../.gitbook/assets/IMG_1086.JPG)
 
 * It's not just the rich world
   * almost everywhere people are living longer and healthier lives
@@ -119,7 +119,7 @@ We need to make it possible for low-income people to climb the ladder without ma
    * **Emissions come from 5 different activities**&#x20;
      * We need solutions in all of them
 
-![](../../../.gitbook/assets/IMG\_1087.JPG)
+![](../../../.gitbook/assets/IMG_1087.JPG)
 
 3\. How much power are we talking about?
 
