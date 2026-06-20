@@ -150,10 +150,6 @@ Ce que j'ai observé au fil des semaines :
 
 ***
 
-Je vais récupérer les READMEs manquants.Parfait, j'ai tout ce qu'il me faut. Voici la section retravaillée :
-
-***
-
 ### **Quelques katas réalisés cette première année**
 
 Tous les supports sont disponibles en open source sur le [repo GitHub de Coda](https://github.com/Coda-Dijon/coda-katas).
@@ -170,7 +166,7 @@ Tous les supports sont disponibles en open source sur le [repo GitHub de Coda](h
 
 <figure><img src="../../.gitbook/assets/image (721).png" alt="" width="375"><figcaption></figcaption></figure>
 
-[**Calendrier de l'Avent 2025**](https://coda-dijon.github.io/advent-2025/) : Une initiative à part : 25 jours de défis couvrant développement, data, éco-conception, ... ouverts à tous. Un Discord pour s'entraider, partager les solutions, débattre des approches. Moins dojo au sens strict, plus communauté d'apprentissage mais le même esprit : progresser ensemble, visiblement, sans se prendre trop au sérieux.
+[**Calendrier de l'Avent 2025**](https://coda-dijon.github.io/advent-2025/) : Une initiative à part : 25 jours de défis couvrant développement, data, éco-conception, ... ouverts à tous. Un Discord pour s'entraider, partager les solutions, débattre des approches. Moins dojo au sens strict, plus communauté d'apprentissage mais le même esprit : progresser ensemble, visiblement, sans se prendre trop au sérieux. Stay tuned pour l'édition 2026 qui s'annonce assez épique 😉
 
 <figure><img src="../../.gitbook/assets/image (722).png" alt="" width="375"><figcaption></figcaption></figure>
 
