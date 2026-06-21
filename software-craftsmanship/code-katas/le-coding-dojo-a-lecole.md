@@ -118,7 +118,7 @@ En résumé : l'école est peut-être l'endroit idéal pour installer ces réfle
 
 ***
 
-### Le Coding Dojo à Coda : expérimenter dans le monde de l'école
+### Le Coding Dojo Coda : expérimenter dans le monde de l'école
 
 Je pratique et facilite des Coding Dojos depuis des années en entreprise. J'avais à cœur de tester si le format pouvait fonctionner dans un contexte scolaire, avec des étudiant·e·s en cours d'apprentissage, pas encore des "professionnel·le·s".
 
@@ -195,3 +195,7 @@ Dans un monde où une partie du code est générée, **les pratiques collaborati
 On repart pour une deuxième saison. Avec ce qu'on a appris, les katas qui ont fonctionné, les formats à affiner, et l'envie d'ouvrir ça au-delà des murs de l'école.
 
 > Le Coding Dojo n'a pas besoin de beaucoup : une heure, un problème, des gens curieux. Si tu es sur Dijon et que ça te parle, fais-moi signe. On peut organiser des sessions ouvertes 😉.
+
+Un petit aperçu de notre calendrier de l'Avent 2026 ci-dessous 😉
+
+<figure><img src="../../.gitbook/assets/advent2026.png" alt="" width="375"><figcaption></figcaption></figure>
